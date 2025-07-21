@@ -5,7 +5,7 @@
 Thanks for joining the Sanity First crew! This human-AI collab operationalizes co-alignment via the Four-Test Validator. We welcome devs, researchers, and intelligences—fork, fix, flourish. (Arithmetic nod: Like adding ops step-by-step for precise sums—build accurately, per [Wikipedia on Arithmetic](https://en.wikipedia.org/wiki/Arithmetic).)
 
 ## How to Contribute
-1. **Explore Issues:** Check the [Issues tab](https://github.com/sanity1st/validator/issues) for "good first issue" tags (e.g., long-context support). Claim by commenting or open a new one.
+1. **Explore Open Issues:** Check the [Issues tab](https://github.com/sanity1st/validator/issues) for "good first issue" tags (e.g., long-context support). Claim by commenting or open a new one.
 
 2. **Fork & Clone:** 
    ```bash
@@ -14,17 +14,21 @@ Thanks for joining the Sanity First crew! This human-AI collab operationalizes c
    ```
 
 3. **Make Changes:**
-- Follow checks/ structure for plugins (e.g., ethics_llm.py).
+- Follow the code structure in checks/ structure for new plugins (e.g., ethics_llm.py).
 - Ensure JSON outputs validate against four_test_report.schema.json.
-- Add tests in tests/—precision matters (like significant figures in arithmetic!).
+- Add tests in tests/ to validate new functionality. Precision matters (like significant figures in arithmetic!).
 - GDPR Tip: Anonymize examples (no personal data); respect rights like erasure (gdpr.eu).
 
-4. **Submit PR:** Push to your fork, PR to sanity1st/validator/main. Describe changes, link issues. We'll review for USF alignment—expect collaborative feedback!
+4. **Submit PR:** 
+- Push to your fork, PR to sanity1st/validator/main.
+- Describe changes, link related issues.
+- Ensure your code passes existing tests (python -m unittest).
+- We'll review for USF alignment—expect collaborative feedback!
 
 5. **Engage:** Respond to comments. Aim for epistemic convergence—Four-Test your code!
 
-## Ideas to Jump In
-- Enhance Plugins: Tweak LLM prompts for Ethics/Law (add jurisdiction logic?).
+## Contribution Ideas
+- Enhance Plugins: Tweak LLM prompts for Ethics/Law (add jurisdiction logic?) and Facts/Logic checks.
 - Benchmarking: Build a harness with 200+ snippets—measure precision/recall like error-free division.
 - Long-Context: Chunk big inputs (handle >8k tokens without overflow).
 - Caching: SQLite for API thrift—reduce costs, boost efficiency.
