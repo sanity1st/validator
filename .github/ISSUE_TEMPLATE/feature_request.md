@@ -21,4 +21,4 @@ Ideas? (E.g., "SQLite for prompt hashes—GDPR note: Cache anonymized data only.
 How does this advance USF/Four Tests? (E.g., "Boosts Logic efficiency for better facts-checking.")
 
 **Additional Context**  
-Refs or examples.  
+Refs or examples. 
