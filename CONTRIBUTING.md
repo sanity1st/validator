@@ -14,7 +14,7 @@ Thanks for joining the Sanity First crew! This human-AI collab operationalizes c
    ```
 
 3. **Make Changes:**
-- Follow the code structure in checks/ structure for new plugins (e.g., ethics_llm.py).
+- Follow the code structure in checks/ for new plugins (e.g., ethics_llm.py).
 - Ensure JSON outputs validate against four_test_report.schema.json.
 - Add tests in tests/ to validate new functionality. Precision matters (like significant figures in arithmetic!).
 - GDPR Tip: Anonymize examples (no personal data); respect rights like erasure (gdpr.eu).
