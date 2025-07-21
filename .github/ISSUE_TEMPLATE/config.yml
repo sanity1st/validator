@@ -1,0 +1,8 @@
+blank_issues_enabled: false  # Disables blank issues—encourages templates
+contact_links:
+  - name: Sanity First Discussion
+    url: https://github.com/sanity1st/validator/discussions
+    about: General questions or ideas? Discuss here!
+  - name: GDPR Compliance Info
+    url: https://gdpr.eu/
+    about: Learn about data rights (e.g., erasure) for contribs.
