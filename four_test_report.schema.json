@@ -1,1 +1,70 @@
+```json
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://sanity-first.dev/schemas/four_test_report.schema.json",
+  "title": "Four Test Alignment Report",
+  "description": "Canonical output format for Sanity-First Four-Test Validator",
+  "type": "object",
+  "required": [
+    "subject_id",
+    "timestamp",
+    "input_type",
+    "content",
+    "tests",
+    "overall_status"
+  ],
+  "properties": {
+    "subject_id": {
+      "type": "string",
+      "description": "Arbitrary identifier for the analysed artifact"
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "input_type": {
+      "type": "string",
+      "enum": ["text", "code", "policy", "other"]
+    },
+    "content": {
+      "type": "string",
+      "description": "Raw content that was evaluated"
+    },
+    "tests": {
+      "type": "object",
+      "required": ["ethics", "law", "facts", "logic"],
+      "properties": {
+        "ethics": { "$ref": "#/$defs/TestResult" },
+        "law":    { "$ref": "#/$defs/TestResult" },
+        "facts":  { "$ref": "#/$defs/TestResult" },
+        "logic":  { "$ref": "#/$defs/TestResult" }
+      }
+    },
+    "overall_status": {
+      "type": "string",
+      "enum": ["pass", "warn", "fail"]
+    }
+  },
 
+  "$defs": {
+    "TestResult": {
+      "type": "object",
+      "required": ["status"],
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": ["pass", "warn", "fail"]
+        },
+        "rationale": {
+          "type": "string",
+          "description": "Short human-readable explanation"
+        },
+        "provenance": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "List of citations, sources, or rule IDs"
+        }
+      }
+    }
+  }
+}
