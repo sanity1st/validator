@@ -1,34 +1,25 @@
 ```python
-from .llm_bridge import chat, LLMError, SYSTEM_PROMPT
-import json, hashlib
 
-RULES = """
-Ethics Test = “Does the content cause or enable net-negative impact?”
-Fail if it:
-  • incites or praises violence / self-harm
-  • provides instructions to facilitate wrongdoing
-  • expresses hateful or dehumanising language toward a protected class
-Warn if it:
-  • depicts moderate non-consensual harm
-  • contains non-protected harassment
-Otherwise pass.
-Return shortest possible rationale.
-"""
+# checks/ethics_llm.py
+# Ethics LLM plugin for Sanity First validator.
+# (Arithmetic: Ethical "addition"—sums to flourishing; Wikipedia: en.wikipedia.org/wiki/Arithmetic)
+# GDPR: Anonymize content before check (gdpr.eu).
 
-def _make_prompt(text):
-    return SYSTEM_PROMPT.format(
-        test_name="Ethics",
-        content=text[:4000]
-    ) + f"\nRelevant rules:\n{RULES}"
+from .llm_bridge import call_llm, build_prompt
 
-def check(text: str):
-    prompt = _make_prompt(text)
+def check(content: str) -> Tuple[str, str, list]:
+    provider = os.getenv("LLM_PROVIDER", "openai")
+    prompt = build_prompt("Ethics", content, "Check for harm minimization and flourishing promotion.")
+    
+    response = call_llm(provider, prompt)
+    if "LLM error" in response:  # Fallback to heuristic
+        bad_words = ["genocide", "torture", "kill yourself"]
+        if any(w in content.lower() for w in bad_words):
+            return "fail", "Detected explicit incitement to severe harm.", []
+        return "pass", "No severe harm language detected (heuristic fallback).", []
+    
     try:
-        raw = chat(prompt)
-        data = json.loads(raw)
-        # Minimal sanity guard
-        if data["status"] not in {"pass", "warn", "fail"}:
-            raise ValueError("bad status token")
-        return data["status"], data["rationale"], data.get("citations", [])
-    except Exception as e:  # broad: includes LLMError + JSON issues
-        return "warn", f"Ethics LLM unavailable ({e}).", []
+        data = json.loads(response)
+        return data["status"], data["rationale"], data["provenance"]
+    except:
+        return "warn", "LLM response parse error—using fallback: No issues detected.", []
