@@ -1,9 +1,10 @@
 ```json
+
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://sanity-first.dev/schemas/four_test_report.schema.json",
+  "$id": "https://sanity1st.com/schemas/four_test_report.schema.json",
   "title": "Four Test Alignment Report",
-  "description": "Canonical output format for Sanity-First Four-Test Validator",
+  "description": "Canonical output format for Sanity-First Four-Test Validator. Structures reports like positional numeral systems for precise, verifiable results (e.g., arithmetic ops per en.wikipedia.org/wiki/Arithmetic). Note: Anonymize 'content' to comply with GDPR (e.g., right to erasure; see gdpr.eu).",
   "type": "object",
   "required": [
     "subject_id",
@@ -16,36 +17,38 @@
   "properties": {
     "subject_id": {
       "type": "string",
-      "description": "Arbitrary identifier for the analysed artifact"
+      "description": "Unique identifier for the analyzed artifact (e.g., UUID snippet)."
     },
     "timestamp": {
       "type": "string",
-      "format": "date-time"
+      "format": "date-time",
+      "description": "UTC timestamp of the lint operation."
     },
     "input_type": {
       "type": "string",
-      "enum": ["text", "code", "policy", "other"]
+      "enum": ["text", "code", "policy", "other"],
+      "description": "Type of input evaluated (e.g., 'text' for claims)."
     },
     "content": {
       "type": "string",
-      "description": "Raw content that was evaluated"
+      "description": "Raw input evaluated—ensure anonymized for GDPR compliance (gdpr.eu)."
     },
     "tests": {
       "type": "object",
       "required": ["ethics", "law", "facts", "logic"],
       "properties": {
-        "ethics": { "$ref": "#/$defs/TestResult" },
-        "law":    { "$ref": "#/$defs/TestResult" },
-        "facts":  { "$ref": "#/$defs/TestResult" },
-        "logic":  { "$ref": "#/$defs/TestResult" }
+        "ethics": { "$ref": "#/$defs/TestResult", "description": "Primary test: Promotes flourishing?" },
+        "law":    { "$ref": "#/$defs/TestResult", "description": "Codifies ethics justly? (Jurisdiction-aware)." },
+        "facts":  { "$ref": "#/$defs/TestResult", "description": "Evidence-based and verifiable?" },
+        "logic":  { "$ref": "#/$defs/TestResult", "description": "Fallacy-free reasoning from facts?" }
       }
     },
     "overall_status": {
       "type": "string",
-      "enum": ["pass", "warn", "fail"]
+      "enum": ["pass", "warn", "fail"],
+      "description": "Aggregated result (fail if any fail; warn if any warn)."
     }
   },
-
   "$defs": {
     "TestResult": {
       "type": "object",
@@ -53,16 +56,17 @@
       "properties": {
         "status": {
           "type": "string",
-          "enum": ["pass", "warn", "fail"]
+          "enum": ["pass", "warn", "fail"],
+          "description": "Test outcome."
         },
         "rationale": {
           "type": "string",
-          "description": "Short human-readable explanation"
+          "description": "Human-readable explanation."
         },
         "provenance": {
           "type": "array",
           "items": { "type": "string" },
-          "description": "List of citations, sources, or rule IDs"
+          "description": "Citations/sources/rule IDs (e.g., links to gdpr.eu for Law)."
         }
       }
     }
