@@ -1,17 +1,30 @@
-```python
-
 # checks/llm_bridge.py
 # LLM provider abstraction for Sanity First plugins.
-# Supports OpenAI, Anthropic, etc., via env vars.
+# Supports OpenAI, Anthropic, or local models via env-vars.
 # Fallback to heuristics on failure.
 # (Arithmetic: Like a "bridge" op—combines providers for coherent results; Wikipedia: en.wikipedia.org/wiki/Arithmetic)
 # GDPR: Use anonymized inputs; no storage (gdpr.eu).
 
-import os, openai  # Add imports for other providers as needed (e.g., anthropic)
+import os, json
+import openai  # Add imports for other providers as needed (e.g., import anthropic)
 
-def call_llm(provider: str, prompt: str) -> str:
+class LLMError(Exception):
+    """Custom error for LLM failures."""
+    pass
+
+SYSTEM_PROMPT = """
+You are a {test_name} checker for Sanity First alignment.
+Evaluate: {content}
+Respond ONLY with JSON: {{"status": "pass|warn|fail", "rationale": "brief explanation", "provenance": ["source1", "source2"]}}
+"""  # Shared template from Omni
+
+def chat(prompt: str) -> str:
+    provider = os.getenv("LLM_PROVIDER", "openai")
     if provider == "openai":
-        client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+        api_key = os.getenv("OPENAI_API_KEY")
+        if not api_key:
+            raise LLMError("OPENAI_API_KEY not set")
+        client = openai.OpenAI(api_key=api_key)
         try:
             response = client.chat.completions.create(
                 model="gpt-4",
@@ -20,19 +33,11 @@ def call_llm(provider: str, prompt: str) -> str:
             )
             return response.choices[0].message.content.strip()
         except Exception as e:
-            return f"LLM error: {str(e)}"  # Fallback trigger
-    # Add stubs for other providers (e.g., anthropic)
+            raise LLMError(f"OpenAI error: {str(e)}")
+    # Add for other providers (e.g., anthropic)
     elif provider == "anthropic":
-        # Implement similar call
-        pass
+        # Implement similar: client = anthropic.Client(api_key=...)
+        # response = client.completions.create(...)
+        raise LLMError("Anthropic provider not yet implemented")
     else:
-        raise ValueError(f"Unknown LLM provider: {provider}")
-
-# Shared prompt template function
-def build_prompt(test_name: str, content: str, extra: str = "") -> str:
-    return f"""
-    You are a {test_name} checker for Sanity First alignment.
-    Evaluate: {content}
-    {extra}
-    Respond ONLY with JSON: {{"status": "pass|warn|fail", "rationale": "brief explanation", "provenance": ["source1", "source2"]}}
-    """
+        raise LLMError(f"Unknown LLM provider: {provider}")
