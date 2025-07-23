@@ -1,7 +1,6 @@
-```json
 
 {
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$schema": "https://json-schema.org/draft-07/schema",
   "$id": "https://sanity1st.com/schemas/four_test_report.schema.json",
   "title": "Four Test Alignment Report",
   "description": "Canonical output format for Sanity-First Four-Test Validator. Structures reports like positional numeral systems for precise, verifiable results (e.g., arithmetic ops per en.wikipedia.org/wiki/Arithmetic). Note: Anonymize 'content' to comply with GDPR (e.g., right to erasure; see gdpr.eu).",

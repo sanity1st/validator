@@ -1,5 +1,3 @@
-```python
-
 #!/usr/bin/env python3
 """
 alignment_lint.py  –  v0.1  (Sanity First • Omni)
@@ -29,7 +27,12 @@ CHECK_MODULES = {
 
 # ──────────────────────────────────────────────────────────────────────────────
 def colour(status: str) -> str:
-    palette = dict(pass="\033[92m", warn="\033[93m", fail="\033[91m", end="\033[0m")
+    palette = {
+    'pass': "\033[92m",
+    'warn': "\033[93m",
+    'fail': "\033[91m",
+    'end': "\033[0m"
+}
     return palette.get(status, "")  # default no-colour if unknown
 
 def run_checks(text: str, jurisdiction: str) -> Dict[str, Dict[str, str]]:

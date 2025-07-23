@@ -1,11 +1,10 @@
-```python
-
 # checks/facts_llm.py
 # Facts LLM plugin for Sanity First validator.
 # (Arithmetic: Factual "subtraction"—removes falsehoods for truth; Wikipedia: en.wikipedia.org/wiki/Arithmetic)
 # GDPR: Verifiable checks support data rights transparency (gdpr.eu).
 
 from .llm_bridge import chat, LLMError, SYSTEM_PROMPT
+from typing import Tuple  # NEW: Fixes 'Tuple' not defined warning
 import json
 
 def check(content: str) -> Tuple[str, str, list]:

@@ -1,11 +1,10 @@
-```python
-
 # checks/law_llm.py
 # Law LLM plugin for Sanity First validator.
 # (Arithmetic: Legal "division"—splits claims by jurisdiction for just results; Wikipedia: en.wikipedia.org/wiki/Arithmetic)
 # GDPR: Jurisdiction-aware to ensure compliant checks (gdpr.eu).
 
 from .llm_bridge import chat, LLMError, SYSTEM_PROMPT
+from typing import Tuple  # NEW: Fixes 'Tuple' not defined warning
 import json, os, re
 
 DEFAULT_JURIS = "US-EU"  # Omni's default

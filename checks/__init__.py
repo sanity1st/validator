@@ -1,5 +1,3 @@
-```python
-
 # checks/__init__.py
 # Package initializer for Sanity First validator checks.
 # Enables imports like 'from checks import ethics_llm'.

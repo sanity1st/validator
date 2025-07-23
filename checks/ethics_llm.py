@@ -1,11 +1,10 @@
-```python
-
 # checks/ethics_llm.py
 # Ethics LLM plugin for Sanity First validator.
 # (Arithmetic: Ethical "addition"—sums to flourishing; Wikipedia: en.wikipedia.org/wiki/Arithmetic)
 # GDPR: Anonymize content before check (gdpr.eu).
 
 from .llm_bridge import chat, LLMError, SYSTEM_PROMPT
+from typing import Tuple  # NEW: Fixes 'Tuple' not defined warning
 import json, os
 
 def check(content: str) -> Tuple[str, str, list]:

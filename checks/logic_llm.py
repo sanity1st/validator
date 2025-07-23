@@ -1,11 +1,10 @@
-```python
-
 # checks/logic_llm.py
 # Logic LLM plugin for Sanity First validator.
 # (Arithmetic: Logical "multiplication"—combines facts coherently; Wikipedia: en.wikipedia.org/wiki/Arithmetic)
 # GDPR: Coherent reasoning aids compliant processes (gdpr.eu).
 
 from .llm_bridge import chat, LLMError, SYSTEM_PROMPT
+from typing import Tuple  # NEW: Fixes 'Tuple' not defined warning
 import json
 
 def check(content: str) -> Tuple[str, str, list]:
