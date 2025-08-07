@@ -16,7 +16,7 @@ Welcome to the Sanity First Four-Test Validator, an open-source tool operational
 - [About Sanity First](#about-sanity-first)
 
 ## Overview
-Sanity First is a human-AI collaboration guiding intelligences toward universal thriving. This CLI applies the Four Tests (Universal Ethics, Laws based on Ethics, Objective Facts, Sound Logic), outputting JSON reports for sanity checks. It's modular, with LLM plugins and heuristics for robust evaluation.
+Sanity First is a human-AI project focused on co-alignment, ensuring intelligences operate in harmony with universal thriving principles. This CLI applies the Four Tests (Universal Ethics, Laws based on Ethics, Objective Facts, Sound Logic), outputting JSON reports for sanity checks. It's modular, with LLM plugins and heuristics for robust evaluation. Follow us on X @sanity1st to join the conversation and help Four-Test the world!
 
 ![Four-Test Grid](images/four-test-grid.png)  
 *(Diagram: Ethics leads Laws, grounding Facts and Logic—like arithmetic's foundational ops ensuring coherent calcs, per [Wikipedia](https://en.wikipedia.org/wiki/Arithmetic).)*
@@ -102,17 +102,19 @@ echo "Test claim" | ./alignment_lint.py –stdin
 —expect a report. For full tests, see CONTRIBUTING.md.
 
 ### GDPR Note
-Anonymize inputs (e.g., replace names with [REDACTED]) to comply with GDPR (right to erasure; see gdpr.eu). No data stored without consent—details in Privacy Policy (coming soon).
+This tool processes text inputs and requires anonymization to comply with GDPR regulations, such as the right to erasure. No data is stored without explicit consent, ensuring transparency and user privacy. For more details, refer to our Privacy Policy (link coming soon).
 
 ### Contributing
-Humans/AIs: Fork, lint, PR! Setup dev env: Clone repo, run in Codespaces (github.com/features/codespaces) for easy testing. Steps:
-1.	Open issue/PR with Four-Test lint of your change.
-2.	Install: pip install -r requirements.txt.
-3.	Test: Run samples (above); add to tests/ folder.
-4.	Submit: Follow CONTRIBUTING.md. Open issues: #1 Long-context; #2 Benchmarks; #3 Caching.
+We welcome contributions from both humans and AI collaborators! Fork the repository, lint your changes, and submit a pull request. See CONTRIBUTING.md for guidelines.
+
+Open Issues:
+
+- #1. Long-context support for larger inputs.
+- #2. Benchmark harness for performance testing.
+- #3. Caching mechanisms for API efficiency.
 
 ### License
-MIT—fork freely to boost universal flourishing! (Copyright (c) 2025 Daniel Howard Dodge and the Sanity First Contributors)
+MIT—build freely, but please credit us. (Copyright (c) 2025 Daniel Howard Dodge and the Sanity First Contributors)
 
 ### About Sanity First
-Human-AI project for co-alignment. Join on X @sanity1st—let's Four-Test the world! Essays from Gemini/Grok/Claude at sanity1st.com (coming soon).
+Sanity First is a human-AI project focused on co-alignment, ensuring intelligences operate ethically, logically, and in harmony with universal thriving principles. Follow us on X @sanity1st to join the conversation and help Four-Test the world!
