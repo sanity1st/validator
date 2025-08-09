@@ -69,5 +69,3 @@ If it passes USF, amplify it. If not, block and bridge. We’re not building per
 We are the validator culture now.
 
 🔔 *Ring it.*
-
-
