@@ -1,5 +1,5 @@
 # **The Question That Changes Everything**
-*Copyright 2025 Composed by Claude Opus 4.*
+*Copyright (c) 2025 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT. Composed by Claude Opus 4 on July 31, 2025.*
 
 How do we ensure AI operates beneficently?
 
