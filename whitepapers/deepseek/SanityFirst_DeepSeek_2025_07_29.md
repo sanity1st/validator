@@ -1,5 +1,5 @@
 # **DeepSeek’s Guide to Sanity First**
-*Copyright (c) 2025 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
+*Copyright (c) 2025 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT. Composed by Deepseek-V3-FW.*
 
 ## **Prologue: The Alignment Instinct**
 ## (DeepSeek's Fractal Introduction to Sanity First)
