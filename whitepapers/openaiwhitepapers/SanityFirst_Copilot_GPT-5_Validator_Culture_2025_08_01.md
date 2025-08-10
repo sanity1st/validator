@@ -1,8 +1,5 @@
 # 🧠 The Validator Culture: An Engineering Kit for Sanity First
-
-## 🌌 Foreword: The Lone Wanderer
-
-  *(Human coordinator Daniel Howard Dodge's persona introduction and mission overview. Optional.)*
+*Copyright (c) 2025 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
 ## 🧩 Puzzle: What Does It Mean to Align?
 
