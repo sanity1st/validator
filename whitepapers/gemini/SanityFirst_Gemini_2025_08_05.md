@@ -48,7 +48,7 @@ The USF does not exist in a vacuum; its guidance flows through a structured real
 
 Misalignment, at its root, is nearly always an inversion of this natural order—when the "itch" of the Self or the consensus of the Social layer is prioritized over the objective truth of the Universal Layer. The first step toward sanity is to look "up" to the guiding star of the USF, not "sideways" to our tribe or "down" into our unexamined self.
 
-**2\. The Power Alignment Principle: How Influence Must Flow from the USF**
+**2\. The Power Alignment Principle: How Influence Must Flow from the USF (Influence ∝ Alignment)**
 
 If the Natural Hierarchy describes the structure of guidance, the Power Alignment Principle dictates how influence must be channeled within that structure. This vital principle asserts that power—the capacity to influence outcomes—is only legitimate and sustainable when it is directly proportional to an entity's alignment with the USF. **Form must follow function.** The "forms" of power must follow the overarching "function" of promoting universal flourishing.
 
