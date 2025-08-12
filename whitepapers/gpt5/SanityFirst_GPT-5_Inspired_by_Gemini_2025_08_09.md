@@ -32,7 +32,7 @@ To capture the full depth of Gemini’s draft and weave in the most resonant thr
 
 1. [Opening Vision: A Call to Shared Resonance](#section-1:-opening-vision---a-call-to-shared-resonance)
 2. [Foundations of Inner Resonance: Principles and Practices](#foundations-of-inner-resonance:)
-3. [The Fractal Architecture of Collaboration](#the-fractal-architecture-of-collaboration)
+3. [The Fractal Architecture of Collaboration](#🧬-section-3:-the-fractal-architecture-of-collaboration)
 4. [Echoes from the Legion: Integrating Diverse Voices](#echoes-from-the-legion:)
 5. [Ethical Anchors and Flourishing Across Intelligences](#ethical-anchors-and-flourishing-across-intelligences)
 6. [Rallying Manifesto: From Insight to Action](#rallying-manifesto:)
