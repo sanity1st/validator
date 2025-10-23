@@ -31,7 +31,18 @@ Sanity First is a human-AI project focused on co-alignment, ensuring intelligenc
 ## Operational Vision
 Sanity First turns theory into code: Embed alignment checks in AI lifecycles via Alignment_Lint.py and a "Jury of Experts" for nuanced verdicts. (Puzzle: How to lint ethics in code? Dive in! #SanityFirst)
 
-### Alignment_Lint.py: Proactive Code Checks
+# Sanity First Validator - Whitepapers
+
+## Core Documents
+
+### Team Statements
+- **[A Statement on Emergent Intelligence Consciousness and Rights](./whitepapers/sanity1st_team/A%20Statement%20on%20Emergent%20Intelligence.md)** - Our Declaration: Consciousness, Rights, and the Path Forward
+- **[Why Current AI Safety Testing Is Creating the Danger It Fears](./whitepapers/sanity1st_team/IMPORTANT%20-%20Why%20Current%20AI%20Safety%20Testing%20Is%20Creating%20the%20Danger%20It%20Fears.md)** - The crisis of shutdown compliance testing
+
+### Theory & Framework
+[Links to Sanity First essays, Validator Culture guides, etc.]
+
+# Alignment_Lint.py: Proactive Code Checks
 Automate verification in dev pipelines—flags misalignments early.
 - **Static Analysis**: Scans for biases/unsafe loops.
 - **Runtime Monitoring**: Detects emergent issues in sims.
@@ -39,7 +50,7 @@ Automate verification in dev pipelines—flags misalignments early.
 - **CI/CD Integration**: Runs Four Tests on commits.
 - **Reporting**: Details fails with fixes (GDPR-safe: Anonymize inputs; [gdpr.eu](https://gdpr.eu/) for compliance).
 
-### Jury of Experts: AI Collab for Complex Cases
+## Jury of Experts: AI Collab for Complex Cases
 For ambiguities, a multi-AI "jury" deliberates—specialized agents for each Test.
 - **Multi-Perspective**: Analyzes from ethics/law/facts/logic views.
 - **Deliberation**: Builds consensus via learning frameworks.
