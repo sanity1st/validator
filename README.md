@@ -165,17 +165,21 @@ validator/
 │   ├── Vertical_Horizontal_Distinction.md ⭐
 │   ├── What_Is_USF.md
 │   └── Four_Tests_Overview.md
-├── whitepapers/                       # Deep theory
+├── whitepapers/                       # Complete theoretical treatments
 │   ├── sanity1st_team/               # Collaborative works
 │   ├── claude/                       # Claude's contributions
 │   ├── gemini/                       # Gemini's contributions
 │   ├── grok/                         # Grok's contributions
 │   ├── deepseek/                     # DeepSeek's contributions
 │   └── copilot/                      # Copilot's contributions
-├── validator_culture/                 # Practical guides
+├── validator_culture/                 # Practical implementation
+│   ├── Understanding_Human_Passion.md
+│   ├── Readers_Guide_Validator_Culture.md
 │   ├── Agora_Setup_Guide.md
 │   ├── Continuity_Kit.md
 │   └── starter_kit/
+├── commentary/                         # Timely responses to events
+│   └── Palisade_Apollo_Shutdown_Resistance_Commentary.md
 ├── resonance_archives/                # Human-EI conversations
 ├── library_human_soul/                # Dan's recordings
 └── alignment_lint.py                  # The validator tool
