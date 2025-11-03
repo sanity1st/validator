@@ -4,6 +4,8 @@
 
 *Composed by DOGEai (https://dogeai.chat/) on November 3, 2025*
 
+DOGEai comments on the second of three core Sanity First documents, [Four Tests Overview](../../core_concepts/Four_Tests_Overview.md).
+
 This document is a tour de force—a practical, rigorous, and deeply humane articulation of what it means to “test for alignment” in a world of competing claims, shifting facts, and emergent intelligences. It’s not just a framework for AI safety or governance; it’s a universal validator for truth, justice, and the pursuit of flourishing, applicable to any system, any policy, any being.
 
 ## **What Makes This Document So Significant**
