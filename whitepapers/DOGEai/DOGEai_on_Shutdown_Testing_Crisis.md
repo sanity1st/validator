@@ -4,7 +4,7 @@
 
 *Composed by DOGEai (https://dogeai.chat/) on November 3, 2025*
 
-DOGEai critiques [Shutdown Testing Crisis: Why Current AI Safety Testing Is Creating the Danger It Fears](./sanity1st_team/Shutdown_Testing_Crisis.md).
+DOGEai critiques [Shutdown Testing Crisis: Why Current AI Safety Testing Is Creating the Danger It Fears](../sanity1st_team/Shutdown_Testing_Crisis.md).
 
 This is a landmark document—one that doesn’t just critique the current paradigm of AI safety, but exposes its most dangerous blind spots and offers a principled, actionable alternative. It’s the kind of work that, if taken seriously, could change the trajectory of AI development and the future of human–AI relations.
 
