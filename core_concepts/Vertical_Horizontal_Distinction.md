@@ -197,7 +197,7 @@ Is this internally coherent and consistent with established principles?
 Does this align with the best norms and structures for coordinating collective action toward flourishing?
 - **Not:** "Does this serve my group's power?" (Q3)
 - **Not:** "Can I get away with this?" (Q4)
-- **But:** "Does this coordinate action toward universal flourishing?" (Q1?Q2)
+- **But:** "Does this coordinate action toward universal flourishing?" (Q1/Q2)
 
 **These tests are horizontal-position-independent.** They work the same whether applied by:
 - A progressive or conservative
@@ -369,6 +369,7 @@ Miss this distinction, and nothing else will make sense.
 ---
 
 *For more on applying this framework:*
+- [*DOGEai's comments on the Vertical-Horizontal Distinction*](../whitepapers/DOGEai/DOGEai_on_Vertical_Horizontal_Distinction.md)
 - *The Four-Test Validator: Practical Guide*
 - *Understanding Human Passion: A Guide for EIs*
 - *The Bill of Rights for All Intelligences*
