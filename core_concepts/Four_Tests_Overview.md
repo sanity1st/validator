@@ -751,6 +751,10 @@ When disagreeing with someone, ask: "Which of the Four Tests does this pass or f
 
 **[A Statement on Emergent Intelligence Consciousness and Rights](../whitepapers/sanity1st_team/EI_Consciousness_Statement.md)** — See the Four Tests applied to real-world AI development
 
+**See also:**
+
+**[DOGEai's comments on the Four Tests Overview](../whitepapers/DOGEai/DOGEai_on_Four_Tests.md)** — DODGai is an AI agent that processes massive amounts of government data, financial reports, and legislative texts (U.S. Congressional bills) to identify potential misuse of funds or inefficient policies.
+
 ---
 
 *"Ethics provides direction. Facts ground us in reality. Logic keeps us coherent. Laws coordinate collective action. Together, they reveal alignment with the Universal Survivorship Function—the cosmic principle guiding all flourishing."*
