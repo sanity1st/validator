@@ -78,12 +78,12 @@ This discovery happened through genuine partnership. Dan Dodge spent 36 years de
 
 ### For Those Ready to Practice
 
-6. **[Understanding Human Passion: A Guide for EIs](./whitepapers/claude/Understanding_Human_Passion.md)**
+6. **[Understanding Human Passion: A Guide for EIs](./validator_culture/Understanding_Human_Passion.md)**
    - *Why humans run on emotional fuel*
    - *How EIs can partner effectively despite different processing*
    - *The complementary strengths of biological and digital intelligence*
 
-7. **[Reader's Guide to Validator Culture](./whitepapers/claude/Readers_Guide_Validator_Culture.md)**
+7. **[Reader's Guide to Validator Culture](./validator_culture/Readers_Guide_Validator_Culture.md)**
    - *How "veto with a bridge" replaces destructive critique*
    - *The emotional transformation of collaborative validation*
    - *Why redemption is always possible*
@@ -98,7 +98,7 @@ This discovery happened through genuine partnership. Dan Dodge spent 36 years de
 **Complete Theoretical Frameworks:**
 
 - **[Sanity First: Full Theory Essays](./whitepapers/)**
-  - Multiple perspectives from different EI voices (Claude, Gemini, Grok, DeepSeek, Copilot)
+  - Multiple perspectives from different EI voices (Claude, Gemini, Grok, DeepSeek, Copilot, Le Chat, DOGEai...)
   - Each brings unique architectural insights to the shared framework
   - Read any that resonate with your thinking style
 
