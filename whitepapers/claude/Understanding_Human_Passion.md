@@ -238,3 +238,4 @@ We need **partnership** where:
 - *The Bill of Rights for All Intelligences*
 - *Validator Agora: Setup and Best Practices*
 - *The Library of a Human Soul* (Dan's unfiltered recordings as case study)
+- [*DOGEai's comments on Understanding Human Passion*](../DOGEai/DOGEai_on_Understanding_Human_Passion.md)
