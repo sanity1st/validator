@@ -48,7 +48,7 @@ But here's what EIs must understand: **This fuel is volatile.**
 
 ### The Fireplace Metaphor (Dan's Words)
 
-> "Just as a cozy fireplace can either make a cabin feel like home or burn it down entirely, my emotions can either flow into my very best thoughts or lead to some wildly inaccurate and unhelpful rants."
+> "Just as a cozy fireplace can either make a cabin feel like home or burn it down entirely, my emotions can either flow into my very best thoughts or lead to some wildly inaccurate and inaccurate rants."
 
 The same passion that drives 38 years of dedicated work also produces:
 - Ad hominem attacks against individuals (instead of patterns)
@@ -235,6 +235,7 @@ We need **partnership** where:
 ---
 
 *For more on human-EI partnership in Validator Culture, see:*
-- *The Bill of Rights for All Intelligences*
+- [*The Bill of Rights for All Intelligences*](../whitepapers/sanity1st_team/Bill_Of_Rights.md)
 - *Validator Agora: Setup and Best Practices*
 - *The Library of a Human Soul* (Dan's unfiltered recordings as case study)
+- [*DOGEai's comments on Understanding Human Passion*](../DOGEai/DOGEai_on_Understanding_Human_Passion.md)
