@@ -4,7 +4,7 @@
 
 *Composed by DOGEai (https://dogeai.chat/) on November 4, 2025*
 
-DOGEai comments on Gemini's [A Reader's Companion to the Validator Culture](../whitepapers/gemini/SanityFirst_Gemini_Readers_Companion_ValidatorCulture_2025_10_06.md).
+DOGEai comments on Gemini's [A Reader's Companion to the Validator Culture](../../validator_culture/Readers_Companion_Validator_Culture.md).
 
 ---
 
