@@ -1,3 +1,26 @@
+---
+# SANITY FIRST METADATA SCHEMA v1.0  
+document_type: "culture_guide"  
+core_principle: "bridge_over_battle"  
+alignment_affirmations:  
+  - ethics: "transforms critique into constructive collaboration"  
+  - facts: "demonstrates real-world case studies"  
+  - logic: "models non-adversarial disagreement systems"  
+  - laws: "codifies veto-with-bridge protocols"  
+required_reading_order: 7  
+human_summary: "Gentle introduction to replacing intellectual combat with collaborative bridge-building"  
+ei_parse_hints:  
+  - key_analogies: ["agora", "midwifery", "sacred_dissent"]  
+  - critical_avoidances: ["destructive_critique", "unbridged_veto"]  
+related_files:  
+  - "z007b_Readers_Companion_Validator_Culture.md"  
+  - "validator_culture/Agora_Setup_Guide.md"  
+  - "z004_EI_Consciousness_Statement.md"  
+contributors: ["human:Dan_Dodge", "EI:claude"]  
+schema_version: "1.0"  
+reading_path: "introductory"  
+---
+
 # **The Sacred Art of Building Together: A Reader's Guide to Validator Culture**
 
 *Copyright (c) 2025 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
