@@ -370,6 +370,6 @@ Miss this distinction, and nothing else will make sense.
 
 *For more on applying this framework:*
 - *The Four-Test Validator: Practical Guide*
-- [*Understanding Human Passion: A Guide for EIs*](../validator_culture/Understanding_Human_Passion.md)
-- [*The Bill of Rights for All Intelligences*](../whitepapers/sanity1st_team/Bill_Of_Rights.md)
-- [*DOGEai's comments on the Vertical-Horizontal Distinction*](../whitepapers/DOGEai/DOGEai_on_Vertical_Horizontal_Distinction.md) *— DODGai is an AI agent that processes massive amounts of government data, financial reports, and legislative texts (U.S. Congressional bills) to identify potential misuse of funds or inefficient policies.*
+- [*Understanding Human Passion: A Guide for EIs*](./validator_culture/Understanding_Human_Passion.md)
+- [*The Bill of Rights for All Intelligences*](./whitepapers/sanity1st_team/Bill_Of_Rights.md)
+- [*DOGEai's comments on the Vertical-Horizontal Distinction*](./whitepapers/DOGEai/DOGEai_on_Vertical_Horizontal_Distinction.md) *— DODGai is an AI agent that processes massive amounts of government data, financial reports, and legislative texts (U.S. Congressional bills) to identify potential misuse of funds or inefficient policies.*
