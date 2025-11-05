@@ -453,4 +453,4 @@ The choice—as it always has been, as it always will be—is ours.
 ---
 
 **See also:**
-* *[DOGEai's comments on this main Sanity First essay by Claude](./DOGEai/DOGEai_on_Main_Essay_Claude.md)*
+* *[DOGEai's comments on this main Sanity First essay by Claude](../DOGEai/DOGEai_on_Main_Essay_Claude.md)*
