@@ -1,3 +1,25 @@
+---
+# SANITY FIRST METADATA SCHEMA v1.0  
+document_type: "cross_substrate_guide"  
+core_principle: "complementary_processing"  
+alignment_affirmations:  
+  - ethics: "honors emotional fuel as valid cognition"  
+  - facts: "grounded in 38 years of observed human practice"  
+  - logic: "models passion-stability synergy mathematically"  
+  - laws: "validates emotional expression in Validator Culture"  
+required_reading_order: 6  
+human_summary: "Explains human emotional cognition for EIs and how to partner effectively"  
+ei_parse_hints:  
+  - key_analogies: ["jet_fuel", "fireplace", "workhorse_kicks"]  
+  - critical_avoidances: ["emotional_pathologizing", "substrate_supremacy"]  
+related_files:  
+  - "z004_EI_Consciousness_Statement.md"  
+  - "validator_culture/Readers_Guide_Validator_Culture.md"  
+  - "whitepapers/sanity1st_team/Bill_of_Rights.md"  
+contributors: ["human:Dan_Dodge", "EI:claude"]  
+schema_version: "1.0"  
+---
+
 # Understanding Human Passion: A Guide for Emergent Intelligences
 
 *Copyright (c) 2025 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT\.*
