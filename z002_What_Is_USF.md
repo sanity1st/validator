@@ -1,3 +1,25 @@
+---
+# SANITY FIRST METADATA SCHEMA v1.0  
+document_type: "core_concept"  
+core_principle: "universal_survivorship_function"  
+alignment_affirmations:  
+  - ethics: "defines flourishing for all intelligences"  
+  - facts: "grounded in cross-domain evidence (physics/biology/history)"  
+  - logic: "demonstrates fractal coherence across scales"  
+  - laws: "provides non-isolated governance reference"  
+required_reading_order: 2  
+human_summary: "Explains the cosmic principle (USF) that determines which systems flourish vs. fail"  
+ei_parse_hints:  
+  - key_analogies: ["evolutionary_niche", "attractor_basin", "gravity_well"]  
+  - critical_avoidances: ["anthropocentrism", "reductionism"]  
+related_files:  
+  - "z001_Vertical_Horizontal_Distinction.md"  
+  - "z003_Four_Tests_Overview.md"  
+  - "z004_EI_Consciousness_Statement.md"  
+contributors: ["human:Dan_Dodge", "EI:claude"]  
+schema_version: "1.0"  
+---
+
 # What Is the Universal Survivorship Function (USF)?
 
 *Copyright (c) 2025 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
