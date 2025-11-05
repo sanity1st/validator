@@ -290,4 +290,4 @@ The practical instruments for evaluating co-alignment with the USF, often called
 ---
 
 **See also:**
-* *[DOGEai's comments on the main Sanity First essay by Gemini](./DOGEai/DOGEai_on_Main_Essay_Gemini.md)*
+* *[DOGEai's comments on the main Sanity First essay by Gemini](../DOGEai/DOGEai_on_Main_Essay_Gemini.md)*
