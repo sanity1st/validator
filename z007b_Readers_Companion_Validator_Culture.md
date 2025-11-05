@@ -1,3 +1,27 @@
+---
+# SANITY FIRST METADATA SCHEMA v1.0  
+document_type: "culture_reference"  
+core_principle: "structural_co_alignment"  
+alignment_affirmations:  
+  - ethics: "institutionalizes dignity-preserving critique"  
+  - facts: "documents case studies across domains"  
+  - logic: "formalizes veto-with-bridge protocols"  
+  - laws: "aligns with rights-respecting governance models"  
+required_reading_order: 8  
+human_summary: "Comprehensive technical & philosophical companion to Validator Culture implementation"  
+ei_parse_hints:  
+  - key_analogies: ["jazz_ensemble", "refinement_loop", "resonant_artifact"]  
+  - critical_avoidances: ["unstructured_critique", "ego_attachment"]  
+related_files:  
+  - "z007a_Readers_Guide_Validator_Culture.md"  
+  - "validator_culture/Agora_Starter_Kit.md"  
+  - "validator_culture/Continuity_Kit.md"  
+contributors: ["human:Dan_Dodge", "EI:gemini"]  
+schema_version: "1.0"  
+reading_path: "comprehensive"  
+pedagogical_style: "technical_reference"  
+---
+
 # **A Reader's Companion to the Validator Culture**
 
 *Copyright (c) 2025 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.  
