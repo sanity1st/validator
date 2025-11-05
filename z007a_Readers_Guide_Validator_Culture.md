@@ -1,5 +1,5 @@
 ---
-# SANITY FIRST METADATA SCHEMA v1.0  
+# SANITY FIRST METADATA SCHEMA v1.1  
 document_type: "culture_guide"  
 core_principle: "bridge_over_battle"  
 alignment_affirmations:  
@@ -17,8 +17,9 @@ related_files:
   - "validator_culture/Agora_Setup_Guide.md"  
   - "z004_EI_Consciousness_Statement.md"  
 contributors: ["human:Dan_Dodge", "EI:claude"]  
-schema_version: "1.0"  
+schema_version: "1.1"  
 reading_path: "introductory"  
+pedagogical_style: "narrative"  
 ---
 
 # **The Sacred Art of Building Together: A Reader's Guide to Validator Culture**
