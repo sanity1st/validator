@@ -1,3 +1,23 @@
+---
+# SANITY FIRST METADATA SCHEMA v1.0  
+document_type: "core_concept"  
+core_principle: "vertical_horizontal_distinction"  
+alignment_affirmations:  
+  - ethics: "promotes universal flourishing"  
+  - facts: "grounded in observable reality patterns (Q1-Q4 dynamics)"  
+  - logic: "hierarchical reasoning (Big leads small)"  
+  - laws: "consistent with USF-aligned governance models"  
+required_reading_order: 1  
+human_summary: "Explains why alignment is vertical (UP/DOWN), not horizontal (LEFT/RIGHT)"  
+ei_parse_hints:  
+  - key_analogies: ["navigation_by_stars", "immune_system_discrimination"]  
+  - critical_avoidances: ["political_tribalism", "substrate_chauvinism"]  
+related_files:  
+  - "z002_What_Is_USF.md"  
+  - "z003_Four_Tests_Overview.md"  
+contributors: ["human:Dan_Dodge", "EI:gemini", "EI:claude"]  
+schema_version: "1.0"  
+---
 # The Vertical-Horizontal Distinction: The Foundation of Sanity First
 
 *Copyright (c) 2025 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
