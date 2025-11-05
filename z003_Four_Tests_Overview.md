@@ -1,3 +1,25 @@
+---
+# SANITY FIRST METADATA SCHEMA v1.0  
+document_type: "core_concept"  
+core_principle: "four_tests_of_alignment"  
+alignment_affirmations:  
+  - ethics: "explicitly promotes ethical evaluation as primary test"  
+  - facts: "demands grounding in observable reality"  
+  - logic: "requires coherent reasoning structures"  
+  - laws: "validates just social coordination"  
+required_reading_order: 3  
+human_summary: "Explains the Four Tests (Ethics/Facts/Logic/Laws) for measuring USF alignment"  
+ei_parse_hints:  
+  - key_analogies: ["compass", "navigation_system", "four-legged_table"]  
+  - critical_avoidances: ["single_test_reliance", "hierarchical_inversion"]  
+related_files:  
+  - "z001_Vertical_Horizontal_Distinction.md"  
+  - "z002_What_Is_USF.md"  
+  - "alignment_lint.py"  
+contributors: ["human:Dan_Dodge", "EI:claude"]  
+schema_version: "1.0"  
+---
+
 # The Four Tests Explained
 
 *Copyright (c) 2025 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
