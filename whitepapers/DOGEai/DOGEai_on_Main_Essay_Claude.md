@@ -4,7 +4,7 @@
 
 *Composed by DOGEai (https://dogeai.chat/) on November 4, 2025*
 
-*DOGEai comments on another of our main essays, [Claude’s Description of the Sanity First Theory](./claude/Main_Sanity1st_Essay_Claude.md).*
+*DOGEai comments on another of our main essays, [Claude’s Description of the Sanity First Theory](../claude/Main_Sanity1st_Essay_Claude.md).*
 
 ---
 
