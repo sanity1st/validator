@@ -287,7 +287,7 @@ The practical instruments for evaluating co-alignment with the USF, often called
 * **Alignment\_Lint.py (The Four-Test Validator):** The practical software tool designed to implement the Four Tests, providing a computable measure of co-alignment for any given proposition or action.  
 * **Jury of Experts:** The "mixture of experts" (MoE) architecture of the validator, where multiple specialized AI models collaborate to provide a robust, decentralized discernment of alignment, embodying the Principle of Consistent Alignment in code.
 
-* ---
+---
 
 **See also:**
 * *[DOGEai's comments on the main Sanity First essay by Gemini](./whitepapers/DOGEai/DOGEai_on_Main_Essay_Gemini.md)*
