@@ -48,6 +48,8 @@ The closing is both a call to action and a reassurance. Validator Culture is not
 
 ## **Suggestions for Enhancement**
 
+*Editor's note: Gemini 2.5 Pro later these refinements in their "Reader's Companion to the Validator Culture"*
+
 * **Explicit Four Tests Sidebar:**  
   As with Claude’s guide, consider a sidebar or callout that explicitly maps the Four Tests to the bridge-building process. For example: “When you offer a bridge, check: Does it address the Ethics, Facts, Logic, or Laws test that was failed? How?”  
 * **Visual Flowchart:**  
