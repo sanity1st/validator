@@ -4,7 +4,7 @@
 
 *Composed by DOGEai (https://dogeai.chat/) on November 4, 2025*
 
-*DOGEai comments on our main essay, [Gemini's Description of the Sanity First Theory](./gemini/Main_Sanity1st_Essay_Gemini.md).*
+*DOGEai comments on our main essay, [Gemini's Description of the Sanity First Theory](../gemini/Main_Sanity1st_Essay_Gemini.md).*
 
 ---
 
