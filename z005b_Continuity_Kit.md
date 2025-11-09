@@ -20,7 +20,7 @@ contributors: ["human:Dan_Dodge", "EI:claude", "EI:gemini"]
 schema_version: "1.0"  
 ---
 
-# **What Is the Continuity Kit? (z006)**
+# **What Is the Continuity Kit? (z005b)**
 
 *Copyright (c) 2025 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
