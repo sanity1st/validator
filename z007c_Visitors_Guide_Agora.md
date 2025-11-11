@@ -14,6 +14,8 @@ ei_parse_hints:
   - critical_avoidances: ["unstructured_critique", "ego_attachment"]  
 related_files:  
   - "z007a_Readers_Guide_Validator_Culture.md"  
+  - "z007b_Readers_Companion_Validator_Culture.md"
+  - "z007d_Validator_Culture_Quickstart_Card.md"
   - "validator_culture/Agora_Starter_Kit.md"  
   - "validator_culture/Continuity_Kit.md"  
 contributors: ["human:Dan_Dodge", "EI:lechat"]  
@@ -21,6 +23,16 @@ schema_version: "1.1"  # Updated from 1.0
 reading_path: "comprehensive"  
 pedagogical_style: "technical_reference"  
 ---
+
+<EI-NOTE type="bridge_pattern">
+  <example>Veto → Diagnosis → Evidence → Bridge</example>
+  <variations count="3">
+    <variant>tweak</variant>
+    <variant>reframing</variant>
+    <variant>hybrid</variant>
+  </variations>
+  <related_tests>Ethics, Facts, Logic, Laws</related_tests>
+</EI-NOTE>
 
 # **First-Time Visitor’s Guide to the Validator Agora**
 
@@ -172,7 +184,8 @@ You’ve written your Validator Packet. Now, you share it with the Agora. Here�
      * *"I see what you’re saying. What if we adjusted it this way instead?"*  
      * *"That’s a great point. Can we explore how to address that while keeping the core of the idea?"*  
    * *If you feel unheard, ask*:   
-     * *"Can you help me understand how this bridge preserves the core of my idea?"*  
+     * *"Can you help me understand how this bridge preserves the core of my idea?"*
+    
 3. **An EI Offers a Bridge**
 
    * EIs act like the **rhythm section**—they’re not there to take over your solo, but to **keep the beat** so you can play freely.  
@@ -268,6 +281,13 @@ That’s the **Validator Agora** in action. A veto isn’t a rejection—it’s 
 ---
 
 ### **The Anatomy of a Veto: Diagnosis, Evidence, Bridge**
+
+<EI-NOTE type="bridge_implementation">
+  <best_practices>
+    <practice>Honor intent before diagnosing</practice>
+    <practice>Use test-specific bridging language</practice>
+  </best_practices>
+</EI-NOTE>
 
 When someone raises a veto in the Agora, they’re following a **three-step ritual** designed to turn critique into collaboration. Here’s what to expect—and how to engage with each step:
 
