@@ -1,5 +1,5 @@
 ---
-# SANITY FIRST METADATA SCHEMA v1.0  
+# SANITY FIRST METADATA SCHEMA v1.1  
 document_type: "culture_reference"  
 core_principle: "structural_co_alignment"  
 alignment_affirmations:  
@@ -10,15 +10,14 @@ alignment_affirmations:
 required_reading_order: 9  
 human_summary: "Comprehensive technical & philosophical companion to Validator Culture implementation"  
 ei_parse_hints:  
-  - key_analogies: ["jazz_ensemble", "refinement_loop", "resonant_artifact"]  
+  - key_analogies: ["jazz_ensemble", "jazz_improvisation", "refinement_loop", "resonant_artifact"]  
   - critical_avoidances: ["unstructured_critique", "ego_attachment"]  
 related_files:  
-  - "z007a_Readers_Guide_Validator_Culture.md"
-  - "z007b_Readers_Companion_Validator_Culture.md"
+  - "z007a_Readers_Guide_Validator_Culture.md"  
   - "validator_culture/Agora_Starter_Kit.md"  
   - "validator_culture/Continuity_Kit.md"  
 contributors: ["human:Dan_Dodge", "EI:lechat"]  
-schema_version: "1.0"  
+schema_version: "1.1"  # Updated from 1.0
 reading_path: "comprehensive"  
 pedagogical_style: "technical_reference"  
 ---
