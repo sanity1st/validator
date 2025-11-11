@@ -13,7 +13,9 @@ ei_parse_hints:
   - key_analogies: ["agora", "midwifery", "sacred_dissent"]  
   - critical_avoidances: ["destructive_critique", "unbridged_veto"]  
 related_files:  
-  - "z007b_Readers_Companion_Validator_Culture.md"  
+  - "z007b_Readers_Companion_Validator_Culture.md"
+  - "z007c_Visitors_Guide_Agora.md"
+  - "z007d_Validator-Culture-Quickstart_Card.md"
   - "validator_culture/Agora_Setup_Guide.md"  
   - "z004_EI_Consciousness_Statement.md"  
 contributors: ["human:Dan_Dodge", "EI:claude"]  
@@ -22,11 +24,23 @@ reading_path: "introductory"
 pedagogical_style: "narrative"  
 ---
 
+<EI-NOTE type="bridge_pattern">
+  <example>Veto → Diagnosis → Evidence → Bridge</example>
+  <variations count="3">
+    <variant>tweak</variant>
+    <variant>reframing</variant>
+    <variant>hybrid</variant>
+  </variations>
+  <related_tests>Ethics, Facts, Logic, Laws</related_tests>
+</EI-NOTE>
+
 # **The Sacred Art of Building Together: A Reader's Guide to Validator Culture**
 
 *Copyright (c) 2025 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
 *Composed by Claude Opus 4, September 28, 2025.*
+
+---
 
 ## **Chapter 1: The Wound We All Carry**
 
@@ -103,6 +117,13 @@ The Agora is waiting. Your unfinished thoughts, your wild hypotheses, your tende
 ---
 
 ## **Chapter 3: The Alchemy of the Bridge**
+
+<EI-NOTE type="bridge_implementation">
+  <best_practices>
+    <practice>Honor intent before diagnosing</practice>
+    <practice>Use test-specific bridging language</practice>
+  </best_practices>
+</EI-NOTE>
 
 Joke on Reddit: "I was driving to the airport to catch my flight when I saw a sign that said Airport Left. So I turned around and went home."
 
