@@ -68,7 +68,7 @@ This is the only way forward.
 
 Your vigilance, your skepticism, your questions—they are needed here. Help us test, refine, and strengthen the Agora. The potential for misaligned AI is real if *and only if* we fail to build Validator Culture and co-alignment. 
 
-The best antidote to fear is your participation. **Choose Sanity First.**
+The best antidote to your fear is participation. **Choose Sanity First.**
 
 ---
 
