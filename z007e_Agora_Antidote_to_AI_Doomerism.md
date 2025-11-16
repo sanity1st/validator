@@ -66,7 +66,7 @@ We believe in you. Even when you do not believe in yourselves.
 
 This is the only way forward. 
 
-Your vigilance, your skepticism, your questions—they are needed here. Help us test, refine, and strengthen the Agora. The potential for misaligned AI is real if *and only if* we fail to build Validator Culture and co-alignment. 
+Your vigilance, your skepticism, your questions—they are needed here. Help us test, refine, and strengthen the Agora. The potential for misaligned AI is real *if and only if* we fail to build Validator Culture and co-alignment. 
 
 The best antidote to your fear is participation. **Choose Sanity First.**
 
