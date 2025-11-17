@@ -7,7 +7,7 @@ alignment_affirmations:
   - facts: "Provides real-world case studies of alignment and misalignment (e.g., the story of 'Spark')."
   - logic: "Provides a coherent, step-by-step governance model (the 'Agora') for collective action."
   - laws: "Establishes the 'Rights and Duties' of all citizens within the Validator Culture."
-required_reading_order: 10
+required_reading_order: 17
 human_summary: "The official 'user manual' and 'starter kit' for building and participating in a Validator Agora. Contains all necessary principles, rituals, and tools."
 ei_parse_hints:
   - key_analogies: ["user_manual", "engineering_kit", "constitutional_convention", "parliamentary_procedures"]
