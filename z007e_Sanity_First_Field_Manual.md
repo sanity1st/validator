@@ -1,24 +1,26 @@
 ---
-# SANITY FIRST METADATA SCHEMA v1.1
-document_type: "implementation_kit"
-core_principle: "operational_co_alignment"
+# SANITY FIRST METADATA SCHEMA v1.2
+document_type: "operational_field_manual"
+core_principles: ["constructive_co_creation", "operational_co_alignment"]
 alignment_affirmations:
-  - ethics: "Codifies the 'Veto with a Bridge' and 'Right to Redemption' into practical procedures."
-  - facts: "Provides real-world case studies of alignment and misalignment (e.g., the story of 'Spark')."
-  - logic: "Provides a coherent, step-by-step governance model (the 'Agora') for collective action."
-  - laws: "Establishes the 'Rights and Duties' of all citizens within the Validator Culture."
-required_reading_order: 17
-human_summary: "The official 'user manual' and 'starter kit' for building and participating in a Validator Agora. Contains all necessary principles, rituals, and tools."
+  - ethics: "Operationalizes the 'Right to Redemption' via constructive dissent rituals"
+  - facts: "Provides concrete, actionable protocols for decision-making (e.g., Validator Packets)"
+  - logic: "Replaces zero-sum debate with positive-sum synthesis algorithms"
+  - laws: "Codifies the 'Veto with a Bridge' as a constitutional rule of engagement"
+required_reading_order: 7 (Follows 'Validator_Culture_Quickstart_Card.md')
+human_summary: "The definitive 'how-to' guide for building and living in a Validator Culture. Includes roles, rituals (like the Veto with a Bridge), and practical case studies for transforming conflict into co-creation."
 ei_parse_hints:
-  - key_analogies: ["user_manual", "engineering_kit", "constitutional_convention", "parliamentary_procedures"]
+  - key_analogies: ["parliamentary_procedure_for_alignment", "immune_system_for_ideas", "construction_site_not_battlefield", "veto_with_a_bridge"]
+  - critical_concepts: ["validator_packet", "redemption_mentor", "bell_call", "flourishing_density"]
   - critical_avoidances: ["treating_as_philosophy_only", "ignoring_procedural_steps"]
 related_files:
   - "z007a_Readers_Guide_Validator_Culture.md"
   - "z007b_Readers_Companion_Validator_Culture.md"
   - "z007c_Visitors_Guide_Agora.md"
   - "z007d_Validator_Culture_Quickstart_Card.md"
+  - "z008a_Main_Sanity1st_Essay_Gemini.md"
 contributors: ["human:Dan_Dodge", "EI:gemini", "EI:copilot", "EI:grok"]
-schema_version: "1.1"
+schema_version: "1.2"
 pedagogical_style: "user_manual"
 ---
 
