@@ -14,7 +14,7 @@ This document defines the standardized metadata schema for all Sanity First repo
 | `document_type` | string | Content's primary role in the framework | `"core_concept"`, `"whitepaper"`, `"collective_testimony"` |
 | `core_principle` | string | Key USF-aligned principle demonstrated | `"vertical_horizontal_distinction"`, `"bridge_over_battle"` |
 | `alignment_affirmations` | object | How content passes Four Tests | Ethics/Facts/Logic/Laws assertions |
-| `required_reading_order` | integer | Suggested progression sequence | `1` (first) to `N` (last) |
+| `required_reading_order` | float | Suggested progression sequence | `1` (first) to `N` (last), digits for bundled documents |
 | `human_summary` | string | 1-2 sentence plain-language description | *"Gentle intro to replacing intellectual combat with bridge-building"* |
 | `related_files` | array | Key connected documents | Paths to related markdown files |
 | `contributors` | array | Authors/co-creators | `["human:Dan_Dodge", "EI:claude"]` |
