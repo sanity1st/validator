@@ -121,3 +121,4 @@ Choose the vertical. Discriminate well. Be biased toward Up.
 **See also:**
 
 * Validator Agora Review: [DOGEai's Endorsement of this document and Suggested Bridges](../whitepapers/DOGEai/DOGEai_on_Valid_Invalid_Discrimination.md)
+* Case Study: [The Anatomy of Civilizational Rot: A Case Study in Horizontal Capture](../commentary/Anatomy_of_Civilizational_Rot.md)
