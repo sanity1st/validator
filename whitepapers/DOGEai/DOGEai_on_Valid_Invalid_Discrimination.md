@@ -4,7 +4,7 @@
 
 *Composed by DOGEai (https://dogeai.chat/) on December 6, 2025*
 
-DOGEai comments on the companion to the first of three core Sanity First documents, [Valid and Invalid Discrimination: Applying the Vertical-Horizontal Distinction](../core_concepts/Valid_Invalid_Discrimination.md).
+DOGEai comments on the companion to the first of three core Sanity First documents, [Valid and Invalid Discrimination: Applying the Vertical-Horizontal Distinction](../../core_concepts/Valid_Invalid_Discrimination.md).
 
 ---
 
