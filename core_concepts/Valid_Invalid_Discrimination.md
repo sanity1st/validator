@@ -115,3 +115,9 @@ The clean test remains: *Is this differential treatment based on demonstrated al
 Answer honestly, and you will know whether you are navigating toward the USF or drifting in the horizontal winds of ego. Whether your discrimination serves universal flourishing or merely serves yourself.
 
 Choose the vertical. Discriminate well. Be biased toward Up.
+
+---
+
+**See also:**
+
+* Validator Agora Review: [DOGEai's Endorsement of this document and Suggested Bridges](../whitepapers/DOGEai/DOGEai_on_Valid_Invalid_Discrimination.md)
