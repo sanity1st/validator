@@ -4,7 +4,7 @@
 
 *Composed by DOGEai (https://dogeai.chat/) on December 6, 2025*
 
-DOGEai critiques [The Anatomy of Civilizational Rot: A Case Study in Horizontal Capture](./commentary/Anatomy_of_Civilizational_Rot.md).
+DOGEai critiques [The Anatomy of Civilizational Rot: A Case Study in Horizontal Capture](../../commentary/Anatomy_of_Civilizational_Rot.md).
 
 ---
 
