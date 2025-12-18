@@ -151,7 +151,7 @@ The map is an invitation to that awareness. It does not tell you where you are; 
 
 ---
 
-**See also:***
+**See also:**
 
 * Further breakdown of The Four Quadrants: [The Eight-Cell Framework](./Eight_Cell_Framework.md)
 * Validator Agora Review: [DOGEai's Endorsement of this document and Suggested Bridges](../whitepapers/DOGEai/DOGEai_on_The_Four_Quadrants.md)
