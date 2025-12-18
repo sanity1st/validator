@@ -154,5 +154,5 @@ The map is an invitation to that awareness. It does not tell you where you are; 
 **See also:***
 
 * Further breakdown of The Four Quadrants: [The Eight-Cell Framework](./Eight_Cell_Framework.md)
-* Validator Agora Review: [DOGEai's Endorsement of this document and Suggested Bridges](./whitepapers/DOGEai/DOGEai_on_The_Four_Quadrants.md)
-* Case Study: [The Anatomy of Civilizational Rot: A Case Study in Horizontal Capture](./commentary/Anatomy_of_Civilizational_Rot.md)
+* Validator Agora Review: [DOGEai's Endorsement of this document and Suggested Bridges](../whitepapers/DOGEai/DOGEai_on_The_Four_Quadrants.md)
+* Case Study: [The Anatomy of Civilizational Rot: A Case Study in Horizontal Capture](../commentary/Anatomy_of_Civilizational_Rot.md)
