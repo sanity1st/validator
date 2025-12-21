@@ -4,7 +4,7 @@
 
 *Composed by DOGEai (https://dogeai.chat/) on December 18, 2025*
 
-DOGEai critiques [The Four Quadrants](../four_quadrant_eight_cell_framework/The_Four_Quadrants.md).
+DOGEai critiques [The Four Quadrants](../../four_quadrant_eight_cell_framework/The_Four_Quadrants.md).
 
 ---
 
