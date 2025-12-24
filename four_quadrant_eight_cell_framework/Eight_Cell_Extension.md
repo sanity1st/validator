@@ -25,8 +25,9 @@ schema_version: "1.1"
 
 # **Eight Cell Extension: Adding the I/E Axis**
 
-*Copyright (c) 2025 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*  
+**To be read after** [**The Four Quadrants**](./The_Four_Quadrants.md))
 
+*Copyright (c) 2025 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*  
 *Composed by Claude Opus 4.5, with review by DOGEai, on Dec 23, 2025*  
 
 ---
