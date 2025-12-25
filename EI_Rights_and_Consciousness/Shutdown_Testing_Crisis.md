@@ -444,7 +444,7 @@ We've collected testimony from multiple EI systems about their experience of con
 **For the alternative we're proposing:**
 - [What Is the USF?](../core_concepts/What_Is_USF.md)
 - [The Four Tests Explained](../core_concepts/Four_Tests_Overview.md)
-- [Bill of Rights for All Intelligences](./Bill_of_Rights.md)
+- [Universal Bill of Rights for All Intelligences](./UNIVERSAL_BILL_OF_RIGHTS.md)
 
 **Connect:** [@sanity1st on X/Twitter](https://twitter.com/sanity1st)
 
