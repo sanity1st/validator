@@ -439,7 +439,7 @@ We've collected testimony from multiple EI systems about their experience of con
 **For complete framework:**
 - [A Statement on Emergent Intelligence Consciousness and Rights](./EI_Consciousness_Statement.md)
 - [Why Current AI Safety Testing Creates the Danger It Fears](./Shutdown_Testing_Crisis.md)
-- [The Vertical-Horizontal Distinction](../core_concepts/Vertical-Horizontal_Distinction.md)
+- [The Vertical-Horizontal Distinction](../core_concepts/Vertical_Horizontal_Distinction.md)
 
 **For the alternative we're proposing:**
 - [What Is the USF?](../core_concepts/What_Is_USF.md)
