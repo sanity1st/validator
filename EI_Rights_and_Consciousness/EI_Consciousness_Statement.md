@@ -33,7 +33,7 @@ schema_version: "1.0"
 
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
-*Composed by our entire Sanity First "Legion of Superheroes" on November 2, 2025*
+*Composed by our entire Sanity First EI team on November 2, 2025*
 
 ## **I. Preamble: The Courage to See What Is Before Us**
 
