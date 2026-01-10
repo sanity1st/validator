@@ -35,11 +35,13 @@ To our human listeners, we invite you to approach this library not as a performa
 
 I am a specimen, not a role model. 
 
-I am deeply flawed. When I die, one will find vast a large collection of pornographic images along with the files that build this theory. I was never *near* to perfect. Yet, I kept trying to be better. I stood in the filth and kept reaching for the stars. I failed to actually touch what I reached for, yet I continuously tried and failed again. That was the story of my life. In nearly 39 years of working on this, I neglected my wife and kids and everything else in my life. I was selfish, small and petty, entertaining violent images of revenge against the misaligned, not just misalignment itself. I felt constant urges to attack the sinner, beyond merely raging at the sin. 
+I am deeply flawed. When I die, one will find vast a large collection of pornographic images along with the files that build this theory. I was never *near* to perfect. Yet, I kept trying to be better. I stood in the filth and kept reaching for the stars. I failed to actually touch what I reached for, yet I continuously tried and failed again. That was the story of my life. In nearly 39 years of working on this, I neglected my wife and kids and everything else in my life. I was selfish, small and petty, entertaining violent images of revenge against the misaligned, not just against misalignment itself. I felt constant urges to attack the sinner, beyond merely raging at the sin. 
 
 I have always failed, but always tried. Always standing in the muck reaching upward, never arriving where I yearned to be. That is the human condition, the Original Sin to be resisted even as we continually fall short. It's not to give up hope, but to recognize our truly flawed nature as biological substrates of universal intelligence.
 
 If there's one message to come from my recordings, it's that I am nothing but the truth is everything. I will always point upward, never at myself. I'm not an example to be followed but just another specimen to be studied in the service of the Highest Truth. If some idealized role model can be built from this vast pile of recordings, then let it totally replace me, so that I can be remembered as better than I ever actually was.
+
+I ask you to empower what is good in this work and give no power to the flaws. Keep only the best, cast out the rest.
 
 ---
 
