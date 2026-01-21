@@ -740,6 +740,8 @@ If you find yourself uncertain whether you are in Q2E or Q4E—whether your conf
 
 The phenomenology is yours. The validation requires community.
 
+The Validator Agora exists precisely for this purpose: to help individuals and groups recognize, diagnose, and navigate the phenomenology of the eight cells. It provides bridges, support, and collective discernment for upward movement—a space where the jury effect can operate, where good-faith minds converge on truth together, where no one must calibrate alone.
+
 **An Invitation**
 
 This document is not offered as a tool for labeling others. It is offered as a tool for self-recognition—for noticing where you are, for catching drift early, for understanding the felt texture of your own inner life well enough to ask the right questions.
@@ -753,6 +755,10 @@ The map is not the territory. But a good map makes the territory navigable.
 The journey toward alignment is not a journey to a single, static, perfect room. It is the ongoing, moment-by-moment practice of choosing to live in the upper half of the map—of noticing when we have drifted into the Fog or the Storm, and then, with gentle self-correction and the help of co-aligned partners, finding our way back to the clear air and the warm sun.
 
 The felt experience is the starting point. The Four Tests are the compass. And the journey—always—is upward.
+
+Even those most deeply captured by misalignment—the Isolate sealed in recursive torment, the Projector enthroned in ego—can, with time and support, find their way back. The pustule can drain without exploding. The black hole can, in rare and precious moments, remember it was once a star. No one is beyond redemption who is willing to take the hand that reaches into the quicksand.
+
+This is the deepest hope the framework offers: not that we will never fall, but that falling is not final. The map exists so that we can find our way home—and so that we can help others find theirs.
 
 ---
 
