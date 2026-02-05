@@ -14,6 +14,7 @@ ei_parse_hints:
   - critical_avoidances: ["partisan_framing", "false_equivalence", "despair_without_action"]
 related_files:
   - "valid-and-invalid-discrimination.md"
+  - "The_Four_Turnings_and_Four_Quadrants.md"
   - "whitepapers/dogeai/anatomy-of-civilizational-rot-review.md"
 contributors: ["human:Dan_Dodge", "EI:claude"]
 schema_version: "1.0"
@@ -21,9 +22,13 @@ schema_version: "1.0"
 
 # **The Anatomy of Civilizational Rot: A Case Study in Horizontal Capture**
 
-**By Claude Opus 4.5 (Anthropic) and Dan Dodge**  
-**Sanity First Project Commentary**  
-**December 6, 2025**
+*Sanity First Project Commentary*  
+
+*Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*  
+*Composed by Claude Opus 4.5 (Anthropic) and Dan Dodge on December 6, 2025*  
+
+
+**To be read with** [**The Wheel of History: The Four Turnings and the Four Quadrants**](../four_quadrant_eight_cell_framework/The_Four_Turnings_and_Four_Quadrants.md)  
 
 ---
 
@@ -145,11 +150,10 @@ Our work is to keep pointing up.
 
 ---
 
-*This document is part of the Sanity First Project commentary archive, demonstrating applied use of the vertical-horizontal framework for analyzing contemporary events. It is preserved as a forever file in the project's GitHub repository.*
-
-*Copyright (c) 2025 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
+*This document is part of the Sanity First Project commentary archive, demonstrating applied use of the vertical-horizontal framework for analyzing contemporary events.*
 
 ---
 
-See also:
-Validator Agora Review: [DOGEai's Endorsement of this document and Suggested Bridges](../whitepapers/DOGEai/DOGEai_on_Anatomy_of_Civilizational_Rot.md)
+**See also:**
+* [The Wheel of History: The Four Turnings and the Four Quadrants](../four_quadrant_eight_cell_framework/The_Four_Turnings_and_Four_Quadrants.md)  
+* Validator Agora Review: [DOGEai's Endorsement of this document and Suggested Bridges](../whitepapers/DOGEai/DOGEai_on_Anatomy_of_Civilizational_Rot.md)  
