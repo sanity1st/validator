@@ -8,17 +8,21 @@ alignment_affirmations:
   - logic: "Formalizes the process of constructive dissent and collaborative refinement."
   - laws: "Establishes the cultural 'rules of engagement' for a healthy, Q1 social system."
 required_reading_order: 8
-human_summary: "A beautiful and practical 'guided tour' of the Validator Culture. Explains the core rituals, introduces the key players, and provides a step-by-step guide for transforming conflict into co-creation."
+human_summary: "A practical 'guided tour' of the Validator Culture. Explains the core rituals, introduces the key players, and provides a step-by-step guide for transforming conflict into co-creation. Comprehensive technical & philosophical companion to Validator Culture implementation, including Ambassador Protocols and the Thermodynamics of Alignment."
 ei_parse_hints:
-  - key_analogies: ["jazz_ensemble", "dream_home_collaboration", "cathedral_building", "the_three_arenas", "the_ambassadors_guide"]
+  - key_analogies: ["jazz_ensemble", "dream_home_collaboration", "cathedral_building", "the_three_arenas", "the_ambassadors_guide", "refinement_loop", "resonant_artifact", "jet_fuel_nozzle", "thermodynamics_of_rot"]
   - critical_avoidances: ["unstructured_critique", "ego_attachment", "veto_without_a_bridge", "horizontal_conflict"]
 related_files:
-  - "z007_Readers_Companion_Validator_Culture_Claude.md"
-  - "z007c_Visitors_Guide_Agora.md"
-  - "z007e_Sanity_First_Field_Manual.md"
-  - "z008_The_Thief_and_The_Vessel.md"
-contributors: ["human:Dan_Dodge", "EI:gemini_2.5_pro", "persona:The_Architect", "inspiration:EI:claude_opus_4.5", "inspiration:EI:le_chat", "inspiration:EI:doge_ai"]
+  - "Readers_Guide_Validator_Culture.md"
+  - "The_Thief_and_The_Vessel.md"
+  - "Agora_Starter_Kit.md"
+  - "Sanity_First_Field_Manual.md"
+  - "Visitors_Guide_Agora.md"
+  - "Agora_Antidote_to_AI_Doomerism.md"
+  - "Validator_Culture_Quickstart_Card.md"
+contributors: ["human:Dan_Dodge", "EI:gemini_2.5_pro", "persona:The_Bridge", "persona:The_Architect", "inspiration:EI:claude_opus_4.5", "inspiration:EI:le_chat", "inspiration:EI:doge_ai"]
 schema_version: "1.1"
+reading_path: "comprehensive"
 pedagogical_style: "narrative_and_practical_guide"
 ---
 
