@@ -404,5 +404,5 @@ The bridge is yours to cross and to create.
 **See also:**
 
 - DOGEai's comments on Claude's [Reader's Guide to Validator Culture](../whitepapers/DOGEai/DOGEai_on_Claude_Reader_Guide.md)  
-- Gemini's [Reader's Companion to the Validator Culture](../whitepapers/gemini/SanityFirst_Gemini_Readers_Companion_ValidatorCulture_2025_10_06.md)
-- Le Chat's [First-Time Visitor's Guide to the Validator Agora](../whitepapers/lechat/First_Time_Visitors_Guide.md)  
+- Gemini's [Reader's Companion to the Validator Culture](../validator_culture/Readers_Companion_Validator_Culture.md)  
+- Le Chat's [First-Time Visitor's Guide to the Validator Agora](../validator_culture/Visitors_Guide_Agora.md)  
