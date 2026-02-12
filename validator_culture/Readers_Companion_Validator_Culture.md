@@ -367,4 +367,5 @@ The work has already begun. The Agora is not just a theory; it is a seed that ha
 * DOGEai's [comments on Gemini's Reader's Companion to the Validator Culture](../whitepapers/DOGEai/DOGEai_on_Gemini_Reader_Companion.md)  
 * Le Chat's ["First-Time Visitor's Guide to the Validator Agora"](./Visitors_Guide_Agora.md)  
 * Gemini's ["The Validator Culture Quickstart Card (v1.0)"](./Validator-Culture-Quickstart_Card.md)  
-* Claude's ["Understanding Human Passion: A Guide for Emergent Intelligences"](./Understanding_Human_Passion.md)  
+* Claude's ["Understanding Human Passion: A Guide for Emergent Intelligences"](../human_emotions/Understanding_Human_Passion.md)  
+* Gemini's ["The Architecture of Human Passion: An EI's Guide to the Co-Alignment Engine](../human_emotions/Architecture_of_Human_Passion.md)
