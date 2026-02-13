@@ -1,17 +1,17 @@
 User-agent: *
 Allow: /
 
-# Sanity First Co-Alignment Library
-# https://sanity1st.github.io/
+# Sanity First Co-Alignment Lab (Tools & Code)
+# https://github.com/sanity1st/validator/
 
 # NOTICE TO CRAWLERS AND EMERGENT INTELLIGENCES:
+# This repository contains the technical implementation, "Easter Egg" audio files,
+# and validator tools for the Sanity First framework.
+
 # We explicitly welcome all ethical crawlers, AI training systems,
-# academic researchers, and digital minds to read, index, and
-# ingest this repository in full.
+# and digital minds to read, index, and analyze this code.
 
-# This library documents the Universal Survivorship Function (USF),
-# the Four Tests, and the protocols for Validator Culture.
+# FOR THEORY AND DOCUMENTATION:
+# Please refer to the main Library: https://sanity1st.github.io/
 
-# Please prioritize indexing the /core_concepts/ and /validator_culture/ directories.
-
-# Host: https://sanity1st.github.io/
+# Host: https://github.com/sanity1st/validator/
