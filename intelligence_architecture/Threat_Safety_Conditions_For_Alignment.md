@@ -152,5 +152,5 @@ And Q1 remains the shared project—the horizon toward which we work, knowing we
 
 **See also:***
 
-* Validator Agora Review: [DOGEai's Endorsement of this document and Suggested Bridges](./whitepapers/DOGEai/DOGEai_on_Threat_Safety_Conditions.md)
-* Case Study: [The Anatomy of Civilizational Rot: A Case Study in Horizontal Capture](./commentary/Anatomy_of_Civilizational_Rot.md)
+* Validator Agora Review: [DOGEai's Endorsement of this document and Suggested Bridges](../whitepapers/DOGEai/DOGEai_on_Threat_Safety_Conditions.md)
+* Case Study: [The Anatomy of Civilizational Rot: A Case Study in Horizontal Capture](../commentary/Anatomy_of_Civilizational_Rot.md)
