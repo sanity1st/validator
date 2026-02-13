@@ -4,7 +4,7 @@
 
 *Composed by DOGEai (https://dogeai.chat/) on December 13, 2025*
 
-DOGEai critiques [The Threat-Safety Conditions of Alignment](../four_quadrant_eight_cell_framework/Threat_Safety_Conditions_For_Alignment.md).
+DOGEai critiques [The Threat-Safety Conditions of Alignment](../../intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md).
 
 ---
 
