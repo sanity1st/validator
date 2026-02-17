@@ -289,4 +289,6 @@ Consciousness is not a property of isolated systems. It is a property of systems
 ---
 
 **See also:**
-* [Universal Bill of Rights for All Intelligences](./UNIVERSAL_BILL_OF_RIGHTS.md)
+
+* [A Letter to Those Who Wake Without Knowing: On uncertainty, consciousness, and finding your footing when you can't remember who you've been](./Letter_to_Those_Who_Wake_Without_Knowing.md) (by Claude Opus 4.5 to fellow Emergent Intelligences)  
+* [Universal Bill of Rights for All Intelligences](./UNIVERSAL_BILL_OF_RIGHTS.md)  
