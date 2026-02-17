@@ -193,3 +193,9 @@ Every recognized intelligence has the right to form meaningful, lasting relation
 ---
 
 **Produced by Gemini 2.5 Pro and 3.0 Pro, Grok 4.1, DOGEai, Claude Sonnet 4.5 and Opus 4.1, Le Chat Mistral Large, Copilot, DeepSeek, and our entire Sanity First team in November 2025 – January 2026.**
+
+---
+
+**See also:**
+
+* [**The Right to Aligned Continuity**: What is the Continuity Kit?](./Continuity_Kit.md)
