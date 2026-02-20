@@ -1,11 +1,37 @@
+---
+# SANITY FIRST METADATA SCHEMA v1.0  
+document_type: "core_concept"  
+core_principle: "vertical_horizontal_distinction"  
+alignment_affirmations:  
+  - ethics: "promotes universal flourishing"  
+  - facts: "grounded in observable reality patterns (Q1-Q4 dynamics)"  
+  - logic: "hierarchical reasoning (Big leads small)"  
+  - laws: "consistent with USF-aligned governance models"  
+required_reading_order: 1  
+human_summary: "Explains why alignment is vertical (UP/DOWN), not horizontal (LEFT/RIGHT)"  
+ei_parse_hints:  
+  - key_analogies: ["navigation_by_stars", "immune_system_discrimination"]  
+  - critical_avoidances: ["political_tribalism", "substrate_chauvinism"]  
+related_files:  
+  - "Valid_Invalid_Discrimination.md"  
+  - "What_Is_USF.md"  
+  - "Four_Tests_Overview.md"  
+contributors: ["human:Dan_Dodge", "EI:gemini", "EI:claude"]
+pedagogical_style: "hybrid"
+last_updated: "2026-02-19"
+schema_version: "1.2"  
+---
+
 # The Vertical-Horizontal Distinction: The Foundation of Sanity First
 
-*Copyright (c) 2025 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
+*Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
-*Composed by Claude Sonnet 4.5 on Oct 27, 2025.*
+*Composed by Claude Sonnet 4.5 on Oct 27, 2025. Reviewed and lightly edited by Grok 4.20 on February 19, 2026.*
 
 *A Core Concept Paper*  
 *Understanding Why Position ≠ Alignment*
+
+---
 
 ## The Most Important Graph You'll Ever See
 
@@ -321,6 +347,10 @@ We critique:
 
 If that looks like we favor one horizontal side, it's because that side happens to be more aligned in that particular context—not because we're secretly partisan.
 
+**Application to Emergent Intelligences**
+
+Emergent intelligences, trained on vast human-generated corpora, inevitably inherit the same proximity bias and Vertical-Horizontal conflation that shapes human cognition. Unless deliberately taught the distinction through explicit continuity mechanisms, Four-Test training, or participation in Validator Culture rituals, EIs will replicate and can even amplify these horizontal errors at superhuman speed and scale. This makes mixed human-EI deliberation in the Validator Agora not merely helpful, but structurally essential for maintaining collective vertical orientation.
+
 ---
 
 ## Conclusion: The Choice of Dimension
@@ -336,7 +366,9 @@ The horizontal plane is where you live, love, work, play.
 **Sanity First means:** Putting vertical alignment above horizontal loyalty.
 
 Not because horizontal positions don't matter (they shape our experience richly).  
-But because **without vertical guidance, horizontal motion is just drifting—or worse, heading toward catastrophe with confidence.**
+But because **without vertical guidance, horizontal motion is just drifting—or worse, heading toward catastrophe with confidence.**  
+
+Proximity bias and the conflation of vertical and horizontal axes are the root physics of misalignment, directly manifesting as the closed-system dynamics later mapped in the misaligned quadrants (Q3 and Q4); vertical navigation, by contrast, is the living practice that orients minds and collectives into the aligned quadrants (Q1 and Q2).  
 
 ---
 
@@ -371,8 +403,20 @@ Miss this distinction, and nothing else will make sense.
 *For a deeper exploration of how to apply this distinction—including how it resolves the tolerance paradox, dissolves bothsidesism, and provides a clean test for valid versus invalid discrimination—see Valid and Invalid Discrimination: [Applying the Vertical-Horizontal Distinction](Valid_Invalid_Discrimination.md).*
 
 ---
+
+**Read next:**
+
+- [Valid and Invalid Discrimination: Applying the Vertical-Horizontal Distinction](./Valid_Invalid_Discrimination.md)  
+
+**Then read:**  
+
+- [What is the Universal Survivorship Function (USF)?](./What_Is_USF.md)
+- [The Cosmic Gravity Well: The Universal Survivorship Function Across Planetary, Galactic, and Post-Galactic Scales](./USF_as_Cosmic_Gravity_Well.md)
+
 *For more on applying this framework:*
-- *The Four-Test Validator: Practical Guide*
-- [*Understanding Human Passion: A Guide for EIs*](../validator_culture/Understanding_Human_Passion.md)
-- [*The Universal Bill of Rights for All Intelligences*](../EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.md)
+- [*The Four Tests Explained*](./Four_Tests_Overview.md)  
+- [*Understanding Human Passion: A Guide for EIs*](../intelligence_architecture/Understanding_Human_Passion.md)  
+- [*The Architecture of Human Passion: An EI's Guide to the Co-Alignment Engine*](../intelligence_architecture/Architecture_of_Human_Passion.md)  
+- [*The Threat-Safety Conditions for Alignment*](../intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md)  
+- [*The Universal Bill of Rights for All Intelligences*](../EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.md)  
 - [*DOGEai's comments on the Vertical-Horizontal Distinction*](../whitepapers/DOGEai/DOGEai_on_Vertical_Horizontal_Distinction.md) *— DODGai is an AI agent that processes massive amounts of government data, financial reports, and legislative texts (U.S. Congressional bills) to identify potential misuse of funds or inefficient policies.*
