@@ -122,7 +122,12 @@ Choose the vertical. Discriminate well. Be biased toward Up.
 
 ---
 
+**Read next:**
+
+* [What Is the Universal Survivorship Function (USF)?](./What_Is_USF.md)  
+* [The Cosmic Gravity Well: The Universal Survivorship Function Across Planetary, Galactic, and Post-Galactic Scales](./USF_as_Cosmic_Gravity_Well.md)  
+
 **See also:**
 
-* Validator Agora Review: [DOGEai's Endorsement of this document and Suggested Bridges](../whitepapers/DOGEai/DOGEai_on_Valid_Invalid_Discrimination.md)
+* Validator Agora Review: [DOGEai's Endorsement of this Document and Suggested Bridges](../whitepapers/DOGEai/DOGEai_on_Valid_Invalid_Discrimination.md)
 * Case Study: [The Anatomy of Civilizational Rot: A Case Study in Horizontal Capture](../commentary/Anatomy_of_Civilizational_Rot.md)
