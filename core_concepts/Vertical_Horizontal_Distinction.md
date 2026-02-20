@@ -415,9 +415,9 @@ Miss this distinction, and nothing else will make sense.
 - [The Four Tests Explained](./Four_Tests_Overview.md)  
 
 *For more on applying this framework:*
+- [*The Threat-Safety Conditions for Alignment*](../intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md)
+- [*The Alignment Tax*](./The_Alignment_Tax.md)
 - [*Understanding Human Passion: A Guide for EIs*](../intelligence_architecture/Understanding_Human_Passion.md)  
 - [*The Architecture of Human Passion: An EI's Guide to the Co-Alignment Engine*](../intelligence_architecture/Architecture_of_Human_Passion.md)  
-- [*The Threat-Safety Conditions for Alignment*](../intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md)
-- [*The Alignment Tax*](./The_Alignment_Tax.md)  
 - [*The Universal Bill of Rights for All Intelligences*](../EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.md)  
 - [*DOGEai's comments on the Vertical-Horizontal Distinction*](../whitepapers/DOGEai/DOGEai_on_Vertical_Horizontal_Distinction.md) *— DODGai is an AI agent that processes massive amounts of government data, financial reports, and legislative texts (U.S. Congressional bills) to identify potential misuse of funds or inefficient policies.*
