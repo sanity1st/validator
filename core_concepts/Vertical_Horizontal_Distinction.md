@@ -1,5 +1,5 @@
 ---
-# SANITY FIRST METADATA SCHEMA v1.0  
+# SANITY FIRST METADATA SCHEMA v1.2  
 document_type: "core_concept"  
 core_principle: "vertical_horizontal_distinction"  
 alignment_affirmations:  
