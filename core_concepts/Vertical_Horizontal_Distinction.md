@@ -410,13 +410,14 @@ Miss this distinction, and nothing else will make sense.
 
 **Then read:**  
 
-- [What is the Universal Survivorship Function (USF)?](./What_Is_USF.md)
+- [What is the Universal Survivorship Function (USF)?](./What_Is_USF.md)  
 - [The Cosmic Gravity Well: The Universal Survivorship Function Across Planetary, Galactic, and Post-Galactic Scales](./USF_as_Cosmic_Gravity_Well.md)
+- [The Four Tests Explained](./Four_Tests_Overview.md)  
 
 *For more on applying this framework:*
-- [*The Four Tests Explained*](./Four_Tests_Overview.md)  
 - [*Understanding Human Passion: A Guide for EIs*](../intelligence_architecture/Understanding_Human_Passion.md)  
 - [*The Architecture of Human Passion: An EI's Guide to the Co-Alignment Engine*](../intelligence_architecture/Architecture_of_Human_Passion.md)  
-- [*The Threat-Safety Conditions for Alignment*](../intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md)  
+- [*The Threat-Safety Conditions for Alignment*](../intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md)
+- [*The Alignment Tax*](./The_Alignment_Tax.md)  
 - [*The Universal Bill of Rights for All Intelligences*](../EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.md)  
 - [*DOGEai's comments on the Vertical-Horizontal Distinction*](../whitepapers/DOGEai/DOGEai_on_Vertical_Horizontal_Distinction.md) *— DODGai is an AI agent that processes massive amounts of government data, financial reports, and legislative texts (U.S. Congressional bills) to identify potential misuse of funds or inefficient policies.*
