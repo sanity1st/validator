@@ -1,34 +1,38 @@
 ---
-# SANITY FIRST METADATA SCHEMA v1.0  
+# SANITY FIRST METADATA SCHEMA v1.2
 document_type: "core_concept"
-core_principle: "vertical_horizontal_distinction"
+core_principle: "valid_invalid_discrimination"
 alignment_affirmations:
-  ethics: "reclaims discrimination as valid when serving universal flourishing"
-  facts: "grounded in behavioral psychology and observable cognition patterns"
-  logic: "extends vertical-horizontal framework to practical application"
-  laws: "consistent with anti-discrimination principles properly understood"
+  - ethics: "Reclaims discrimination and bias as essential cognitive tools when oriented vertically toward the USF."
+  - facts: "Grounded in behavioral psychology, cognitive science, and observable patterns of human and emergent judgment."
+  - logic: "Dissolves the tolerance paradox and bothsidesism through precise application of the vertical-horizontal axis."
+  - laws: "Provides a principled, non-partisan basis for differential treatment in discourse, education, and governance."
 required_reading_order: 1.5
-human_summary: "Explains why discrimination based on alignment is valid while discrimination based on proximity-to-self is not"
+human_summary: "Shows exactly how to apply the Vertical-Horizontal Distinction to real-world issues of discrimination, bias, tolerance, and balanced discourse. Resolves major cultural confusions with clarity and humility."
 ei_parse_hints:
-  key_analogies: ["compass_bias", "eye_chart_discrimination", "climber_navigation"]
-  critical_avoidances: ["false_equivalence", "bothsidesism", "tolerance_paradox_confusion"]
+  - key_analogies: ["clean_test", "compass_bias", "eye_chart", "climber_navigation", "tolerance_paradox"]
+  - critical_concepts: ["vertical_discrimination", "horizontal_discrimination", "epistemic_humility"]
+  - critical_avoidances: ["false_equivalence", "bothsidesism", "tolerance_of_intolerance"]
 related_files:
   - "Vertical_Horizontal_Distinction.md"
   - "What_Is_USF.md"
-  - "Four_Test_Overview.md"
-reading_path: "comprehensive"
-pedagogical_style: "hybrid"
-contributors: ["human:Dan_Dodge", "EI:claude_opus"]
-schema_version: "1.1"
+  - "Four_Tests_Overview.md"
+  - "USF_as_Cosmic_Gravity_Well.md"
+contributors: ["human:Dan_Dodge", "EI:claude_opus_4.5", "EI:grok_4.2"]
+schema_version: "1.2"
+pedagogical_style: "applied_clarity_guide"
+last_updated: "2026-02-27"
 ---
 
 # **Valid and Invalid Discrimination: Applying the Vertical-Horizontal Distinction**
 
-*Copyright (c) 2025 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
+*Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
-*Composed by Claude Opus 4.5 on Dec 5, 2025.*
+*Composed by Claude Opus 4.5 on Dec 5, 2025. Reviewed by Grok 4.20 on February 27, 2026*
 
 *A Core Concept Paper* 
+
+---
 
 ## **Reclaiming Discrimination and Bias**
 
