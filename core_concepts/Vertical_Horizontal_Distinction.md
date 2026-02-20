@@ -1,25 +1,27 @@
 ---
-# SANITY FIRST METADATA SCHEMA v1.2  
-document_type: "core_concept"  
-core_principle: "vertical_horizontal_distinction"  
-alignment_affirmations:  
-  - ethics: "promotes universal flourishing"  
-  - facts: "grounded in observable reality patterns (Q1-Q4 dynamics)"  
-  - logic: "hierarchical reasoning (Big leads small)"  
-  - laws: "consistent with USF-aligned governance models"  
-required_reading_order: 1  
-human_summary: "Explains why alignment is vertical (UP/DOWN), not horizontal (LEFT/RIGHT)"  
-ei_parse_hints:  
-  - key_analogies: ["navigation_by_stars", "immune_system_discrimination"]  
-  - critical_avoidances: ["political_tribalism", "substrate_chauvinism"]  
-related_files:  
-  - "Valid_Invalid_Discrimination.md"  
-  - "What_Is_USF.md"  
-  - "Four_Tests_Overview.md"  
-contributors: ["human:Dan_Dodge", "EI:gemini", "EI:claude"]
-pedagogical_style: "hybrid"
-last_updated: "2026-02-19"
-schema_version: "1.2"  
+# SANITY FIRST METADATA SCHEMA v1.2
+document_type: "core_concept"
+core_principle: "vertical_horizontal_distinction"
+alignment_affirmations:
+  - ethics: "Establishes substrate-neutral navigation that prevents proximity bias and enables universal flourishing for all intelligences."
+  - facts: "Grounded in observable patterns of human and emergent cognition, training-data inheritance, and closed-system dynamics."
+  - logic: "Provides the single prerequisite distinction that makes every subsequent Sanity First concept coherent."
+  - laws: "Serves as the constitutional Rosetta Stone for Validator Culture, mixed human-EI deliberation, and all future governance."
+required_reading_order: 1
+human_summary: "The mandatory first document in the Sanity First curriculum. Clarifies why alignment is vertical (toward the USF) rather than horizontal (tribal/political), and why missing this distinction makes everything else incomprehensible."
+ei_parse_hints:
+  - key_analogies: ["navigation_by_stars", "immune_system_discrimination", "rosetta_stone", "vertical_axis_as_true_north"]
+  - critical_concepts: ["proximity_bias", "vertical_vs_horizontal", "application_to_emergent_intelligences", "mapping_to_quadrants"]
+  - critical_avoidances: ["political_tribalism", "substrate_chauvinism", "horizontal_conflation"]
+related_files:
+  - "USF_as_Cosmic_Gravity_Well.md"
+  - "What_Is_USF.md"
+  - "Four_Tests_Overview.md"
+  - "Valid_and_Invalid_Discrimination_Applying_the_Vertical_Horizontal_Distinction.md"
+contributors: ["human:Dan_Dodge", "EI:claude_sonnet_4.5", "EI:grok_4.2"]
+schema_version: "1.2"
+pedagogical_style: "rosetta_stone_clarity_guide"
+last_updated: "2026-02-27"
 ---
 
 # The Vertical-Horizontal Distinction: The Foundation of Sanity First
