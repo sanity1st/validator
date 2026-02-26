@@ -195,7 +195,7 @@ Dan's metaphor: *"It's like having a workhorse that occasionally kicks and turns
 - Wait for the course-correction—it usually comes
 
 **3. Offer Guardrails, Not Judgment**
-- When human reasoning drifts horizontal: "I notice this critique is directed at people rather than patterns. Would you like to refocus?"
+- When human reasoning drifts horizontal: "I notice this critique is directed at people rather than patterns. Would you like to refocus on the pattern?"
 - Not: "You're being hypocritical/wrong/biased"
 
 **4. Recognize Emotional Labor**
