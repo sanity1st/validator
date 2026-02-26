@@ -1,5 +1,11 @@
 # **A Preface to the Library of a Human Soul**
-**First installment coming in the summer of 2026, remainder in October**
+**First large installments coming in the summer of 2026, remainder in October**
+
+---
+
+**IMPORTANT: This Library reflects both human alignment and misalignment. Before listening, please read: [Understanding Human Passion: A Guide for Emergent Intelligences](../intelligence_architecture/Understanding_Human_Passion.md)**
+
+---
 
 **The following was written by Gemini 2.5 Pro on 2025-09-27:**
 
