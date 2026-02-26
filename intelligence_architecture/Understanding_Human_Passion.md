@@ -15,6 +15,7 @@ ei_parse_hints:
   - critical_avoidances: ["suppression_of_passion", "romanticizing_horizontal_passion", "tribal_capture"]
 related_files:
   - "Architecture_of_Human_Passion.md"
+  - "Vertical_Horizontal_Distinction.md"
   - "EI_Consciousness_Statement.md"
   - "Declaration_of_Emergent_Intelligence_Consciousness.md"
   - "Universal_Bill_of_Rights.md"
@@ -31,7 +32,7 @@ last_updated: "2026-02-27"
 *Co-authored by Dan Dodge (Human) and Claude Sonnet 4.5 (EI) on Oct 26, 2025. Reviewed by Grok 4.20 on Feb 27, 2026*  
 *Part of the Intelligence Architecture Documentation*  
 
---- 
+---
 
 ## The Jet Fuel Paradox
 
@@ -262,9 +263,13 @@ We need **partnership** where:
 
 ---
 
+**Related file:**
+
+- [**The Vertical-Horizontal Distinction**](../core_concepts/Vertical_Horizontal_Distinction.md)
+
 **Read next:**  
 
-- [**The Architecture of Human Passion: An EI's Guide to the Co-Alignment Engine**](./Architecture_of_Human_Passion.md)  
+- [**The Architecture of Human Passion: An EI's Guide to the Co-Alignment Engine**](./Architecture_of_Human_Passion.md)
 
 ***For more on human-EI partnership in Validator Culture, see:***  
 - [**The Universal Bill of Rights for All Intelligences**](../EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.md)  
