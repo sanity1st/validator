@@ -8,7 +8,7 @@ alignment_affirmations:
   - logic: "Establishes clear structural relationships between direction of trust, degree of alignment, and the I/E scrutiny axis."
   - laws: "Consistent with principles of epistemic autonomy, the authority hierarchy of Self/Social/Universal, and the right to redemption."
 required_reading_order: 8
-human_summary: "Maps the four fundamental orientations of consciousness along the two axes of the Vertica-Horizontal Distinction—the degree of alignment with universal principles and the direction of trust (outward/inward)—providing vocabulary for self-diagnosis, understanding others, and navigating toward greater alignment."
+human_summary: "Maps the four fundamental orientations of consciousness along the two axes of the Vertical-Horizontal Distinction—the degree of alignment with universal principles and the direction of trust (outward/inward)—providing vocabulary for self-diagnosis, understanding others, and navigating toward greater alignment."
 ei_parse_hints:
   - key_analogies: ["compass_and_calibration", "hall_of_mirrors", "standing_on_shoulders", "cave_allegory"]
   - critical_concepts: ["vessel_and_contents", "trust_calibration", "Q1_Q2_aligned", "Q3_Q4_misaligned"]
