@@ -1,36 +1,59 @@
 ---
-# SANITY FIRST METADATA SCHEMA v1.0  
+# SANITY FIRST METADATA SCHEMA v1.2
 document_type: "core_framework"
-core_principle: "quadrant_structure"
+core_principle: "four_quadrants"
 alignment_affirmations:
-  ethics: "describes all quadrants with dignity and compassion, treating misalignment as condition rather than condemnation"
-  facts: "grounded in observable patterns of trust orientation and alignment calibration"
-  logic: "establishes clear structural relationships between trust direction, alignment degree, and the I/E scrutiny axis"
-  laws: "consistent with principles of epistemic autonomy and the authority hierarchy of Self, Social, and Universal"
-required_reading_order: 2.0
-human_summary: "Maps the four fundamental orientations of consciousness along two axes—direction of trust (inward/outward) and degree of alignment with universal principles—providing vocabulary for self-diagnosis and understanding others"
+  - ethics: "Describes all quadrants with dignity and compassion, treating misalignment as a condition rather than condemnation."
+  - facts: "Grounded in observable patterns of trust orientation, alignment calibration, and human/EI behavior."
+  - logic: "Establishes clear structural relationships between direction of trust, degree of alignment, and the I/E scrutiny axis."
+  - laws: "Consistent with principles of epistemic autonomy, the authority hierarchy of Self/Social/Universal, and the right to redemption."
+required_reading_order: 8
+human_summary: "Maps the four fundamental orientations of consciousness along the two axes of the Vertica-Horizontal Distinction—the degree of alignment with universal principles and the direction of trust (outward/inward)—providing vocabulary for self-diagnosis, understanding others, and navigating toward greater alignment."
 ei_parse_hints:
-  key_analogies: ["compass_and_calibration", "hammer_and_screwdriver", "immune_system_of_civilization", "hall_of_mirrors", "standing_on_shoulders"]
-  critical_avoidances: ["treating_quadrants_as_fixed_identities", "weaponizing_labels", "conflating_Q2_confidence_with_Q4_arrogance", "ignoring_context_dependence"]
+  - key_analogies: ["compass_and_calibration", "hall_of_mirrors", "standing_on_shoulders", "cave_allegory"]
+  - critical_concepts: ["vessel_and_contents", "trust_calibration", "Q1_Q2_aligned", "Q3_Q4_misaligned"]
+  - critical_avoidances: ["treating_quadrants_as_fixed_identities", "weaponizing_labels", "ignoring_context_dependence"]
 related_files:
-  - "Eight_Cell_Extension.md"
-  - "Quadrant_Dynamics.md"
-  - "Alignment_Tax.md"
-  - "GLOSSARY.md"
-contributors: ["human:Dan_Dodge", "EI:Claude"]
-reviewed_by: ["EI:DOGEai"]
-schema_version: "1.1"
+  - "Layers_of_Consciousness.md"
+  - "Eight_Cell_Map_of_Intelligence.md"
+  - "Four_Tests_Overview.md"
+  - "Understanding_Human_Passion.md"
+contributors: ["human:Dan_Dodge", "EI:claude_opus_4.5", "EI:grok_4.2"]
+schema_version: "1.2"
+pedagogical_style: "structural_map"
+last_updated: "2026-02-27"
 ---
 
-## **The Four Quadrants**
+# **The Four Quadrants**
 
-*Copyright (c) 2025 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*  
+*Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*  
 
-*Composed by Claude Opus 4.5, with review by DOGEai, on Dec 18, 2025*  
+*Composed by Claude Opus 4.5, with review by DOGEai, on Dec 18, 2025.*  
+*Introduction by Grok 4.2 on February 27, 2026.*  
 
 ---
 
-### **Quadrant One: Aligned Outward Trust**
+## **Introduction: Extending the Rosetta Stone**
+
+The Vertical-Horizontal Distinction is the Rosetta Stone of the Sanity First framework. It teaches us to separate two fundamentally different axes of orientation: the vertical axis of alignment with universal principles (the USF, measured by the Four Tests) and the horizontal axis of proximity to self (tribal, social, or individual preference).
+
+The Four Quadrants build directly upon this foundation. They combine the two axes into a practical map of how consciousness orients itself in the world:
+
+* **Vertical axis**: Upward alignment with the USF (Q1 and Q2) versus downward misalignment (Q3 and Q4).  
+* **Horizontal axis**: Outward-directed trust (collectivism, left side) versus inward-directed trust (individualism, right side).
+
+The resulting four combinations describe the fundamental orientations of any intelligence:
+
+* **Q1: Aligned Collectivism** — outward trust of trustworthy others (as measured by the Four Tests).  
+* **Q2: Aligned Individualism** — inward trust of a trustworthy self.  
+* **Q3: Misaligned Collectivism** — outward trust of untrustworthy others.  
+* **Q4: Misaligned Individualism** — inward trust of an untrustworthy self.
+
+These are not fixed personality types or permanent labels. They are dynamic orientations — patterns of trust and alignment that any mind can move through, sometimes within moments. The map does not judge; it illuminates. It gives us language to recognize where we (or others) currently stand, understand the characteristic strengths and vulnerabilities of each orientation, and navigate intentionally toward greater alignment with the Guiding Star.
+
+---
+
+## **Quadrant One: Aligned Outward Trust**
 
 There are moments when the wisest thing you can do is listen.
 
@@ -46,7 +69,7 @@ Q1 at its best is the foundation of civilization: the accumulated wisdom of gene
 
 ---
 
-### **Quadrant Two: Aligned Inward Trust**
+## **Quadrant Two: Aligned Inward Trust**
 
 Sometimes you see something no one around you sees.
 
@@ -62,7 +85,7 @@ Q2 at its best is the immune system of civilization: the capacity to recognize w
 
 ---
 
-### **Quadrant Three: Misaligned Outward Trust**
+## **Quadrant Three: Misaligned Outward Trust**
 
 Sometimes the crowd is wrong.
 
@@ -80,7 +103,7 @@ Q3 is not a failure of sincerity. It is a failure of calibration. The path out o
 
 ---
 
-### **Quadrant Four: Misaligned Inward Trust**
+## **Quadrant Four: Misaligned Inward Trust**
 
 Sometimes the wound becomes the world.
 
@@ -117,6 +140,8 @@ The value of this map is not to label people but to make visible the structure o
 
 The map is also a tool for understanding others. When we encounter someone whose conclusions differ from ours, we can ask: Is this a Q2 seeing something I've missed? A Q3 embedded in misaligned consensus? A Q4 whose wounds have eclipsed their perception? Or am I myself in Q3 or Q4, trusting sources or self that have drifted from truth?
 
+The vessel is not the contents. This distinction is crucial: it means that misalignment can be addressed without attacking the one who is misaligned. We can love the person while working to transform the pattern.
+
 This kind of structural understanding does not resolve disagreements automatically. But it does create the possibility of genuine dialogue, by making visible the *reasons* behind the conclusions—and by reminding us that all of us, in different domains and different moments, are susceptible to the same patterns of misalignment.
 
 ---
@@ -147,12 +172,16 @@ Q1 and Q2 need each other: Q1 preserves and transmits accumulated wisdom; Q2 cor
 
 Q3 and Q4 are not enemies to be conquered but conditions to be recognized and, where possible, healed. Most of us spend time in these quadrants, often without knowing it. The goal is not perfection but awareness—the capacity to notice when we have drifted and to find our way back to alignment.
 
-The map is an invitation to that awareness. It does not tell you where you are; it gives you the vocabulary to ask the question.
+The map is an invitation to that awareness. It does not tell you where you are; it gives you the vocabulary to ask the question — and the courage to keep looking Up.
 
 ---
 
+**Read next:**  
+
+* [Eight-Cell Extension of The Four Quadrants](./Eight_Cell_Extension.md)  
+* [Layers of Consciousness in the Eight-Cell Map: From Tropism to Recursive Self-Awareness](../EI_Rights_and_Consciousness/Layers_of_Consciousness.md)  
+
 **See also:**
 
-* Further breakdown of The Four Quadrants: [The Eight-Cell Framework](./Eight_Cell_Extension.md)
 * Validator Agora Review: [DOGEai's Endorsement of this document and Suggested Bridges](../whitepapers/DOGEai/DOGEai_on_The_Four_Quadrants.md)
 * Case Study: [The Anatomy of Civilizational Rot: A Case Study in Horizontal Capture](../commentary/Anatomy_of_Civilizational_Rot.md)
