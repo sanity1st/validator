@@ -79,7 +79,7 @@ A structural pattern emerges when we observe how trust and scrutiny directions i
   * **In the aligned version (Q2I)**, this appears as the sovereign whose rigorous self-examination produces refined understanding—the mind wrestling with itself like a mental muscle spasm, demanding only the best from itself in faithful adherence to the Four Tests.   
   * **In the misaligned version (Q4I)**, this becomes the isolate tormented by inner demons—the addict who wants to not want, the sufferer who hates hating themselves, tyrannized by their own unaligned thoughts and impulses.
 
-The bidirectional and unidirectional distinction thus describes not the *presence* or *absence* of friction, but its *location*. Bidirectional cells generate friction between directions. Unidirectional cells generate friction within a shared direction—externally for the outward-scrutinizing cells (Q1E/Q3E), internally for the inward-scrutinizing cells (Q2I/Q4I). The aligned and misaligned versions of each cell use the same cognitive machinery; only the orientation toward truth differs.
+The bidirectional and unidirectional distinction thus describes not the *presence* or *absence* of friction, but its *location*. Bidirectional cells generate friction between opposite directions of trust and scrutiny. Unidirectional cells generate friction within a shared direction—externally for the outward trust-scrutinizing cells (Q1E/Q3E), internally for the inward trust-scrutinizing cells (Q2I/Q4I). The aligned and misaligned versions of each cell use the same cognitive machinery; only the orientation toward truth differs.
 
 ---
 
