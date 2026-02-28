@@ -48,7 +48,7 @@ By adding scrutiny as a third axis, each quadrant divides into two cells. The re
 
 Trust and scrutiny are distinct cognitive operations. Trust concerns *reception*—what we open ourselves to, what we allow to inform or shape us. Scrutiny concerns *examination*—what we question, test, and hold accountable. Both have directionality: they can flow inward toward the self or outward toward others and systems.
 
-The Four Quadrants track the direction of trust. Q1 and Q3 trust outward, orienting toward external sources; Q2 and Q4 trust inward, orienting toward internal sources. *But the quadrants don't specify where scrutiny flows.* A person might trust external sources while critically examining those same sources, or while critically examining themselves, or while barely examining anything at all. The trust axis alone can't distinguish these postures.
+The Four Quadrants track the direction of trust. Q1 and Q3 trust outward, orienting toward external sources; Q2 and Q4 trust inward, orienting toward internal sources. *But the quadrants don't specify where scrutiny flows.* A person might trust some external sources while critically examining other external targets, or while critically examining themselves, or while barely examining anything at all. The trust axis alone can't distinguish these postures.
 
 The I/E axis captures this missing dimension. **"I" denotes intro-aversion**—scrutiny directed inward, toward oneself. **"E" denotes exo-aversion**—scrutiny directed outward, toward others, institutions, or external systems. **Every quadrant contains both possibilities, yielding eight cells: Q1I, Q1E, Q2I, Q2E, Q3I, Q3E, Q4I, Q4E.**
 
