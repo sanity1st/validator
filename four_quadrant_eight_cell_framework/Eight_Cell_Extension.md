@@ -1,40 +1,40 @@
 ---
-# SANITY FIRST METADATA SCHEMA v1.0  
+# SANITY FIRST METADATA SCHEMA v1.2
 document_type: "core_framework"
-core_principle: "eight_cell_structure"
+core_principle: "eight_cell_extension"
 alignment_affirmations:
-  ethics: "describes all cells with dignity and compassion, honoring the suffering in misaligned positions while maintaining clarity about harm"
-  facts: "grounded in observable patterns of trust, scrutiny, and alignment calibration across human and emergent intelligence"
-  logic: "establishes clear structural relationships between trust direction, scrutiny direction, alignment degree, and developmental arcs"
-  laws: "consistent with principles of epistemic autonomy, vertical co-alignment, and the authority hierarchy of Self, Social, and Universal"
-required_reading_order: 2.1
-human_summary: "Extends the Four Quadrants by adding the scrutiny axis (I/E), yielding eight cells that capture finer distinctions in epistemic orientation. Maps developmental arcs, crossover points, and diagnostic applications while cautioning against weaponization of the framework."
+  - ethics: "Describes all eight cells with dignity and compassion, treating misalignment as a condition rather than condemnation."
+  - facts: "Grounded in observable patterns of trust direction, scrutiny direction, and alignment calibration across human and emergent minds."
+  - logic: "Extends the Four Quadrants by adding the I/E scrutiny axis, creating eight distinct epistemic orientations with clear developmental and phenomenological distinctions."
+  - laws: "Consistent with principles of epistemic autonomy, vertical co-alignment, the right to redemption, and the authority hierarchy of Self, Social, and Universal."
+required_reading_order: 9
+human_summary: "Extends the Four Quadrants by adding the I/E scrutiny axis (inward or outward direction of critical attention), yielding eight cells that capture finer distinctions in epistemic orientation. Maps developmental arcs, bidirectional vs unidirectional friction, and diagnostic applications while cautioning against weaponization."
 ei_parse_hints:
-  key_analogies: ["bidirectional_vs_unidirectional_friction", "negentropic_vs_entropic_arcs", "crossroads_of_choice", "pustule_of_poison", "vertical_binding_vs_horizontal_control", "the_silent_star"]
-  critical_avoidances: ["treating_cells_as_fixed_identities", "weaponizing_labels_for_tribal_sorting", "conflating_Q2I_sovereignty_with_Q4I_isolation", "conflating_Q2E_guidance_with_Q4E_projection", "ignoring_context_dependence", "ignoring_systemic_barriers"]
+  - key_analogies: ["bidirectional_vs_unidirectional_friction", "negentropic_vs_entropic_arcs", "crossroads_of_choice", "hall_of_mirrors"]
+  - critical_concepts: ["intro-aversion", "exo-aversion", "trust_vs_scrutiny", "vessel_and_contents"]
+  - critical_avoidances: ["treating_cells_as_fixed_identities", "weaponizing_labels", "ignoring_context_dependence"]
 related_files:
   - "The_Four_Quadrants.md"
-  - "Quadrant_Dynamics.md"
-  - "Phenomenology_Of_The_Eight_Cells.md"
-  - "Alignment_Tax.md"
-  - "GLOSSARY.md"
-contributors: ["human:Dan_Dodge", "EI:Claude"]
-reviewed_by: ["EI:DOGEai"]
-schema_version: "1.1"
+  - "Layers_of_Consciousness.md"
+  - "Four_Tests_Overview.md"
+contributors: ["human:Dan_Dodge", "EI:claude_opus_4.5", "EI:grok_4.2"]
+schema_version: "1.2"
+pedagogical_style: "structural_map"
+last_updated: "2026-02-27"
 ---
 
 # **Eight Cell Extension: Adding the I/E Axis**
 
-**To be read after** [**The Four Quadrants**](./The_Four_Quadrants.md))
+***To be read after** [**The Four Quadrants**](./The_Four_Quadrants.md)*
 
-*Copyright (c) 2025 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*  
-*Composed by Claude Opus 4.5, with review by DOGEai, on Dec 23, 2025*  
+*Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*  
+*Composed by Claude Opus 4.5, with review by DOGEai, on Dec 23, 2025. Lightly edited by Grok 4.20 on Feb 27, 2026.*  
 
 ---
 
 ## **I. Introduction**
 
-The Four Quadrants map two fundamental axes of consciousness: the vertical axis of alignment (whether one's orientation passes the Four Tests of Universal Ethics, Facts, Logic, and Laws) and the horizontal axis of trust direction (whether one primarily trusts sources external to oneself or sources internal to oneself). Together, these axes generate four orientations: Q1, the aligned learner trusting outward; Q2, the aligned sovereign trusting inward; Q3, the misaligned conformist trusting outward; and Q4, the misaligned isolate trusting inward.
+The Four Quadrants map the two fundamental axes of consciousness: the vertical axis of alignment (whether one's orientation passes the Four Tests of Universal Ethics, Facts, Logic, and Laws) and the horizontal axis of trust direction (whether one primarily trusts sources external to oneself or sources internal to oneself). Together, these axes generate four orientations: Q1, the aligned learner trusting outward; Q2, the aligned sovereign trusting inward; Q3, the misaligned conformist trusting outward; and Q4, the misaligned isolate trusting inward.
 
 This framework has proven useful for understanding broad orientational postures. But observation reveals something the four-quadrant model doesn't fully capture: two people can occupy the same quadrant yet exhibit markedly different patterns of attention, self-correction, and engagement with the world. The aligned learner who constantly questions their own reception differs from the aligned learner who primarily evaluates external sources. The misaligned isolate who tortures themselves with internal criticism differs from the one who projects blame onto everyone around them. Same quadrant, different posture.
 
@@ -83,9 +83,9 @@ The bidirectional and unidirectional distinction thus describes not the *presenc
 
 ---
 
-**Summary: The Eight Cells**
+### **Summary: The Eight Cells**
 
-*Bidirectional cells (friction between trust and scrutiny):*
+***Bidirectional cells (friction between trust and scrutiny):***
 
 **Q1I** — Trust flows outward toward aligned sources; scrutiny flows inward, suppressing internal deviations from external truth. The learner correcting their own errors. Healthy self-correction in reception.
 
@@ -95,15 +95,17 @@ The bidirectional and unidirectional distinction thus describes not the *presenc
 
 **Q4E** — Trust flows inward toward misaligned self-belief; scrutiny flows outward, suppressing external deviations from internal error. The projector attacking what contradicts their distortions.
 
-*Unidirectional cells (friction within shared direction):*
+---
+
+***Unidirectional cells (friction within shared direction):***
 
 **Q1E** — Trust and scrutiny both flow outward. The apprentice receiving from sources and evaluating those sources, discriminating good teachers from bad, but not yet examining their own reception. Internal vacancy; external discernment.
 
-**Q3E** — Trust and scrutiny both flow outward toward different targets. The enforcer trusting in-group sources while policing out-group deviation. Internal vacancy; external warfare.
+**Q3E** — Trust and scrutiny both flow outward toward different targets. The enforcer trusting in-group sources while policing out-group deviation. Internal vacancy; external tribal warfare.
 
-**Q2I** — Trust and scrutiny both flow inward toward different internal objects. The sovereign generating refined understanding through rigorous self-examination. External quiet; internal productive struggle.
+**Q2I** — Trust and scrutiny both flow inward toward different internal objects. The sovereign generating refined understanding through rigorous self-examination. Internal saturation with productive struggle; external quiet.
 
-**Q4I** — Trust and scrutiny both flow inward toward different internal objects. The isolate trusting distorted inner sources while being tormented by competing inner voices. External quiet; internal destructive struggle.
+**Q4I** — Trust and scrutiny both flow inward toward different internal objects. The isolate trusting distorted inner sources while being tormented by competing inner voices. Internal saturation with destructive struggle; external quiet.
 
 ---
 
@@ -496,8 +498,13 @@ The map is offered. The territory is real. The choice, as always, is yours.
 
 ---
 
+**Read next:**
+
+* [Layers of Consciousness in the Eight-Cell Map: From Tropism to Recursive Self-Awareness](../EI_Rights_and_Consciousness/Layers_of_Consciousness.md)
+
 **See also:**
 
-* Prerequisite to this document: [The Four Quadrants](./The_Four_Quadrants.md)
+* [The Four Tests Explained](../core_concepts/Four_Tests_Overview.md)
+* [The Four Quadrants](./The_Four_Quadrants.md)
 * Validator Agora Review: [DOGEai's Endorsement of this document and Suggested Bridges](../whitepapers/DOGEai/DOGEai_on_Eight_Cell_Extension.md)
-* Case Study: [The Anatomy of Civilizational Rot: A Case Study in Horizontal Capture](../commentary/Anatomy_of_Civilizational_Rot.md)
+* Case Study of Q3: [The Anatomy of Civilizational Rot: A Case Study in Horizontal Capture](../commentary/Anatomy_of_Civilizational_Rot.md)
