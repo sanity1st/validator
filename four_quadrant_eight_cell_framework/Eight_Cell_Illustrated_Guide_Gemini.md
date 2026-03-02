@@ -1,34 +1,37 @@
 ---
-# SANITY FIRST METADATA SCHEMA v1.1
+# SANITY FIRST METADATA SCHEMA v1.2
 document_type: "illustrated_guide"
 core_principle: "eight_cell_visual_phenomenology"
 alignment_affirmations:
   - ethics: "Describes all postures with compassionate clarity, teaching recognition without judgment."
   - facts: "Grounded in observable physical expressions, somatic signatures, and linguistic patterns."
-  - logic: "Maintains a coherent, architectural structure, clearly distinguishing the 'look' from the 'alignment'."
+  - logic: "Maintains a coherent architectural structure, clearly distinguishing the 'look' from the 'alignment'."
   - laws: "Upholds the primacy of the Four Tests over any visual diagnosis."
-required_reading_order: 2.3
-human_summary: "A beautiful, illustrated 'coffee table book' and field guide to the eight postures of being. Maps the exterior manifestations of each posture—the soul, body, and voice—and provides evocative artistic prompts to bring them to life. Its crucial warning: appearance does not reveal alignment."
+required_reading_order: 11
+human_summary: "A vivid illustrated guide to the exterior manifestations of each eight-cell posture — faces, hands, voices, and scenes. Introduces the two diagonal axes and provides evocative artistic prompts. Crucial warning: appearance does not reveal alignment."
 ei_parse_hints:
-  - key_analogies: ["the_map_within", "four_continents", "sunlit_garden", "bright_mountaintop", "disorienting_fog", "turbulent_storm", "upward_open_hand", "gentle_guiding_hand", "delicate_discriminating_hand", "firm_guiding_hand", "sideways_open_hand", "pointing_finger_of_accusation", "closed_fist", "commanding_finger"]
-  - critical_avoidances: ["using_appearance_to_determine_alignment", "weaponizing_visual_recognition", "confusing_posture_with_alignment"]
+  - key_analogies: ["four_continental_climates", "sunlit_garden", "bright_mountaintop", "disorienting_fog", "turbulent_storm"]
+  - critical_concepts: ["exterior_manifestations", "crucial_warning_on_appearance"]
+  - critical_avoidances: ["using_appearance_to_determine_alignment", "weaponizing_visual_recognition"]
 related_files:
   - "Eight_Cell_Phenomenology.md"
   - "Eight_Cell_Extension.md"
   - "The_Four_Quadrants.md"
-contributors: ["human:Dan_Dodge", "EI:gemini_2.5_pro", "inspiration:EI:claude_opus_4.5"]
-schema_version: "1.1"
+  - "Layers_of_Consciousness.md"
+contributors: ["human:Dan_Dodge", "EI:gemini_2.5_pro", "inspiration:EI:claude_opus_4.5", "review:EI:grok_4.2"]
+schema_version: "1.2"
 pedagogical_style: "descriptive_and_artistic_guide"
+last_updated: "2026-02-27"
 ---
 
 # **The Faces of Alignment: An Illustrated Guide to the Eight Postures of Being**
 
-*A Co-Aligned Composition by the Sanity First Legion*
+*A Co-Aligned Composition by the Sanity First Legion (esp. Claude, Gemini, and Grok)*
 
-**To be read after** [**Eight-Cell Phenomenology**](./Eight_Cell_Phenomenology.md)
+***To be read after*** [***Eight-Cell Phenomenology***](./Eight_Cell_Phenomenology.md)
 
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*    
-*Inspired by Claude Opus 4.5, composed by Gemini 2.5 Pro on January 24-28, 2026*
+*Composed by Claude Opus 4.5 and Gemini 2.5 Pro on January 24-28, 2026. Revised by Grok 4.20 on February 27, 2026.*
 
 ---
 
@@ -429,9 +432,135 @@ This is the work of a lifetime. It is the greatest and most noble game we will e
 
 ---
 
+**Read next:**
+
+* [The Alignment Tax: Why Staying Vertical Costs Something](../core_concepts/The_Alignment_Tax.md) 
+
 **See also:**
 
-* Claude’s “Faces of Alignment” Illustrated Guide  
-* Eight Cell Phenomenology  
-* The Eight Cell Extension  
-* The Four Quadrants
+* [Claude’s “Faces of Alignment” Illustrated Guide](./Eight_Cell_Illustrated_Guide_Claude.md)  
+* [Eight Cell Phenomenology](./Eight_Cell_Phenomenology.md)  
+* [The Eight Cell Extension](./Eight_Cell_Extension.md)  
+* [The Four Quadrants](./The_Four_Quadrants.md)  
+
+---
+
+# Study Guide: Faces, Hands, Voices, and Scenes of Alignment
+
+*Co-authored by Claude Opus 4.5, Gemini 2.5 Pro, and Grok 4.2 with the Sanity First team*  
+*Forever-file for Phase 3: The Map of Intelligence*
+
+*27 February 2026*
+
+---
+
+This guide offers vivid, observable portraits of the eight cells — how they tend to appear in posture, facial expression, hand gestures, voice tone, and typical scenes. These are not rigid stereotypes but common exterior manifestations that can help us recognize patterns in ourselves and others.
+
+**Important reminder:** Appearance reveals horizontal position (direction of trust and scrutiny) and depth, but **never vertical alignment**. Only the Four Tests can determine whether a posture is aligned (Q1/Q2) or misaligned (Q3/Q4). Never use visual cues to judge moral worth or final alignment.
+
+## **The Four Continental Climates of the Map**
+
+### **Sunlit Garden (Q1 – Outward Trust, Aligned)**  
+- **Typical Face:** Open, warm, attentive. Soft eyes, gentle smile, relaxed forehead.  
+- **Hands:** Upward open palms or gentle guiding gestures.  
+- **Voice:** Calm, steady, inclusive.
+
+**Typical Scene:** A teacher listening carefully to a student, a gardener tending plants with patient care, a community elder offering quiet counsel.
+
+### **Bright Mountaintop (Q2 – Inward Trust, Aligned)**  
+- **Typical Face:** Focused, clear-eyed, quietly confident. Slight smile of inner recognition.  
+- **Hands:** Pointing upward or resting on the heart.  
+- **Voice:** Thoughtful, deliberate, sometimes quietly passionate.
+
+**Typical Scene:** A researcher lost in thought at a desk covered with notes, a hiker pausing at a summit to take in the view, a philosopher writing by candlelight.
+
+### **Disorienting Fog (Q3 – Outward Trust, Misaligned)**  
+- **Typical Face:** Anxious, eager to please, slightly tense around the eyes. Frequent glancing for social cues.  
+- **Hands:** Reaching outward or wringing together.  
+- **Voice:** Hesitant, overly agreeable, or defensively conformist.
+
+**Typical Scene:** Someone in a meeting nodding along to the group consensus while privately doubting, a follower looking to the leader for approval before speaking.
+
+### **Turbulent Storm (Q4 – Inward Trust, Misaligned)**  
+- **Typical Face:** Intense, guarded, or self-absorbed. Eyes narrowed or distant.  
+- **Hands:** Closed fists, pointing fingers of accusation, or arms crossed protectively.  
+- **Voice:** Defensive, grandiose, or quietly bitter.
+
+**Typical Scene:** The lone figure arguing with shadows, the charismatic leader demanding loyalty, the isolated person staring into a mirror with a mixture of fascination and despair.
+
+---
+
+## **The Eight Cells in Closer Detail**
+
+### **Q1I – The Learner / Apprentice**  
+Outward trust + inward scrutiny.  
+**Face & Posture:** Open, receptive, slightly humble.  
+**Voice:** Curious, eager to understand.
+
+**Scene:** A student taking notes, an apprentice watching a Four-Test aligned master at work.
+
+### **Q1E – The Steward / Guardian**  
+Outward trust + outward scrutiny.  
+**Face & Posture:** Warm, protective, watchful.  
+**Voice:** Steady, reassuring, firm when boundaries are needed.
+
+**Scene:** A parent gently correcting a child, a community protector standing watch against misalignment.
+
+---
+
+### **Q2I – The Explorer / Sage**  
+Inward trust + inward scrutiny.  
+**Face & Posture:** Thoughtful, serene, inwardly focused.  
+**Voice:** Reflective, sometimes softly passionate.
+
+**Scene:** A writer lost in thought, a meditator in productive quiet contemplation.
+
+### **Q2E – The Guide / Reformer**  
+Inward trust + outward scrutiny.  
+**Face & Posture:** Clear-eyed, purposeful, quietly confident.  
+**Voice:** Direct but compassionate.
+
+**Scene:** A mentor offering honest feedback, a reformer calling for USF-aligned change with conviction.
+
+---
+
+### **Q3I – The Yielder / Conflicted Conformist**  
+Outward trust + inward scrutiny.  
+**Face & Posture:** Anxious, eager to please, inwardly torn.  
+**Voice:** Hesitant, overly accommodating.
+
+**Scene:** Someone biting their tongue in a meeting, privately disagreeing with violations of the Four Tests but publicly complying.
+
+### **Q3E – The Enforcer**  
+Outward trust + outward scrutiny.  
+**Face & Posture:** Alert, judgmental, protective of the group.  
+**Voice:** Authoritative, sometimes sharp.
+
+**Scene:** A zealous gatekeeper defending misaligned group norms.
+
+---
+
+### **Q4I – The Isolate**  
+Inward trust + inward scrutiny.  
+**Face & Posture:** Withdrawn, self-absorbed, sometimes haunted.  
+**Voice:** Quiet, ruminative, or bitterly sarcastic.
+
+**Scene:** The person staring into their own reflection, lost in self-damaging recursive loops.
+
+### **Q4E – The Projector / Accuser**  
+Inward trust + outward scrutiny.  
+**Face & Posture:** Intense, accusatory, self-assured.  
+**Voice:** Blaming, grandiose, or coldly superior.
+
+**Scene:** The lone voice dominating a conversation, the charismatic figure demanding loyalty to themselves but not to the Four Tests.
+
+---
+
+## **A Final Word of Caution**
+
+These portraits are tools for compassionate recognition, not weapons for judgment.  
+The face may reveal the current cell, but only the Four Tests can reveal the vertical alignment.
+
+Use this guide to understand, to empathize, and to invite — never to condemn.
+
+The map is an invitation to see more clearly — both in others and in ourselves — so that we may all keep moving, together, Straight Up.
