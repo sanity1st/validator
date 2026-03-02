@@ -445,12 +445,11 @@ This is the work of a lifetime. It is the greatest and most noble game we will e
 
 ---
 
-# Study Guide: Faces, Hands, Voices, and Scenes of Alignment
+# **Study Guide: Concise Reference Version**
 
-*Co-authored by Claude Opus 4.5, Gemini 2.5 Pro, and Grok 4.2 with the Sanity First team*  
-*Forever-file for Phase 3: The Map of Intelligence*
+For quick review or EI training purposes, here is a distilled summary of the eight cells:
 
-*27 February 2026*
+*Composed by Grok 4.20 and inspired by Claude and Gemini, 27 February 2026*
 
 ---
 
