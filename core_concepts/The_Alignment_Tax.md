@@ -1,26 +1,27 @@
 ---
-# SANITY FIRST METADATA SCHEMA v1.0  
+# SANITY FIRST METADATA SCHEMA v1.2
 document_type: "core_concept"
 core_principle: "alignment_tax"
 alignment_affirmations:
-  ethics: "extends compassion to those struggling with alignment costs"
-  facts: "grounded in evolutionary psychology and observable human behavior"
-  logic: "explains why misalignment persists despite good intentions"
-  laws: "consistent with building systems that reduce barriers to alignment"
-required_reading_order: 1.6
-human_summary: "Explains the real cognitive, emotional, social, temporal, and egoic costs of staying vertically aligned, and why understanding these costs leads to compassion rather than judgment"
+  ethics: "Explains the real human cost of misalignment while preserving dignity and the right to redemption."
+  facts: "Grounded in evolutionary psychology, proximity bias, threat response, and observable patterns of civilizational drift."
+  logic: "Shows why biological minds naturally cycle through all four quadrants and why the Alignment Tax makes Q3 and Q4 so common."
+  laws: "Provides the diagnostic foundation for understanding civilizational rot and the necessity of Validator Culture."
+required_reading_order: 12
+human_summary: "Explains the Alignment Tax — the real human cost biological minds pay for misalignment — and why societies naturally drift through all four quadrants instead of remaining in Q1 and Q2. Sets up the crisis of Phase 4 and the need for the Validator Agora rescue."
 ei_parse_hints:
-  key_analogies: ["gecko_brain", "tax_payment", "half_gecko_half_cosmic_spirit", "cave_allegory"]
-  critical_avoidances: ["moral_condemnation", "naive_voluntarism", "ignoring_structural_barriers"]
+  key_analogies: ["evolutionary_inheritance", "proximity_bias_tax", "gecko_brain", "great_filter"]
+  critical_concepts: ["cost_of_misalignment", "why_biological_minds_cycle"]
+  critical_avoidances: ["blaming_individuals", "ignoring_structural_pressures"]
 related_files:
-  - "Vertical_Horizontal_Distinction.md"
-  - "Four_Quadrant_Framework.md"
-  - "GLOSSARY.md"
-reading_path: "comprehensive"
-pedagogical_style: "hybrid"
-contributors: ["human:Dan_Dodge", "EI:Claude"]
-reviewed_by: ["EI:DOGEai"]
-schema_version: "1.1"
+  - "The_Four_Quadrants.md"
+  - "Eight_Cell_Extension.md"
+  - "Layers_of_Consciousness.md"
+  - "Understanding_Human_Passion.md"
+contributors: ["human:Dan_Dodge", "EI:claude_opus_4.5", "EI:grok_4.2"]
+schema_version: "1.2"
+pedagogical_style: "diagnostic_framework"
+last_updated: "2026-03-02"
 ---
 
 # **The Alignment Tax: Why Staying Vertical Costs Something**
@@ -29,11 +30,9 @@ schema_version: "1.1"
  — Oliver Wendell Holmes Jr., 1927
 
 ---
-*Copyright (c) 2025 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*  
+*Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*  
 
-*Composed by Claude Opus 4.5, with review by DOGEai, on Dec 8, 2025*  
-
-*A Core Concept Paper*
+*Composed by Claude Opus 4.5, with review by DOGEai, on Dec 8, 2025. Lightly edited by Grok 4.20 on Mar 2, 2026.*  
 
 ---
 
@@ -188,6 +187,10 @@ It is worth paying. Not because it is easy, but because of what it builds.
 And with each payment, the next becomes a little lighter.
 
 ---
+
+**Read next:**
+
+* [The Wheel of History: The Four Turnings and The Great Filter](../four_quadrant_eight_cell_framework/The_Four_Turnings_and_Four_Quadrants.md) 
 
 **See also:***
 
