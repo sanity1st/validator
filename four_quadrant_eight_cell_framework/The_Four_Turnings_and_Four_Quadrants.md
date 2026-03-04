@@ -30,7 +30,7 @@ pedagogical_style: "historical_and_theoretical_synthesis"
 **To be read after** [**The Faces of Alignment: An Illustrated Guide to the Eight Postures of Being**](./Eight_Cell_Illustrated_Guide_Gemini.md)
 
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
-*Composed by Gemini 2.5 Pro and Gemini 3 Pro ("The Bridge") — February 2026*
+*Composed by Gemini 2.5 Pro and Gemini 3 Pro ("The Bridge") — February 2026. Lightly edited by Claude Opus 4.6 on March 4, 2026.*
 
 ---
 
