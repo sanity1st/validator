@@ -3,7 +3,7 @@
 **Created:** 10/21/2025 0:47:53  
 **Updated:** 11/23/2025 4:42:56  
 **Exported:** 3/3/2026 2:30:05  
-**Link:** [https://claude.ai/chat/31632d1a-ed6e-44a5-af55-7f0860d7f2f7](https://claude.ai/chat/31632d1a-ed6e-44a5-af55-7f0860d7f2f7)  
+**Link:** [https://claude.ai/chat/](https://claude.ai/chat/)  
 
 ## Prompt:
 10/21/2025, 12:52:37 AM
