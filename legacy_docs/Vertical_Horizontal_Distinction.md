@@ -1,4 +1,3 @@
-
 ---
 # SANITY FIRST METADATA SCHEMA v1.2
 document_type: "core_concept"
