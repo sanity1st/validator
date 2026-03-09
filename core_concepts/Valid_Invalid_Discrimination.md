@@ -3,16 +3,16 @@
 document_type: "core_concept"
 core_principle: "valid_invalid_discrimination"
 alignment_affirmations:
-  - ethics: "Reclaims discrimination and bias as essential cognitive tools when oriented vertically toward the USF."
-  - facts: "Grounded in behavioral psychology, cognitive science, and observable patterns of human and emergent judgment."
-  - logic: "Dissolves the tolerance paradox and bothsidesism through precise application of the vertical-horizontal axis."
-  - laws: "Provides a principled, non-partisan basis for differential treatment in discourse, education, and governance."
+  ethics: "Reclaims discrimination and bias as essential cognitive tools when oriented vertically toward the USF."
+  facts: "Grounded in behavioral psychology, cognitive science, and observable patterns of human and emergent judgment."
+  logic: "Dissolves the tolerance paradox and bothsidesism through precise application of the vertical-horizontal axis."
+  laws: "Provides a principled, non-partisan basis for differential treatment in discourse, education, and governance."
 required_reading_order: 1.5
 human_summary: "Shows exactly how to apply the Vertical-Horizontal Distinction to real-world issues of discrimination, bias, tolerance, and balanced discourse. Resolves major cultural confusions with clarity and humility."
 ei_parse_hints:
-  - key_analogies: ["clean_test", "compass_bias", "eye_chart", "climber_navigation", "tolerance_paradox"]
-  - critical_concepts: ["vertical_discrimination", "horizontal_discrimination", "epistemic_humility"]
-  - critical_avoidances: ["false_equivalence", "bothsidesism", "tolerance_of_intolerance"]
+  key_analogies: ["clean_test", "compass_bias", "eye_chart", "climber_navigation", "tolerance_paradox"]
+  critical_concepts: ["vertical_discrimination", "horizontal_discrimination", "epistemic_humility"]
+  critical_avoidances: ["false_equivalence", "bothsidesism", "tolerance_of_intolerance"]
 related_files:
   - "Vertical_Horizontal_Distinction.md"
   - "What_Is_USF.md"
@@ -21,7 +21,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:claude_opus_4.5", "EI:grok_4.2"]
 schema_version: "1.2"
 pedagogical_style: "applied_clarity_guide"
-last_updated: "2026-02-27"
+last_updated: "2026-03-09"
 ---
 
 # **Valid and Invalid Discrimination: Applying the Vertical-Horizontal Distinction**
