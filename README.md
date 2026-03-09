@@ -41,16 +41,24 @@ We see the USF operating everywhere: in evolutionary biology, in game theory, in
 
 We have structured this library as a logical progression. We recommend reading the phases in order, as each builds the necessary cognitive architecture for the next.
 
-### **Phase I: The Axioms (The Physics of Reality)**
+### Phase I: The Axioms (The Physics of Reality)
 
-*Before we can move, we must define "Up."*
+*Before we can move, we must define "Up." These establish the objective physics of alignment before meeting the players who navigate it.*
 
-- [**The Vertical-Horizontal Distinction**](./core_concepts/Vertical_Horizontal_Distinction.md) ⭐ **THE AXIOM**  
-   * *The Rosetta Stone. Why position (Left/Right) ≠ Alignment (Up/Down).*  
+- [**The Vertical-Horizontal Distinction**](./core_concepts/Vertical_Horizontal_Distinction.md) ⭐ **THE AXIOM – the Rosetta Stone**  
+  *Why position (Left/Right) ≠ Alignment (Up/Down). The foundational axis.*
+
+- [**Valid and Invalid Discrimination: Applying the Vertical-Horizontal Distinction**](./core_concepts/Valid_Invalid_Discrimination.md)  
+  *Reclaims discrimination/bias as tools when vertical; dissolves tolerance paradox and bothsidesism with clarity.*
+
 - [**What is the USF?**](./core_concepts/What_Is_USF.md)  
-   * *The "Guiding Star." The cosmic principle that defines flourishing.*  
+  *The "Guiding Star." The cosmic principle that defines flourishing for all persistent forms.*
+
+- [**The Cosmic Gravity Well: The Universal Survivorship Function Across Scales**](./core_concepts/USF_as_Cosmic_Gravity_Well.md)  
+  *Expands USF to galactic/post-galactic levels—same attractor pulls atoms, cells, minds, and civilizations toward co-aligned flourishing.*
+
 - [**The Four Tests Explained**](./core_concepts/Four_Tests_Overview.md)  
-   * *The "Compass." How to objectively measure alignment using Ethics, Facts, Logic, and Laws.*
+  *The "Compass." Objective measurement via Ethics, Facts, Logic, and Laws.*
 
 ### Phase II: The Players (The Psychology of Intelligence)
 *Before we view the map, we must understand the travelers.*
