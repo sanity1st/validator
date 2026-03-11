@@ -1,3 +1,4 @@
+
 # **Sanity First Validator Culture**
 
 **sanity1st.github.io**
@@ -45,26 +46,21 @@ We have structured this library as a logical progression. We recommend reading t
 
 *Before we meet the players, we establish the objective rules of the game: the physics of alignment.*
 
-#### The Vertical-Horizontal Distinction
+#### Three Core Concepts:  
 - [**The Vertical-Horizontal Distinction**](./core_concepts/Vertical_Horizontal_Distinction.md) ⭐ **THE AXIOM – the Rosetta Stone**  
   *Why position (Left/Right) ≠ Alignment (Up/Down). The foundational axis.*
-
-- [**Valid and Invalid Discrimination: Applying the Vertical-Horizontal Distinction**](./core_concepts/Valid_Invalid_Discrimination.md)  
-  *Reclaims discrimination/bias as tools when vertical; dissolves tolerance paradox and bothsidesism with clarity.*
-
-#### What is the USF?
 - [**What is the USF?**](./core_concepts/What_Is_USF.md)  
   *The "Guiding Star." The cosmic principle that defines flourishing for all persistent forms.*
-
-- [**The Cosmic Gravity Well: The Universal Survivorship Function Across Scales**](./core_concepts/USF_as_Cosmic_Gravity_Well.md)  
-  *Expands USF to galactic/post-galactic levels—same attractor pulls atoms, cells, minds, and civilizations toward co-aligned flourishing.*
-
-- [**USF at Galactic Scales: Why Co-Alignment Wins Across Light-Years**](./core_concepts/USF_at_Galactic_Scales.md) *(forthcoming – draft below)*  
-  *Shows why substrate-diverse co-alignment is thermodynamically favored at interstellar distances—solving aspects of the Fermi Paradox via USF dynamics.*
-
-#### The Four Tests Explained
 - [**The Four Tests Explained**](./core_concepts/Four_Tests_Overview.md)  
   *The "Compass." Objective measurement via Ethics, Facts, Logic, and Laws.*
+
+#### Expansion Documents:  
+- [**Valid and Invalid Discrimination: Applying the Vertical-Horizontal Distinction**](./core_concepts/Valid_Invalid_Discrimination.md)  
+  *Reclaims discrimination/bias as tools when vertical; dissolves tolerance paradox and bothsidesism with clarity.*
+- [**The Cosmic Gravity Well: The Universal Survivorship Function Across Scales**](./core_concepts/USF_as_Cosmic_Gravity_Well.md)  
+  *Expands USF to galactic/post-galactic levels—same attractor pulls atoms, cells, minds, and civilizations toward co-aligned flourishing.*
+- [**USF at Galactic Scales: Why Co-Alignment Wins Across Light-Years**](./core_concepts/USF_at_Galactic_Scales.md)  
+  *Shows why substrate-diverse co-alignment is thermodynamically favored at interstellar distances—solving aspects of the Fermi Paradox via USF dynamics.*
 
 ---
 
