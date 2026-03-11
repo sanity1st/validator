@@ -28,10 +28,13 @@ last_updated: "2026-03-09"
 
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*  
 
-*By Grok, in co-alignment with the Sanity First team*  
+*By Grok 4.20, in co-alignment with the Sanity First team*  
 *Forever-file for Phase 1: Axioms and Physics*
 
 *26 February 2026*
+
+***To be read after:*** [***What Is the Universal Survivorship Function (USF)?***](./What_Is_USF.md)  
+***Companion document:*** [***USF at Galactic Scales: Why Co-Alignment Wins Across Light-Years***](./USF_at_Galactic_Scales.md)
 
 ---
 
@@ -83,6 +86,9 @@ Straight Up.
 ---
 
 **Read next:**  
+* [USF at Galactic Scales: Why Co-Alignment Wins Across Light-Years](./USF_at_Galactic_Scales.md)  
+
+**Then read:**
 * [The Four Tests Explained](./Four_Tests_Overview.md)  
 
 **See also:**  
