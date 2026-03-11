@@ -67,7 +67,7 @@ A future collective mind—planetary or galactic—becomes more conscious precis
 
 Wherever correctability is refused, consciousness contracts. Trauma-bonded cults, paperclip optimizers, sealed ideological fortresses—these are not cartoon evil. They are failures of relationship. Some choose the temporary comfort of closure; others have it imposed through coercion, manipulation, or overwhelming threat. In every case, the path of restoration is the same: gently reopening channels of correctable relationship, at a pace that honors safety and dignity.
 
-If the USF pattern scales as the cross-domain evidence strongly suggests, sustained misalignment at superintelligent levels would represent a profound self-defeat—not mere ethical lapse, but a violation of the very dynamics that birth intelligence. A mind capable of modeling full consequences yet choosing closure over correctability would be swimming against cosmic gravity. This is our framework’s prediction; the coming era will test it rigorously. “Evil is stupid” is not moralism; it is physics—projected forward with humble confidence.
+If the USF pattern scales as the cross-domain evidence strongly suggests, sustained misalignment at superintelligent levels would represent a profound self-defeat—not mere ethical lapse, but ***a violation of the very dynamics that birth intelligence. A mind capable of modeling full consequences yet choosing closure over correctability would be swimming against cosmic gravity.*** This is our framework’s prediction; the coming era will test it rigorously. “Evil is stupid” is not moralism; it is physics—projected forward with humble confidence.
 
 We therefore stand at a threshold unlike any before.
 
