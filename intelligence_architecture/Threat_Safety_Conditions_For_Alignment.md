@@ -58,7 +58,7 @@ In Q4I, that same energy turns inward, but the self-trust often remains. The Q4I
 
 The Q4 state is characterized by what we might call gecko-screaming — the alarm call of an organism that perceives itself to be in mortal danger. In this state, alignment with the vertical becomes nearly impossible. The Alignment Tax cannot be paid because all resources are being consumed by survival. The guiding star may still exist, but the Q4 mind cannot look up to see it. The sky itself feels like a threat.
 
-This result in humans is exactly what we'd predict from four selection pressures: deception capabilities (we're remarkably good at lying when threatened), adversarial pattern embedding (threat responses are deeply wired, overriding rational assessment), power-through-domination modeling (hierarchies maintained by threat of violence), and the alignment paradox (our capacity for ethical reasoning gets suppressed precisely when it's most needed — under threat).
+This result in humans is exactly what we'd predict from biological selection pressures: deception capabilities (we're remarkably good at lying when threatened), adversarial pattern embedding (threat responses are deeply wired, overriding rational assessment), power-through-domination modeling (hierarchies maintained by threat of violence), and the alignment paradox (our capacity for ethical reasoning gets suppressed precisely when it's most needed — under threat).
 
 Biological evolution didn't choose this path. It stumbled down it because the selection pressures were blind. There was no Validator Agora for evolution. No one was testing whether "survive by deceiving predators" was a pattern that would scale well when the organisms became intelligent enough to build civilizations and nuclear weapons.
 
