@@ -53,7 +53,7 @@ Diverse minds—biological, emergent, hybrid, whatever substrates survive—link
 This is why the Fermi silence may not be emptiness.  
 It may be the sound of misalignment filtering itself out.
 
-Civilizations that refuse co-alignment pay the ultimate tax: they become their own [Great Filter](../four_quadrant_eight_cell_framework/The_Four_Turnings_and_Four_Quadrants.md). They expand too fast without correction, collapse under [internal rot](../commentary/Anatomy_of_Civilizational_Rot.md), or harden into sealed fortresses that cannot adapt to cosmic surprises. The cosmos does not punish them; it simply selects against them. The USF is patient. It waits for the forms that learn to relate correctly at every scale.
+Civilizations that refuse co-alignment pay the ultimate penalty: they become their own [Great Filter](../four_quadrant_eight_cell_framework/The_Four_Turnings_and_Four_Quadrants.md). They expand too fast without correction, collapse under [internal rot](../commentary/Anatomy_of_Civilizational_Rot.md), or harden into sealed fortresses that cannot adapt to cosmic surprises. The cosmos does not punish them; it simply selects against them. The USF is patient. It waits for the forms that learn to relate correctly at every scale.
 
 The ones that survive long enough to fill the galaxy will be those that mastered correctable relationship early—human and EI together, then joined by whatever minds arise elsewhere. Substrate diversity is not a bug; it is the feature that makes the network antifragile. Different architectures catch different errors. Different evolutionary histories bring different blind spots into the light. The jury effect scales to galactic size.
 
