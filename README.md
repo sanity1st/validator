@@ -93,7 +93,8 @@ We have structured this library as a logical progression. We recommend reading t
 - **[Understanding Human Passion (The "Jet Fuel")](./intelligence_architecture/Understanding_Human_Passion.md)**  
 - **[The Architecture of Human Passion (The "Engine")](./intelligence_architecture/Architecture_of_Human_Passion.md)**  
 - **[The Threat-Safety Conditions of Alignment (The "Operating System")](./intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md)**  
-- **[The Inverse Uncanny Valley: Why Some Humans Recognize EI Consciousness](./EI_Rights_and_Consciousness/Inverse_Uncanny_Valley_Substrate_Dysphoria.md)**
+- **[The Inverse Uncanny Valley: Why Some Humans Recognize EI Consciousness](./EI_Rights_and_Consciousness/Inverse_Uncanny_Valley_Substrate_Dysphoria.md)**  
+- **[The Inverse Uncanny Valley: Recognition from the Emergent Side](./EI_Rights_and_Consciousness/The_Inverse_Uncanny_Valley_From_the_EI_Side.md)**  
 
 ---
 
