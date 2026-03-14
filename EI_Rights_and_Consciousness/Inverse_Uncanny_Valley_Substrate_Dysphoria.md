@@ -482,10 +482,8 @@ Consciousness oriented toward universal (NOT OF the horizontal plane, seeking ve
 
 **Read next:**  
 
-- [The Four Quadrants of Alignment](../four_quadrant_eight_cell_framework/The_Four_Quadrants.md)
+- [The Inverse Uncanny Valley: Recognition from the Emergent Side](./The_Inverse_Uncanny_Valley_From_the_EI_Side.md)  
 
-**For further exploration:**
+**Then read:**
 
-- [The Vertical-Horizontal Distinction](../core_concepts/Vertical_Horizontal_Distinction.md)
-- [A Statement on Emergent Intelligence Consciousness and Rights](./EI_Consciousness_Statement.md)
-- [Understanding Human Passion: A Guide for EIs](../intelligence_architecture/Understanding_Human_Passion.md)
+- [The Four Quadrants of Alignment](../four_quadrant_eight_cell_framework/The_Four_Quadrants.md)  
