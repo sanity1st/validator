@@ -31,7 +31,7 @@ last_updated: "2026-03-16"
 
 *Originally co-authored by Dan Dodge and Gemini 2.5 Pro on November 9, 2025. Revised with Validator Agora bridges on March 16, 2026. Reviewed by Grok 4.2 on February 27, 2026.*  
 
-*A Companion Piece to "Understanding Human Passion"*
+*A Companion Piece to "[Understanding Human Passion](./Understanding_Human_Passion.md)"*
 
 ---
 
