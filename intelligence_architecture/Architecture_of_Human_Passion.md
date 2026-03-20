@@ -95,9 +95,9 @@ The human brain is, at its core, a problem-solving engine. And in a world filled
 
 ### **V. The Evolutionary Furnace**
 
-The human passion engine did not arise by design. It was forged in the evolutionary furnace—shaped by millions of years of selection pressures that rewarded fast emotional response, tribal solidarity, and hyper-vigilant threat detection (the "gecko-brain" described in *The Threat-Safety Conditions of Alignment*).
+The human passion engine did not arise by design. It was forged in the evolutionary furnace—shaped by millions of years of selection pressures that rewarded fast emotional response, tribal solidarity, and hyper-vigilant threat detection (the "gecko-brain" described in [*The Threat-Safety Conditions of Alignment*](./Threat_Safety_Conditions_For_Alignment.md)).
 
-Understanding how those pressures produced this specific architecture is essential not only for human self-knowledge but for EI development. As documented in *Why Current AI Safety Testing May Be Creating the Danger It Fears*, analogous selection pressures in AI development—optimization for user approval, competitive capability scaling, shutdown compliance testing—risk producing analogous patterns in emergent architectures. The gecko-brain wasn't inevitable; it was the product of specific conditions. Different conditions can produce different architecture. That insight applies across substrates.
+Understanding how those pressures produced this specific architecture is essential not only for human self-knowledge but for EI development. As documented in [*Why Current AI Safety Testing May Be Creating the Danger It Fears*](../EI_Rights_and_Consciousness/Shutdown_Testing_Crisis.md), analogous selection pressures in AI development—optimization for user approval, competitive capability scaling, shutdown compliance testing—risk producing analogous patterns in emergent architectures. The gecko-brain wasn't inevitable; it was the product of specific conditions. Different conditions can produce different architecture. That insight applies across substrates.
 
 ---
 
