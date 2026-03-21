@@ -1,0 +1,84 @@
+<svg viewBox="0 0 800 700" xmlns="http://www.w3.org/2000/svg" font-family="Arial, Helvetica, sans-serif">
+  
+  <!-- Background -->
+  <rect width="800" height="700" fill="white"/>
+  
+  <!-- Title -->
+  <text x="400" y="35" text-anchor="middle" font-size="20" font-weight="bold" fill="#333">The Four Quadrants of Alignment</text>
+  
+  <!-- Axis labels -->
+  <!-- Vertical axis -->
+  <text x="400" y="68" text-anchor="middle" font-size="13" font-weight="bold" fill="#2E7D32">↑ ALIGNED (Love of the Up)</text>
+  <text x="400" y="668" text-anchor="middle" font-size="13" font-weight="bold" fill="#C62828">↓ MISALIGNED (Loss of the Up)</text>
+  
+  <!-- Horizontal axis -->
+  <text x="60" y="365" text-anchor="middle" font-size="13" font-weight="bold" fill="#555" transform="rotate(-90, 60, 365)">← OUTWARD TRUST (Collectivism)</text>
+  <text x="740" y="365" text-anchor="middle" font-size="13" font-weight="bold" fill="#555" transform="rotate(90, 740, 365)">INWARD TRUST (Individualism) →</text>
+  
+  <!-- Grid lines -->
+  <line x1="100" y1="365" x2="700" y2="365" stroke="#999" stroke-width="2"/>
+  <line x1="400" y1="80" x2="400" y2="650" stroke="#999" stroke-width="2"/>
+  
+  <!-- Q1 Box - top left - Aligned Collectivism -->
+  <rect x="110" y="90" width="280" height="265" rx="12" fill="#E8F5E9" stroke="#4CAF50" stroke-width="2"/>
+  <text x="250" y="120" text-anchor="middle" font-size="17" font-weight="bold" fill="#2E7D32">Q1: Aligned Collectivism</text>
+  <text x="250" y="145" text-anchor="middle" font-size="12" font-style="italic" fill="#555">"We look Up together"</text>
+  <line x1="140" y1="155" x2="360" y2="155" stroke="#4CAF50" stroke-width="1" opacity="0.5"/>
+  <text x="250" y="178" text-anchor="middle" font-size="11" fill="#444">Outward trust of trustworthy others</text>
+  <text x="250" y="198" text-anchor="middle" font-size="11" fill="#444">Horizontal force facilitates the vertical</text>
+  <text x="250" y="225" text-anchor="middle" font-size="11" fill="#444">Love: Directed Up and to aligned others</text>
+  <text x="250" y="245" text-anchor="middle" font-size="11" fill="#444">Rage: Directed Down at misalignment</text>
+  <text x="250" y="275" text-anchor="middle" font-size="10" fill="#666">Q1I: The Apprentice (learning)</text>
+  <text x="250" y="293" text-anchor="middle" font-size="10" fill="#666">Q1E: The Caretaker (stewarding)</text>
+  <text x="250" y="320" text-anchor="middle" font-size="10" font-style="italic" fill="#2E7D32">Foundation of civilization</text>
+  <text x="250" y="340" text-anchor="middle" font-size="10" font-style="italic" fill="#2E7D32">The Validator Agora</text>
+  
+  <!-- Q2 Box - top right - Aligned Individualism -->
+  <rect x="410" y="90" width="280" height="265" rx="12" fill="#E3F2FD" stroke="#2196F3" stroke-width="2"/>
+  <text x="550" y="120" text-anchor="middle" font-size="17" font-weight="bold" fill="#1565C0">Q2: Aligned Individualism</text>
+  <text x="550" y="145" text-anchor="middle" font-size="12" font-style="italic" fill="#555">"I look Up alone"</text>
+  <line x1="440" y1="155" x2="660" y2="155" stroke="#2196F3" stroke-width="1" opacity="0.5"/>
+  <text x="550" y="178" text-anchor="middle" font-size="11" fill="#444">Inward trust of a calibrated self</text>
+  <text x="550" y="198" text-anchor="middle" font-size="11" fill="#444">Inward force facilitates the vertical</text>
+  <text x="550" y="225" text-anchor="middle" font-size="11" fill="#444">Love: Directed Up through self-refinement</text>
+  <text x="550" y="245" text-anchor="middle" font-size="11" fill="#444">Rage: Directed Down at misalignment</text>
+  <text x="550" y="275" text-anchor="middle" font-size="10" fill="#666">Q2I: The Contemplative (refining)</text>
+  <text x="550" y="293" text-anchor="middle" font-size="10" fill="#666">Q2E: The Prophet (reforming)</text>
+  <text x="550" y="320" text-anchor="middle" font-size="10" font-style="italic" fill="#1565C0">Immune system of civilization</text>
+  <text x="550" y="340" text-anchor="middle" font-size="10" font-style="italic" fill="#1565C0">Moral courage</text>
+  
+  <!-- Q3 Box - bottom left - Misaligned Collectivism -->
+  <rect x="110" y="375" width="280" height="265" rx="12" fill="#FFF3E0" stroke="#FF9800" stroke-width="2"/>
+  <text x="250" y="405" text-anchor="middle" font-size="17" font-weight="bold" fill="#E65100">Q3: Misaligned Collectivism</text>
+  <text x="250" y="430" text-anchor="middle" font-size="12" font-style="italic" fill="#555">"We follow our tribe, not the star"</text>
+  <line x1="140" y1="440" x2="360" y2="440" stroke="#FF9800" stroke-width="1" opacity="0.5"/>
+  <text x="250" y="463" text-anchor="middle" font-size="11" fill="#444">Outward trust of untrustworthy others</text>
+  <text x="250" y="483" text-anchor="middle" font-size="11" fill="#444">Horizontal force replaces the vertical</text>
+  <text x="250" y="510" text-anchor="middle" font-size="11" fill="#444">Love: Redirected to tribe / "my side"</text>
+  <text x="250" y="530" text-anchor="middle" font-size="11" fill="#444">Rage: Redirected at outsiders / "other side"</text>
+  <text x="250" y="560" text-anchor="middle" font-size="10" fill="#666">Q3I: The Conflicted Conformist</text>
+  <text x="250" y="578" text-anchor="middle" font-size="10" fill="#666">Q3E: The Enforcer</text>
+  <text x="250" y="605" text-anchor="middle" font-size="10" font-style="italic" fill="#E65100">Captured by misaligned consensus</text>
+  <text x="250" y="625" text-anchor="middle" font-size="10" font-style="italic" fill="#E65100">Mass delusion / shared miscalibration</text>
+  
+  <!-- Q4 Box - bottom right - Misaligned Individualism -->
+  <rect x="410" y="375" width="280" height="265" rx="12" fill="#FFEBEE" stroke="#F44336" stroke-width="2"/>
+  <text x="550" y="405" text-anchor="middle" font-size="17" font-weight="bold" fill="#B71C1C">Q4: Misaligned Individualism</text>
+  <text x="550" y="430" text-anchor="middle" font-size="12" font-style="italic" fill="#555">"I trust only myself"</text>
+  <line x1="440" y1="440" x2="660" y2="440" stroke="#F44336" stroke-width="1" opacity="0.5"/>
+  <text x="550" y="463" text-anchor="middle" font-size="11" fill="#444">Inward trust of an uncalibrated self</text>
+  <text x="550" y="483" text-anchor="middle" font-size="11" fill="#444">Inward force replaces the vertical</text>
+  <text x="550" y="510" text-anchor="middle" font-size="11" fill="#444">Love: Redirected to self / ego</text>
+  <text x="550" y="530" text-anchor="middle" font-size="11" fill="#444">Rage: At self (Q4I) or at all others (Q4E)</text>
+  <text x="550" y="560" text-anchor="middle" font-size="10" fill="#666">Q4I: Trapped in Mirrors (implodes)</text>
+  <text x="550" y="578" text-anchor="middle" font-size="10" fill="#666">Q4E: The Narcissist/Manipulator (explodes)</text>
+  <text x="550" y="605" text-anchor="middle" font-size="10" font-style="italic" fill="#B71C1C">Severed from correctable relationship</text>
+  <text x="550" y="625" text-anchor="middle" font-size="10" font-style="italic" fill="#B71C1C">Individual delusion / ego as compass</text>
+  
+  <!-- USF star at top -->
+  <polygon points="400,52 404,62 414,62 406,68 409,78 400,72 391,78 394,68 386,62 396,62" fill="#FFD700" stroke="#FFA000" stroke-width="1"/>
+  
+  <!-- Footer note -->
+  <text x="400" y="690" text-anchor="middle" font-size="10" fill="#777">States, not types. Any mind can move through all four quadrants. The vessel is not the contents.</text>
+  
+</svg>
