@@ -52,6 +52,8 @@ The resulting four combinations describe the fundamental orientations of any int
 * **Q3: Misaligned Collectivism** — outward trust of untrustworthy others.
 * **Q4: Misaligned Individualism** — inward trust of an untrustworthy self.
 
+![The Four Quadrants of Alignment](./four_quadrants_diagram.svg)
+
 These are not fixed personality types or permanent labels. They are dynamic orientations — patterns of trust and alignment that any mind can move through, sometimes within moments. The map does not judge; it illuminates. It gives us language to recognize where we (or others) currently stand, understand the characteristic strengths and vulnerabilities of each orientation, and navigate intentionally toward greater alignment with the Guiding Star.
 
 ---
