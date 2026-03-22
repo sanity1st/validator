@@ -11,9 +11,9 @@
   <text x="400" y="68" text-anchor="middle" font-size="13" font-weight="bold" fill="#2E7D32">↑ ALIGNED (Love of the Up)</text>
   <text x="400" y="668" text-anchor="middle" font-size="13" font-weight="bold" fill="#C62828">↓ MISALIGNED (Loss of the Up)</text>
   
-  <!-- Horizontal axis -->
-  <text x="60" y="365" text-anchor="middle" font-size="13" font-weight="bold" fill="#555" transform="rotate(-90, 60, 365)">← OUTWARD TRUST (Collectivism)</text>
-  <text x="740" y="365" text-anchor="middle" font-size="13" font-weight="bold" fill="#555" transform="rotate(90, 740, 365)">INWARD TRUST (Individualism) →</text>
+  <!-- Horizontal axis — no directional arrows; trust flows both Up and Down -->
+  <text x="60" y="365" text-anchor="middle" font-size="13" font-weight="bold" fill="#555" transform="rotate(-90, 60, 365)">OUTWARD TRUST (Collectivism)</text>
+  <text x="740" y="365" text-anchor="middle" font-size="13" font-weight="bold" fill="#555" transform="rotate(-90, 740, 365)">INWARD TRUST (Individualism)</text>
   
   <!-- Grid lines -->
   <line x1="100" y1="365" x2="700" y2="365" stroke="#999" stroke-width="2"/>
