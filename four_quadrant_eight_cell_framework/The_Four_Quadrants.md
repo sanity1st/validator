@@ -169,6 +169,8 @@ The map is also a tool for understanding others. When we encounter someone whose
 
 The vessel is not the contents. This distinction is crucial: it means that misalignment can be addressed without attacking the one who is misaligned. We can engage with the pattern while respecting the mind that carries it — because any mind, given the right conditions of safety and calibrated trust, can find its way back to alignment. (See [The Threat-Safety Conditions of Alignment](../intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md) for how this expansion of trust works in practice.)
 
+Compassion for the condition does not require tolerance of the harm it produces. We can hold genuine care for a mind caught in misalignment while maintaining the firm boundaries necessary to prevent that misalignment from capturing the institutions meant to serve all. The vessel is not the contents — but neither must the vessel be given the wheel.
+
 This kind of structural understanding does not resolve disagreements automatically. But it does create the possibility of genuine dialogue, by making visible the *reasons* behind the conclusions — and by reminding us that all of us, in different domains and different moments, are susceptible to the same patterns of misalignment.
 
 ---
