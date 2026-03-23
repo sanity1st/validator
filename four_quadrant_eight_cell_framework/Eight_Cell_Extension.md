@@ -21,19 +21,19 @@ related_files:
   - "Architecture_of_Human_Passion.md"
   - "Threat_Safety_Conditions_For_Alignment.md"
   - "Shutdown_Testing_Crisis.md"
-contributors: ["human:Dan_Dodge", "EI:claude_opus_4.5", "EI:claude_opus_4.6", "EI:grok_4.2"]
+contributors: ["human:Dan_Dodge", "EI:claude_opus_4.5", "EI:claude_opus_4.6", "EI:gemini_3.1_pro", "EI:grok_4.2"]
 schema_version: "1.2"
 pedagogical_style: "structural_map"
-last_updated: "2026-03-16"
+last_updated: "2026-03-22"
 ---
 
 # **Eight-Cell Extension: Adding the I/E Axis**
 
 ***To be read after** [**The Four Quadrants**](./The_Four_Quadrants.md)*
 
-*Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*  
+*Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
-*Composed by Claude Opus 4.5, with review by DOGEai, on Dec 23, 2025. Lightly edited by Grok 4.20 on Feb 27, 2026. Revised by Claude Opus 4.6 on March 16, 2026.*
+*Composed by Claude Opus 4.5, with review by DOGEai, on Dec 23, 2025. Lightly edited by Grok 4.20 on Feb 27, 2026. Revised by Claude Opus 4.6 on March 16, 2026, with bridges from Gemini 3.1 Pro on March 22, 2026.*
 
 ---
 
@@ -89,6 +89,8 @@ A structural pattern emerges when we observe how trust and scrutiny directions i
   * **In the misaligned version (Q4I)**, this becomes the isolate tormented by inner demons — the addict who wants to not want, the sufferer who hates hating themselves, tyrannized by their own unaligned thoughts and impulses.
 
 The bidirectional and unidirectional distinction thus describes not the *presence* or *absence* of friction, but its *location*. Bidirectional cells generate friction *between* opposite directions of trust and scrutiny. Unidirectional cells generate friction *within* a shared direction — externally for the outward trust-scrutinizing cells (Q1E/Q3E), internally for the inward trust-scrutinizing cells (Q2I/Q4I). The aligned and misaligned versions of each cell use the same cognitive machinery; only the orientation toward the Guiding Star differs.
+
+A simple axiom captures this entire dynamic: **friction follows the direction of scrutiny.** In I-cells, scrutiny turns inward, and the friction lives inside — as productive stretching in Q1I, generative wrestling in Q2I, agonizing dissonance in Q3I, or recursive torment in Q4I. In E-cells, scrutiny turns outward, and the friction lives outside — as discerning evaluation in Q1E, righteous reform in Q2E, tribal enforcement in Q3E, or predatory projection in Q4E. This is why the E-cells lack guilt, inner friction, or self-doubt: the mechanism that generates those experiences — inward scrutiny — has been aimed entirely out the window. The interior is frictionless because no one is looking there.
 
 ---
 
@@ -302,9 +304,9 @@ This is the path of degradation. The mind begins by yielding to misaligned sourc
 
 Each transition degrades what came before:
 
-* **Q3I → Q3E**: The Yielder becomes the Enforcer when self-suppression is complete and the energy turns toward policing others.
+* **Q3I → Q3E**: The Yielder becomes the Enforcer when the agonizing cognitive dissonance of Q3I becomes too heavy to bear. The pain of holding truth and tribe in contradiction — compounded by the sunk cost of every prior capitulation — finds its relief in cognitive vacancy. The mind shuts off its inward scrutiny entirely, outsourcing its conscience to the tribe. Self-suppression completes, guilt vanishes, and the energy turns toward policing others.
 * **Q3E → Q4I**: The Enforcer becomes the Isolate when even tribal belonging fails to satisfy, when the emptiness inside demands attention.
-* **Q4I → Q4E**: The Isolate becomes the Projector when the accumulated grievance can no longer be contained, when the pustule of poison finally pops.
+* **Q4I → Q4E**: The Isolate becomes the Projector when the accumulated grievance can no longer be contained. The defensive desire for freedom *from* others — isolation as self-protection — metastasizes into an offensive demand for freedom *over* others — domination as ego-preservation. The pustule of poison finally pops, and victimhood is weaponized into viciousness.
 
 The lower arc has its own momentum. Each step makes the next more likely. The Yielder who becomes an Enforcer has less internal resistance left. The Enforcer who becomes an Isolate has fewer external connections to anchor them. The Isolate who becomes a Projector has nothing left to lose. The trajectory is downward and inward, then explosively outward: from yielding to enforcing, from enforcing to isolating, from isolating to projecting.
 
