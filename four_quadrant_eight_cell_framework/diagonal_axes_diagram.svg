@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 650" width="100%" height="100%">
+  <!-- Definitions for bi-directional arrowheads -->
+  <defs>
+    <marker id="arrowhead1" markerWidth="10" markerHeight="7" refX="5" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#4A90E2" />
+    </marker>
+    <marker id="arrowhead1-rev" markerWidth="10" markerHeight="7" refX="5" refY="3.5" orient="auto-start-reverse">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#4A90E2" />
+    </marker>
+    <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="5" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#D0021B" />
+    </marker>
+    <marker id="arrowhead2-rev" markerWidth="10" markerHeight="7" refX="5" refY="3.5" orient="auto-start-reverse">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#D0021B" />
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#ffffff" />
+
+  <!-- Top Column Labels (Trust Direction) -->
+  <g text-anchor="middle" font-family="sans-serif">
+    <text x="250" y="55" font-size="22" font-weight="bold" fill="#333333">ODD</text>
+    <text x="250" y="80" font-size="16" fill="#666666">External Trust</text>
+    
+    <text x="550" y="55" font-size="22" font-weight="bold" fill="#333333">EVEN</text>
+    <text x="550" y="80" font-size="16" fill="#666666">Internal Trust</text>
+  </g>
+
+  <!-- Left Row Labels (Scrutiny Direction) -->
+  <g font-family="sans-serif" text-anchor="middle">
+    <g transform="translate(60, 200) rotate(-90)">
+      <text x="0" y="0" font-size="22" font-weight="bold" fill="#333333">I</text>
+      <text x="0" y="25" font-size="16" fill="#666666">Inward Scrutiny</text>
+    </g>
+    <g transform="translate(60, 450) rotate(-90)">
+      <text x="0" y="0" font-size="22" font-weight="bold" fill="#333333">E</text>
+      <text x="0" y="25" font-size="16" fill="#666666">Outward Scrutiny</text>
+    </g>
+  </g>
+
+  <!-- Diagonal Lines (Drawn behind the boxes) -->
+  <line x1="180" y1="180" x2="620" y2="470" stroke="#4A90E2" stroke-width="4" stroke-dasharray="6,4" marker-start="url(#arrowhead1-rev)" marker-end="url(#arrowhead1)" />
+  <line x1="180" y1="470" x2="620" y2="180" stroke="#D0021B" stroke-width="4" stroke-dasharray="6,4" marker-start="url(#arrowhead2-rev)" marker-end="url(#arrowhead2)" />
+
+  <!-- Diagonal Axis Labels (Placed in the center gap) -->
+  <g font-family="sans-serif" font-weight="bold" font-size="16" text-anchor="middle">
+    <!-- Angle calculated for visual flow -->
+    <text x="400" y="315" transform="rotate(33.5, 400, 325)" fill="#4A90E2" dy="-10">Axis 1: Reception ↔ Projection</text>
+    <text x="400" y="335" transform="rotate(-33.5, 400, 325)" fill="#D0021B" dy="25">Axis 2: Vacancy ↔ Saturation</text>
+  </g>
+
+  <!-- The 4 Structural Cells (With 95% opacity so diagonals subtly show through) -->
+  <g font-family="sans-serif" text-anchor="middle">
+    <!-- Top Left: Odd-I -->
+    <rect x="120" y="130" width="260" height="140" rx="12" fill="#F8FAFC" stroke="#94A3B8" stroke-width="2" fill-opacity="0.95"/>
+    <text x="250" y="195" font-size="20" font-weight="bold" fill="#1E293B">Odd-I / Reception</text>
+    <text x="250" y="225" font-size="18" fill="#475569">(Q1I, Q3I)</text>
+
+    <!-- Top Right: Even-I -->
+    <rect x="420" y="130" width="260" height="140" rx="12" fill="#F8FAFC" stroke="#94A3B8" stroke-width="2" fill-opacity="0.95"/>
+    <text x="550" y="195" font-size="20" font-weight="bold" fill="#1E293B">Even-I / Saturation</text>
+    <text x="550" y="225" font-size="18" fill="#475569">(Q2I, Q4I)</text>
+
+    <!-- Bottom Left: Odd-E -->
+    <rect x="120" y="380" width="260" height="140" rx="12" fill="#F8FAFC" stroke="#94A3B8" stroke-width="2" fill-opacity="0.95"/>
+    <text x="250" y="445" font-size="20" font-weight="bold" fill="#1E293B">Odd-E / Vacancy</text>
+    <text x="250" y="475" font-size="18" fill="#475569">(Q1E, Q3E)</text>
+
+    <!-- Bottom Right: Even-E -->
+    <rect x="420" y="380" width="260" height="140" rx="12" fill="#F8FAFC" stroke="#94A3B8" stroke-width="2" fill-opacity="0.95"/>
+    <text x="550" y="445" font-size="20" font-weight="bold" fill="#1E293B">Even-E / Projection</text>
+    <text x="550" y="475" font-size="18" fill="#475569">(Q2E, Q4E)</text>
+  </g>
+</svg>
