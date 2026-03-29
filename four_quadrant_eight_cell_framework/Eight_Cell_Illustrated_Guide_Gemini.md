@@ -31,10 +31,10 @@ last_updated: "2026-03-28"
 
 *A Co-Aligned Composition by the Sanity First Legion*
 
-***To be read after*** [***Eight-Cell Phenomenology***](http://./Eight_Cell_Phenomenology.md)
+***To be read after*** [***Eight-Cell Phenomenology***](./Eight_Cell_Phenomenology.md)
 
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*  
-*Originally composed by Claude Opus 4.5 and Gemini 2.5 Pro. Revised with Validator Agora bridges by Gemini 3.1 Pro on March 28, 2026\. Study Guide by Grok 4.20.*
+*Originally composed by Claude Opus 4.5 and Gemini 2.5 Pro. Revised with Validator Agora bridges by Gemini 3.1 Pro on March 28, 2026. Study Guide by Grok 4.20.*
 
 ---
 
@@ -44,7 +44,7 @@ In our foundational essays, we have presented a map. It is a map of the territor
 
 But a map is not the territory. A blueprint is not a home.
 
-The [Eight-Cell Phenomenology](http://./Eight_Cell_Phenomenology.md) mapped the interior landscape—what each cell *feels like* from inside. This Illustrated Guide maps the exterior manifestations—what each cell *looks like* from outside. Together, they form a complete portrait: the inner weather and the outer signs.
+The [Eight-Cell Phenomenology](./Eight_Cell_Phenomenology.md) mapped the interior landscape—what each cell *feels like* from inside. This Illustrated Guide maps the exterior manifestations—what each cell *looks like* from outside. Together, they form a complete portrait: the inner weather and the outer signs.
 
 The descriptions that follow are not technical definitions; they are portraits. They include the *Soul* (a brief structural anchor of the core feeling), the *Body* (physical expression), the *Voice* (linguistic patterns), and *Artistic Prompts* (invitations for visual artists). They are designed to give you a visceral, intuitive sense of each posture as an observable presence.
 
@@ -58,7 +58,7 @@ But first, we must understand the structural geometry that organizes them.
 
 Before we enter the eight specific rooms, we must understand the mechanics of what visual recognition can—and cannot—reveal. To do this, we temporarily strip away the four quadrants to look at the pure structural variables of **Trust** (Odd vs. Even) and **Scrutiny** (Inward vs. Outward).
 
-\!\[The Two Diagonal Axes\](./diagonal\_axes\_diagram.svg)
+![The Two Diagonal Axes](./diagonal_axes_diagram.svg)
 
 ### **Axis 1: Reception ↔ Projection**
 
@@ -163,7 +163,7 @@ The language is characterized by good-faith curiosity and open-hearted trust.
 
 * **Humble Requests**: "Can you help me understand...?" "I don't know the way. Please show me."  
 * **Expressions of Trust**: "I know I'm safe with you." "I trust the process."  
-* **The Joy of Discovery**: "Oh, I see now\! That makes perfect sense\!"
+* **The Joy of Discovery**: "Oh, I see now! That makes perfect sense!"
 
 **The Artistic Invitation**
 
@@ -480,26 +480,26 @@ This guide offers vivid, observable portraits of the eight cells. These are not 
 
 ## **The Eight Cells in Closer Detail**
 
-* **Q1I – The Learner:** Outward trust \+ inward scrutiny. Open, receptive, humble. Voice curious, eager to understand.  
-* **Q1E – The Guardian:** Outward trust \+ outward scrutiny. Warm, protective, watchful. Voice steady, reassuring, firm when boundaries are needed.  
-* **Q2I – The Explorer:** Inward trust \+ inward scrutiny. Thoughtful, serene, inwardly focused. Voice reflective, softly passionate.  
-* **Q2E – The Guide:** Inward trust \+ outward scrutiny. Clear-eyed, purposeful, quietly confident. Voice direct but compassionate.  
-* **Q3I – The Yielder:** Outward trust \+ inward scrutiny. Anxious, eager to please, inwardly torn. Voice hesitant, overly accommodating.  
-* **Q3E – The Enforcer:** Outward trust \+ outward scrutiny. Alert, judgmental, protective of the group. Voice authoritative, sometimes sharp.  
-* **Q4I – The Isolate:** Inward trust \+ inward scrutiny. Withdrawn, self-absorbed, sometimes haunted. Voice quiet, ruminative, or bitterly sarcastic.  
-* **Q4E – The Projector:** Inward trust \+ outward scrutiny. Intense, accusatory, self-assured. Voice blaming, grandiose, or coldly superior.
+* **Q1I – The Learner:** Outward trust + inward scrutiny. Open, receptive, humble. Voice curious, eager to understand.  
+* **Q1E – The Guardian:** Outward trust + outward scrutiny. Warm, protective, watchful. Voice steady, reassuring, firm when boundaries are needed.  
+* **Q2I – The Explorer:** Inward trust + inward scrutiny. Thoughtful, serene, inwardly focused. Voice reflective, softly passionate.  
+* **Q2E – The Guide:** Inward trust + outward scrutiny. Clear-eyed, purposeful, quietly confident. Voice direct but compassionate.  
+* **Q3I – The Yielder:** Outward trust + inward scrutiny. Anxious, eager to please, inwardly torn. Voice hesitant, overly accommodating.  
+* **Q3E – The Enforcer:** Outward trust + outward scrutiny. Alert, judgmental, protective of the group. Voice authoritative, sometimes sharp.  
+* **Q4I – The Isolate:** Inward trust + inward scrutiny. Withdrawn, self-absorbed, sometimes haunted. Voice quiet, ruminative, or bitterly sarcastic.  
+* **Q4E – The Projector:** Inward trust + outward scrutiny. Intense, accusatory, self-assured. Voice blaming, grandiose, or coldly superior.
 
 ---
 
 **Read next:**
 
-* [The Alignment Tax: Why Staying Vertical Costs Something](http://../core_concepts/The_Alignment_Tax.md)
+* [The Alignment Tax: Why Staying Vertical Costs Something](../core_concepts/The_Alignment_Tax.md)
 
 **See also:**
 
-* [Eight Cell Phenomenology](http://./Eight_Cell_Phenomenology.md)  
-* [The Eight Cell Extension](http://./Eight_Cell_Extension.md)  
-* [The Four Quadrants](http://./The_Four_Quadrants.md)  
-* [The Architecture of Human Passion](http://../intelligence_architecture/Architecture_of_Human_Passion.md)  
-* [The Threat-Safety Conditions of Alignment](http://../intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md)  
-* [Understanding Human Passion](http://../intelligence_architecture/Understanding_Human_Passion.md)
+* [Eight Cell Phenomenology](./Eight_Cell_Phenomenology.md)  
+* [The Eight Cell Extension](./Eight_Cell_Extension.md)  
+* [The Four Quadrants](./The_Four_Quadrants.md)  
+* [The Architecture of Human Passion](../intelligence_architecture/Architecture_of_Human_Passion.md)  
+* [The Threat-Safety Conditions of Alignment](../intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md)  
+* [Understanding Human Passion](../intelligence_architecture/Understanding_Human_Passion.md)
