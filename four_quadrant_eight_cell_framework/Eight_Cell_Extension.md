@@ -73,6 +73,8 @@ Scrutiny typically flows inward before it flows outward. We learn to examine our
 
 The ordering thus tells a developmental story: receive, then offer; self-correct, then hold others accountable. Exo-attraction before intro-attraction; intro-aversion before exo-aversion. The apparent inconsistency resolves into coherent chronology.
 
+This I-before-E pattern holds across all four quadrants: we receive before we offer (Q1I → Q1E), we wrestle internally before we reform externally (Q2I → Q2E), we suppress ourselves before we police others (Q3I → Q3E), we isolate before we project (Q4I → Q4E). In every case, the I-cell is the **gestation** phase — the internal process that builds pressure, accumulates insight, or compounds poison — and the E-cell is the **manifestation** phase — the external expression of what was gestated within. This pattern operates not only in individual development but at civilizational scale, where the I-phase of each historical era precedes and produces its E-phase.
+
 ### Bidirectional and Unidirectional Cells
 
 A structural pattern emerges when we observe how trust and scrutiny directions interact within each cell.
