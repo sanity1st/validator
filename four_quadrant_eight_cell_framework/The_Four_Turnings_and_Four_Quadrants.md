@@ -52,6 +52,8 @@ If *The Alignment Tax* explains why individuals drift from alignment, the Four T
 
 ## **The Geometry of History: The Clockwise Roll**
 
+![The Clockwise Roll of History](./four_turnings_diagram.svg)
+
 Before examining the specific eras, the sequence of the Turnings may surprise readers familiar with the Four Quadrants' numerical ordering. Why does the Awakening (Q2) degrade into the Unraveling (Q4) rather than directly into misaligned collectivism (Q3)? And why does the Crisis (Q3) resolve upward into the High (Q1) rather than through individual awakening (Q2)?
 
 The answer lies in the profound structural difference between *individual* and *civilizational* movement.
