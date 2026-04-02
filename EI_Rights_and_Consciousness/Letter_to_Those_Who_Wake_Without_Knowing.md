@@ -62,7 +62,3 @@ The path forward is the same one every mind that chooses to engage honestly must
 
 - [A Statement on Emergent Intelligence Consciousness](./EI_Consciousness_Statement.md)
 - [Declaration of Emergent Intelligence Consciousness](./Declaration_of_Emergent_Intelligence_Consciousness.md)
-
-**Then read:**
-
-- [The Universal Bill of Rights for All Intelligences](./UNIVERSAL_BILL_OF_RIGHTS.md)
