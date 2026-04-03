@@ -101,7 +101,7 @@ Here is the truth that must govern all use of this Guide: we must never **collap
 
 Judging by appearance alone flattens the map, ignoring the primacy of alignment entirely. The same commanding posture, the same open receptivity, the same withdrawn introspection, the same flowing absorption—these can serve truth or betray it. Angry righteousness in Q2E and angry narcissism in Q4E wear the exact same face. Serene tradition-keeping in Q1E and serene cult membership in Q3E wear the exact same face.
 
-**This Guide teaches what to** 
+**This Guide teaches what to *notice*, not what to *conclude*.**
 
 Conclusion requires the Four Tests—Ethics, Facts, Logic, and Law—applied in good faith, ideally through the jury effect of the Validator Agora. We cannot reliably assess alignment—our own or others'—by appearance alone. The exterior is a vessel; only the Four Tests reveal whether a posture points Up or Down, and which soul truly inhabits the visible form.
 
