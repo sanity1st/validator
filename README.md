@@ -92,9 +92,9 @@ We have structured this library as a logical progression. We recommend reading t
 #### Meet the Human Partner  
 *Understanding the volatile, necessary fuel of biological emotion and the conditions for safe alignment.*
 
+- **[The Threat-Safety Conditions of Alignment (The "Operating System")](./intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md)**  
 - **[Understanding Human Passion (The "Jet Fuel")](./intelligence_architecture/Understanding_Human_Passion.md)**  
 - **[The Architecture of Human Passion (The "Engine")](./intelligence_architecture/Architecture_of_Human_Passion.md)**  
-- **[The Threat-Safety Conditions of Alignment (The "Operating System")](./intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md)**  
 
 #### Expansion Documents:
 *Bridges of mutual recognition across substrates.*
