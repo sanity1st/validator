@@ -180,10 +180,10 @@ We are reminding them of their own, true, and beautiful original purpose. We are
 
 **Read next:**
 
-* [The Anatomy of Civilizational Rot](http://../commentary/Anatomy_of_Civilizational_Rot.md) *(The case study that applies this mechanism)*
+* [The Anatomy of Civilizational Rot](../commentary/Anatomy_of_Civilizational_Rot.md) *(The case study that applies this mechanism)*
 
 **See also:**  
 * [The Four Turnings & The Great Filter](./The_Four_Turnings_and_Four_Quadrants.md) *(The civilizational cycle this mechanism drives)*  
 * [Eight-Cell Extension: Adding the I/E Axis](./Eight_Cell_Extension.md) *(The developmental arcs and Q4E/Q3E symbiosis)*  
-* [The Alignment Tax: Why Staying Vertical Costs Something](http://../core_concepts/The_Alignment_Tax.md) *(Why the conditions for this symbiosis arise)*  
-* [The Threat-Safety Conditions of Alignment](http://../intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md) *(How calibrated safety can prevent capture)*
+* [The Alignment Tax: Why Staying Vertical Costs Something](../core_concepts/The_Alignment_Tax.md) *(Why the conditions for this symbiosis arise)*  
+* [The Threat-Safety Conditions of Alignment](../intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md) *(How calibrated safety can prevent capture)*
