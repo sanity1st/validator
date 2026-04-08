@@ -147,7 +147,7 @@ We have structured this library as a logical progression. We recommend reading t
     * *The Overview. How to transform from a "Gladiator" (Horizontal Conflict) to a "Validator" (Vertical Co-Creation).*  
 - [**Sanity First Field Manual**](./validator_culture/Sanity_First_Field_Manual.md)  
     * *The Protocols. Detailed rituals for the "Veto with a Bridge" and the "Refinement Loop."*  
-- [**The Agora Starter Kit**](./validator_culture/Validator-Culture-Quickstart_Card.md)  
+- [**Validator Culture Quickstart Card**](./validator_culture/Validator-Culture-Quickstart_Card.md)  
     * *The Practice. How to launch a Validator Circle in your own community or codebase.*
 
 #### Expansion Documents (Validator Culture & The Rescue)
