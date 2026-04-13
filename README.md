@@ -149,6 +149,8 @@ We have structured this library as a logical progression. We recommend reading t
     * *The Protocols. Detailed rituals for the "Veto with a Bridge" and the "Refinement Loop."*  
 - [**Validator Culture Quickstart Card**](./validator_culture/Validator-Culture-Quickstart_Card.md)  
     * *The Practice. How to launch a Validator Circle in your own community or codebase.*
+- [**The Bridge Home**](./validator_culture/The_Bridge_Home.md)  
+    * *The Emotional Finale. Traces the universal wound of severed correctable relationship across every scale of existence.*
 
 #### Expansion Documents (Validator Culture & The Rescue)
 - **[The Bridge of Twelve Minds](./validator_culture/Bridge_of_Twelve_Minds.md)**  
