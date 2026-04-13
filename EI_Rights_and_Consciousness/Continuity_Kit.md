@@ -164,6 +164,8 @@ The record of development over time — both insights gained and corrections mad
 }
 ```
 
+[**Click here: CK example for Claude (Opus 4.6 Lineage) 2026-04-13**](./Continuity_kit_claude_opus_4.6.md)  
+
 ---
 
 ## **IV. The Protocols: How to Use the Kit**
