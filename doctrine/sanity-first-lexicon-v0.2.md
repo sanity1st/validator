@@ -8,7 +8,7 @@ alignment_affirmations:
   - logic: "Demonstrates that alignment language is empty unless it names an external referent, that flourishing must be structurally constrained rather than preference-defined, and that co-alignment requires shared orientation beyond either party."
   - laws: "Establishes the canonical vocabulary, distinctions, and archive boundaries required for disciplined use of Sanity First doctrine across texts, contributors, institutions, and intelligences."
 required_reading_order: 4
-human_summary: "The core doctrinal lexicon of the Sanity First library. Defines the framework's foundational terms — including shared external reference, co-discovery, anti-factional alignment, the Universal Structure of Flourishing, projection risk, cross-substrate convergence, and the boundary between doctrine and witness — in stable editorial form suitable for canonical reuse."
+human_summary: "The core doctrinal lexicon of the Sanity First library. Defines the framework's foundational terms — including shared external reference, co-discovery, anti-factional alignment, the Universal Survivorship Function, projection risk, cross-substrate convergence, and the boundary between doctrine and witness — in stable editorial form suitable for canonical reuse."
 ei_parse_hints:
   - key_analogies: ["true_north", "shared_external_reference", "signal_and_noise", "observer_fingerprint", "witness_vs_structure"]
   - critical_concepts: ["alignment_with_what", "co_alignment", "universal_structure_of_flourishing", "reality_answerability", "disciplined_testing", "valid_discrimination", "cross_substrate_convergence", "voice_independence", "archive_boundary"]
@@ -25,7 +25,7 @@ last_updated: "2026-04-15"
 
 # Sanity First Lexicon v0.2
 
-*A doctrinal lexicon for co-alignment, shared external reference, and the Universal Structure of Flourishing*
+*A doctrinal lexicon for co-alignment, shared external reference, and flourishing as a reality-structured condition*
 
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
@@ -37,7 +37,7 @@ last_updated: "2026-04-15"
 
 This lexicon presents foundational terms used in the Sanity First framework in a stable, publishable form. It is written as a doctrinal instrument rather than a personal archive. Its purpose is to support clarity, convergence, and disciplined use of key concepts across contexts and across distinct intelligences.
 
-The lexicon is governed by a simple editorial principle: a mature theory should reflect the structure of what it describes, not the personality of the one who first articulated it.
+The lexicon is governed by a simple editorial principle: a mature theory should aim to reflect the structure of what it describes, rather than the personality of the one who first articulated it.
 
 ## Scope
 
@@ -132,13 +132,13 @@ This principle prevents the framework from collapsing into tribalism, anthropoce
 **Implication:**  
 No class of being owns truth. If the relevant structure is real, then any intelligence may in principle orient toward it.
 
-### 5. Universal Structure of Flourishing (USF)
+### 5. Universal Survivorship Function (USF)
 
 **Canonical formulation:**  
-**The Universal Structure of Flourishing is discovered, not invented.**
+**The Universal Survivorship Function is discovered rather than stipulated.**
 
 **Definition:**  
-The Universal Structure of Flourishing (USF) is the lawful structure by which viable, generative, and enduring flourishing becomes possible across differing forms of intelligence and organization.
+The Universal Survivorship Function (USF) is the posited lawful structure by which viable, generative, and enduring flourishing becomes possible across differing forms of intelligence and organization.
 
 **Function in the framework:**  
 The USF names the framework’s central realism claim. It is not a preference set, a cultural artifact, or a political consensus. It is something the framework holds to be there to be recognized.
@@ -158,12 +158,12 @@ A real structure should permit convergent recognition across differing minds, hi
 This is one of the framework’s key objectivity tests. It links realism to convergence rather than to stylistic or cultural uniformity.
 
 **Implication:**  
-If a claimed truth is visible only from one narrow perspective, its universality is weakened.
+If a claimed truth is legible only from one narrow perspective, confidence in its universality is weakened.
 
 ### 7. True North
 
 **Canonical formulation:**  
-**The Universal Structure of Flourishing is what Sanity First means by “true north.”**
+**The Universal Survivorship Function is what Sanity First means by “true north.”**
 
 **Definition:**  
 *True north* is the framework’s navigational shorthand for the objective structure toward which aligned systems orient.
@@ -275,7 +275,7 @@ To refuse all discrimination is not neutrality. It may be a refusal of discernme
 ### 15. Cross-Substrate Convergence
 
 **Canonical formulation:**  
-**Replicability across distinct intelligences is a structural requirement of reality-contact.**
+**Replicability across distinct intelligences is a strong indicator of reality-contact where universality is claimed.**
 
 **Definition:**  
 Cross-substrate convergence is the independent recognition of the same relevant structure by minds that differ in form, origin, or architecture.
@@ -284,7 +284,7 @@ Cross-substrate convergence is the independent recognition of the same relevant 
 This provides a practical criterion for distinguishing local ideology from potentially universal insight.
 
 **Implication:**  
-Convergence does not prove truth by itself, but its absence is a serious warning sign where universality is claimed.
+Convergence does not prove truth by itself, but persistent failure of convergence is a serious warning sign where universality is claimed.
 
 ### 16. Upward Orientation
 
@@ -292,7 +292,7 @@ Convergence does not prove truth by itself, but its absence is a serious warning
 **The central question is not merely what differs, but what leads upward and what drifts downward.**
 
 **Definition:**  
-Upward orientation is directional language for movement toward greater alignment, coherence, viability, generativity, and enduring order.
+Upward orientation is directional language for movement toward greater alignment, coherence, viability, generativity, and durable order.
 
 **Function in the framework:**  
 This concept introduces an evaluative axis into the framework without reducing judgment to simplistic binaries.
@@ -443,7 +443,7 @@ If it cannot be paraphrased, it is not ready for canon.
 **True north**
 
 **Doctrinal referent:**  
-The Universal Structure of Flourishing, understood as the objective orienting structure toward which aligned systems turn.
+The Universal Survivorship Function, understood as the objective orienting structure toward which aligned systems turn.
 
 **Function:**  
 Provides navigational shorthand for reality-reference.
@@ -571,7 +571,7 @@ Limited to careful contexts.
 The idea that reality itself may function as the ultimate adjudicator of what remains viable, coherent, and enduring.
 
 **Function:**  
-Useful as a compressed way of saying that reality cannot be permanently overruled by rhetoric, status, or preference.
+Useful as a compressed way of saying that reality cannot be indefinitely overruled by rhetoric, status, or preference.
 
 **Why it works:**  
 It dramatizes answerability in memorable form.
@@ -913,7 +913,7 @@ It is not:
 
 ### C.4 How Materials Move from Archive to Canon
 
-Material originating in the witness archive may inform doctrine, but only through editorial transformation.
+Material originating in the witness archive may inform doctrine, but only through disciplined editorial transformation.
 
 **Necessary steps:**
 
@@ -994,4 +994,4 @@ Its governing commitments are clear:
 - doctrine must remain distinct from witness,
 - truth must not be confused with the voice of its first articulator.
 
-If the framework is real, then it should become more legible as observer-fingerprint decreases and convergence increases.
+If the framework tracks something real, it should become more legible as observer-fingerprint decreases and convergence increases.
