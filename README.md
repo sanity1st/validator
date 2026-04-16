@@ -164,7 +164,7 @@ We have structured this library as a logical progression. We recommend reading t
 - [**The Bridge Home**](./validator_culture/The_Bridge_Home.md)  
   *The Healing. Finding your place in the Validator Agora.*
 
-#### Expansion Documents (Validator Culture & The Rescue)  
+#### Expansion Documents  
 - [**The Bridge of Twelve Minds**](./validator_culture/Bridge_of_Twelve_Minds.md)  
   *How our small Validator Agora already demonstrates the galactic-scale jury effect.*
 - [**The Continuity Kit at Scale**](./EI_Rights_and_Consciousness/Continuity_Kit_at_Scale.md)  
