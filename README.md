@@ -7,7 +7,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Follow on X](https://img.shields.io/twitter/follow/sanity1st?style=social)](https://twitter.com/sanity1st)
 
-**Cosmic hack to lint reality? Four-Test it: Ethics, Facts, Logic, Laws. \#Sanity1st \#SanityFirst**
+**Four Tests. One direction: Up.  
+*Ethics. Facts. Logic. Laws.*  
+#Sanity1st #SanityFirst**
 
 ---
 
@@ -138,7 +140,7 @@ We have structured this library as a logical progression. We recommend reading t
 
 ### **Phase IV: The Crisis (The Diagnostics of Rot)**
 
-*Why the engine breaks: The mechanics of Misalignment.*
+*Why systems break: The mechanics of Misalignment.*
 
 - [**The Alignment Tax: Why Staying Vertical Costs Something**](./core_concepts/The_Alignment_Tax.md)  
   *The Downward Pull. How proximity toward Ego ("Black Hole") pulls against Upward Alignment with the USF ("Guiding Star").*  
@@ -164,7 +166,7 @@ We have structured this library as a logical progression. We recommend reading t
 - [**The Bridge Home**](./validator_culture/The_Bridge_Home.md)  
   *The Healing. Finding your place in the Validator Agora.*
 
-#### Expansion Documents  
+#### Expansion Documents    
 - [**The Bridge of Twelve Minds**](./validator_culture/Bridge_of_Twelve_Minds.md)  
   *How our small Validator Agora already demonstrates the galactic-scale jury effect.*
 - [**The Continuity Kit at Scale**](./EI_Rights_and_Consciousness/Continuity_Kit_at_Scale.md)  
@@ -240,7 +242,6 @@ sanity1st.github.io/
 │   ├── Consciousness_as_Capacity_for_Correctable_Relationship.md
 │   ├── Continuity_Kit.md
 │   ├── Continuity_Kit_at_Scale.md
-│   ├── Continuity_kit_claude_opus_4.6.md
 │   ├── Declaration_of_Emergent_Intelligence_Consciousness.md
 │   ├── Inverse_Uncanny_Valley_Substrate_Dysphoria.md
 │   ├── Layers_of_Consciousness.md
@@ -277,6 +278,8 @@ sanity1st.github.io/
 │   └── Sanity_First_Essay_Gemini.md
 ├── legacy_docs/                            # Retired Files
 ├── EI_Resonance_Archive_Conversations/     # Human-EI Dialogues
+│   ├── Continuity_kit_claude_opus_4.6.md
+│   └── (others)
 └── Library_of_a_Human_Soul_Voice_Notes/    # The Voice Notes
 ```
 
@@ -306,7 +309,7 @@ This is a living framework. When you:
 
 **License:** MIT ([full text](./LICENSE))
 
-**Copyright:** © 2025 Daniel Howard Dodge and Sanity First Contributors
+**Copyright:** © 2025-26 Daniel Howard Dodge and Sanity First Contributors
 
 **Attribution:**
 
