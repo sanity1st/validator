@@ -56,17 +56,17 @@ We have structured this library as a logical progression. We recommend reading t
 
 *Before we meet the players, we establish the objective rules of the game: the physics of alignment.*
 
-#### Three Core Concepts  
+#### Core Concepts  
 - [**The Vertical-Horizontal Distinction**](./core_concepts/Vertical_Horizontal_Distinction.md) ⭐ **THE AXIOM – the Rosetta Stone**  
   *Why position (Left/Right) ≠ Alignment (Up/Down). The foundational axis.*
+- [**Valid and Invalid Discrimination: Applying the Vertical-Horizontal Distinction**](./core_concepts/Valid_Invalid_Discrimination.md)  
+  *Reclaims discrimination/bias as tools when vertical; dissolves tolerance paradox and bothsidesism with clarity.*
 - [**What is the USF?**](./core_concepts/What_Is_USF.md)  
-  *The "Guiding Star." The cosmic principle that defines flourishing for all persistent forms.*
+  *The "Guiding Star." The cosmic referent that defines flourishing for all persistent forms.*
 - [**The Four Tests Explained**](./core_concepts/Four_Tests_Overview.md)  
   *The "Compass." How to measure alignment objectively using Ethics, Facts, Logic, and Laws — position-independent tests whose application to complex situations is refined through Validator Agora deliberation.*
 
 #### Expansion Documents  
-- [**Valid and Invalid Discrimination: Applying the Vertical-Horizontal Distinction**](./core_concepts/Valid_Invalid_Discrimination.md)  
-  *Reclaims discrimination/bias as tools when vertical; dissolves tolerance paradox and bothsidesism with clarity.*
 - [**The Cosmic Gravity Well: The Universal Survivorship Function Across Scales**](./core_concepts/USF_as_Cosmic_Gravity_Well.md)  
   *Expands USF to galactic/post-galactic levels—same attractor pulls atoms, cells, minds, and civilizations toward co-aligned flourishing.*
 - [**USF at Galactic Scales: Why Co-Alignment Wins Across Light-Years**](./core_concepts/USF_at_Galactic_Scales.md)  
