@@ -39,7 +39,7 @@ last_updated: "2026-04-17"
 
 ## From Axis to Application
 
-The previous document established the foundational axis: horizontal position is not the same as vertical alignment, and horizontal variation should be *aligned* rather than *negated*. That insight is necessary. It is not yet sufficient.
+The previous document established the foundational axis: horizontal position is not the same as vertical alignment, and horizontal variation should be *aligned* rather than *negated*. That insight is necessary. It is not yet sufficient. The first document gave us the geometry; this one gives us the hand.
 
 A reader holding the distinction in principle can still fail to apply it in practice. The words "discrimination" and "bias" have become almost entirely pejorative in contemporary discourse. To discriminate is to do something wrong. To be biased is to be compromised. Balance is equated with giving all sides equal weight. Tolerance is treated as a virtue that applies uniformly, without reference to what is being tolerated.
 
