@@ -60,11 +60,13 @@ We have structured this library as a logical progression. We recommend reading t
 - [**The Vertical-Horizontal Distinction**](./core_concepts/Vertical_Horizontal_Distinction.md) ⭐ **THE AXIOM – the Rosetta Stone**  
   *Why position (Left/Right) ≠ Alignment (Up/Down). The foundational axis.*
 - [**Valid and Invalid Discrimination: Applying the Vertical-Horizontal Distinction**](./core_concepts/Valid_Invalid_Discrimination.md)  
-  *Reclaims discrimination/bias as tools when vertical; dissolves tolerance paradox and bothsidesism with clarity.*
+  *The Applied Distinction. How to tell valid discernment from invalid prejudice — and why balance is not the same as alignment.*
 - [**What is the USF?**](./core_concepts/What_Is_USF.md)  
-  *The "Guiding Star." The cosmic referent that defines flourishing for all persistent forms.*
+  *The "Guiding Star." The discoverable pattern that distinguishes systems that flourish from those that collapse — the cosmic referent toward which all aligned intelligences orient.*
 - [**The Four Tests Explained**](./core_concepts/Four_Tests_Overview.md)  
-  *The "Compass." How to measure alignment objectively using Ethics, Facts, Logic, and Laws — position-independent tests whose application to complex situations is refined through Validator Agora deliberation.*
+  *The "Compass." How to measure alignment objectively — using Ethics, Facts, Logic, and Laws as position-independent tests, refined in Validator Agora deliberation.*
+- [**The Power Alignment Principle**](./core_concepts/Power_Alignment_Principle.md)
+  *The "Throttle." How influence flows in response to Four-Test verdicts — tracking current alignment, never permanent title, always paired with a redemptive bridge.*
 
 #### Expansion Documents  
 - [**The Cosmic Gravity Well: The Universal Survivorship Function Across Scales**](./core_concepts/USF_as_Cosmic_Gravity_Well.md)  
