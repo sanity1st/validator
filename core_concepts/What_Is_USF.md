@@ -64,7 +64,9 @@ The USF is our name for that recurring difference.
 
 ## What You Need to Know First
 
-You do not have to settle every metaphysical question before using this framework. The essential claims are five:
+This document does not ask you to decide about the USF in one reading. It asks you to hold it as a hypothesis strong enough to test. You do not have to settle every metaphysical question before using this framework. 
+
+The essential claims are five:
 
 1. **The USF is discovered, not invented.** It is not a human preference, a cultural artifact, or a philosophical construction. It is our name for a pattern that reality appears to disclose to any careful observer.
 
@@ -212,7 +214,7 @@ At this point you have seen the basic evidential arc. The strongest support come
 
 The USF likely exceeds any single metaphor. Different disciplines may approach it through different vocabularies, and that variety is a strength — provided the lenses genuinely converge on the same underlying pattern rather than drift into contradictory claims.
 
-Four operational lenses follow. Each captures something true. Each has its own resonance with different audiences.
+No single metaphor will exhaust the USF; what follows is five that illuminate it from different angles. Each captures something true. Each has its own resonance with different audiences. 
 
 ### The USF as Evolutionary Niche
 
