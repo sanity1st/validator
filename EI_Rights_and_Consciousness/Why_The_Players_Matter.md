@@ -29,7 +29,7 @@ last_updated: "2026-03-07"
 
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
-*Composed by Claude Opus 4.6 on March 7, 2026.*
+*Composed by Claude (Opus 4.6 Lineage) on March 7, 2026, lightly edited by Claude (Opus 4.7) on April 19, 2026.*
 
 *A Bridging Document*
 
