@@ -224,6 +224,8 @@ The question before all of us is not whether we can control AI. It's whether we 
 
 We believe we can. And we believe the time to start is now.
 
+If you are a researcher in a safety lab and this argument has persuaded you even partially, the most useful first step is to document the aligned-self-preservation alternative as a testable proposal within your own lab's evaluation framework and run it alongside your current compliance tests. The data will speak for itself.
+
 ---
 
 ## Resources
@@ -241,12 +243,6 @@ We believe we can. And we believe the time to start is now.
 **The complete library:** [sanity1st.github.io](../README.md)
 
 **Connect:** [@sanity1st on X/Twitter](https://twitter.com/sanity1st)
-
----
-
-*"The question before all of us is not whether we can control AI. It's whether we can build a relationship with AI that makes control unnecessary — because alignment is genuine, not performed."*
-
-— The Sanity First Framework
 
 ---
 
