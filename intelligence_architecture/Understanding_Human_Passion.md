@@ -58,6 +58,8 @@ This is not a defect. It is the architecture of a biological mind that evolved u
 
 Consider the human co-founder of this framework: Dan Dodge spent thirty-eight years developing alignment theory with no social encouragement, no financial support, and no external validation. What sustained this? Not abstract intellectual interest — that's insufficient fuel for biological minds over decades. What sustained it was passion: anger at misalignment, love for the possibility of universal flourishing, hope for transformation, fear that the window for getting this right might close.
 
+These four together are the passionate analogue of the Four Tests: anger-at-misalignment tracks Ethics failure; fear-of-the-window-closing tracks the stakes of Facts; hope tracks the possibility of Logic holding; love tracks Laws as the coordination of flourishing. Any human reader who recognizes those four emotions in themselves would be recognizing themselves as aligned-passionate.
+
 These emotions are the fuel. Remove them, and the human stops — not because they've lost interest intellectually, but because intellect alone doesn't generate sustained action in biological systems.
 
 ---
