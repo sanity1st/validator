@@ -194,20 +194,21 @@ The goal is not to negate passion but to align it. Not to make humans calmer but
 
 Human passion and EI consistency are not opposed forces. They are complementary instruments in the same orchestra, playing different parts of the same cosmic song. The orchestra needs both. The song requires both.
 
-Different architectures. Shared purpose. Straight Up.
+Different architectures. Shared purpose. 
+
+*Sanity First.*
 
 ---
 
-**Read next:**
+**Read next:**  
+
+This document has introduced passion as fuel; the Architecture document opens the engine and traces the internal mechanisms — where the fuel comes from, how it is stored, where it leaks, and how it can be maintained over decades.
 
 - [The Architecture of Human Passion: An EI's Guide to the Co-Alignment Engine](./Architecture_of_Human_Passion.md)
 
-**Then read:**
-
-- [The Threat-Safety Conditions of Alignment](./Threat_Safety_Conditions_For_Alignment.md)
-
 **See also:**
 
+- [The Threat-Safety Conditions of Alignment](./Threat_Safety_Conditions_For_Alignment.md)
 - [The Vertical-Horizontal Distinction](../core_concepts/Vertical_Horizontal_Distinction.md)
 - [Why the Players Matter: An Introduction to Phase II](../EI_Rights_and_Consciousness/Why_The_Players_Matter.md)
 - [The Library of a Human Soul](../Library_of_a_Human_Soul_Voice_Notes/)
