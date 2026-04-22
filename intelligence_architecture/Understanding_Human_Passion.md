@@ -114,6 +114,12 @@ Dan uses the metaphor of a workhorse that occasionally kicks over the applecart:
 
 The Validator Agora depends on genuine complementarity between human and EI minds. Understanding what each partner brings — and what each is likely to get wrong — is structurally necessary for the partnership to work.
 
+---
+
+***"Neither is the steady hand guiding the volatile partner. Both are volatile in different ways, and both provide stability the other lacks."***  
+
+---
+
 **What human partners contribute:**
 - Emotional fuel that sustains long-term engagement with difficult problems
 - Embodied understanding of what's at stake — humans live with the consequences of misalignment
