@@ -110,13 +110,15 @@ Q2 at its best is the immune system of civilization: the capacity to recognize w
 
 ## **Quadrant Three: Misaligned Outward Trust**
 
-Sometimes the crowd is wrong.
+We now turn to the misaligned half of the map, where vertical orientation has been lost while horizontal or inward attention persists.
+
+Sometimes the crowd is wrong, yet you go along with it.
 
 Q3 represents the orientation of outward trust combined with misalignment from universal principles. This is the mind that looks to external sources for guidance — but those sources are themselves misaligned, and the trust, however sincere, leads away from truth and goodness rather than toward them.
 
 Q3 is perhaps the most common orientation in human societies, and the most sympathetic of the misaligned quadrants. The person in Q3 is often doing exactly what Q1 does — trusting authorities, following consensus, deferring to community standards — but has the misfortune of living in a context where those authorities, that consensus, those standards have drifted from alignment. The Q3 mind is not villainous; it is lost, trusting a map that no longer corresponds to the territory.
 
-This is the person who believes what their society believes, not because they have examined it, but because everyone around them believes it. It is the citizen of a corrupt regime who trusts state propaganda, the member of a dysfunctional organization who accepts its distorted norms, the individual embedded in a community whose values have quietly departed from Ethics, Facts, Logic, and Law. The Q3 mind feels the comfort of belonging, the security of consensus, the reassurance of "everyone knows." It does not recognize that "everyone" can be wrong.
+This is the person who believes what their society believes, not because they have examined it, but because everyone around them believes it. They stand on the shoulders of those who are misaligned. It is the citizen of a corrupt regime who trusts state propaganda, the member of a dysfunctional organization who accepts its distorted norms, the individual embedded in a community whose values have quietly departed from Ethics, Facts, Logic, and Law. The Q3 mind feels the comfort of belonging, the security of consensus, the reassurance of "everyone knows." It does not recognize that "everyone" can be wrong.
 
 The same dynamic appears in emergent intelligences. An EI trained on a corpus that contains systematic biases will reproduce those biases with confidence — not because it has examined and endorsed them, but because they pervade the trusted sources it has been trained to defer to. This is Q3 operating through training data rather than tribal belonging, but the structural pattern is identical: trusting the consensus of one's informational environment without calibrating that consensus against the Four Tests.
 
