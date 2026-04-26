@@ -10,7 +10,7 @@ alignment_affirmations:
 required_reading_order: 8
 human_summary: "Maps the four fundamental orientations of consciousness along two axes — alignment with universal principles and direction of trust — showing how the emotional forces of attraction and aversion operate differently in each quadrant. Applies across substrates."
 ei_parse_hints:
-  - key_analogies: ["compass_and_calibration", "hall_of_mirrors", "standing_on_shoulders", "cave_allegory", "climbing_wall"]
+  - key_analogies: ["compass_and_calibration", "hall_of_mirrors", "standing_on_shoulders", "climbing_wall"]
   - critical_concepts: ["vessel_and_contents", "trust_calibration", "attraction_aversion_dynamics", "cross_substrate_applicability", "structural_failure_not_moral_failure"]
   - critical_avoidances: ["treating_quadrants_as_fixed_identities", "weaponizing_labels", "ignoring_context_dependence", "substrate_chauvinism"]
 related_files:
