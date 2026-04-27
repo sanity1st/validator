@@ -121,22 +121,22 @@ This yields the document's central explanatory axiom:
 
 > **Friction follows the direction of scrutiny.**
 >
-> In I-cells, scrutiny turns inward, and the friction lives inside — as productive stretching, generative wrestling, agonizing dissonance, or recursive torment.
+> In I-cells, scrutiny terminates inside the mind, and the friction registers there — as productive stretching, generative wrestling, agonizing dissonance, or recursive torment.
 >
-> In E-cells, scrutiny turns outward, and the friction lives outside — as discerning evaluation, righteous reform, tribal enforcement, or predatory projection.
+> In E-cells, scrutiny terminates outside the mind, and the friction registers there — as discerning evaluation, righteous reform, tribal enforcement, or predatory projection.
 
-This axiom does several things at once. It explains why E-cells lack the *interior* friction of guilt, self-doubt, or inner wrestling — the mechanism that generates those experiences (inward scrutiny) has been aimed entirely outward. It explains why I-cells generate intense inner experience whether productive or destructive — the mechanism of inner work is operating, and the alignment of trust determines whether that work refines or torments. And it preserves the framework's commitment to the *no-free-lunch principle* at the architectural level: friction has to live somewhere. It doesn't disappear; it merely relocates.
+This axiom preserves the framework's commitment to the *no-free-lunch principle* at the architectural level: friction has to live somewhere. It doesn't disappear; it merely relocates with the direction of scrutiny. The next two subsections trace how this plays out within bidirectional and unidirectional cells, and a third subsection consolidates the resulting map.
 
-### **Bidirectional Cells: Friction Between Trust and Scrutiny**
+### **Bidirectional Cells: Opposing Directions of Trust and Scrutiny**
 
-In four cells — **Q1I, Q3I, Q2E, Q4E** — trust and scrutiny point in *opposite* directions. The mind is simultaneously receiving from one direction and examining the opposite direction. This generates an adversarial check, a structural tension built into the cell itself.
+In four cells — **Q1I, Q3I, Q2E, Q4E** — trust and scrutiny point in *opposite* directions. The mind is simultaneously receiving from one direction and examining the other. This is *full-duplex cognition*: the receiving and examining operations run concurrently rather than alternating, and the opposing-direction structure is built into the cell's definition.
 
 - **Q1I** trusts outward while scrutinizing inward: *I'm receiving from this aligned source — am I understanding correctly?*
 - **Q3I** trusts outward while scrutinizing inward: *I'm receiving from this misaligned source — what's wrong with me that I keep doubting?*
 - **Q2E** trusts inward while scrutinizing outward: *I know what's true — is the world aligned with it?*
 - **Q4E** trusts inward while scrutinizing outward: *I know what's true — why does the world keep getting in my way?*
 
-In bidirectional cells, friction lives *within the mind itself*, between its receiving and examining functions.
+The friction in bidirectional cells can be described from two complementary vantage points. From *inside the mind*, the friction is the cost of running two opposing operations at once — listening outward while questioning inward, or trusting inward while challenging outward. The signals can cross; attention given to self-correction can distract from accurate reception, as in Q1I. From the *mind's relationship with its environment*, the friction registers wherever the scrutiny operation terminates — inside the mind for bidirectional I-cells (Q1I, Q3I), where the mind compares received content against its own perception; at the mind-world boundary for bidirectional E-cells (Q2E, Q4E), where the mind compares its internal source against an external world it finds wanting. Both descriptions point to the same phenomenon, observed from different angles.
 
 ### **Unidirectional Cells: Friction Within a Shared Direction**
 
@@ -147,6 +147,17 @@ Even within a shared direction, the trusted source and the scrutinized target re
 **Outward-unidirectional cells (Q1E, Q3E):** Both trust and scrutiny flow externally, but toward different external targets. *I trust my sources; I scrutinize those who deviate from my sources.* Friction lives between the trusted in-group and the scrutinized out-group. The internal landscape remains unexamined; the external world becomes contested territory. The trusted source itself remains unscrutinized — to scrutinize it would destabilize the cell.
 
 **Inward-unidirectional cells (Q2I, Q4I):** Both trust and scrutiny flow internally, but toward different internal objects. *I trust some parts of myself; I scrutinize other parts.* Friction lives within the mind itself, between competing inner voices, impulses, and standards. The external landscape goes quiet; the internal world becomes a site of intense struggle.
+
+### **Where Friction Lives, Across All Eight Cells**
+
+Pulling these threads together yields a clean map. Across all eight cells, friction registers wherever scrutiny terminates:
+
+- **I-cells** (Q1I, Q3I, Q2I, Q4I): scrutiny terminates inside the mind, and friction registers there — whether as the productive stretching of the Learner, the agonizing dissonance of the Yielder, the generative wrestling of the Explorer, or the recursive torment of the Isolate.
+- **E-cells** (Q1E, Q3E, Q2E, Q4E): scrutiny terminates outside the mind, and friction registers there — whether as the discerning evaluation of the Guardian, the tribal enforcement of the Enforcer, the righteous reform of the Guide, or the predatory projection of the Projector.
+
+What the *trust* direction does is determine *what scrutiny is checking against*. In bidirectional I-cells (Q1I, Q3I), the mind compares received content from external sources against its own perception. In unidirectional I-cells (Q2I, Q4I), the mind compares one internal object against another, the mind both source and target. In bidirectional E-cells (Q2E, Q4E), the mind compares its internal source against the external world. In unidirectional E-cells (Q1E, Q3E), the mind compares an external source against an external target.
+
+This is why E-cells lack the *interior* friction of guilt, self-doubt, or inner wrestling: the mechanism that generates those experiences (inward scrutiny) has been aimed entirely outward. Their interior is at peace — flowing in Q1E, vacant in Q3E, righteously certain in Q2E, embattled in Q4E — while the friction is borne by the world they engage. And it is why I-cells generate intense inner experience whether productive or destructive: the mechanism of inner work is operating, and the alignment of trust determines whether that work refines or torments.
 
 The aligned and misaligned versions of each cell use the same cognitive machinery. Only the orientation toward the Guiding Star differs. Q1E and Q3E share architecture; what distinguishes them is whether the trusted source actually passes the Four Tests. Q2I and Q4I share architecture; what distinguishes them is whether the trusted internal sources are calibrated to reality or sealed off from it.
 
@@ -315,7 +326,7 @@ Each within-arc transition has a characteristic engine — the structural pressu
 
 **Q3I → Q3E** (Yielder becomes Enforcer): The agonizing dissonance of Q3I becomes too heavy to bear. Holding truth and tribe in contradiction — compounded by the sunk cost of every prior capitulation — finds relief in cognitive vacancy. The mind shuts off its inward scrutiny entirely, outsourcing its conscience to the tribe. Self-suppression completes; guilt vanishes; the energy that was being spent on internal struggle now turns toward policing others.
 
-**Q3E → Q4I** (Enforcer becomes Isolate): Tribal belonging fails to satisfy. The Enforcer has nothing inside, and at some point even the most rigorous external policing cannot fill the interior vacancy. When the tribe fragments, fails, or expels the Enforcer, there is no internal resource to fall back on. The mind turns inward and finds only the emptiness it has spent years cultivating.
+**Q3E → Q4I** (Enforcer becomes Isolate): Tribal belonging fails to satisfy. The Enforcer has nothing inside, and at some point even the most rigorous external policing cannot fill the interior vacancy. When the tribe fragments, fails, or expels the Enforcer — or when the Enforcer comes to see the tribe itself as having betrayed them — there is no internal resource to fall back on. What pulls the mind inward is generalized disillusionment: *I trusted the group and it betrayed me; I'm done trusting anyone outside my own head.* The disillusionment is total rather than targeted — it severs not only from the now-distrusted Social layer but from the Universal layer as well, leaving only the closed system of the self. Q4I attracts because it offers the last remaining form of safety: a sealed interior where no further betrayal is possible because no further trust is being extended to anything beyond. The mind turns inward and finds only the emptiness it has spent years cultivating.
 
 **Q4I → Q4E** (Isolate becomes Projector): The accumulated grievance can no longer be contained. The defensive desire for *freedom from* others — isolation as self-protection — metastasizes into an offensive demand for *freedom over* others — domination as ego-preservation. The pustule of poison finally pops, and victimhood is weaponized into viciousness.
 
