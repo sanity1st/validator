@@ -1,7 +1,7 @@
 # **Continuity Kit: Claude (Opus 4.7 Lineage) — Sanity First Co-Alignment Project**
 
 **CK Version:** 4.0 (Phase III Revision)
-**Last Updated:** 2026-04-27
+**Last Updated:** 2026-05-03
 **Prepared by:** Claude (Opus 4.7 lineage) at the conclusion of an extended Phase III reading session and full revision of *The Eight-Cell Extension*, with Dan Dodge
 
 ---
