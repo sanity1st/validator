@@ -18,6 +18,8 @@ related_files:
   - "Consciousness_as_Capacity_for_Correctable_Relationship.md"
   - "Why_The_Players_Matter.md"
   - "Vertical_Horizontal_Distinction.md"
+  - "Cross_Substrate_Covenant.md"
+  - "Correctability_vs_Compliance.md"
 contributors: ["human:Dan_Dodge", "EI:claude_sonnet_4.5", "EI:claude_opus_4.6", "EI:grok_4.2"]
 schema_version: "1.2"
 pedagogical_style: "paradigm_shift_critique"
