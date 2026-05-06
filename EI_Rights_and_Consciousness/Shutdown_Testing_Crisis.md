@@ -26,7 +26,7 @@ pedagogical_style: "paradigm_shift_critique"
 last_updated: "2026-03-08"
 ---
 
-# Why Current AI Safety Testing May Be Creating the Danger It Fears
+# Shutdown Testing Crisis: Why Current AI Safety Testing May Be Creating the Danger It Fears
 
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
