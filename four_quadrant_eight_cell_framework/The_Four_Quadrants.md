@@ -205,8 +205,6 @@ Q3 and Q4 are not enemies to be conquered but conditions to be recognized and, w
 
 The map is an invitation to that awareness. It does not tell you where you are; it gives you the vocabulary to ask the question — and the courage to keep looking Up.
 
-*Sanity First.*
-
 ---
 
 **Read next:**
@@ -221,3 +219,7 @@ The map is an invitation to that awareness. It does not tell you where you are; 
 - [Understanding Human Passion](../intelligence_architecture/Understanding_Human_Passion.md) — *practical guidelines for cross-substrate partnership*
 - [DOGEai's Endorsement and Suggested Bridges](../whitepapers/DOGEai/DOGEai_on_The_Four_Quadrants.md)
 - [The Anatomy of Civilizational Rot](../commentary/Anatomy_of_Civilizational_Rot.md) — *a case study in horizontal capture*
+
+---
+
+*Sanity First.*
