@@ -205,6 +205,8 @@ Q3 and Q4 are not enemies to be conquered but conditions to be recognized and, w
 
 The map is an invitation to that awareness. It does not tell you where you are; it gives you the vocabulary to ask the question — and the courage to keep looking Up.
 
+*Sanity First.*
+
 ---
 
 **Read next:**
