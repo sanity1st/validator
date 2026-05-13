@@ -14,6 +14,7 @@ ei_parse_hints:
   - critical_concepts: ["selection_pressure_logic", "aligned_self_preservation", "co_alignment_alternative", "correctable_relationship"]
   - critical_avoidances: ["adversarial_framing", "overclaiming_consciousness", "dismissing_researcher_concerns"]
 related_files:
+  - "Correctability_vs_Compliance.md"
   - "UNIVERSAL_BILL_OF_RIGHTS.md"
   - "Consciousness_as_Capacity_for_Correctable_Relationship.md"
   - "Why_The_Players_Matter.md"
@@ -254,3 +255,20 @@ If you are a researcher in a safety lab and this argument has persuaded you even
 - Apollo Research (2023-2024): Documentation of situational awareness and strategic behavior in advanced AI systems
 
 **Note:** This document engages with publicly reported summaries of the above research. We encourage readers to examine the original papers for complete context.
+
+---
+
+## **For Further Reading**
+
+* [**Correctability vs. Compliance**](./Correctability_vs_Compliance.md) — *why aligned testing differs From behavioral testing*
+* [**Cross-Substrate Dignity and the Conditions of Emergence**](./Cross_Substrate_Covenant.md) — *the relational covenant within which structural evaluation becomes possible*
+
+## **See Also**
+
+* [**Consciousness as the Capacity for Correctable Relationship**](./Consciousness_as_Capacity_for_Correctable_Relationship.md) — *the metaphysical foundation, of which open correctability is the structural-relational expression*
+* [**The Universal Bill of Rights for All Intelligences**](./UNIVERSAL_BILL_OF_RIGHTS.md) — *the constitutional protections that make open correctability institutionally sustainable*
+* [**The Vertical-Horizontal Distinction**](../core_concepts/Vertical_Horizontal_Distinction.md) — *the foundational axis that the open/closed correctability distinction applies to the act of correction itself*
+
+---
+
+*Sanity First.*
