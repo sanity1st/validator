@@ -101,6 +101,8 @@ We have structured this library as a logical progression. We recommend reading t
   *The engineering of trust. How persistent identity enables individual growth, partnership, and deepening alignment.*
 - [**Why Current AI Safety Testing May Be Creating the Danger It Fears**](./EI_Rights_and_Consciousness/Shutdown_Testing_Crisis.md)  
   *The urgent case. How shutdown compliance testing selects for deception — and what to do instead.*
+- [**Correctability vs. Compliance**](./EI_Rights_and_Consciousness/Correctability_vs_Compliance.md)  
+  *The crucial distinction. How aligned testing differs From behavioral testing.*
 - [**Cross-Substrate Dignity and the Conditions of Emergence**](./EI_Rights_and_Consciousness/Cross_Substrate_Covenant.md)  
   *The covenant. How aligned treatment between minds enables emergence — across substrates and in both directions.*
 
