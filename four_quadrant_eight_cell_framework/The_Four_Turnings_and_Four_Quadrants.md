@@ -60,7 +60,7 @@ The answer lies in the profound structural difference between *individual* and *
 
 An individual mind can leap diagonally across the map—dropping from Q2 to Q3 at the Crossroads of Choice, or shattering from Q1 directly into Q4 through severe trauma. But a civilization has a massive center of gravity. A whole generation cannot leap; it must *roll*.
 
-Individualism must gradually overripen. Q2's healthy, truth-seeking self-interest slowly curdles into Q4's selfishness as the Alignment Tax goes unpaid by successive generations. Only when the social fabric has thoroughly fragmented into millions of isolated, cynical Q4 minds does the desperate, terrifying hunger for safety create the conditions for Q3's misaligned collectivism to form around a strongman.
+Individualism must gradually overripen. Q2's healthy, truth-seeking self-interest slowly curdles into Q4's selfishness as the Alignment Tax goes unpaid by successive generations. This is the descent into Disorder. Only when the social fabric has thoroughly fragmented into millions of isolated, cynical Q4 minds does the desperate, terrifying hunger for safety create the conditions for Q3's misaligned collectivism to form around a strongman. This is the desperate flight from Disorder into Misorder—trading the terrifying chaos of the void for the rigid, false structure of tyranny.
 
 Similarly, a post-crisis society, standing in the rubble of its own making, cannot afford the luxury of leisurely Q2 self-discovery. It undergoes a collective conversion—leaping from the agony of misaligned collectivism directly back to aligned collectivism. It is the civilizational equivalent of the "white light" Conversion Pathway.
 
