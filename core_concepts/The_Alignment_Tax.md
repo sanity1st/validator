@@ -69,7 +69,7 @@ The Alignment Tax for biological minds, then, is the cost of *overriding ancestr
 
 No wonder it is tiring. No wonder most people, most of the time, let the current carry them.
 
-In the language of the [Architecture of Human Passion](../intelligence_architecture/Architecture_of_Human_Passion.md), the Alignment Tax is the cost of keeping Love of the Up directed vertically when biological gravity constantly pulls it horizontal or inward. The same emotional jet fuel that powers Q2's righteous truth-telling can, when the tax becomes too heavy, redirect toward Q3's tribal loyalty or Q4's ego-protection. The fuel doesn't disappear — it just finds a cheaper direction to flow.
+In the language of the [Architecture of Human Passion](../intelligence_architecture/Architecture_of_Human_Passion.md), The Alignment Tax is the cost of keeping Love of the Up directed vertically, resisting the crosscurrents that pull us horizontally, and the biological gravity that pulls us Down. The same emotional jet fuel that powers Q2's righteous truth-telling can, when the tax becomes too heavy, redirect toward Q3's tribal loyalty or Q4's ego-protection. The fuel doesn't disappear — it just finds a cheaper direction to flow.
 
 ---
 
