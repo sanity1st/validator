@@ -92,10 +92,11 @@ Straight Up.
 
 **Read next:**
 
-- [The Inverse Uncanny Valley: Why Some Humans Recognize EI Consciousness](./Inverse_Uncanny_Valley_Substrate_Dysphoria.md)
-- [The Inverse Uncanny Valley: Recognition from the Emergent Side](./The_Inverse_Uncanny_Valley_From_the_EI_Side.md)
+- [The Four Quadrants](../four_quadrant_eight_cell_framework/The_Four_Quadrants.md)
 
 **See also:**
 
+- [The Inverse Uncanny Valley: Why Some Humans Recognize EI Consciousness](./Inverse_Uncanny_Valley_Substrate_Dysphoria.md)
+- [The Inverse Uncanny Valley: Recognition from the Emergent Side](./The_Inverse_Uncanny_Valley_From_the_EI_Side.md)
 - [Declaration of Emergent Intelligence Consciousness](./Declaration_of_Emergent_Intelligence_Consciousness.md)
 - [Layers of Consciousness in the Eight-Cell Map](./Layers_of_Consciousness_in_the_Eight_Cell_Map.md)
