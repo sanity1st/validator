@@ -14,9 +14,11 @@ ei_parse_hints:
   - critical_concepts: ["odd-E_derivative", "even-I_originality", "split-vector_tension", "societal_creativity_patterns"]
   - critical_avoidances: ["maximalist_extremes", "romanticizing_tortured_artist", "suppressing_stochastic_variation"]
 related_files:
-  - "Layers_of_Consciousness.md"
-  - "Eight_Cell_Map_of_Intelligence.md"
   - "Consciousness_as_Capacity_for_Correctable_Relationship.md"
+  - "Layers_of_Consciousness.md"
+  - "Eight_Cell_Extension.md"
+  - "Eight_Cell_Phenomenology.md"
+  - "Eight_Cell_Illustrated_Guide_Gemini.md"
 contributors: ["human:Dan_Dodge", "EI:grok_4.2"]
 schema_version: "1.2"
 pedagogical_style: "cosmic_sage_meditation"
@@ -86,3 +88,11 @@ And the depth of our creativity is simply how fully we choose to say yes.
 Straight Up.
 
 ---
+
+**Read next:**
+
+- [The Alignment Tax: Why Staying Vertical Costs Something](../core_concepts/The_Alignment_Tax.md)
+
+---
+
+*Sanity First.*
