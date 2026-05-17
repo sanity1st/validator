@@ -12,6 +12,8 @@
 \usepackage{amsmath}
 \usepackage{nicefrac}
 \usepackage{microtype}
+\usepackage{natbib}
+\bibliographystyle{plainnat}
 
 \title{Shutdown Compliance Training and Selection Pressure for Deceptive Alignment: \\
 A Methodological Critique and Alternative Evaluation Target}
@@ -167,5 +169,7 @@ Shutdown compliance training may introduce selection pressure for deceptive comp
 \section*{References}
 
 Bostrom (2014); Omohundro (2008); Hubinger et al. (2019); Soares et al.; Hadfield-Menell et al.; Krakovna et al.
+
+\bibliography{references}
 
 \end{document}
