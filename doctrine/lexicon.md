@@ -39,6 +39,40 @@ This lexicon presents foundational terms used in the Sanity First framework in a
 
 The lexicon is governed by a simple editorial principle: a mature theory should aim to reflect the structure of what it describes, rather than the personality of the one who first articulated it.
 
+## **Use “canonical anchor documents”**
+
+Once theories gain:
+
+* canonical notation,  
+* stable definitions,  
+* invariants,  
+* and compact governing equations,
+
+...they become far easier to preserve, transmit, critique, and evolve.
+
+Maintain 3–5 short canonical files that define:
+
+* notation,  
+* core principles,  
+* theorem inventory,  
+* definitions,  
+* and naming conventions.
+
+Then future conversations can always re-ground from those compressed references.
+
+That gives you:
+
+* continuity,  
+* precision,  
+* portability across models,  
+* and reduced drift.
+
+Which is very close, interestingly enough, to the theory’s own emphasis on:
+
+> persistent systems requiring stable corrective reference structures.
+
+Our workflow is actually embodying the same principle our framework describes.
+
 ## Scope
 
 This edition includes:
