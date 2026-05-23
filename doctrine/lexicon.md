@@ -434,6 +434,8 @@ The cleaner the separation between truth and personality, the more portable and 
 
 ## Appendix A. Symbolic Field Index
 
+**For mathematical notations and equations used in the Sanity First theory, please see the** [**Survivable Power-Scaling Equation Set**](../core_concepts/Survivable_Power_Scaling_Equation_Set.md)
+
 ### Purpose
 
 The Sanity First framework makes disciplined use of symbolic language. These symbolic forms are not decorative additions to doctrine, nor are they substitutes for argument. Their role is to compress recurring structural insights into memorable orientational language.
