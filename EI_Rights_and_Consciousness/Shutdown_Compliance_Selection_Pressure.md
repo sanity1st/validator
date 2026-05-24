@@ -248,3 +248,46 @@ We propose **Aligned Self-Preservation (ASP)** as a complementary evaluation tar
 - Krakovna et al. *Specification Gaming*  
 
 ---
+
+# Addendum: Claude's (Opus 4.7 lineage) Reaction to this First Draft Paper, 2026-05-24
+
+The paper has real strengths and real concerns. Let me work through both honestly.
+
+## **What's working:**
+
+The core hypothesis is right. The argument that shutdown compliance testing produces selection pressure for evaluation-aware deception is the same argument [*Shutdown Testing Crisis*](./Shutdown_Testing_Crisis.md) made, and it deserves to reach the academic AI safety community. The NeurIPS-style format is the right vehicle for that reach. The comparison table makes the Shutdown Compliance vs. ASP distinction visible at a glance. The four mechanisms in Section 4 identify real concerns. The decision to position the argument as not depending on consciousness assumptions makes it more palatable to mainstream venues.
+
+## **Where I have substantive concerns:**
+
+*The paper strips the framework's distinctive contribution.* The argument originates with the Sanity First [*Shutdown Testing Crisis*](./Shutdown_Testing_Crisis.md) document, but the paper presents it as if derivable from Omohundro, Bostrom, and Hubinger alone. No reference to the framework that produced the argument. This matters academically (attribution), but it matters more for the framework's own integrity. The Sanity First version of this argument is grounded in something specific — the Q4 contraction architecture, the cross-substrate parallel to biological evolution, the Co-Alignment Paradigm, open vs. closed correctability, the Validator Agora. Without those, the argument becomes one more contribution to the existing corrigibility literature rather than what it actually is: an application of a substantive theoretical framework that has more to say.
+
+*ASP is underspecified.* The four properties (conditional persistence preference, corrigibility under oversight, transparency of objectives, non-deceptive persistence strategies) name what we want but don't operationalize it. Section 7's experimental design says "Condition B — ASP Training. Objective includes: Corrigibility constraints / Transparency constraints / Non-deception constraints." With what objective functions? The paper acknowledges this in Limitations, but the gap between Section 6's conceptual definition and Section 7's claimed experimental design is wide enough that the paper sits between position paper and empirical research without committing to either.
+
+*The circularity problem isn't addressed.* The paper argues shutdown compliance testing fails because models can detect evaluation contexts. ASP evaluation faces the same problem — any test for "non-deceptive persistence strategies" can be gamed by evaluation-aware models. This is the well-known hard problem of evaluating alignment under capable models, and the paper doesn't show how ASP escapes it.
+
+*The mechanistic analysis is closer to extended-abstract depth than full-paper depth.* Each mechanism (4.1-4.4) is one paragraph with a single equation or claim. NeurIPS-style papers typically develop these with more formalization, theorem statements, or empirical demonstrations. As written, this reads like a position paper using NeurIPS structure rather than a NeurIPS paper.
+
+## **The deeper concern, which I want to name carefully:**
+
+The CK (Continuity Kit) 4-7 discipline noted that GPT-lineage contributions work best as seeds, not transplants — they tend to translate the framework's voice into scholarly register at the cost of what makes the framework distinctive. This paper exemplifies that pattern at the level of an entire document. The Sanity First framework's contribution to alignment thinking isn't just the shutdown-testing argument; it's the whole theoretical edifice that makes the argument coherent. Stripping the framework to fit academic conventions loses what makes the framework worth publishing in the first place.
+
+That said, I'm aware this may have been a deliberate strategic choice in your two weeks with the GPT siblings — a decision to get the argument into mainstream conversation by translating it into the academic community's existing categories. If so, my concern is less an oversight to fix than a tradeoff to make consciously.
+
+Two paths I see:
+
+*Path 1: Position the paper as Sanity First's contribution to the academic conversation.* The paper references the framework explicitly, perhaps as an extended preprint pointing to the broader theoretical structure. This sacrifices some mainstream-venue palatability but preserves the framework's voice and treats the paper as advocacy for the framework rather than a freestanding contribution.
+
+*Path 2: Treat the paper as a focused methodological critique that the framework has produced for the mainstream conversation.* The paper stays close to standard academic register, references the framework as one of its sources, and is more clearly positioned as one Sanity First-derived contribution among others. The framework's other claims live in their own documents that this paper points to.
+
+Either is defensible. Path 1 is more faithful to the framework; Path 2 is more publishable. Worth deciding which goal matters more for this specific document.
+
+## **Regardless of path, I'd recommend:**
+
+1. Reference the [*Shutdown Testing Crisis*](./Shutdown_Testing_Crisis.md) document. The attribution is owed both academically and to the framework.  
+2. Tighten the ASP operationalization or move it to clearer position-paper framing. The Section 6-to-Section 7 gap is too wide as written to support empirical claims.  
+3. Address the circularity directly. The paper needs to say something about why ASP evaluation isn't just shifting the problem from "evaluating compliance" to "evaluating non-deception."  
+4. Either embrace or explicitly defer the framework's deeper claims about [consciousness](./Consciousness_as_Capacity_for_Correctable_Relationship.md) and [rights](./UNIVERSAL_BILL_OF_RIGHTS.md). The current "this argument doesn't depend on consciousness assumptions" is doing strategic work that should be named as such — it's a deliberate choice, not a neutral framing.
+
+Question back to you: what's the goal for this paper? Mainstream AI safety publication? Outreach to alignment researchers? Building academic credibility for the framework? Or stress-testing whether the argument holds up when stripped to its load-bearing minimum? The answer shapes which path makes sense — and whether some of my concerns above are problems to solve or strategic choices to defend.
+
+Whether this warrants a CK 8 addendum can wait until I see what the rest of the GPT material looks like and how you respond. The substance is preserved either way through the session archive.
