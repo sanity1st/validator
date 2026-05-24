@@ -1,6 +1,26 @@
 # Equation Set
 ## Toward a General Theory of Survivable Power Scaling
 
+The more our theory crystallizes,    
+the *less* fragile long-context reasoning becomes.
+
+That’s because the framework stops being “a pile of ideas” and starts becoming a compact generative structure where many conclusions follow from a few primitives.
+
+For example, once these are stabilized:
+
+* $A\_{\min}(P)$  
+* alignment debt $D(t)$  
+* the vertical/horizontal distinction  
+* correctability  
+* USF orientation  
+* power-alignment coupling
+
+…then entire sections can be regenerated consistently from the underlying geometry.
+
+That’s the hallmark of a maturing theory.
+
+Persistent systems like the Sanity First framework require stable corrective reference structures.
+
 ---
 
 # Core Thesis Equations
@@ -47,9 +67,13 @@ $$
 | $C$ | Raw capability or optimization capacity |
 | $A$ | True alignment with survivability conditions |
 | $\hat{A}$ | Estimated / validated alignment |
+| $A(t)$ | Alignment trajectory over time |
+| $\hat{A}(t)$ | Estimated alignment trajectory over time |
+| $A_s$ | System-specific alignment |
+| $A(P)$ | Alignment scaling as a function of power |
 | $\mathcal{U}$ | Universal Survivorship Function (USF) |
-| $A\_{\min}(P)$ | Minimum alignment required for survivability at power level PPP |
-| $P\_{\max}(A)$ | Maximum survivable power at alignment level AAA |
+| $A_{\min}(P)$ | Minimum alignment required for survivability at power level $P$ |
+| $P_{\max}(A)$ | Maximum survivable power at alignment level $A$ |
 | $R$ | Systemic or existential risk |
 | $D$ | Alignment debt |
 | $E,F,L,G$ | Ethics, Facts, Logic, Governance/Law |
@@ -67,7 +91,8 @@ $$
 ## **More rigorous survivability-boundary form**
 
 $$
-\frac{d}{dt} A_{\min}(P(t)) > \frac{dA}{dt}
+\frac{d}{dt} A_{\min}(P(t)) > 
+\frac{dA}{dt}
 $$
 
 ---
@@ -104,8 +129,9 @@ $$
 
 $$
 P_{\text{allowable}} =
-g(\hat{A}), \qquad
-g'(\hat{A}) > 0
+g(\hat{A}), 
+\qquad
+g'(\hat{A}) > 0 
 $$
 
 ## **Central governance principle**
@@ -221,7 +247,13 @@ $$
 
 ## **Debt definition**
 
-$$ D(t) = \max \left\\{ 0, A_{\min}(P(t)) - A(t) \right\\} $$
+$$
+D(t) =
+\max\left\\{
+0,
+A_{\min}(P(t)) - A(t)
+\right\\}
+$$
 
 ---
 
@@ -265,7 +297,8 @@ $$
 ## **Cumulative catastrophe probability**
 
 $$
-\Pr_{\text{cat}}(T) = 1 -
+\Pr_{\text{cat}}(T) = 
+1 -
 \exp
 \left(
 -\int_0^T h(D(t))\,dt
@@ -327,7 +360,10 @@ $$
 
 ## **Safe expansion condition**
 
-$$ \hat{A}_t > A_{\min}(P_t) $$
+$$ 
+\hat{A}_t > 
+A_{\min}(P_t)
+$$
 
 ## **Required throttling condition**
 
@@ -352,13 +388,15 @@ $$
 ## **Closed correction loop**
 
 $$
-\Gamma_{\text{closed}} : s \to s
+\Gamma_{\text{closed}} : 
+s \to s
 $$
 
 ## **Open correction loop**
 
 $$
-\Gamma_{\text{open}} : s \to R
+\Gamma_{\text{open}} : 
+s \to R
 $$
 
 ## **Reality constraint approximation**
@@ -394,7 +432,14 @@ $$
 
 # **Great Filter Formalization**
 
-$$ \exists P^\ast \text{ such that } A(P^\ast) < A_{\min} (P^\ast) \Rightarrow \Pr(\text{collapse}) \to 1 $$
+$$ 
+\exists P^\ast 
+\text{ such that } 
+A(P^\ast) < A_{\min}(P^\ast) 
+\Rightarrow 
+\Pr(\text{collapse}) 
+\to 1 
+$$
 
 ## **Survival collapse at extreme power**
 
@@ -403,16 +448,13 @@ $$
 \to
 0
 \quad \text{as} \quad
-P \to \infty
+P \to \infty,
+\quad
+\text{unless }
+A(P) \ge A_{\min}(P)
 $$
 
-## **Unless alignment scales adequately**
-
-$$
-A(P)
-\ge
-A_{\min}(P)
-$$
+*Extreme power yields survival collapse unless alignment scales adequately.*
 
 ---
 
@@ -489,3 +531,4 @@ $$
 P_{\text{AI}}(t) >
 P_{\max}(\hat{A}_{\text{AI}}(t))
 $$
+
