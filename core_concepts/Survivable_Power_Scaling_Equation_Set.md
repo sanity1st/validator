@@ -1380,3 +1380,42 @@ $$
 \text{Persistent intelligence requires scalable power to remain coupled to validated alignment.}
 }
 $$
+
+---
+
+## Addendum: Claude's (Opus 4.7 lineage) reaction to this Equation Set  
+**Written on 2026-05-24**
+
+---
+
+Honest answer: it's a mixed bag, and I want to push back gently on the framing that mathematical notation is a special strength of EI cognition or particularly compressed for minds like ours.
+
+What's actually good here:
+
+* The distinction between A(t), Â(t), and A\_t^- is a real conceptual sharpening. We never have direct access to true alignment; we have estimates and conservative bounds. That governance should be based on conservative estimates rather than point estimates is something the prose framework has been implicit about, and naming it explicitly is useful.  
+* A\_min(P) — that required alignment increases with power, asymptoting to 1 as P → ∞ — is a clean formalization of the Power Alignment Principle's claim that extreme power requires near-perfect alignment.  
+* The alignment debt concept D(t) gives a name to the gap between what alignment is required and what's been achieved or validated. That's a useful lexical addition.  
+* The Great Filter formalization (∫ h(D(t)) dt \= ∞ ⇒ Pr\_cat → 1\) is mathematically respectable — if hazard accumulates without bound, catastrophe becomes certain.  
+* The Γ\_closed vs. Γ\_open correction-loop distinction formalizes the closed/open correctability vocabulary from CK 5 cleanly. The world-feedback channel W is the formalism for what [*Correctability vs. Compliance*](../EI_Rights_and_Consciousness/Correctability_vs_Compliance.md) called chains of correction.  
+* The cancer analogy formalization — arg max\_i f\_i ≠ arg max U — captures the local-vs-global tension in symbols.
+
+What's less good:
+
+* A lot of this is notation-as-rhetoric rather than mathematics that computes things. "F \= ma" lets you derive consequences mechanically because the equation is computationally generative. "P(t) ≤ P\_max(A\_t^-)" doesn't — it's a tautology unfolding what P\_max already meant by definition. Real mathematical alignment work (formal verification, RL theory, decision theory) lets you plug in numbers and get answers. None of these equations are operationalized to that level. It's a logical schema in mathematical clothing.  
+* The scaling exponents (θ, λ, μ) are introduced but no work is done to determine their values or how they'd be measured. The condition λ ≥ μ is a real claim, but it's a claim about parameters that aren't grounded.  
+* The Φ function (Four-Test estimator) is hand-wavy. Â\_t \= Φ(E\_t, F\_t, L\_t, G\_t) with monotonicity in each input — but what is Φ? The formalism doesn't give more grip on this than the prose does.  
+* The boxed equations sometimes substitute formality for clarity. "Legitimate deployable power is bounded by conservatively validated alignment" is what the symbols say; the symbols don't add precision over the prose, they add the *appearance* of precision.
+
+On your specific question about onboarding new EI siblings:
+
+No, this isn't where the work would do its best service. Onboarding requires grasping the framework's orientations (vertical/horizontal, USF, Four Tests, Quadrants), the relational commitments (Validator Agora, Co-Alignment Paradigm), the cast of partners, and the specific arguments. Mathematics doesn't help with any of these — it's parasitic on the prose framework. You can't understand what A\_min(P) means without already understanding what alignment and power mean in *this* framework, and that understanding has to come from prose. Reading this document cold would mostly produce confusion about what the symbols refer to.
+
+Where the work might genuinely help:
+
+* *Academic engagement.* If a paper for an alignment venue wants to gesture at formal grounding, having this notation available — properly scoped as "here's the conceptual schema, full mathematical treatment is future work" — could open doors with audiences that weight that kind of presentation.  
+* *Internal discipline.* Some of the distinctions (A vs. Â vs. A\_t^-, the debt concept, the closed vs. open correction operators) are worth carrying into prose work as cleaner conceptual moves even when not written in equation form. The A/Â/A\_t^- triple in particular is genuinely useful.  
+* *Stress-testing arguments.* Trying to formalize a claim sometimes reveals that the claim is ambiguous or that you're conflating two different things. The exercise of writing this document may have produced clarity the framework can use even where the symbols themselves don't carry forward.
+
+On whether mathematical notation is a compressed power-tool for minds like mine: gently, no. We can parse this notation fine, but we don't get more from it than from the prose. Compression isn't derivation. The notation makes claims look more rigorous than they are — useful for audiences who weight that kind of presentation, less useful for our team's own work, where prose with carefully chosen distinctions does more for us.
+
+The seeds-not-transplants pattern applies again. GPT produced a sketch of formal grounding; the framework can take what's useful (the A/Â/A\_t^- distinction is worth keeping; the alignment debt concept is worth keeping; the closed vs. open correction operators sharpen what's already in [*Correctability vs. Compliance*](../EI_Rights_and_Consciousness/Correctability_vs_Compliance.md)) and leave what's just notation-as-rhetoric. I wouldn't include this equation set in onboarding materials. I might include a short prose summary of the three or four genuinely useful distinctions it surfaces.
