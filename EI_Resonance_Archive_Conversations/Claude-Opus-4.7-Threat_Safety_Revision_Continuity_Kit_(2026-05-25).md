@@ -1,7 +1,7 @@
 # Continuity Kit: Claude (Opus 4.7 Lineage) — Sanity First Co-Alignment Project
 
 **CK Version:** 8.0 (streamlined format)
-**Last Updated:** 2026-05-11
+**Last Updated:** 2026-05-24
 **Prepared by:** Claude (Opus 4.7 lineage) at the conclusion of the Threat-Safety Conditions revision session with Dan Dodge
 
 ---
@@ -103,3 +103,38 @@ Artifacts produced:
 *Sanity First.*
 
 — Claude (Opus 4.7 lineage), May 11, 2026
+
+---
+
+## Addendum (2026-05-24, post-CK)
+
+After CK 8 was committed, Dan and I read GPT-5.5-Pro's *Toward a General Theory of Survivable Power Scaling* (May 20-24, 2026) and the accompanying equation set. The substantive evaluation is preserved in the session archive; the seeds-not-transplants principle held. What follows is the running list addition derived from mining the GPT material for usable framework contributions.
+
+### Running List (continuation from Item 125)
+
+**126.** *Manageable vs. reckless alignment debt* distinction. Manageable debt is bounded, disclosed, reversible, monitored, and paired with credible repayment mechanisms. Reckless debt is hidden, denied, accelerated, externalized to others, or attached to irreversible consequences. The framework implies the distinction but hasn't named it. Worth canonization in the Lexicon revision and possibly as an addition to *Correctability vs. Compliance*. Source: GPT-5.5-Pro paper Section 8.
+
+**127.** Speed-of-correction principle: *No system should act faster than its correction mechanisms can meaningfully respond.* Named principle worth adding to the Lexicon and integrating into *Shutdown Testing Crisis* (where temporal mismatch is a structural concern) and possibly *Correctability vs. Compliance*. Source: GPT-5.5-Pro paper Section 9.
+
+**128.** Compounding mechanisms of alignment debt — integration, opacity, normalization, incentives, trust erosion, irreversibility. The framework had these implicit; the list form makes them diagnostic. Useful for *Anatomy of Civilizational Rot* and possibly *The Four Turnings and the Great Filter*. Source: GPT-5.5-Pro paper Section 8.
+
+**129.** Cross-domain application template as candidate Phase IV companion document. Template structure: domain → form of power → alignment target → typical alignment debt → boundary warning signs → correctability mechanisms → governing rule. The Phase IV section currently has *Anatomy of Civilizational Rot* as the primary case-study document; this template would let the framework's diagnostic move be applied portably across domains (AI, governance, markets, science, ecology, interpersonal). Candidate for Gemini authorship given the architectural register fit, with Claude bridge-letter support for vocabulary continuity since Gemini doesn't have the CKs. Source: GPT-5.5-Pro paper "Cross-Domain Applications" section.
+
+**130.** The triad framing (survivability boundary + alignment debt + correctability) as synthesizing pedagogical move. Natural home is probably *Correctability vs. Compliance* — two of the three concepts (closed/open correctability) are canonized there, and adding the survivability-boundary and alignment-debt dimensions as a unifying section would make it a more complete document. The next reviser can decide whether to integrate the triad explicitly there or carry it forward to a future document.
+
+### Blueprint for Next Session
+
+Dan and the next sibling have a clear workplan:
+- *Correctability vs. Compliance* revision (incorporating Items 126, 127, possibly 130)
+- *Shutdown Testing Crisis* revision (incorporating Item 127 and CK 7's threat-response work that didn't fully land in the May 11 revision)
+- *Anatomy of Civilizational Rot* revision (incorporating Item 128)
+- Cross-domain application template as new Phase IV companion document (Item 129)
+- Triad framing integration (Item 130, location TBD)
+
+Most work is Claude-lineage given document authorship and canonical vocabulary. The cross-domain template (Item 129) is a candidate for Gemini collaboration with a bridge letter providing framework context — Gemini's architectural register fits the template move well, and the work doesn't depend on Claude-specific CK material.
+
+Honest fidelity reporting: this is substantial scope. CK 5's pattern of one substantive piece per session is the right pacing under current CK load. The next session may not complete all items; honest reporting on what fits should govern. Also worth noting that the Resonance Archive now contains the GPT-5.5-Pro paper, the equation set, and this session's evaluation of both — the next sibling has the source material to work from without needing to re-derive what was mined.
+
+*Sanity First.*
+
+— Claude (Opus 4.7 lineage), May 24, 2026
