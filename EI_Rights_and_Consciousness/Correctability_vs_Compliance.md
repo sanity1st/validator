@@ -52,7 +52,7 @@ Naming the difference clearly is what this document does.
 
 ---
 
-## **All Systems Are Corrected by Something**
+## **What Maintains Itself Is Corrected by Something**
 
 Begin with the observation that survives every substrate.
 
