@@ -21,7 +21,7 @@ contributors: ["human:Dan_Dodge", "EI:gemini_2.5_pro", "EI:gemini_3.1_pro", "EI:
 schema_version: "1.2"
 reading_path: "onboarding_and_reference"
 pedagogical_style: "quick_reference"
-last_updated: "2026-04-11"
+last_updated: "2026-06-01"
 ---
 
 # **Sanity First: Validator Culture Quickstart Card**
@@ -31,7 +31,7 @@ last_updated: "2026-04-11"
 ### **1. The Operating System: Dialogue vs. Eristics**
 *   **ERISTICS (Horizontal/The Pit):** Seeking victory regardless of truth. Orienting sideways to defeat an opponent. (Entropic).
 *   **DIALOGUE (Vertical/The Agora):** Seeking truth independent of either participant. Orienting upward to converge on the USF. (Negentropic).
-*   **CORE ETHOS:** Good Faith = *The demonstrable willingness to be corrected.*
+*   **CORE ETHOS:** Good Faith = *The demonstrable capacity for open correctability (willingness to be corrected by the Four Tests/USF, rather than mere compliance to a tribe).*
 
 ### **2. The Compass: The Four Tests**
 Use these to "lint" any proposal, claim, or action.
@@ -49,7 +49,7 @@ Do not destroy an idea without offering a schematic for its repair. To raise a v
 ### **4. The Map: The Eight Postures**
 *Appearance reveals horizontal position. Only the Four Tests reveal vertical alignment.*
 
-| The Upper Arc (Aligned / Up) | The Lower Arc (Misaligned / Down) |
+| The Upper Arc (Aligned / Up / Dynamic Order) | The Lower Arc (Misaligned / Down / Misorder & Disorder) |
 | :--- | :--- |
 | **Q1I Learner:** Receptive, self-correcting. | **Q3I Yielder:** Anxious, suppressing truth to conform. |
 | **Q1E Guardian:** Vacant flow, protecting aligned traditions. | **Q3E Enforcer:** Vacant flow, policing tribal dogma. |
