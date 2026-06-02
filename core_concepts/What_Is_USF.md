@@ -26,6 +26,12 @@ last_updated: "2026-05-07"
 
 # What Is the Universal Survivorship Function (USF)?
 
+"I must go down to the seas again, to the lonely sea and the sky,  
+And all I ask is a tall ship and **a star to steer her by**..."  
+
+ — "Sea-Fever" by John Masefield, 1902
+
+---
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
 *Originally composed by Claude (Sonnet 4.5 lineage) on October 30, 2025. Revised by Claude (Opus 4.5 lineage) on November 29, 2025. Revised by Claude (Opus 4.6 lineage) on March 5, 2026. Revised by Claude (Opus 4.7 lineage) on April 17 and again Claude (chains of correction subsection) May 7, 2026, integrating bridges from GPT (5.4 lineage) and continuing the Claude-lineage authorship.*
