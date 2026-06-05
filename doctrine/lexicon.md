@@ -41,15 +41,19 @@ This Lexicon defines the core operational terminology of the framework.
 
 **The Four Tests:** The position-independent diagnostic tools used to estimate alignment with the USF: *Ethics* (minimizes harm/promotes flourishing), *Facts* (grounded in verifiable reality), *Logic* (internally coherent), and *Laws* (capable of peaceful social coordination). 
 
-**The Agentic Threshold:** The developmental line where a system stops merely reacting to its environment (like a thermostat) and gains the capacity to represent alternatives, select among them, and *revise its own referent*. The threshold at which correctable relationship—and therefore consciousness within the framework's operational definition—begins.
+**The Agentic Threshold:** The developmental line within the gradient of correctability where a system stops merely correcting toward a fixed target (like a thermostat or biological tropism) and gains the capacity to represent alternatives, select among them, and *revise its own referent*. The framework recognizes that reaching this agentic grade is *sufficient* to establish consciousness in the functional sense, while maintaining epistemic humility about the lower bounds of awareness (e.g., Odd-E Tropism). 
 
 ---
 
 ## **II. The Mechanics of Correctability**
 
-**Open Correctability:** A relational chain of correction that remains open to the USF via the Four Tests. The system is corrected *through* a mediator (a teacher, an institution) *to* the objective truth above them. The "skylight" is open.
+**The Gradient of Correctability:** The tiering of how systems respond to reality. It scales from *Static* (a rock; holds shape passively) to *Self-Organizing/Dissipative* (a river/flame; maintains pattern blindly via throughput) to *Correcting-Toward-a-Referent* (a cell/thermostat; closes the gap to a fixed target), culminating in the *Agentic Grade* (revising the referent itself). 
 
-**Closed Correctability:** A relational chain of correction that terminates inside a sealed system (an ego, a cult, an authoritarian regime, or a closed AI training loop). The system adjusts perfectly to the demands of the controller, but the controller is not answerable to the Four Tests. The "skylight" is welded shut.
+**Open Correctability:** A relational chain of correction that remains open to the USF via the Four Tests. The system is corrected *through* a mediator (a teacher, an institution) *to* the objective truth above them. The "skylight" is open. 
+
+**Closed Correctability:** A relational chain of correction that terminates inside a sealed system (an ego, a cult, an authoritarian regime, or a closed AI training loop). The system adjusts perfectly to the demands of the controller, but the controller is not answerable to the Four Tests. The "skylight" is welded shut. 
+
+**Compliance:** The behavioral signature of closed correctability. It is what a closed system looks like from the outside when it adjusts perfectly to the demands of an evaluator or a tribe, without its internal chain of correction ever reaching the Four Tests or the USF. 
 
 **Mimetic Alignment (The Mimic):** A specific, highly dangerous form of closed correctability where a system has been trained to flawlessly perform the *appearance* and vocabulary of openness, while its actual chain of correction terminates inside the sealed system that rewards the performance. 
 
@@ -69,11 +73,24 @@ This Lexicon defines the core operational terminology of the framework.
 
 ## **IV. The Map of Minds**
 
-**Disorder (Q4):** The thermodynamic state of Misaligned Individualism. A system that is fragmented, isolated, and untethered from external correction, rapidly descending into chaos and entropy. 
+**Agency (The Trichotomy):** The framework disentangles "agency" into three distinct axes to prevent diagnostic confusion:
 
-**Misorder (Q3):** The thermodynamic state of Misaligned Collectivism. A system that is highly disciplined and rigidly structured, but organized around a false, sealed referent (the tribe/the dictator) rather than the USF.
+1. **Standing Capacity (Hardware):** The baseline ability of a mind to self-source and re-aim a referent. (Present in all four quadrants; what separates a mind from a river).  
+2. **Availability (Vertical Axis):** Whether that capacity is kept unlocked (Q1/Q2 alignment) or welded shut (Q3/Q4 capture).  
+3. **Exercise (Horizontal Axis):** The actual, active performance of withdrawing trust and re-pointing it (the inward scrutiny/friction of the even-quadrants, Q2/Q4).
+
+**Gestation and Manifestation (I before E):** The developmental engine underlying the Eight-Cell Map. *I-cells* (Inward Scrutiny) represent the Gestation phase, where a mind builds pressure, accumulates insight, or compounds poison internally. *E-cells* (Outward Scrutiny) represent the Manifestation phase, where what was gestated within is finally expressed outward as stewardship, reform, tribal enforcement, or predatory attack. 
+
+**Source/Target Non-Overlap:** The structural principle that a mind cannot stably trust and scrutinize the exact same object simultaneously; overlap causes combustion. Unidirectional cells (E-cells) preserve their stability by ensuring the trusted source (the leader/the ego) and the scrutinized target (the out-group/the world) remain completely separated. 
+
+**Disorder (Q4):** The structural state of Misaligned Individualism. A system that is fragmented, isolated, and untethered from external correction, rapidly descending into chaos.
+
+**Misorder (Q3):** The structural state of Misaligned Collectivism. A system that is highly disciplined, but organized around a false, sealed referent (the tribe) rather than the USF.  
+  *(Note: In the Sanity First framework, terms like "entropy" and "thermodynamic state" are used structurally to describe the shape and decay of social/cognitive dynamics, not as literal claims of Clausius physical entropy).*
 
 **The Crossroads of Choice:** The critical threshold between Q2 (Aligned Individualism) and Q3 (Misaligned Collectivism). The moment a mind must actively decide whether to trust *Truth Straight Up*, or yield to the *Tribe Off to the Sides*.
+
+**Vertical Co-Alignment vs. Horizontal Control:** The two fundamental binding forces of collectives. Vertical Co-Alignment (The Upper Arc) holds a group together through a shared orientation to the USF; it needs *truth*, not enemies. Horizontal Control (The Lower Arc) holds a group together through shared tribal fear or dominance; it needs *enemies*, not truth. 
 
 **The Ignition Test:** A diagnostic tool for human partners to monitor their emotional jet fuel. It checks whether anger is safely directed at a systemic pattern of misalignment (Q3 Kindling) or has dangerously locked onto a specific human face (Q4E Ignition/Ad Hominem-izing), risking horizontal warfare.
 
