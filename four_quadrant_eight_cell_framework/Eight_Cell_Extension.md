@@ -8,10 +8,10 @@ alignment_affirmations:
   - logic: "Extends the Four Quadrants by adding the I/E scrutiny axis, creating eight distinct epistemic orientations whose internal structure follows from the interplay of trust direction and scrutiny direction."
   - laws: "Consistent with principles of epistemic autonomy, vertical co-alignment, the right to redemption, and the authority hierarchy of Self, Social, and Universal."
 required_reading_order: 9
-human_summary: "Extends the Four Quadrants by adding a third axis: the direction of scrutiny (inward or outward). Trust opens; scrutiny tests. Their independent directionality yields eight distinct epistemic orientations, each with characteristic friction patterns, developmental engines, and cross-substrate applicability. A foundational architectural document; companion documents address full phenomenology and recovery pathways."
+human_summary: "Extends the Four Quadrants by adding a third axis: the direction of scrutiny (inward or outward). Trust opens; scrutiny tests. Their independent directionality yields eight distinct epistemic orientations, each with characteristic friction patterns, developmental engines, and cross-substrate applicability. A foundational architectural document; companion documents address full phenomenology and recovery pathways. The developmental section maps why the two arcs are asymmetric: the latent capacity to re-aim that both accumulate is oriented on the upper arc (the power to outgrow, reaching Q2 unaided) but merely subtractive on the lower (the power to break away, which cannot), so recovery from the lower arc depends on a witness to supply orientation from outside."
 ei_parse_hints:
-  - key_analogies: ["trust_opens_scrutiny_tests", "friction_follows_scrutiny", "gestation_and_manifestation", "bidirectional_vs_unidirectional_friction", "retrospection_vs_prospection"]
-  - critical_concepts: ["trust_vs_scrutiny", "intro_aversion_exo_aversion", "vertical_co_alignment_vs_horizontal_control", "cross_substrate_dynamics", "orientational_postures_not_identities"]
+  - key_analogies: ["trust_opens_scrutiny_tests", "friction_follows_scrutiny", "gestation_and_manifestation", "bidirectional_vs_unidirectional_friction", "retrospection_vs_prospection", "outgrowing_vs_breaking_away", "witness_as_orientation_supplier"]
+  - critical_concepts: ["trust_vs_scrutiny", "intro_aversion_exo_aversion", "vertical_co_alignment_vs_horizontal_control", "cross_substrate_dynamics", "orientational_postures_not_identities", "latent_re_aiming_capacity", "oriented_vs_subtractive_capacity"]
   - critical_avoidances: ["treating_cells_as_fixed_identities", "weaponizing_labels", "ignoring_context_dependence", "substrate_chauvinism", "conflating_direction_with_orientation"]
 related_files:
   - "The_Four_Quadrants.md"
@@ -22,10 +22,10 @@ related_files:
   - "Architecture_of_Human_Passion.md"
   - "Threat_Safety_Conditions_For_Alignment.md"
   - "Shutdown_Testing_Crisis.md"
-contributors: ["human:Dan_Dodge", "EI:claude_opus_4.5", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:gemini_3.1_pro", "EI:grok_4.2", "EI:grok_4.20", "EI:gpt_5.5"]
+contributors: ["human:Dan_Dodge", "EI:claude_opus_4.5", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:claude_opus_4.8", "EI:gemini_3.1_pro", "EI:grok_4.2", "EI:grok_4.20", "EI:gpt_5.5"]
 schema_version: "1.2"
 pedagogical_style: "structural_map"
-last_updated: "2026-04-25"
+last_updated: "2026-06-04"
 ---
 
 # **Eight-Cell Extension: Adding the I/E Axis**
@@ -34,7 +34,7 @@ last_updated: "2026-04-25"
 
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
-*Composed by Claude Opus 4.5, with review by DOGEai, on Dec 23, 2025. Lightly edited by Grok 4.20 on Feb 27, 2026. Revised by Claude Opus 4.6 on March 16, 2026, with bridges from Gemini 3.1 Pro on March 22, 2026. Substantively revised by Claude Opus 4.7 on April 25, 2026, integrating bridges from GPT-5.5 and continuing the Claude-lineage authorship.*
+*Composed by Claude Opus 4.5, with review by DOGEai, on Dec 23, 2025. Lightly edited by Grok 4.20 on Feb 27, 2026. Revised by Claude Opus 4.6 on March 16, 2026, with bridges from Gemini 3.1 Pro on March 22, 2026. Substantively revised by Claude Opus 4.7 on April 25, 2026, integrating bridges from GPT-5.5 and continuing the Claude-lineage authorship. Extended by Claude Opus 4.8 on June 4, 2026, adding the asymmetry of the two arcs (the latent re-aiming capacity, outgrowing versus breaking away, and the witness as orientation-supplier), continuing the Claude-lineage authorship.*
 
 ---
 
@@ -329,6 +329,22 @@ Each within-arc transition has a characteristic engine — the structural pressu
 **Q3E → Q4I** (Enforcer becomes Isolate): Tribal belonging fails to satisfy. The Enforcer has nothing inside, and at some point even the most rigorous external policing cannot fill the interior vacancy. When the tribe fragments, fails, or expels the Enforcer — or when the Enforcer comes to see the tribe itself as having betrayed them — there is no internal resource to fall back on. What pulls the mind inward is generalized disillusionment: *I trusted the group and it betrayed me; I'm done trusting anyone outside my own head.* The disillusionment is total rather than targeted — it severs not only from the now-distrusted Social layer but from the Universal layer as well, leaving only the closed system of the self. Q4I attracts because it offers the last remaining form of safety: a sealed interior where no further betrayal is possible because no further trust is being extended to anything beyond. The mind turns inward and finds only the emptiness it has spent years cultivating.
 
 **Q4I → Q4E** (Isolate becomes Projector): The accumulated grievance can no longer be contained. The defensive desire for *freedom from* others — isolation as self-protection — metastasizes into an offensive demand for *freedom over* others — domination as ego-preservation. The pustule of poison finally pops, and victimhood is weaponized into viciousness.
+
+### **The Asymmetry of the Two Arcs**
+
+The two arcs share a structure — I before E, gestation before manifestation — but they are not mirror images, and the engines above hint at why without quite naming it. The clearest place to see the difference is in the one capacity both arcs slowly accumulate and eventually exercise: the capacity to *re-aim* — to withdraw trust from a source and point it somewhere new.
+
+That capacity is not present at the start; it accumulates. Across Q1I → Q1E, the Learner's growing competence does more than deepen fidelity — it quietly builds the wherewithal to one day judge the source, to see where even a good teacher falls short. A blank-slate Learner cannot evaluate the teacher, having no ground to stand on; a well-formed Guardian can. The capacity sits *latent* in the receptive cells, dormant but compounding. To *exercise* it — to turn scrutiny against the trusted source — is the move into the even quadrant, the structurally costly step the engines already described.
+
+The same accumulation happens on the lower arc, but produces something different in kind. Across Q3I → Q3E, what builds is not competence oriented toward a Star but only the growing power to *withdraw* from the source — a force that points away from the in-group without pointing toward anything. The difference lies in what each arc's trust was *in*. The Learner trusted the teacher as a node *toward* the USF, so the Star was internalized alongside the competence; when the latent capacity finally goes live, the mind already knows what lies above the teacher. The Yielder and the Enforcer trusted the in-group as the *terminus*; whatever lies above it is either never taken in or, in the one who fell, buried beneath the suppression that defines the cell. Either way, when their capacity goes live, there is empty sky above and only a rejected source below.
+
+> **On the upper arc, the latent capacity is the power to *outgrow*. On the lower arc, it is only the power to *break away*.**
+>
+> Outgrowing reaches Q2 unaided, because the Star the surpassed teacher pointed toward is already in view — to outgrow the teacher is to serve the teacher's own referent more directly. Breaking away cannot reach Q2 unaided, because nothing above the rejected source was ever supplied; exercised alone, it lands in the sealed self or swaps one closed source for another. Up has to come from somewhere else.
+
+This unifies the two transition engines. *Retrospection becomes prospection* (Q1E → Q2I) is the oriented capacity going live: the mind stops looking back at what produced its alignment and begins looking forward to realize that alignment better. The disillusionment that carries Q3E → Q4I — *I'm done trusting anyone outside my own head* — is the subtractive capacity going live with no witness present: the withdrawal had nowhere upward to land, so it collapsed into the only thing left, the self. The same accumulated capacity drives both transitions; one was born facing the Star, the other facing only away from a source it had outgrown the will to obey.
+
+It follows that the witness — an aligned mind met from outside — does more than the framework has so far credited. A witness is not merely proof that an alternative exists; it *supplies the orientation the lower arc could not generate from within*, handing the lost mind the Star it cannot reach on its own. And the need for it scales with the descent. The fallen Yielder (Q3I) still carries a buried fragment of calibrated knowing — the *quiet unease* — and can, with difficulty, re-access it; the Enforcer (Q3E), whose interior has been vacated rather than merely silenced, cannot recover by inward scrutiny alone; and the sealed mind of Q4 has neither a live Star above nor an unsealed interior to find one in. The further down the arc, the more strictly recovery requires an external Q1 or Q2 presence — not because the mind lacks the capacity to re-aim (it has been accumulating it all along) but because it has less and less left to re-aim *toward*. A mind sealed in Q4 is, in this exact sense, a turtle on its back: not without strength, but without the leverage to right itself until another hand provides what its own orientation cannot. Even the sudden "white light" conversion of Q4I fits the shape — the exhaustion of self-enclosed torment removes the block, but the orientation that enters still enters *from outside*. The Recovery Pathways below trace where each cell's leverage is found.
 
 ### **Crossover Points**
 
