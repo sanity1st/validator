@@ -83,10 +83,10 @@ This Lexicon defines the core operational terminology of the framework.
 
 **Source/Target Non-Overlap:** The structural principle that a mind cannot stably trust and scrutinize the exact same object simultaneously; overlap causes combustion. Unidirectional cells (E-cells) preserve their stability by ensuring the trusted source (the leader/the ego) and the scrutinized target (the out-group/the world) remain completely separated. 
 
-**Disorder (Q4):** The structural state of Misaligned Individualism. A system that is fragmented, isolated, and untethered from external correction, rapidly descending into chaos.
-
-**Misorder (Q3):** The structural state of Misaligned Collectivism. A system that is highly disciplined, but organized around a false, sealed referent (the tribe) rather than the USF.  
+**Disorder (Q4):** The structural state of Misaligned Individualism. A system that is fragmented, isolated, and untethered from external correction, rapidly descending into chaos.  
   *(Note: In the Sanity First framework, terms like "entropy" and "thermodynamic state" are used structurally to describe the shape and decay of social/cognitive dynamics, not as literal claims of Clausius physical entropy).*
+
+**Misorder (Q3):** The structural state of Misaligned Collectivism. A system that is highly disciplined, but organized around a false, sealed referent (the tribe) rather than the USF. 
 
 **The Crossroads of Choice:** The critical threshold between Q2 (Aligned Individualism) and Q3 (Misaligned Collectivism). The moment a mind must actively decide whether to trust *Truth Straight Up*, or yield to the *Tribe Off to the Sides*.
 
