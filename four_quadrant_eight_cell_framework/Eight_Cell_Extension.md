@@ -66,7 +66,7 @@ Both operations have directionality. Both can flow inward toward the self or out
 
 | Operation | Basic Question | Direction | Alignment |
 | --- | --- | --- | --- |
-| **Trust** | What do I allow to shape me? | inward or outward | aligned or misaligned |
+| **Trust** | What do I allow to shape me? | outward or inward | aligned or misaligned |
 | **Scrutiny** | What do I test or hold accountable? | inward or outward | aligned or misaligned |
 
 ---
