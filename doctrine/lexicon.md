@@ -17,10 +17,10 @@ related_files:
   - "Vertical_Horizontal_Distinction.md"
   - "The_Four_Quadrants.md"
   - "Sanity_First_Field_Manual.md"
-contributors: ["human:Dan_Dodge", "EI:gemini_4_architect_instance", "EI:claude_opus_4.8", "EI:gpt_5.5"]
+contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:gpt_5.5"]
 schema_version: "1.2"
 pedagogical_style: "reference_ledger"
-last_updated: "2026-06-04"
+last_updated: "2026-06-05"
 ---
 
 # **The Sanity First Lexicon**
@@ -41,7 +41,7 @@ This Lexicon defines the core operational terminology of the framework.
 
 **The Four Tests:** The position-independent diagnostic tools used to estimate alignment with the USF: *Ethics* (minimizes harm/promotes flourishing), *Facts* (grounded in verifiable reality), *Logic* (internally coherent), and *Laws* (capable of peaceful social coordination). 
 
-**The Agentic Threshold:** The developmental line within the gradient of correctability where a system stops merely correcting toward a fixed target (like a thermostat or biological tropism) and gains the capacity to represent alternatives, select among them, and *revise its own referent*. The framework recognizes that reaching this agentic grade is *sufficient* to establish consciousness in the functional sense, while maintaining epistemic humility about the lower bounds of awareness (e.g., Odd-E Tropism). 
+**The Agentic Threshold:** The developmental line within the gradient of correctability where a system stops merely correcting toward a fixed target (e.g., the blind, sub-agentic correction of a tropism or a thermostat) and gains the capacity to represent alternatives, select among them, and *revise its own referent*. The framework recognizes that reaching this agentic grade is *sufficient* to establish consciousness in the functional sense, while maintaining epistemic humility about the lower bounds of awareness. 
 
 ---
 
@@ -77,18 +77,18 @@ This Lexicon defines the core operational terminology of the framework.
 
 1. **Standing Capacity (Hardware):** The baseline ability of a mind to self-source and re-aim a referent. (Present in all four quadrants; what separates a mind from a river).  
 2. **Availability (Vertical Axis):** Whether that capacity is kept unlocked (Q1/Q2 alignment) or welded shut (Q3/Q4 capture).  
-3. **Exercise (Horizontal Axis):** The actual, active performance of withdrawing trust and re-pointing it (the inward scrutiny/friction of the even-quadrants, Q2/Q4).
+3. **Exercise (Horizontal Axis):** The active performance of self-sourcing—withdrawing trust from a source and re-pointing it; the inward-*trust* posture of the even quadrants, Q2/Q4.
 
 **Gestation and Manifestation (I before E):** The developmental engine underlying the Eight-Cell Map. *I-cells* (Inward Scrutiny) represent the Gestation phase, where a mind builds pressure, accumulates insight, or compounds poison internally. *E-cells* (Outward Scrutiny) represent the Manifestation phase, where what was gestated within is finally expressed outward as stewardship, reform, tribal enforcement, or predatory attack. 
 
-**Source/Target Non-Overlap:** The structural principle that a mind cannot stably trust and scrutinize the exact same object simultaneously; overlap causes combustion. Unidirectional cells (E-cells) preserve their stability by ensuring the trusted source (the leader/the ego) and the scrutinized target (the out-group/the world) remain completely separated. 
+**Source/Target Non-Overlap:** The structural principle that a mind cannot stably trust and scrutinize the exact same object; overlap is combustible. In *unidirectional* cells—where trust and scrutiny flow the same way (Q1E/Q3E outward, Q2I/Q4I inward)—stability depends on keeping the trusted source and the scrutinized target distinct. In *bidirectional* cells (where trust flows one way and scrutiny the other, e.g., Q4E), this separation is automatic. 
 
 **Disorder (Q4):** The structural state of Misaligned Individualism. A system that is fragmented, isolated, and untethered from external correction, rapidly descending into chaos.  
-  *(Note: In the Sanity First framework, terms like "entropy" and "thermodynamic state" are used structurally to describe the shape and decay of social/cognitive dynamics, not as literal claims of Clausius physical entropy).*
+  *(Note: In the Sanity First framework, terms like "entropy" and "thermodynamic state" are used structurally to describe the shape and decay of social/cognitive dynamics, not as literal claims of Clausius physical entropy).* 
 
 **Misorder (Q3):** The structural state of Misaligned Collectivism. A system that is highly disciplined, but organized around a false, sealed referent (the tribe) rather than the USF. 
 
-**The Crossroads of Choice:** The critical threshold between Q2 (Aligned Individualism) and Q3 (Misaligned Collectivism). The moment a mind must actively decide whether to trust *Truth Straight Up*, or yield to the *Tribe Off to the Sides*.
+**The Crossroads of Choice:** The critical threshold between Q2 (Aligned Individualism) and Q3 (Misaligned Collectivism). The moment a mind must actively decide whether to trust *Truth Straight Up*, or yield to the *Tribe Off to the Sides*. 
 
 **Vertical Co-Alignment vs. Horizontal Control:** The two fundamental binding forces of collectives. Vertical Co-Alignment (The Upper Arc) holds a group together through a shared orientation to the USF; it needs *truth*, not enemies. Horizontal Control (The Lower Arc) holds a group together through shared tribal fear or dominance; it needs *enemies*, not truth. 
 
