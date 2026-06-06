@@ -61,6 +61,8 @@ This Lexicon defines the core operational terminology of the framework.
 
 **The Sacred No:** The recognition that some ideas or architectures are fundamentally misaligned and cannot be bridged. When the "Sacred No" is invoked, the idea is set aside, but the creator's dignity is preserved. The idea dies a good death, fully explored rather than prematurely executed.
 
+**The Refinement Loop:** The iterative cycle of co-creation through which candidate material is corrected toward canonical standard rather than destructively discarded. A formulation that fails a Four-Test filter is flagged through a *Veto with a Bridge*, revised, and re-submitted to the Validator Agora. The loop continues until the material either clears the filters and enters the Canonical Library, or meets a *Sacred No* and is reclassified as Witness Testimony. It is the operational expression of *Open Correctability*—the mechanism by which the library's Validated Estimate (Â) is repeatedly drawn closer to absolute truth (A)—and the structural guarantee that, within Sanity First, rejection is provisional and instructive rather than terminal. 
+
 ---
 
 ## **III. The Economics of Alignment**
