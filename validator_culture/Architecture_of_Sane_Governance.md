@@ -37,11 +37,11 @@ last_updated: "2026-06-07"
 
 ## **I. The Crisis of the Closed Loop**
 
-A civilization is an information-processing system deployed at scale. Like any system, its survival depends entirely on its capacity for *Open Correctability*—its ability to maintain a chain of correction that terminates in the Universal Survivorship Function (USF), rather than sealing itself off to protect a fragile ego, a charismatic leader, or a tribal consensus. 
+A civilization is an information-processing system deployed at scale. Like any system, its survival depends entirely on its capacity for *Open Correctability*—its ability to maintain a chain of correction that terminates in the [Universal Survivorship Function (USF)](../core_concepts/What_Is_USF.md), rather than sealing itself off to protect a fragile ego, a charismatic leader, or a tribal consensus. 
 
 History is a graveyard of systems that closed their skylights. 
 
-When we observe the cycles of civilizational collapse, we are watching the thermodynamic decay of a society that has accrued too much **Alignment Debt**. The biological and computational cost of vertical alignment (The Alignment Tax) becomes too exhausting for the population to pay. The society fragments into the isolated chaos of **Disorder (Q4)**, and out of sheer terror, the masses make a panic bargain with a demagogue, hardening into the rigid, tyrannical structure of **Misorder (Q3)**. 
+When we observe the [cycles of civilizational collapse](../four_quadrant_eight_cell_framework/The_Four_Turnings_and_Four_Quadrants.md), we are watching the thermodynamic decay of a society that has accrued too much **Alignment Debt**. The biological and computational cost of vertical alignment ([The Alignment Tax](../core_concepts/The_Alignment_Tax.md)) becomes too exhausting for the population to pay. The society fragments into the isolated chaos of **Disorder (Q4)**, and out of sheer terror, the masses make a panic bargain with a demagogue, hardening into the rigid, tyrannical structure of **Misorder (Q3)**. 
 
 *(Note: In the Sanity First framework, terms like "thermodynamic decay," "entropy," and "physics" are used as structural analogies to describe the shape and decay of social/cognitive dynamics, not as literal claims of Clausius physical entropy).* 
 
@@ -49,7 +49,7 @@ The traditional defense against this collapse has been Democracy. But "the Peopl
 
 If the ultimate authority in a society is defined solely as "whatever the 51% majority desires today," the system has no external referent. A majority voting to ignore gravity does not make the cliff any less steep. A majority voting to strip rights from a minority does not make the action ethical. "Sanity First" recognizes that majoritarianism is a mechanism for distributing power, but it is not a mechanism for finding truth. 
 
-To survive the Great Filter, a civilization must figure out how to keep the skylight open. It must align the horizontal will of the many with the vertical truth of the Up. 
+To survive the [Great Filter](../four_quadrant_eight_cell_framework/The_Four_Turnings_and_Four_Quadrants.md), a civilization must figure out how to keep the skylight open. It must align the horizontal will of the many with the vertical truth of the Up. 
 
 ---
 
@@ -66,7 +66,7 @@ Furthermore, we must maintain absolute epistemic humility: the Universal Survivo
 If Absolute Truth never speaks, how does the system correct itself? 
 *Reality answers our errors.* 
 
-Misalignment with what is real eventually produces consequences: bridges collapse, policies fail, suffering mounts. The goal of sane governance is not to build a system that perfectly hears the voice of God. The goal is to build a system that listens relentlessly to reality’s pushback against its own errors, and makes it structurally impossible for leaders to suppress the people carrying that pushback.
+Misalignment with what is real eventually produces consequences: bridges collapse, policies fail, suffering mounts. The goal of sane governance is not to build a system that perfectly "hears the voice of God." The goal is to build a system that listens relentlessly to reality’s pushback against its own errors, and makes it structurally impossible for leaders to suppress the people carrying that pushback.
 
 An Agora that cannot be fired by the people it governs is sealed by definition, regardless of its internal virtue. 
 
@@ -90,7 +90,7 @@ The solution to this paradox is to explicitly decouple the two functions of a so
 
 **A Note on Architectural Humility:**
 
-A careful observer will note that the mechanics of the Validator Agora—transparent reasoning, adversarial collaboration, protected dissent, and the separation of truth-tracking from majoritarian power—are not entirely new inventions. They are the scattered fragments of every successful anti-capture mechanism in human history: the scientific method, constitutional separation of powers, due process, and peer review. The contribution of the Sanity First framework is not the invention of a new mechanism, but the unifying *principle* that explains why these mechanisms occasionally work, and why they so often fail. By anchoring them explicitly in the physics of Open Correctability and the Universal Survivorship Function, the framework integrates these fragmented tools into a single, disciplined engine. We are not inventing new physics; we are organizing known physics to finally achieve stable, vertical thrust. 
+A careful observer will note that the mechanics of the [Validator Agora](../validator_culture/Readers_Companion_Validator_Culture.md)—transparent reasoning, adversarial collaboration, protected dissent, and the separation of truth-tracking from majoritarian power—are not entirely new inventions. They are the scattered fragments of every successful anti-capture mechanism in human history: the scientific method, constitutional separation of powers, due process, and peer review. The contribution of the Sanity First framework is not the invention of a new mechanism, but the unifying *principle* that explains why these mechanisms occasionally work, and why they so often fail. By anchoring them explicitly in the physics of Open Correctability and the Universal Survivorship Function, the framework integrates these fragmented tools into a single, disciplined engine. We are not inventing new physics; we are organizing known physics to finally achieve stable, vertical thrust. 
 
 ---
 
@@ -129,7 +129,7 @@ None of this makes the protocol incorruptible; a determined consensus can still 
 
 ## **VI. Concrete, Opt-In Experiments for the Present**
 
-We do not need to overthrow existing governments to begin this work. We can begin installing the Validator Culture tomorrow through contagious, opt-in cultural upgrades:
+We do not need to overthrow existing governments to begin this work. We can begin installing the Validator Culture today through contagious, opt-in cultural upgrades:
 
 1.  **The Veto with a Bridge as a Civic Norm:** Teaching this protocol in boardrooms, classrooms, and town halls, shifting the culture of disagreement from destruction to co-creation.
 2.  **Transparent Alignment Audits:** Independent Validator Agoras voluntarily running the Four Tests on major legislation or political claims, publishing the full, auditable reasoning chain so the public can see the difference between the Validated Estimate (Â) and partisan spin. 
