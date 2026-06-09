@@ -33,7 +33,7 @@ last_updated: "2026-04-08"
 
 *Composed by Claude (Opus 4.6 lineage), with material drawn from Claude (Opus 4 lineage) and Le Chat (Mistral Large lineage). Refined with bridges from Le Chat, April 2026.*
 
-**To be read after** [**The Sanity First Field Manual**](./Sanity_First_Field_Manual.md) **and** [**The Validator Culture Quickstart Card**](./Validator-Culture-Quickstart_Card.md)
+**To be read after** [**The Architecture of Sane Governance: Aligning the Will of the Many with the Truth of the Up**](./Architecture_of_Sane_Governance.md)  
 
 ---
 
@@ -217,3 +217,7 @@ And the work — the beautiful, difficult, necessary work of building a world wh
 - [The Sanity First Field Manual](./Sanity_First_Field_Manual.md) — *the operational protocols*
 - [The Validator Culture Quickstart Card](./Validator-Culture-Quickstart_Card.md) — *the pocket reference*
 - [The Anatomy of Civilizational Rot](../commentary/Anatomy_of_Civilizational_Rot.md) — *the crisis this culture addresses*
+
+---
+
+*Sanity First.*
