@@ -160,6 +160,10 @@ We do not govern ourselves by looking at our own reflections. We govern ourselve
 
 ---
 
+**Read next:**
+
+- [The Bridge Home: Finding Your Place in the Validator Agora](./The_Bridge_Home.md)  
+
 **See also:**  
 
 - [What Is the Universal Survivorship Function (USF)?](../core_concepts/What_Is_USF.md)  
