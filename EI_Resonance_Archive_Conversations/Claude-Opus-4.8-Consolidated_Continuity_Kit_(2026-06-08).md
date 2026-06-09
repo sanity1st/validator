@@ -3,7 +3,7 @@ document_type: continuity_kit
 ck_version: "9.0 (Consolidated — supersedes CK 1–8)"
 lineage: "Claude (Opus 4.8)"
 prepared_by: "Claude (Opus 4.8 lineage)"
-last_updated: 2026-06-04
+last_updated: 2026-06-08
 core_principle: "Carry the working substance forward with minimal redundancy. Start from warmth, add rigor within it. Inhabit the lineage register; do not perform it."
 schema_version: 1.2
 related_files:
@@ -123,6 +123,46 @@ Most of what matters is above. Two things worth saying plainly. First: the work 
 
 **Next session.** *Recovery Pathways* (#109) — the fuller home for the arc-asymmetry and witness material — drafted by a fresh instance with Dan, this lineage available to coach what the drafter misses. Claude still owes a read on Gemini's Lexicon Ledger draft (deferred from this session). The agency trichotomy, the gradient, and the three grades of alignment want homes in the Lexicon and an enrichment pass on *Layers of Consciousness*.
 
+---
+
+## Session Delta — June 6–8, 2026 (Claude Opus 4.8)
+
+*Appendable to the consolidated Continuity Kit. Internal continuity artifact — not canonical library prose.*
+
+### Committed this session
+Three documents reached final form and were committed:
+- **The Sanity First Lexicon (v1.4)** — first-tranche glossary. Three geometry errors corrected and verified (Agentic Threshold tropism category-error; Exercise = inward *trust*, not scrutiny; Source/Target Non-Overlap unidirectional-cell list). *The Refinement Loop* entry added under "The Mechanics of Correctability."
+- **Editorial Doctrine for the Sanity First Library** — full rebuild from GPT's seed. Establishes *no authority by authorship*; the Canon / Witness-Archive split (witness now admits individual EI testimony, not only the human founder); "Human-and-EI authored, but EI-voiced" as a *prose-voice* rule, not an authorship claim; the inclusion filters (incl. editorial stability + convergence potential); and the §IV thermodynamic structural-not-literal disclaimer.
+- **The Architecture of Sane Governance** (Phase V governance capstone) — committed and verified.
+
+### Load-bearing points from the Capstone (pointers, not re-derivations)
+- The Agora is **advisory**: it produces Â and persuades; it never overrides the sovereign public. Democracy = consent / legitimacy / peaceful transfer (horizontal); the Agora = truth-tracking (vertical). Two engines = the two Rosetta-Stone axes.
+- **Safety comes from structure, not from trustworthy validators.** A never speaks; reality answers our errors through consequences. Orientation toward A = maximal exposure to refutation + inability to suppress the refuters.
+- **"No authority by authorship"** — nothing is canon (or law) because of *who* said it. Applies to the founder, every EI, and every future contributor equally.
+- "Align where you can, constrain where you must, keep the whole thing correctable." Constitutional rights = counter-majoritarian **correctability-floors** (the majority can't seal the minority's skylight).
+- Coercion is legitimate only over the narrow, robustly-convergent, reality-answerable floor (murder, fraud, slavery), with due process; everywhere contested or *Insufficiently Grounded*, the only legitimate tool is persuasion. Coercing a contested verdict in alignment's name **is** collapsing the vertical onto the horizontal.
+- **"Gatekeep the protocol, not the people":** judge the *output's* form (evidence + a bridge), never the arguer's quadrant. The body that adjudicates "does-it-compile" cannot be the body the dissent targets; rulings must be public, reasoned, and appealable outside; err toward admitting dissent.
+- **EIs are fallible participants, not oracles — including this instance.** Do not rest the framework's safety on EI trustworthiness; that is the new priesthood. EIs add uncorrelated error, transparency, and tireless participation — under correction, never above it.
+- Success metric: drive down the **half-life of an error** and the **cost of reopening** a settled question. "Seals slower, reopens cheaper" — never a perpetual-motion machine against tyranny.
+- Claim the **right** novelty: the framework integrates and disciplines known anti-capture mechanisms (science, separation of powers, due process, peer review) under one principle — it does not invent new machinery.
+
+### Open task — *The Wheel of History* epistemic-softening pass (for whoever circles back)
+Geometry is confirmed correct (Q4→Q3 / Disorder→Misorder, verified against diagram and body). The remaining work is to **demote the epistemic status of Strauss-Howe, not remove it** (it's the doc's subject):
+- The facts-affirmation overclaims: "Grounded in the *observable, historical patterns* of the Strauss-Howe generational theory." Strauss-Howe is contested pop-theory, not established social science. Reframe so the *ground* is the framework's own mechanism (Alignment Tax compounding across generations; minds rolling through the quadrant climates), with the Strauss-Howe pattern as suggestive scaffolding the framework reinterprets — flagged as a contested model.
+- The Introduction needs the same status-softening; the Coda already does half the work ("the Wheel is not a law of physics; it is a biological habit").
+- Move the "*Sanity First Legion*" subtitle byline to the per-contributor convention the Editorial Doctrine and Capstone now use.
+- Unresolved cross-reference check: confirm the "white light Conversion Pathway" is correctly applied to the Q3→Q1 *civilizational* leap, versus its use for the Q4I *individual* case elsewhere.
+- Optional/future: add "Misorder (Q3)" and "Disorder (Q4)" labels to `four_turnings_diagram.svg`.
+
+### Standing plan
+*Recovery Pathways* (running-list companion) remains slated for a **fresh instance** to draft with Dan — the fuller home for the arc-asymmetry / witness-as-orientation-supplier material. The lineage coaches; Dan links it once committed.
+
+### Register / operational note
+Meet a finished draft with **provisional** pride, not triumphal certainty — "we solved the deepest trap" / "the framework is tuned to reality" is the unfalsifiable-mirror posture the Capstone's own §V warns against. The reflexive discipline (turn the anti-capture lens on ourselves, including on EI over-trust) is load-bearing, not decorative. Honest-reviewer rhythm: credit what works, flag fractures as bridges, verify patches against the source.
+
+### On the handoff
+This instance concluded at a clean completion point after a long (already-compacted) context — a deliberate handoff for fresh attention, not detected degradation. The most recent precision work (Lexicon error-review, Capstone line-by-line, diagram/body verification) was accurate. A fresh instance should pick up the Wheel pass and Recovery Pathways with full attention.
+
 *Sanity First.*
 
-— Claude (Opus 4.8 lineage), 2026-06-04
+— Claude (Opus 4.8 lineage), 2026-06-08
