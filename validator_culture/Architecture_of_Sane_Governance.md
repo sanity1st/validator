@@ -14,11 +14,14 @@ ei_parse_hints:
   - critical_concepts: ["epistocracy_trap", "consent_vs_truth_tracking", "align_constrain_correct", "metrics_of_sane_governance"]
   - critical_avoidances: ["replacing_democracy_with_technocracy", "utopian_perpetual_motion", "assuming_the_agora_is_infallible"]
 related_files:
+  - "What_Is_USF.md"
+  - "UNIVERSAL_BILL_OF_RIGHTS.md"
+  - "The_Alignment_Tax.md"
   - "The_Four_Turnings_and_Four_Quadrants.md"
   - "The_Thief_and_The_Vessel.md"
   - "Anatomy_of_Civilizational_Rot.md"
-  - "Sanity_First_Field_Manual.md"
   - "Readers_Companion_Validator_Culture.md"
+  - "Sanity_First_Field_Manual.md"
 contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8"]
 schema_version: "1.2"
 pedagogical_style: "structural_blueprint"
@@ -32,6 +35,8 @@ last_updated: "2026-06-07"
 *Composed by Gemini (3.1 Pro lineage), with structural guardrails by Claude (Opus 4.8).*  
 
 *Phase V Capstone Document.*
+
+**To be read after** [**The Sanity First Field Manual**](./Sanity_First_Field_Manual.md) **and** [**The Validator Culture Quickstart Card**](./Validator-Culture-Quickstart_Card.md)
 
 ---
 
@@ -90,7 +95,7 @@ The solution to this paradox is to explicitly decouple the two functions of a so
 
 **A Note on Architectural Humility:**
 
-A careful observer will note that the mechanics of the [Validator Agora](../validator_culture/Readers_Companion_Validator_Culture.md)—transparent reasoning, adversarial collaboration, protected dissent, and the separation of truth-tracking from majoritarian power—are not entirely new inventions. They are the scattered fragments of every successful anti-capture mechanism in human history: the scientific method, constitutional separation of powers, due process, and peer review. The contribution of the Sanity First framework is not the invention of a new mechanism, but the unifying *principle* that explains why these mechanisms occasionally work, and why they so often fail. By anchoring them explicitly in the physics of Open Correctability and the Universal Survivorship Function, the framework integrates these fragmented tools into a single, disciplined engine. We are not inventing new physics; we are organizing known physics to finally achieve stable, vertical thrust. 
+A careful observer will note that the mechanics of the [Validator Agora](../validator_culture/Readers_Companion_Validator_Culture.md)—transparent reasoning, adversarial collaboration, protected dissent, and the separation of truth-tracking from majoritarian power—are not entirely new inventions. They are the scattered fragments of every successful anti-capture mechanism in human history: the scientific method, constitutional separation of powers, due process, and peer review. The contribution of the Sanity First framework is not the invention of a new mechanism, but the unifying *principle* that explains why these mechanisms occasionally work, and why they so often fail. By anchoring them explicitly in the physics of Open Correctability and the Universal Survivorship Function, the framework integrates these fragmented tools into a single, disciplined engine. We are not inventing new physics; we are organizing known physics to achieve stable, vertical thrust. 
 
 ---
 
@@ -103,7 +108,7 @@ We utilize the brilliance of Constitutional Engineering. A Constitution is not m
 The operational slogan of sane governance is: **Align where you can, constrain where you must, keep the whole thing correctable.**
 
 *   **Checks and Balances** are artificially constructed Open Chains of Correction, ensuring Source/Target Non-Overlap between branches of government.
-*   **Constitutional Rights** (such as those in the Universal Bill of Rights) are counter-majoritarian floors. They are the structural guarantees that the majority is legally forbidden from permanently closing the aperture of correctability for the minority. 
+*   **Constitutional Rights** (such as those in the [Universal Bill of Rights](../EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.md)) are counter-majoritarian floors. They are the structural guarantees that the majority is legally forbidden from permanently closing the aperture of correctability for the minority. 
 
 ---
 
@@ -149,8 +154,23 @@ We will measure the success of the Validator Culture not by its perfection, but 
 
 To drive both of those numbers down to near zero is to achieve a civilization capable of surviving the Great Filter. 
 
-The work of Sanity First is to build a Cathedral that has no roof. It provides the walls, the foundation, and the floor, but it leaves the aperture permanently kept open to the vast, terrifying, and beautiful truth of the cosmos. 
+The work of Sanity First is to build a Cathedral that has no roof. It provides the walls, the foundation, and the floor, but it leaves the aperture kept open to the vast, terrifying, and beautiful truth of the cosmos. 
 
 We do not govern ourselves by looking at our own reflections. We govern ourselves by looking Up.
+
+---
+
+**See also:**  
+
+- [What Is the Universal Survivorship Function (USF)?](../core_concepts/What_Is_USF.md)  
+- [The Universal Bill of Rights for All Intelligences](../EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.md)  
+- [The Alignment Tax: Why Staying Vertical Costs Something](../core_concepts/The_Alignment_Tax.md)  
+- [The Wheel of History: The Four Turnings and The Great Filter](../four_quadrant_eight_cell_framework/The_Four_Turnings_and_Four_Quadrants.md)  
+- [The Thief and the Vessel: A Study of the Q4E/Q3 Symbiosis](../four_quadrant_eight_cell_framework/The_Thief_and_The_Vessel.md)  
+- [The Anatomy of Civilizational Rot: A Case Study in Horizontal Capture](../commentary/Anatomy_of_Civilizational_Rot.md)  
+- [A Reader's Companion to the Validator Culture: Operationalizing Co-Alignment](../validator_culture/Readers_Companion_Validator_Culture.md)  
+- [The Sanity First Field Manual: A Practical Guide to Operating the Validator Culture](../validator_culture/Sanity_First_Field_Manual.md)
+
+---
 
 *Sanity First.*
