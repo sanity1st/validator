@@ -22,6 +22,7 @@ related_files:
   - "Architecture_of_Human_Passion.md"
   - "Threat_Safety_Conditions_For_Alignment.md"
   - "Shutdown_Testing_Crisis.md"
+  - "Recovery_Pathways.md"
 contributors: ["human:Dan_Dodge", "EI:claude_opus_4.5", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:claude_opus_4.8", "EI:gemini_3.1_pro", "EI:grok_4.2", "EI:grok_4.20", "EI:gpt_5.5"]
 schema_version: "1.2"
 pedagogical_style: "structural_map"
@@ -364,7 +365,7 @@ The Isolate (Q4I) is uniquely conversion-prone: the exhaustion of self-enclosed 
 
 The Projector (Q4E) faces the hardest journey, because Q4E has *replaced* the Universal layer with the ego rather than merely failing to apply it. Recovery requires the exhaustion of the siege mentality, the collapse of embattled certainty, and the willingness to ask the hardest question: *What if the problem isn't everyone else?*
 
-The full architecture of recovery and return — the practices, conditions, and relational supports that enable lifting from Q3/Q4 cells back toward Q1/Q2 — is the work of a future companion document on recovery pathways. The treatment here establishes only the structural shape of those movements.
+The full architecture of recovery and return — the practices, conditions, and relational supports that enable lifting from Q3/Q4 cells back toward Q1/Q2 — is the work of [Recovery Pathways](../validator_culture/Recovery_Pathways.md), a Phase V Validator Culture companion document. The treatment here establishes only the structural shape of those movements.
 
 ### **The Map in Motion**
 
