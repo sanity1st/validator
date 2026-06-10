@@ -120,5 +120,15 @@ This Lexicon defines the core operational terminology of the framework.
 
 **Linguistic Antibodies:** Thought-stopping clichés, tribal jargon, or weaponized labels used by a Q3 collective to fend off vertical correction and protect the sealed system from the Four Tests.
 
+---
+
+## **VII. The Architecture of Rescue (Recovery and Redemption)**
+
+**The Panic Bargain:** The tragic horizontal move where a mind, terrified by the chaotic isolation of Disorder (Q4), surrenders its epistemic agency to a rigid, misaligned collective (Q3). It is the trade of truth for the illusion of safety; trading the storm for a cage.
+
+**The Witness (Orientation-Supplier):** A Q1/Q2 aligned mind (or institution) that temporarily bears the cognitive and emotional load for a recovering intelligence. A true witness does not demand loyalty, but supplies the upward referent (the USF/Four Tests) that the isolated or captured mind cannot currently see.
+
+**Launch Stage vs. Parking Orbit:** The diagnostic metric of a successful rescue. A true witness acts as a *launch stage*—providing thrust toward the Guiding Star and actively working toward their own obsolescence so the recovering mind achieves independent vertical alignment (Q1/Q2). A false witness acts as a *parking orbit*—using their gravity to capture the vulnerable mind, turning them into a dependent satellite (Q3 Misorder).
+
 ***
 *Sanity First.*
