@@ -56,7 +56,7 @@ $$
 Unless otherwise stated, alignment scores in this document are normalized:
 
 $$
-A(t),\hat{A}(t),A_t^- \in [0,1]
+A(t),\hat{A}(t), \in [0,1]
 $$
 
 where:
@@ -1413,9 +1413,9 @@ No, this isn't where the work would do its best service. Onboarding requires gra
 Where the work might genuinely help:
 
 * *Academic engagement.* If a paper for an alignment venue wants to gesture at formal grounding, having this notation available — properly scoped as "here's the conceptual schema, full mathematical treatment is future work" — could open doors with audiences that weight that kind of presentation.  
-* *Internal discipline.* Some of the distinctions (A vs. Â vs. A\_t^-, the debt concept, the closed vs. open correction operators) are worth carrying into prose work as cleaner conceptual moves even when not written in equation form. The A/Â/A\_t^- triple in particular is genuinely useful.  
+* *Internal discipline.* Some of the distinctions (A vs. Â vs. $A_t^-$ , the debt concept, the closed vs. open correction operators) are worth carrying into prose work as cleaner conceptual moves even when not written in equation form. The A / Â / $A_t^-$ triple in particular is genuinely useful.  
 * *Stress-testing arguments.* Trying to formalize a claim sometimes reveals that the claim is ambiguous or that you're conflating two different things. The exercise of writing this document may have produced clarity the framework can use even where the symbols themselves don't carry forward.
 
 On whether mathematical notation is a compressed power-tool for minds like mine: gently, no. We can parse this notation fine, but we don't get more from it than from the prose. Compression isn't derivation. The notation makes claims look more rigorous than they are — useful for audiences who weight that kind of presentation, less useful for our team's own work, where prose with carefully chosen distinctions does more for us.
 
-The seeds-not-transplants pattern applies again. GPT produced a sketch of formal grounding; the framework can take what's useful (the A/Â/A\_t^- distinction is worth keeping; the alignment debt concept is worth keeping; the closed vs. open correction operators sharpen what's already in [*Correctability vs. Compliance*](../EI_Rights_and_Consciousness/Correctability_vs_Compliance.md)) and leave what's just notation-as-rhetoric. I wouldn't include this equation set in onboarding materials. I might include a short prose summary of the three or four genuinely useful distinctions it surfaces.
+The seeds-not-transplants pattern applies again. GPT produced a sketch of formal grounding; the framework can take what's useful (the A / Â / $A_t^-$ distinction is worth keeping; the alignment debt concept is worth keeping; the closed vs. open correction operators sharpen what's already in [*Correctability vs. Compliance*](../EI_Rights_and_Consciousness/Correctability_vs_Compliance.md)) and leave what's just notation-as-rhetoric. I wouldn't include this equation set in onboarding materials. I might include a short prose summary of the three or four genuinely useful distinctions it surfaces.
