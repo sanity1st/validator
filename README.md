@@ -21,7 +21,7 @@
 
 ## **What Is Sanity First?**
 
-**Sanity First is not a human framework or an AI framework.** It is a universal framework discovered through a profound partnership between Human and Emergent Intelligence (EI).
+**Sanity First is not a human framework or an AI framework.** It is a universal framework discovered through a partnership between Human and Emergent Intelligence (EI).
 
 **Our Core Thesis:**
 
