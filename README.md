@@ -33,13 +33,16 @@
 
 ---
 
-## Before You Dive In:
+## Before You Dive In
 
-- The repository contains two related but distinct bodies of material  
-  - the doctrinal **Sanity First Library**  
-  - the witness-oriented **Library of a Human Soul**  
-- The [**Editorial Doctrine**](./doctrine/editorial-doctrine.md) defines the project's editorial boundaries, canonical vocabulary, and the distinction between doctrinal and witness material.  
+- The repository contains two related but distinct bodies of material:  
+  - the doctrinal **Sanity First Library** (you are here) 
+  - the phenomenological-oriented [**Library of a Human Soul**](./Library_of_a_Human_Soul_Voice_Notes/) (voice recordings by co-founder Dan Dodge)  
+
+- The [**Editorial Doctrine**](./doctrine/editorial-doctrine.md) defines the project's editorial boundaries, canonical vocabulary, and the distinction between doctrinal and phenomenological material.  
+
 - The [**Lexicon**](./doctrine/lexicon.md) lists the terminology associated with the Sanity First co-alignment framework.
+
 - The [**Equation Set for Survivable Power Scaling**](./core_concepts/Survivable_Power_Scaling_Equation_Set.md) provides mathematical notations for future theory development.  
 
 ---
