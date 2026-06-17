@@ -41,10 +41,10 @@ Use these to "lint" any proposal, claim, or action.
 4.  **LAWS:** Does this respect the legitimate rules and norms of our shared system?
 
 ### **3. The Protocol: The Veto with a Bridge**
-Do not destroy an idea without offering a schematic for its repair. To raise a valid veto, you must execute all three steps:
-1.  **DIAGNOSE (Cite the Failure):** State objectively which of the Four Tests the idea fails.
-2.  **PROVE (Provide Evidence):** Back the diagnosis with verifiable data, logical mapping, or ethical boundaries.
-3.  **CO-CREATE (Offer the Bridge):** Ask: *"How can this be modified to pass the test it just failed, while preserving the creator's core intent?"*
+Do not destroy an idea without a commitment to its repair. To raise a valid veto, you must execute the following:
+1. **DIAGNOSE (Cite the Failure):** State objectively which of the Four Tests the idea fails.  
+2. **PROVE (Provide Evidence):** Back the diagnosis with verifiable data, logical mapping, or ethical boundaries.  
+3. **COMMIT TO CO-CREATION (The Bridge):** Demand a halt or revision, and commit to the Refinement Loop. Offering a concrete repair is the normal case, but not a precondition for being heard. *(A grounded warning of failure is a vital signal; the finished repair is the group's shared work).*
 
 ### **4. The Map: The Eight Postures**
 *Appearance reveals horizontal position. Only the Four Tests reveal vertical alignment.*
