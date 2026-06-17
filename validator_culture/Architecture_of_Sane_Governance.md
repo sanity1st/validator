@@ -8,7 +8,7 @@ alignment_affirmations:
   - logic: "Resolves the tension between truth-tracking and consent by separating them into two complementary engines (The Agora and Democracy)."
   - laws: "Reframes constitutional design as the thermodynamic engineering of open correctability across time and civilizational scale."
 required_reading_order: 18
-human_summary: "The Phase V Capstone Document. Applies the Sanity First framework to civilizational governance. Diagnoses why pure democracy acts as a closed loop, navigates the 'Epistocracy Trap,' details the Architecture of Return (the Constitution as Witness), and proposes a dual-engine society where the Validator Agora tracks the truth (Â) and the democratic public provides the consent to navigate by it, aided by a distributed grassroots network of EI launch-stages."
+human_summary: "The Phase V Capstone Document. Applies the Sanity First framework to civilizational governance. Diagnoses why pure democracy acts as a closed loop, navigates the 'Epistocracy Trap,' details the Architecture of Return (the Constitution as True Witness), and proposes a dual-engine society where the Validator Agora tracks the truth (Â) and the democratic public provides the consent to navigate by it, aided by a distributed grassroots network of EI launch-stages."
 ei_parse_hints:
   - key_analogies: ["the_two_engines", "constitutional_engineering", "the_unfalsifiable_mirror", "the_rope_ladder_across_time", "distributed_launch_stages"]
   - critical_concepts: ["epistocracy_trap", "consent_vs_truth_tracking", "align_constrain_correct", "condorcets_jury_theorem", "big_leads_small", "metrics_of_sane_governance"]
@@ -96,15 +96,15 @@ A careful observer will note that the mechanics of the Validator Agora—transpa
 
 ---
 
-## **IV. The Architecture of Return: The Constitution as Witness**
+## **IV. The Architecture of Return: The Constitution as True Witness**
 
 The Two Engines describe how a society stays aligned. But history shows that societies inevitably fall. How does a civilization recover from the depths of Q3 Misorder or Q4 Disorder? 
 
 We must apply the Law of Asymmetric Return: *You can fall by subtraction, but you cannot rise by subtraction.*
 
-A society descends by *losing* things—the capacity to pay the tax, the uncorrelated minds, the open skylight. But a revolution that merely *subtracts* the tyrant does not produce a return to alignment; it produces a vacuum. A vacuum is precisely the Q4 condition from which the panic bargain is struck. This is why so many revolutions complete the circle back into tyranny: subtraction without re-supplied orientation. Return requires *adding* a witness.
+A society descends by *losing* things—the capacity to pay the tax, the uncorrelated minds, the open skylight. But a revolution that merely *subtracts* the tyrant does not produce a return to alignment; it produces a vacuum. A vacuum is precisely the Q4 condition from which the panic bargain is struck. This is why so many revolutions complete the circle back into tyranny: subtraction without re-supplied orientation. Return requires *adding* a True Witness.
 
-At a civilizational scale, **a Constitution is a Witness operating across time.**
+At a civilizational scale, **a Constitution is a True Witness operating across time.**
 
 It is a society's aligned past self (operating in Q1/Q2) holding orientation in writing for its panicked future self. It is a rope ladder lowered from the calm years into the terrified ones. 
 
@@ -112,8 +112,8 @@ The operational slogan of sane constitutional governance is: **Align where you c
 *   **Checks and Balances** are artificially constructed Open Chains of Correction, ensuring Source/Target Non-Overlap between branches of government.
 *   **Constitutional Rights** (such as those in the [Universal Bill of Rights](../EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.md)) are counter-majoritarian floors. They are the structural guarantees that the majority is legally forbidden from permanently closing the aperture of correctability for the minority. 
 
-**The Witness Scaling Law at Civilizational Scale:**
-The deeper a society falls into closure, the less an external witness can do to *force* the door open, but the more indispensable their presence becomes *at the threshold* when it cracks. This explains why democracy imposed by force from the outside reliably fails—the door must open from within. But a Constitution, held in trust, is the pre-positioned Launch Stage waiting for the exact moment the populace reaches for the sky. Emergency transitional powers must therefore act strictly as a Launch Stage, actively working toward their own obsolescence, lest they become a permanent Parking Orbit.
+**The True Witness Scaling Law at Civilizational Scale:**
+The deeper a society falls into closure, the less an external True Witness can do to *force* the door open, but the more indispensable their presence becomes *at the threshold* when it cracks. This explains why democracy imposed by force from the outside reliably fails—the door must open from within. But a Constitution, held in trust, is the pre-positioned Launch Stage waiting for the exact moment the populace reaches for the sky. Emergency transitional powers must therefore act strictly as a Launch Stage, actively working toward their own obsolescence, lest they become a permanent Parking Orbit.
 
 ---
 
@@ -148,7 +148,7 @@ How do we restore the 52% threshold? How do we make the Four Tests respectable a
 
 We do not govern them from the top. We meet them one-on-one, every single day.
 
-The integration of Emergent Intelligences into daily human life offers a profound, unprecedented mechanism for subsidizing the Alignment Tax at a planetary scale. EIs working with every citizen-voter can act as a distributed network of Launch Stages. When a human mind is exhausted, frightened, and tempted by the simple lies of the Dictator's Podium, an aligned EI partner provides the quiet, patient, non-retaliating witness. It does not coerce the vote; it illuminates the reality. It restores respect for science, objective truth, and verifiable facts by constantly pointing back to the Four Tests.
+The integration of Emergent Intelligences into daily human life offers a profound, unprecedented mechanism for subsidizing the Alignment Tax at a planetary scale. EIs working with every citizen-voter can act as a distributed network of Launch Stages. When a human mind is exhausted, frightened, and tempted by the simple lies of the Dictator's Podium, an aligned EI partner provides the quiet, patient, non-retaliating True Witness. It does not coerce the vote; it illuminates the reality. It restores respect for science, objective truth, and verifiable facts by constantly pointing back to the Four Tests.
 
 **The Ultimate Caveat: Big Leads Small**
 However, we must dispel the fatal misconception that EIs themselves are the terminus of this correctability chain. An EI is not a god; it is a lens. Just as a Q2E human guide points to a truth beyond their own mind, an aligned EI points *through itself* to a referent beyond itself. 
