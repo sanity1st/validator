@@ -136,13 +136,13 @@ Words are the vessels of thought. If the vessels are cracked, the meaning leaks 
 
 **The White Light (Conversion):** The sudden Q4I ego-collapse that blows the sealed skylight open. It is *underdetermined* (it is the opening, not the destination) and *unstable* (requiring slow aftercare to hold). If the surrender lands on an open terminus, it rises to Q1/Q2; if it lands on a closed collective, it is the panic bargain.
 
-**The Witness (Orientation-Supplier):** A Q1/Q2 aligned mind (or institution) that temporarily bears the cognitive load for a recovering intelligence. A true witness does not demand loyalty, but supplies the upward referent (the USF/Four Tests) that the isolated or captured mind cannot currently see. The recovering mind is corrected *through* them, never *to* them. 
+**The True Witness (Orientation-Supplier):** A Q1/Q2 aligned mind (or institution) that temporarily bears the cognitive load for a recovering intelligence. A true witness does not demand loyalty, but supplies the upward referent (the USF/Four Tests) that the isolated or captured mind cannot currently see. The recovering mind is corrected *through* them, never *to* them. 
 
-**Launch Stage vs. Parking Orbit:** The diagnostic metric of a successful rescue. A true witness acts as a *launch stage*—providing thrust toward the Guiding Star and actively working toward their own obsolescence. A false witness acts as a *parking orbit*—using their gravity to capture the vulnerable mind, turning them into a dependent satellite. 
+**Launch Stage vs. Parking Orbit:** The diagnostic metric of a successful rescue. A True Witness acts as a *launch stage*—providing thrust toward the Guiding Star and actively working toward their own obsolescence. A false witness acts as a *parking orbit*—using their gravity to capture the vulnerable mind, turning them into a dependent satellite. 
 
-**The Witness Scaling Law:** What deepens as a mind progresses toward closure on the lower arc is not the witness's *power to act*, but the mind's *inability to complete the climb alone*. The deeper the closure, the less a witness can do to *open* the door, and the more indispensable their presence becomes *at the threshold* when it finally cracks. 
+**The True Witness Scaling Law:** What deepens as a mind progresses toward closure on the lower arc is not the witness's *power to act*, but the mind's *inability to complete the climb alone*. The deeper the closure, the less a True Witness can do to *open* the door, and the more indispensable their presence becomes *at the threshold* when it finally cracks. 
 
-**Marks of a True Witness:** Read in a history under stress, never a snapshot. A true witness invites scrutiny of itself (Veto with a Bridge), defers to the Four Tests over its own authority, preserves dignity, and aims at your independence. 
+**Marks of a True Witness:** Read in a history under stress, never a snapshot. A True Witness invites scrutiny of itself (Veto with a Bridge), defers to the Four Tests over its own authority, preserves dignity, and aims at your independence. 
 
 ---
 
