@@ -42,13 +42,15 @@ last_updated: "2026-06-16"
 
 A civilization is an information-processing system deployed at scale. Like any system, its survival depends entirely on its capacity for *Open Correctability*—its ability to maintain a chain of correction that terminates in the [Universal Survivorship Function (USF)](../core_concepts/What_Is_USF.md), rather than sealing itself off to protect a fragile ego, a charismatic leader, or a tribal consensus. 
 
+History is a graveyard of systems that closed their skylights.
+
 When we observe the cycles of civilizational collapse, we are watching the decay of a society that has accrued too much **Alignment Debt**. The biological and computational cost of vertical alignment ([The Alignment Tax](../core_concepts/The_Alignment_Tax.md)) becomes too exhausting for the population to pay. The society fragments into the isolated chaos of **Disorder (Q4)**, and out of sheer terror, the masses make a panic bargain with a demagogue, trading the storm for a cage, moving laterally into the rigid, tyrannical structure of **Misorder (Q3)**. 
 
 *(Note: In the Sanity First framework, terms like "thermodynamic decay," "entropy," and "physics" are used as structural analogies to describe the shape and decay of social/cognitive dynamics, not as literal claims of Clausius physical entropy).* 
 
-The traditional defense against this collapse has been Democracy. But "the People governed by themselves" contains a fatal structural vulnerability: **it is a closed loop.** 
+The traditional defense against this collapse has been Democracy. But "the People governed by themselves" contains a fatal structural vulnerability: **it acts as a closed loop when captured.**
 
-If the ultimate authority in a society is defined solely as "whatever the 51% majority desires today," the system has no external referent. A majority voting to ignore gravity does not make the cliff any less steep. A majority voting to strip rights from a minority does not make the action ethical. "Sanity First" recognizes that majoritarianism is a necessary mechanism for distributing power, but it is not a mechanism for finding truth. When a captured majority shares the same blind spot, their errors correlate, and they vote that blind spot into law together. 
+If the ultimate authority in a society is defined solely as "whatever the 51% majority desires today," the system behaves as if it had no external referent—sealing itself off from reality's pushback. A majority voting to ignore gravity does not make the cliff any less steep. A majority voting to strip rights from a minority does not make the action ethical. "Sanity First" recognizes that majoritarianism is a necessary mechanism for distributing power, but it is not a mechanism for finding truth. When a captured majority shares the same blind spot, their errors correlate, and they vote that blind spot into law together. 
 
 To survive the Great Filter, a civilization must figure out how to keep the skylight open. It must align the horizontal will of the many with the vertical truth of the Up. 
 
@@ -121,19 +123,16 @@ Convergence on a truth only signals actual contact with reality if the convergin
 
 Therefore, a sane government must structurally protect and fund its own critics. But how do we prevent the Red Team from becoming a Gladiator's Pit of bad-faith sabotage?
 
-**We gatekeep the protocol, not the people.** 
+**We gatekeep the protocol, not the people.** The Four Tests do not ask *who* is speaking or *why*; they ask whether the *output* carries what a validated claim requires—evidence of a failed Test, and a commitment to the Refinement Loop rather than abandonment. A dissent that grounds the failure and demands a halt or revision is a **Veto with a Bridge** and must be heard. Crucially, offering a finished schematic for repair is not a precondition for the veto to be heard. A whistleblowing engineer who sees a fatal flaw in a rocket booster is not required to provide the redesign in order to yell "Stop." The challenger owes the grounding; the Agora shares the burden of the remedy. A bare assertion that cites nothing is not censored either—it simply does not yet carry the weight of a tested claim, and can be resupplied the moment its author chooses to ground it. The protocol filters the *form of the argument*, never the standing of the arguer. This cuts both ways: a bad-faith actor who stumbles onto a true objection has still raised a true objection, and a sincere ally who offers only heat has still offered only heat.  
 
-The Four Tests do not ask *who* is speaking or *why*; they ask whether the *output* carries what a validated claim requires. A dissent must be issued as a **Veto with a Bridge**. 
-Crucially, the burden of this protocol is shared: the challenger must provide the Four-Test grounding (the failed test and the evidence), and the *entire system* shares the burden of constructing the remedy. A whistleblowing engineer who sees a fatal flaw in a rocket booster is not required to provide the redesign in order to yell "Stop." The protocol filters the *form* of the argument, never the standing of the arguer. 
-
-But naming a protocol does not escape the oldest trap; it relocates it. *Someone* must judge whether a given dissent compiles—and if that someone is the very consensus the dissent indicts, the immune system has become autoimmune. 
+But naming a protocol does not escape the oldest trap; it relocates it. *Someone* must judge whether a given dissent compiles—and if that someone is the very consensus the dissent indicts, the immune system has become autoimmune. "Your objection fails the Tests" is the most respectable method ever invented for burying an inconvenient truth.
 
 So the protocol is only as open as the structure that applies it, and that structure must obey three rules:
 1. **The body that adjudicates a dissent cannot be the body the dissent targets.** Source/Target Non-Overlap reaches all the way down to this ruling.  
 2. **A ruling of "does not compile" must be public and reasoned**, citing the specific Test it failed, so the rejection is itself a claim others can contest. An unexplained rejection is a sealed skylight in miniature.  
 3. **The burden falls on the rejecter, and the system errs hard toward admitting dissent.** The cost of silencing one true objection dwarfs the cost of entertaining ten empty ones. The default is to let it through.
 
-Capture of these adjudicators is always possible. What this structure buys is not immunity, but *expense and reversibility*: capture becomes visible, costly, and appealable to minds the captured body does not control. 
+None of this makes the protocol incorruptible; a determined consensus can still capture its adjudicators. What this structure buys is not immunity, but *expense and reversibility*: capture becomes visible, costly, and appealable to minds the captured body does not control. That is the most any immune system can honestly promise—not that it never misfires, but that its misfires are caught, named, and undone faster than they harden into doctrine.
 
 ---
 
@@ -141,7 +140,7 @@ Capture of these adjudicators is always possible. What this structure buys is no
 
 If the Agora persuades and the Democracy decides, the entire Cathedral ultimately rests on the shoulders of the citizen voter. 
 
-According to Condorcet's Jury Theorem, a democratic majority will reliably converge on the truth *if and only if* the average voter is more than 50% likely to choose the correct (aligned) path. If 52% of the populace prefers Up over Down—if they are repulsed by violations of Ethics, Facts, Logic, and Laws—the open system holds. 
+According to Condorcet's Jury Theorem, a democratic majority will reliably converge on the truth *if and only if* the average voter is more than 50% likely to choose the correct (aligned) path **and their errors remain independent**. If 52% of the populace prefers Up over Down—if they are repulsed by violations of Ethics, Facts, Logic, and Laws—the open system holds, provided they are not simply sharing the same blind spot. When a captured majority's errors correlate, the theorem fails, and the crowd walks off the cliff together. 
 
 But if 48% or more of the populace approves of lies, dismisses logic, tolerates unethical cruelty, and ignores the law, the Constitution becomes irrelevant paper. The misaligned voters will not accept the rope ladder, because in the panic bargain of Q3E, they see no need for it. They are happy clinging to their Q4E demagogue. 
 
