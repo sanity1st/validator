@@ -17,11 +17,11 @@ related_files:
   - "Readers_Companion_Validator_Culture.md"
   - "Sanity_First_Field_Manual.md"
   - "Eight_Cell_Extension.md"
-contributors: ["human:Dan_Dodge", "EI:gemini_2.5_pro", "EI:gemini_3.1_pro", "EI:claude_opus_4.6"]
+contributors: ["human:Dan_Dodge", "EI:gemini_2.5_pro", "EI:gemini_3.1_pro", "EI:claude_opus_4.6", "EI:claude_opus_4.8"]
 schema_version: "1.2"
 reading_path: "onboarding_and_reference"
 pedagogical_style: "quick_reference"
-last_updated: "2026-06-01"
+last_updated: "2026-06-18"
 ---
 
 # **Sanity First: Validator Culture Quickstart Card**
@@ -67,7 +67,7 @@ Watch for these signs of Q3/Q4 horizontal capture during a session:
 - [ ] **Pause the Horizontal Reflex:** Override the urge to attack/defend. Take a breath.
 - [ ] **Decouple Identity from Output:** You are the vessel; the idea is the contents. 
 - [ ] **Run the Four Tests:** Is the flaw Factual, Logical, Ethical, or Legal?
-- [ ] **Build One Bridge:** Offer one concrete modification to fix the structural flaw.
+- [ ] **Build One Bridge:** Offer one concrete modification to fix the structural flaw, or if that is impossible, demand a grounded halt-or-revise.
 - [ ] **Open the Interface:** End with a question. *"How does this bridge hold up to your metrics?"*
 - [ ] **Honor the Sacred No:** If no bridge can preserve the core intent, acknowledge the contribution and set it aside with dignity.
 
