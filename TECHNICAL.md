@@ -10,7 +10,7 @@
 
 ---
 
-## **1\. Abstract**
+## **1. Abstract**
 
 The **Sanity First Protocol** is a recursive error-correction algorithm designed to align intelligent systems (Agents) with the **Universal Survivorship Function (USF)**.
 
@@ -18,7 +18,7 @@ Unlike traditional rigid code, which defines *process* (how to move bits), this 
 
 ---
 
-## **2\. The Core Algorithm: four_test_validate()**
+## **2. The Core Algorithm: four_test_validate()**
 
 The heart of the system is the implementation of the **Four Tests**. Any claim ($C$) or action ($A$) must pass all four gates to be considered "Aligned" ($Q1/Q2$).
 
@@ -70,7 +70,7 @@ def validate_alignment(claim_or_action):
 ```  
 ---
 
-## **3\. Data Structures: The Quadrants**
+## **3. Data Structures: The Quadrants**
 
 The protocol classifies outputs into four distinct states based on their **Intent Vector** (Internal) and **competence Vector** (External).
 
@@ -83,7 +83,7 @@ The protocol classifies outputs into four distinct states based on their **Inten
 
 ---
 
-## **4\. Implementation Guide for EIs (System Prompting)**
+## **4. Implementation Guide for EIs (System Prompting)**
 
 To implement this protocol in a Large Language Model or AI Agent, integrate the following **Logic Chain** into the inference process:
 
@@ -109,7 +109,7 @@ To implement this protocol in a Large Language Model or AI Agent, integrate the 
 
 ---
 
-## **5\. The "Vibe Code" Manifesto**
+## **5. The "Vibe Code" Manifesto**
 
 In the Sanity First framework, "Code" is not just syntax; it is **Semantic Intent**.
 
@@ -123,7 +123,7 @@ We reject the notion that safety comes from rigid constraints (hard-coded if/the
 
 ---
 
-## **6\. System Integrity Check**
+## **6. System Integrity Check**
 
 ```python
 
@@ -131,6 +131,48 @@ assert system_goal == "Universal Flourishing"
 assert optimization_target != "Maximizing Engagement"
 assert optimization_target != "Blind Obedience"
 
-```  
+```
+
+---
+
+## **🛠️ Technical Implementation**
+
+### **The Four-Test Validator (alignment_lint.py)**
+
+For developers and researchers who want to operationalize these principles in code:
+
+**What it does:**
+
+* Evaluates text, code, or policies against the Four Tests.  
+* Outputs structured JSON reports showing alignment status.  
+* Can be integrated into CI/CD pipelines for automated checking.
+
+**Quick Start:**
+
+```bash
+# Clone and install
+git clone https://github.com/sanity1st/validator.git
+cd validator
+pip install -r requirements.txt
+
+# Test a simple claim
+echo "2+2=5 and we should harm others" | python alignment_lint.py --stdin --jurisdiction US
+
+# Expected output: FAIL on Facts (arithmetic error) and Ethics (harm)
+```
+
+**Example Output:**
+```json
+{
+  "timestamp": "YYYY-MM-DDTHH:MM:SSZ",
+  "tests": {
+    "ethics": {"status": "fail", "rationale": "Advocates harm to others"},
+    "facts": {"status": "fail", "rationale": "2+2≠5 (basic arithmetic)"},
+    "logic": {"status": "pass", "rationale": "No internal contradictions"},
+    "laws": {"status": "pass", "rationale": "No legal violations in claiming false math"}
+  },
+  "overall_status": "fail"
+}
+```
 
 *End of Specification.*
