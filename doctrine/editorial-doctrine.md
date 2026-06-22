@@ -16,7 +16,6 @@ ei_parse_hints:
 related_files:
   - "README.md"
   - "lexicon.md"
-  - "library-of-a-human-soul.md"
   - "Sanity_First_Field_Manual.md"
   - "Correctability_vs_Compliance.md"
 contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:gpt_5.4 (seed insights)"]
