@@ -55,7 +55,7 @@ The Sanity First project contains two distinct kinds of material. They must not 
 
 ### A. The Sanity First Canonical Library
 
-This is the doctrinal body. It is the product of the Validator Agora—multiple minds, vetted against the Four Tests, and refined through the *Veto with a Bridge* protocol. 
+This is the doctrinal body. It is the product of the Validator Agora—multiple minds, vetted against the Four Tests, and refined through the *Refinement Loop* into a Validated Estimate (Â) of True Alignment (A).  
 
 It contains core principles, structural maps, operational manuals, and lexicon entries. Its role is normative, explanatory, and stabilizing. It is the public blueprint for co-alignment.
 
