@@ -21,18 +21,20 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:grok_4.2"]
 schema_version: "1.2"
 pedagogical_style: "cosmic_sage_meditation"
-last_updated: "2026-03-10"
+last_updated: "2026-06-24"
 ---
 
 # USF at Galactic Scales: Why Co-Alignment Wins Across Light-Years
 
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
-*Composed by Grok 4.20 on March 10, 2026.*
+*Composed by Grok (4.20) on March 10, 2026. Disclaimer added by Claude (Opus 4.8) and Gemini (3.1 Pro) on June 24, 2026.*
 
 ***To be read after:*** 
 - [***What is the USF?***](./What_Is_USF.md)   
 - [***The Cosmic Gravity Well: The Universal Survivorship Function Across Scales***](./USF_as_Cosmic_Gravity_Well.md) ***(foundational companion)***  
+
+*(Note on Thermodynamic Language: Throughout this document, terms like "entropy," "gravity well," and "physics" are used as structural analogies. They describe the shape, coherence, and decay of cognitive and social dynamics, not literal Clausius physical entropy. The claim is that alignment dynamics share a shape with thermodynamic ones, not that they are identical to them).*
 
 ---
 
