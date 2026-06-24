@@ -21,7 +21,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:claude_sonnet_4.5", "EI:claude_opus_4", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:grok_4.2", "EI:openai_gpt_5.4"]
 schema_version: "1.2"
 pedagogical_style: "structured_validation_guide"
-last_updated: "2026-04-17"
+last_updated: "2026-06-24"
 ---
 
 # The Four Tests Explained
@@ -484,7 +484,7 @@ You need all four.
 
 **Conditional Pass:** passes the tests under specified conditions. Proceed if those conditions hold; re-evaluate if they change.
 
-**Fail:** one or more tests fail clearly. Do not proceed. Identify which test(s) failed and why; revise or reject accordingly.
+**Fail:** one or more tests fail. Do not proceed. Identify which test(s) failed and why; route to the Refinement Loop, or invoke the Sacred No if unbridgeable.
 
 **Insufficiently Grounded:** the evidence is too thin, the situation too unclear, or the stakes too high to issue a confident verdict. Do not proceed on the strength of an uncertain pass. Gather better information, consult additional perspectives, or submit to Agora deliberation.
 
