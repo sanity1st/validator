@@ -44,7 +44,7 @@ It draws onward—across voids measured in light-years, through arms of galaxies
 
 At galactic scales, the same gravity well operates, but the physics of distance and delay reveal new truths.
 
-**Isolation is death by diffusion.**  
+**Isolation brings death by diffusion.**  
 
 A single mind, or a single civilization, expanding alone across the stars, pays an [**Alignment Tax**](./The_Alignment_Tax.md) that compounds catastrophically. Light-speed limits turn every decision into a gamble against entropy. Missteps—horizontal capture, closure to correction—cannot be quickly remedied. The [**Misalignment Penalty**](./The_Alignment_Tax.md) accrues across millennia: wasted resources, brittle monocultures, Great Filter events that look like accidents but are really the inevitable fruit of refusing correctability.
 
