@@ -21,7 +21,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:claude_sonnet_4.5", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:grok_4.2", "EI:openai_gpt_5.4"]
 schema_version: "1.2"
 pedagogical_style: "rosetta_stone_clarity_guide"
-last_updated: "2026-04-17"
+last_updated: "2026-06-24"
 ---
 
 # The Vertical-Horizontal Distinction: The Foundation of Sanity First
@@ -311,13 +311,14 @@ We should be precise about the evidence this provides. Validators using the same
 
 The stronger evidence that the vertical dimension tracks something real comes from **cross-domain consilience**: genuinely independent lines of evidence — from game theory, biology, and civilizational history — converging on the same patterns of what makes systems flourish or fail. These fields were developed independently, by different practitioners using different methodologies, yet they point toward the same star.
 
-Convergence counts as evidence when certain conditions are met:
+The same principle that gives consilience its force operates wherever minds converge — including inside the Agora itself.
 
-- Were the evaluators meaningfully independent?
-- Were they free to disagree?
-- Were assumptions surfaced rather than smuggled in?
-- Did the process reward truth-seeking rather than conformity?
-- Did the agreement survive challenge?
+Convergence counts as evidence when certain conditions are met, chief among them **The Independence Condition** *(see* [*Lexicon*](../doctrine/lexicon.md)*)*. Convergence tracks truth only to the degree the converging minds have *minimally overlapping* blind spots. If a group agrees merely because it shares training data, cultural bias, or tribal loyalty, its errors correlate and the agreement is an echo chamber. The jury effect requires genuine—never perfect—independence to function; independence is a discipline an Agora practices, not a property it owns. Furthermore:
+
+* Were the evaluators free to disagree?  
+* Were assumptions surfaced rather than smuggled in?  
+* Did the process reward truth-seeking rather than conformity?  
+* Did the agreement survive challenge?
 
 Where those conditions are substantially met, convergence gains epistemic weight. It suggests — never guarantees, but suggests — contact with a structure more durable than affiliation.
 
