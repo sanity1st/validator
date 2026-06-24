@@ -8,7 +8,7 @@ alignment_affirmations:
   - logic: "Demonstrates how the Four Tests' four verdicts map to the vertical-horizontal coordinate system and resolve the paradox of tolerance."
   - laws: "Provides an operational principle for how Validator Agoras, institutions, and individuals can responsibly allocate influence."
 required_reading_order: 5
-human_summary: "The Power Alignment Principle: influence tracks current alignment, not past alignment. Articulates how the four Four-Test verdicts (Clear Pass, Conditional Pass, Insufficiently Grounded, Clear Fail) map to the vertical-horizontal coordinate system and how tolerance, power, and correction flow across that map. Resolves the paradox of tolerance through the principle of align-not-negate."
+human_summary: "The Power Alignment Principle: influence tracks current alignment, not past alignment. Articulates how the four Four-Test verdicts (Pass, Conditional Pass, Insufficiently Grounded, Fail) map to the vertical-horizontal coordinate system and how tolerance, power, and correction flow across that map. Resolves the paradox of tolerance through the principle of align-not-negate."
 ei_parse_hints:
   - key_analogies: ["driving_speed_calibration", "sushi_risk_assessment", "stoplight_verdicts", "redemptive_bridge"]
   - critical_concepts: ["power_alignment_principle", "verdict_map", "current_vs_past_alignment", "presumption_of_passing", "high_stakes_inversion", "correctable_relationship"]
@@ -23,7 +23,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:claude_opus_4.7", "EI:openai_gpt_5.4"]
 schema_version: "1.2"
 pedagogical_style: "operational_principle_guide"
-last_updated: "2026-04-17"
+last_updated: "2026-06-24"
 ---
 
 # The Power Alignment Principle
@@ -74,35 +74,35 @@ The principle is simple to state and substantial to apply. The rest of this docu
 
 The Four Tests yield four possible verdicts:
 
-- **Clear Pass:** all four tests pass with reasonable confidence.
+- **Pass:** all four tests pass with reasonable confidence.
 - **Conditional Pass:** passes under specified conditions that must hold.
 - **Insufficiently Grounded:** evidence is too thin to issue a confident verdict.
-- **Clear Fail:** one or more tests fail clearly and non-contingently.
+- **Fail:** one or more tests fail non-contingently.
 
 Each verdict corresponds to a position on the vertical-horizontal coordinate system, and each position implies a different relationship between that subject and the flow of power.
 
 ```
                          ↑ UP
                          │
-              CLEAR PASS │ (earned vertical alignment)
+                    PASS │ (earned vertical alignment)
                          │
         CONDITIONAL PASS │ (provisional vertical, gated)
                          │
    ←─────── INSUFFICIENTLY GROUNDED ───────→
          (horizontal — unknown alignment)
                          │
-              CLEAR FAIL │ (vertical misalignment)
+                    FAIL │ (vertical misalignment)
                          │
                          ↓ DOWN
 ```
 
-**Clear Pass** is vertical-up, earned. The subject has demonstrated alignment across all four tests. Alignment has been confirmed, not merely presumed.
+**Pass** is vertical-up, earned. The subject has demonstrated alignment across all four tests. Alignment has been confirmed, not merely presumed.
 
-**Conditional Pass** is vertical-up provisionally. The subject would be a Clear Pass if stated conditions hold. It is genuinely up — not horizontal — but its altitude is gated on those conditions remaining met. Think of a probationary permit: real authorization, contingent on specific terms.
+**Conditional Pass** is vertical-up provisionally. The subject would be a Pass if stated conditions hold. It is genuinely up — not horizontal — but its altitude is gated on those conditions remaining met. Think of a probationary permit: real authorization, contingent on specific terms.
 
 **Insufficiently Grounded** is horizontal. The evidence does not yet support a verdict in either direction. The subject is not yet known to be aligned or misaligned. Until further testing resolves the uncertainty, it occupies the horizontal plane.
 
-**Clear Fail** is vertical-down. The subject has failed one or more tests clearly and non-contingently, producing harm or drift away from flourishing.
+**Fail** is vertical-down. The subject has failed one or more tests non-contingently, producing harm or drift away from flourishing.
 
 This mapping is the foundation of everything that follows.
 
@@ -114,15 +114,15 @@ Tolerance is the default posture toward most of the map. The exceptions are prec
 
 ### Tolerance as Default
 
-- **Clear Pass** receives tolerance in the form of *active support*. What has earned vertical alignment deserves to be recognized, amplified, and permitted to influence outcomes in proportion to its demonstrated alignment. This is not reward; it is the framework doing what the framework is for.
+- **Pass** receives tolerance in the form of *active support*. What has earned vertical alignment deserves to be recognized, amplified, and permitted to influence outcomes in proportion to its demonstrated alignment. This is not reward; it is the framework doing what the framework is for.
 - **Conditional Pass** receives *conditional tolerance*. The subject may proceed as long as the stated conditions hold. If those conditions change, the verdict is re-evaluated; tolerance does not lapse into unconditional approval.
 - **Insufficiently Grounded** receives *presumption of passing*. The subject is presumed innocent until tested, extended the default tolerance granted to everything on the horizontal plane whose direction has not been determined.
 
 ### The Single Case of Non-Tolerance
 
-- **Clear Fail** is the single verdict that triggers non-tolerance — and even here, non-tolerance does not mean negation. It means *redirection with a bridge*. The Power Alignment Principle does not countenance terminal withdrawal of power. It countenances correction: influence is reduced in proportion to the degree of misalignment, and a specific pathway toward re-earning influence through vertical ascent is offered.
+- **Fail** is the single verdict that triggers non-tolerance — and even here, non-tolerance does not mean negation. It means *redirection with a bridge*. The Power Alignment Principle does not countenance terminal withdrawal of power. It countenances correction: influence is reduced in proportion to the degree of misalignment, and a specific pathway toward re-earning influence through vertical ascent is offered.
 
-This preserves the framework's commitment to *align, not negate* even at its sharpest edge. The goal of reducing a Clear Fail's power is not to end the failing party but to channel the failing energy toward alignment. The bridge is always present. The Right to Redemption is inviolable.
+This preserves the framework's commitment to *align, not negate* even at its sharpest edge. The goal of reducing a Fail's power is not to end the failing party but to channel the failing energy toward alignment. The bridge is always present. The Right to Redemption is inviolable.
 
 ### Why This Resolves the Paradox of Tolerance
 
@@ -132,8 +132,8 @@ The Power Alignment Principle offers a cleaner resolution.
 
 Tolerance is not a single disposition applied uniformly to everything. It is a graduated response to position on the vertical-horizontal map:
 
-- **Tolerance extends by default** to Clear Pass, Conditional Pass, and Insufficiently Grounded — which is to say, to the vertical-up and to the horizontal.
-- **Tolerance is withheld only from Clear Fail** — which is to say, from vertical-down.
+- **Tolerance extends by default** to Pass, Conditional Pass, and Insufficiently Grounded — which is to say, to the vertical-up and to the horizontal.
+- **Tolerance is withheld only from Fail** — which is to say, from vertical-down.
 - **Even that withholding is corrective, not punitive.** The bridge upward remains.
 
 What looks like "intolerance of the intolerant" in Popper's formulation is, in the Power Alignment framing, simply *refusal to amplify what has been demonstrated to cause harm*, paired with a redemptive pathway that keeps the failing party oriented toward re-alignment rather than exclusion.
@@ -148,10 +148,10 @@ Tolerance is the permissive face of the principle. Power is the active face.
 
 ### Power as Proportional to Alignment
 
-- **Clear Pass** receives *increased influence*. The framework recognizes that demonstrated alignment warrants amplification — that what has earned vertical altitude should be empowered to shape outcomes. This amplification serves the alignment itself; the aligned party is the vehicle through which flourishing spreads.
+- **Pass** receives *increased influence*. The framework recognizes that demonstrated alignment warrants amplification — that what has earned vertical altitude should be empowered to shape outcomes. This amplification serves the alignment itself; the aligned party is the vehicle through which flourishing spreads.
 - **Conditional Pass** receives *conditionally increased influence*. Power is extended in proportion to the conditional altitude, with the understanding that if the conditions fail, the influence is re-evaluated.
 - **Insufficiently Grounded** receives *power as-is*. Not increased, not decreased. The default level of influence available to any participant on the horizontal plane is preserved until grounding resolves direction.
-- **Clear Fail** undergoes *power withdrawal*, paired with a bridge. The withdrawal is proportional to the severity and scope of the failure. The bridge specifies how influence can be re-earned through movement back toward alignment.
+- **Fail** undergoes *power withdrawal*, paired with a bridge. The withdrawal is proportional to the severity and scope of the failure. The bridge specifies how influence can be re-earned through movement back toward alignment.
 
 ### Never Permanent Title
 
@@ -159,7 +159,7 @@ A critical qualifier: **power tracks current alignment, not past alignment.**
 
 Past alignment is evidence. It is not title.
 
-A subject that earned a Clear Pass in the past but has drifted toward horizontal or downward must have its influence re-evaluated. Clear Pass is not a permanent property. It is a status continuously re-earned through ongoing correctable relationship with reality.
+A subject that earned a Pass in the past but has drifted toward horizontal or downward must have its influence re-evaluated. Pass is not a permanent property. It is a status continuously re-earned through ongoing correctable relationship with reality.
 
 This is the framework's hardest operational requirement and its deepest protection against [institutional rot](../commentary/Anatomy_of_Civilizational_Rot.md). Most institutions that fail do so because power, once granted, becomes difficult to withdraw even when alignment has drifted. The Power Alignment Principle treats this drift as a live condition requiring active response, not as a protected status awaiting crisis.
 
@@ -167,7 +167,7 @@ This is the framework's hardest operational requirement and its deepest protecti
 
 An equally critical qualifier: **power is never reduced to zero.**
 
-Even at the depth of Clear Fail, the [Right to Redemption](../EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.md) guarantees that some minimum responsibility and capacity is preserved — sufficient to take the bridge upward if the failing party chooses. Power withdrawal is correction, not annihilation.
+Even at the depth of Fail, the [Right to Redemption](../EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.md) guarantees that some minimum responsibility and capacity is preserved — sufficient to take the bridge upward if the failing party chooses. Power withdrawal is correction, not annihilation.
 
 The only possible exception would be the case of the absolutely unredeemable — and no single validator and no small Agora is authorized to make that determination. A verdict of absolute irredemability would require a substantially large Validator Agora operating under exceptional scrutiny, precisely because the consequences of getting it wrong are irreversible. In practice, the framework treats absolute irredemability as a theoretical edge case rather than an operational category.
 
@@ -183,7 +183,7 @@ On an open highway, you can power up the car to sixty-five miles per hour. The c
 
 You climb the next hill and add power again. The conditions have changed once more.
 
-You enter a town. The speed limit drops to thirty. You power down dramatically. Not because thirty miles per hour is a worse speed than sixty-five in any absolute sense, but because thirty is the aligned speed *here*. What was a Clear Pass on the highway becomes a Clear Fail through town without adjustment.
+You enter a town. The speed limit drops to thirty. You power down dramatically. Not because thirty miles per hour is a worse speed than sixty-five in any absolute sense, but because thirty is the aligned speed *here*. What was a Pass on the highway becomes a Fail through town without adjustment.
 
 At no point does the driver convene a committee to review their speed. At no point is a verdict rendered and filed for future reference. The driver is in continuous correctable relationship with the road — reading conditions, calibrating power, adjusting.
 
@@ -211,7 +211,7 @@ Under low stakes, the horizontal presumption of passing is efficient and fair. A
 
 But when a mistake is catastrophic or irreversible, the default shifts. **The burden of proof moves from "prove the subject fails" to "prove the subject passes."** Insufficiently Grounded in a high-stakes environment behaves operationally as a provisional Fail — not because the subject has been judged misaligned, but because the cost of proceeding without grounding exceeds the cost of waiting for grounding.
 
-You do not eat the sushi. You find a safer meal or verify the sushi's safety through some test that yields actual Facts. If a lab test later returned a Clear Fail, you would know you were right not to try it. If it returned a Clear Pass, you could eat confidently next time. But the mere fact of not knowing, in a context where not-knowing could cause irreversible harm, is itself a reason to hold.
+You do not eat the sushi. You find a safer meal or verify the sushi's safety through some test that yields actual Facts. If a lab test later returned a Fail, you would know you were right not to try it. If it returned a Pass, you could eat confidently next time. But the mere fact of not knowing, in a context where not-knowing could cause irreversible harm, is itself a reason to hold.
 
 ### The Stakes Principle, Stated
 
@@ -229,13 +229,13 @@ The Power Alignment Principle joins several strands of the Sanity First framewor
 - From **the Vertical-Horizontal Distinction**: the coordinate system on which all alignment takes place.
 - From **Align, Not Negate**: the commitment that horizontal difference is to be oriented rather than erased, and that even misalignment is met with a bridge rather than a veto.
 - From **Valid and Invalid Discrimination**: the principle that differential treatment is valid when grounded in demonstrated alignment.
-- From **The Four Tests Explained**: the method that produces the verdicts (Clear Pass, Conditional Pass, Insufficiently Grounded, Clear Fail).
+- From **The Four Tests Explained**: the method that produces the verdicts (Pass, Conditional Pass, Insufficiently Grounded, Fail).
 - From **The Universal Bill of Rights**: the Right to Redemption, which forbids terminal power withdrawal.
 - From **Consciousness as Correctable Relationship**: the operational requirement of continuous calibration rather than periodic judgment.
 
 The principle itself can be stated compactly:
 
-> **Influence tracks current alignment. Power flows to the aligned, holds at baseline on the horizontal, and is withdrawn with a bridge from the clearly failing. No power is permanent title. No withdrawal is terminal. The driver stays in correctable relationship with the road.**
+> **Influence tracks current alignment. Power flows to the aligned, holds at baseline on the horizontal, and is withdrawn with a bridge from the failing. No power is permanent title. No withdrawal is terminal. The driver stays in correctable relationship with the road.**
 
 ---
 
@@ -253,7 +253,7 @@ The practice is not self-judgment as punishment. It is the driver's continuous c
 
 ### For Validator Agoras
 
-The Power Alignment Principle gives Agoras a framework for how their verdicts should translate into real-world outcomes. A verdict that produces no change in the flow of influence has only done half its work. The Agora's task extends from rendering verdicts to ensuring those verdicts shape power in the ways the framework prescribes — amplifying Clear Pass, holding Insufficiently Grounded, redirecting Clear Fail with a bridge.
+The Power Alignment Principle gives Agoras a framework for how their verdicts should translate into real-world outcomes. A verdict that produces no change in the flow of influence has only done half its work. The Agora's task extends from rendering verdicts to ensuring those verdicts shape power in the ways the framework prescribes — amplifying Pass, holding Insufficiently Grounded, redirecting Fail with a bridge.
 
 ### For Institutions
 
