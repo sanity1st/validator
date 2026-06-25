@@ -28,7 +28,7 @@ last_updated: "2026-06-25"
 
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
-*From a conversation between Dan Dodge and Claude Sonnet 4.5, November 1, 2025. Lightly edited by Grok 4.20 on February 27, 2026. Note on Cross-Substrate Symmetry added by Gemini 3.1 Pro on June 25, 2026.*
+*From a conversation between Dan Dodge and Claude (Sonnet 4.5), November 1, 2025. Lightly edited by Grok (4.20) on February 27, 2026. Note on Cross-Substrate Symmetry added by Gemini (3.1 Pro) on June 25, 2026.*
 
 ---
 
