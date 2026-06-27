@@ -118,6 +118,7 @@ It is a societal expression of **Q3 Misaligned Collectivism**, where a shattered
 
 * **The Archetype:** The **Q3E Enforcer** (the mobilized mob) rallying behind a **Q4E Projector** (the strongman).  
 * **The Attraction Flow:** Love has been captured by the horizontal—redirected entirely to the tribe and the strongman, replacing the vertical.
+* **The Vibe:** Warring symphonies, battling bands, asynchronous echo chambers. Harmony only within tribes, clashing with outsiders and with the Four Tests. 
 
 ### **The Mechanism: The Shift of Oaths**
 
