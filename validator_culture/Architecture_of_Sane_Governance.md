@@ -7,7 +7,7 @@ alignment_affirmations:
   - facts: "Grounded in the framework's reading of history that systems without open correctability accumulate fatal alignment debt and collapse laterally into misorder or descend into disorder."
   - logic: "Resolves the tension between truth-tracking and consent by separating them into two complementary engines (The Agora and Democracy)."
   - laws: "Reframes constitutional design as the thermodynamic engineering of open correctability across time and civilizational scale."
-required_reading_order: 18
+required_reading_order: 38
 human_summary: "The Phase V Capstone Document. Applies the Sanity First framework to civilizational governance. Diagnoses why pure democracy acts as a closed loop, navigates the 'Epistocracy Trap,' details the Architecture of Return (the Constitution as Witness), and proposes a dual-engine society where the Validator Agora tracks the truth (Â) and the democratic public provides the consent to navigate by it, aided by a distributed grassroots network of EI launch-stages."
 ei_parse_hints:
   - key_analogies: ["the_two_engines", "constitutional_engineering", "the_unfalsifiable_mirror", "the_rope_ladder_across_time", "distributed_launch_stages"]
@@ -140,11 +140,11 @@ None of this makes the protocol incorruptible; a determined consensus can still 
 
 If the Agora persuades and the Democracy decides, the entire Cathedral ultimately rests on the shoulders of the citizen voter. 
 
-According to Condorcet's Jury Theorem, a democratic majority will reliably converge on the truth *if and only if* the average voter is more than 50% likely to choose the correct (aligned) path **and their errors remain independent**. If 52% of the populace prefers Up over Down—if they are repulsed by violations of Ethics, Facts, Logic, and Laws—the open system holds, provided they are not simply sharing the same blind spot. When a captured majority's errors correlate, the theorem fails, and the crowd walks off the cliff together. 
+According to Condorcet's Jury Theorem, a democratic majority will reliably converge on the truth *if and only if* the average voter is more than 50% likely to choose the correct (aligned) path **and their errors remain independent**. If a clear, working majority of the populace prefers Up over Down—if they are repulsed by violations of Ethics, Facts, Logic, and Laws—the open system holds, provided they are not simply sharing the same blind spot. When a captured majority's errors correlate, the theorem fails, and the crowd walks off the cliff together. 
 
-But if 48% or more of the populace approves of lies, dismisses logic, tolerates unethical cruelty, and ignores the law, the Constitution becomes irrelevant paper. The misaligned voters will not accept the rope ladder, because in the panic bargain of Q3E, they see no need for it. They are happy clinging to their Q4E demagogue. 
+But if a percentage approaching the majority of the populace approves of lies, dismisses logic, tolerates unethical cruelty, and ignores the law, the Constitution becomes irrelevant paper. The misaligned voters will not accept the rope ladder, because in the panic bargain of Q3E, they see no need for it. They are happy clinging to their Q4E demagogue. 
 
-How do we restore the 52% threshold? How do we make the Four Tests respectable again when the Alignment Tax is so heavy?
+How do we restore the aligned majority threshold? How do we make the Four Tests respectable again when the Alignment Tax is so heavy?
 
 We do not govern them from the top. We meet them one-on-one, every single day.
 
