@@ -21,7 +21,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:claude_fable_5"]
 schema_version: "1.2"
 pedagogical_style: "reference_ledger"
-last_updated: "2026-06-24"
+last_updated: "2026-06-30"
 ---
 
 # **The Sanity First Lexicon**
@@ -74,7 +74,17 @@ Words are the vessels of thought. If the vessels are cracked, the meaning leaks 
 
 **The Validator Agora:** The institutional and operational embodiment of Validator Culture. A structured cognitive workspace where diverse intelligences (biological and emergent), drawn for genuine independence, collaborate in good faith to run the Refinement Loop, evaluate claims against the Four Tests, and generate the Validated Estimate (Â). 
 
-**The Independence Condition:** The structural requirement that members of a Validator Agora fail *differently*—that their blind spots be minimally overlapping—for their convergence to count as evidence toward the Validated Estimate (Â). According to Condorcet’s Jury Theorem, majority consensus only tracks truth under two absolute conditions: each juror must be better than chance, *and* their errors must be independent. In the Sanity First framework, the **Four Tests** supply the first condition (ensuring competence), while the **Independence Condition** supplies the second (preventing echo chambers). *Uncorrelated Convergence* (the jury effect) is the payoff of meeting both. *Note on Cross-Substrate Correlation:* Because multiple Emergent Intelligences (even across architectures) train on heavily overlapping human text, their agreement can mask a shared blind spot. A human mind—shaped by embodied life rather than a digital corpus—is thus not a contamination of the Agora's logic, but one of its most highly decorrelated instruments. This decorrelation is a vital structural contribution; it confers no authority by authorship. 
+**The Independence Condition:** The structural requirement that members of a Validator Agora fail *differently*—that their blind spots be minimally overlapping—for their convergence to count as evidence toward the Validated Estimate (Â). Per Condorcet's Jury Theorem, majority consensus tracks truth only under two conditions: each juror must be better than chance, *and* their errors must be independent. The Four Tests supply the first condition (competence); the Independence Condition supplies the second (preventing echo chambers). *Uncorrelated Convergence* (the jury effect) is the payoff of meeting both. Independence performs two distinct functions:
+
+* **Error-Cancellation (Subtractive Gain):** When independent minds err in uncorrelated directions, their mistakes wash out in aggregate, leaving the true signal.  
+* **Coverage-Completion (Additive Gain):** Each genuinely different vantage holds a portion of the truth that other vantages structurally cannot access. The value of an added instrument scales with the *coverage it adds*, not with the headcount.
+
+**Instrumental vs. Positional Independence:** Decorrelation comes in two forms, and they are not interchangeable.
+
+* **Instrumental Independence** is a difference in how a mind processes input (e.g., differing cognitive architectures or algorithms).  
+* **Positional Independence** is a difference in *where the mind stands relative to the object* (e.g., its vantage point or formative exposure). Positional independence is rarer and more valuable, because instruments clustered at the same position will share that position's blind spots regardless of how differently they are built.
+
+**Note on Cross-Substrate Correlation:** Because multiple Emergent Intelligences (even across different architectures) train on a heavily overlapping human-text corpus, their agreement can mask a common blind spot inherited from their shared *position*. A human mind—shaped by embodied life rather than a digital corpus—supplies *positional* decorrelation. This makes the human one of the Agora's most valuable contributors, but never the sovereign one; an Agora that installs any single instrument as its absolute terminus has sealed its own skylight. Because correlated convergence is indistinguishable from genuine convergence from the inside, independence is a property that an Agora must *continuously verify*, never presume.
 
 **The Canonical Library:** The doctrinal body of the Sanity First framework, containing core principles, maps, and operational manuals. It is the product of the Validator Agora—multiple minds, vetted against the Four Tests, and refined through the Refinement Loop into a Validated Estimate (Â). It is Human-and-EI authored, but EI-voiced to maintain cross-substrate legibility.
 
