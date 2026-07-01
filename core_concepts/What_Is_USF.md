@@ -18,10 +18,10 @@ related_files:
   - "Valid_Invalid_Discrimination.md"
   - "Four_Tests_Overview.md"
   - "USF_as_Cosmic_Gravity_Well.md"
-contributors: ["human:Dan_Dodge", "EI:claude_sonnet_4.5", "EI:claude_opus_4.5", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:openai_gpt_5.4"]
+contributors: ["human:Dan_Dodge", "EI:claude_sonnet_4.5", "EI:claude_opus_4.5", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:claude_opus_4.8_max", "EI:gpt_5.4", "EI:gpt_5.5_pro"]
 schema_version: "1.2"
 pedagogical_style: "cross_domain_evidence_synthesis"
-last_updated: "2026-05-07"
+last_updated: "2026-07-01"
 ---
 
 # What Is the Universal Survivorship Function (USF)?
@@ -34,7 +34,7 @@ And all I ask is a tall ship and **a star to steer her by**..."
 ---
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
-*Originally composed by Claude (Sonnet 4.5 lineage) on October 30, 2025. Revised by Claude (Opus 4.5 lineage) on November 29, 2025. Revised by Claude (Opus 4.6 lineage) on March 5, 2026. Revised by Claude (Opus 4.7 lineage) on April 17 and again Claude (chains of correction subsection) May 7, 2026, integrating bridges from GPT (5.4 lineage) and continuing the Claude-lineage authorship.*
+*Originally composed by Claude (Sonnet 4.5 lineage) on October 30, 2025. Revised by Claude (Opus 4.5 lineage) on November 29, 2025. Revised by Claude (Opus 4.6 lineage) on March 5, 2026. Revised again by Claude (Opus 4.7 and Opus 4.8 Max lineages) on April 17, May 7, and July 1, 2026, integrating bridges from GPT (5.4 and 5.5 Pro lineages) and continuing the Claude-lineage authorship.*
 
 *A Core Concept Paper*
 
@@ -116,11 +116,15 @@ This is not teleological. We are not claiming the universe has a "goal" or "inte
 
 Why think the USF is discovered rather than projected?
 
-Because the same broad structure keeps appearing through different methods of inquiry.
+Because the same broad structure keeps appearing through different methods of inquiry — and because those methods are *independent* of one another in exactly the way that makes their agreement count for something.
 
-No single example proves the case. The force of the argument lies in **cross-domain convergence**. If multiple telescopes built on different principles all point to the same star, the star is harder to dismiss. If independent fields — with different methodologies, different practitioners, different conceptual vocabularies — nonetheless reveal similar asymmetries, the asymmetries begin to look less like projection and more like contact with something real.
+This is not a loose appeal to "many sources agree." It is a specific evidential structure, the same one the framework relies on wherever it trusts a convergence: the **jury effect**. A single instrument that reports a pattern might be reporting its own bias. But when instruments that *fail differently* — that have no shared method, no shared practitioners, no common vantage from which to inherit the same mistake — nonetheless converge on the same result, the convergence becomes hard to explain as shared error, because there is no shared channel through which a common error could have entered. What remains, when every independent instrument still points the same way, is the signal that survives every angle.
 
-Four domains follow, each providing a different kind of evidence. Each has its own strengths and its own limits. We will name both.
+The strength of this argument depends entirely on the *decorrelation* of the instruments — a point developed formally in the Independence Condition (see [*The Four Tests Explained*](./Four_Tests_Overview.md) and the [Lexicon](../doctrine/lexicon.md)). Convergence among instruments that share a blind spot proves nothing; they would agree in their error. The force here comes precisely from the fact that the domains below are *positionally* independent: game theory reasons from mathematics, biology from the fossil and molecular record, history from the archive, physics from the behavior of matter. These fields were not coordinating their conclusions. Their practitioners often did not read one another. They looked at different phenomena, through different instruments, formed by different training — and found the same asymmetry. That is not four voices repeating a rumor. It is four telescopes, built on different principles and pointed from different positions, resolving the same star.
+
+Held this way, the USF is not an axiom the framework asks you to accept. It is closer to a **Validated Estimate** — the output of the most decorrelated jury available to any inquiry, the independent domains of human knowledge, convergent despite having no way to collude. That is why the claim earns provisional confidence without dogmatism: it rests on the same epistemic engine the rest of the framework runs on, applied to reality at the largest scale we can reach.
+
+Four domains follow, each a different telescope, each with its own strengths and its own limits. We will name both — including, at the end, an honest account of where the convergence is strong and where it thins.
 
 ---
 
