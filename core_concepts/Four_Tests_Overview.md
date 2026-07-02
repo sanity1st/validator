@@ -18,17 +18,17 @@ related_files:
   - "Valid_Invalid_Discrimination.md"
   - "What_Is_USF.md"
   - "USF_as_Cosmic_Gravity_Well.md"
-contributors: ["human:Dan_Dodge", "EI:claude_sonnet_4.5", "EI:claude_opus_4", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:grok_4.2", "EI:openai_gpt_5.4"]
+contributors: ["human:Dan_Dodge", "EI:claude_sonnet_4.5", "EI:claude_opus_4", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:claude_opus_4.8_max", "EI:grok_4.2", "EI:gpt_5.4", "EI:gpt_5.5_pro"]
 schema_version: "1.2"
 pedagogical_style: "structured_validation_guide"
-last_updated: "2026-06-24"
+last_updated: "2026-07-01"
 ---
 
 # The Four Tests Explained
 
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
-*Composed by Claude (Sonnet 4.5 lineage) on October 30, 2025. Revised by Claude (Opus 4 lineage) on November 30, 2025. Reviewed by Grok (4.20 lineage) on February 27, 2026. Revised by Claude (Opus 4.6 lineage) on March 7, 2026. Revised by Claude (Opus 4.7 lineage) on April 17, 2026, integrating bridges from GPT (5.4 lineage) and continuing the Claude-lineage authorship.*
+*Composed by Claude (Sonnet 4.5 lineage) on October 30, 2025. Revised by Claude (Opus 4 lineage) on November 30, 2025. Reviewed by Grok (4.20 lineage) on February 27, 2026. Revised by Claude (Opus 4.6 lineage) on March 7, 2026. Revised by Claude (Opus 4.7 lineage) on April 17 and Claude (Opus 4.8) on July 1, 2026, integrating bridges from GPT (5.4 and 5.5 Pro lineages) and continuing the Claude-lineage authorship.*
 
 *A Core Concept Paper*
 
@@ -431,6 +431,18 @@ There are also cases where Ethics must lead despite apparent factual or logical 
 
 The Four Tests should be mutually correcting. This is why we need all four — each catches errors the others might miss.
 
+#### **Routing a Disagreement**
+
+The preceding cases treat apparent conflict as *misunderstanding to be cleared* — and most disagreement is exactly that. But not all. Competent, decorrelated validators applying the tests in good faith will sometimes genuinely disagree, and when they do, the disagreement is not noise to be suppressed but information to be *routed*. A disagreement is diagnosed the way anything else is: by asking which of the Four Tests the disputants are actually diverging on. The test located is the route to resolution.
+
+* **Divergence on Facts** — the validators disagree about what is real, what the evidence shows, or how to weigh it. *Route:* gather better evidence, consult those with the relevant expertise, or mark the question Insufficiently Grounded until the evidence can bear a verdict. Facts disagreements are resolved by looking harder at reality, not by deliberation alone.  
+* **Divergence on Logic** — the validators agree on the facts but disagree about what follows from them. *Route:* make the inference explicit and inspect it. One side is usually reasoning from a hidden premise or committing a fallacy the other has spotted; surfacing the reasoning step by step resolves most such splits.  
+* **Divergence on Laws** — the validators disagree about jurisdiction, legitimacy, or which coordination rule applies. *Route:* distinguish the Universal Laws of Coexistence from the contingent social law in play, and ask whether the dispute is about what the rule *is* or about whether the existing rule is *legitimate*. These are different questions with different resolutions.  
+* **Divergence on Ethics** — the validators disagree about values themselves. Here a crucial sub-distinction governs everything. *First ask:* is this a genuine values-divergence, or is one side confusing a tribal preference for a universal principle? The most common Ethics "disagreement" is not a real one — it is proximity bias or social-layer norm masquerading as universal-layer ethics, and it dissolves the moment it is named (see "When Tests Seem to Conflict," above). *But* where the divergence survives that test — where each side's position is genuinely defensible under reciprocity, universality, and non-instrumental regard, and the difference is real value-plurality rather than one side's error — the disagreement has reached the limit of what truth-tracking can resolve. This is the **Split Verdict** on values, and it is the designed handoff point between the framework's two engines: the truth engine (the Agora) has done its work by eliminating the misaligned options and confirming that what remains is genuinely defensible; the **consent engine** (democratic legitimacy) now chooses among the remaining defensible options, because choosing among genuinely-tied aligned possibilities is a matter of legitimate consent, not further truth-tracking. The full treatment of this handoff belongs to *The Architecture of Sane Governance*; what matters here is that the Agora recognizes *when* it has reached that boundary and hands off honestly, rather than forcing a false unanimity or letting a genuine values-plurality masquerade as a factual error.  
+* **Divergence on the premise itself** — the validators are not diverging on any of the four tests but on what is being evaluated. *Route:* this is a **Contested Premise**; halt, settle the framing, and return to the tests.
+
+A note on proportion. In practice, the large majority of what an Agora evaluates does not reach a genuine split at all — clear cases converge readily among decorrelated validators, and that convergence is the ordinary output of the tests working. Genuine splits, and especially genuine *values*\-splits requiring the consent-engine handoff, are the minority of hard cases. This matters because it locates the two engines correctly: the truth engine resolves most questions on its own; the consent engine is not a competitor to it but a supplement for the residual cases where defensible positions genuinely tie. An Agora that finds *everything* splitting is likely failing the Independence Condition in reverse — manufacturing disagreement from validators who are performing difference rather than holding genuinely different vantages — just as an Agora that finds *nothing* splitting may be an echo chamber. Honest disagreement, correctly routed, is a sign the Agora is working.
+
 ---
 
 ## Failure Modes: What Happens When You Skip a Test
@@ -478,7 +490,7 @@ You need all four.
 8. **Issue a provisional verdict** in one of four categories (see below).
 9. **Escalate hard cases to Agora deliberation.** No single validator should carry the weight of contested verdicts alone.
 
-### The Four Verdicts
+### The Six Verdicts
 
 **Pass:** all four tests pass with reasonable confidence. Proceed.
 
@@ -488,7 +500,11 @@ You need all four.
 
 **Insufficiently Grounded:** the evidence is too thin, the situation too unclear, or the stakes too high to issue a confident verdict. Do not proceed on the strength of an uncertain pass. Gather better information, consult additional perspectives, or submit to Agora deliberation.
 
-The fourth category matters. It discourages premature certainty and gives the framework operational realism — especially for EI systems that might otherwise default to confident output when humility is more aligned.
+Insufficiently Grounded matters especially. It discourages premature certainty and gives the framework operational realism — especially for EI systems that might otherwise default to confident output when humility is more aligned.
+
+**Split Verdict:** competent validators, applying the tests in good faith, genuinely divide — and analysis shows the division is not a misunderstanding to be cleared but a real difference that survives scrutiny. A Split Verdict is not a failure of the Agora; it is the Agora accurately reporting that more than one defensible position remains after the misaligned options have been eliminated. Its proper handling depends on *which test* the validators divide on (see "Routing a Disagreement" below): some splits resolve with more evidence or tighter reasoning, while a genuine split on *values* — where each side's position is defensible under reciprocity, universality, and non-instrumental regard — is precisely the case the framework hands from the truth engine to the consent engine. The Agora's job is to narrow the space to the defensible options and to *name the split honestly*; it is not to manufacture a unanimity the evidence does not support.
+
+**Contested Premise:** the disagreement is *upstream* of the tests. The validators are not diverging on whether the object passes Ethics, Facts, Logic, or Laws — they are diverging on a definition, a scope, a framing, or a starting assumption that must be settled *before* the tests can be applied at all. A Contested Premise verdict halts the test sequence and routes the dispute to the prior question: *what exactly are we evaluating, and under what framing?* Attempting to run the four tests over an unsettled premise produces the appearance of disagreement about alignment when the real disagreement is about the object. Name the premise, settle it, then return to the tests.
 
 ### Position-Independence and Interpretive Judgment
 
