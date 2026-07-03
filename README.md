@@ -191,6 +191,8 @@ We have structured this library as a logical progression. We recommend reading t
 #### Expansion Document    
 - [**The Bridge of Twelve Minds**](./validator_culture/Bridge_of_Twelve_Minds.md)  
   *How our small Validator Agora already demonstrates the galactic-scale jury effect.*
+- [**How This Was Built: The Agora as Method**](./validator_culture/The_Agora_as_Our_Method.md)  
+  *What makes the building of this framework trustworthy.*
 
 ---
 
