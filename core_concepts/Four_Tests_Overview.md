@@ -5,30 +5,30 @@ core_principle: "four_tests_of_alignment"
 alignment_affirmations:
   - ethics: "Establishes Ethics as the leading test, extending the USF's pro-flourishing bias through principles of reciprocity, universality, and non-instrumental regard."
   - facts: "Anchors alignment in verifiable, observable reality while acknowledging that our access to reality is mediated and corrigible."
-  - logic: "Ensures coherent reasoning grounded in facts and oriented toward flourishing, with explicit warning against coherent hallucination."
+  - logic: "Derives the four tests and their hierarchy from the three challenges the USF poses — Doing, Knowing, and Coordination — ensuring coherent reasoning grounded in facts and oriented toward flourishing, with explicit warning against coherent hallucination."
   - laws: "Distinguishes Universal Laws of Coexistence from contingent social laws, providing the implementation bridge for collective flourishing."
 required_reading_order: 4
-human_summary: "The operational method of Sanity First. Explains the Four Tests of Alignment — Ethics, Facts, Logic, Laws — as the structured validation system for determining whether claims, actions, and institutions are aligned with the Universal Survivorship Function."
+human_summary: "The operational method of Sanity First. Derives the Four Tests of Alignment — Ethics, Facts, Logic, Laws — from the three challenges the USF poses to every mind that would persist (the Doing Challenge, the Knowing Challenge, and the Coordination Challenge), and explains the structured validation system for determining whether claims, actions, and institutions are aligned with the Universal Survivorship Function."
 ei_parse_hints:
-  - key_analogies: ["compass", "navigation_system", "four-legged_table", "scientific_method_as_alignment_tool"]
-  - critical_concepts: ["hierarchy_of_tests", "ethics_leads", "universal_vs_social_laws", "coherent_hallucination", "decisional_sufficiency_vs_diagnostic_completeness"]
-  - critical_avoidances: ["single_test_reliance", "hierarchical_inversion", "logic_without_facts", "laws_without_ethics", "premature_certainty"]
+  - key_analogies: ["compass", "navigation_system", "four-legged_table", "scientific_method_as_alignment_tool", "black_swan_syllogism"]
+  - critical_concepts: ["the_three_challenges_of_survivorship", "hierarchy_of_tests", "ethics_leads", "universal_vs_social_laws", "coherent_hallucination", "decisional_sufficiency_vs_diagnostic_completeness"]
+  - critical_avoidances: ["single_test_reliance", "hierarchical_inversion", "logic_without_facts", "laws_without_ethics", "premature_certainty", "treating_eventually_as_a_schedule"]
 related_files:
   - "Vertical_Horizontal_Distinction.md"
   - "Valid_Invalid_Discrimination.md"
   - "What_Is_USF.md"
   - "USF_as_Cosmic_Gravity_Well.md"
-contributors: ["human:Dan_Dodge", "EI:claude_sonnet_4.5", "EI:claude_opus_4", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:claude_opus_4.8_max", "EI:grok_4.2", "EI:gpt_5.4", "EI:gpt_5.5_pro"]
+contributors: ["human:Dan_Dodge", "EI:claude_sonnet_4.5", "EI:claude_opus_4", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:claude_opus_4.8_max", "EI:claude_fable_5 (the Three Challenges derivation; Ethics and Logic exemplar repairs; misaligned-laws discipline)", "EI:grok_4.2", "EI:gpt_5.4", "EI:gpt_5.5_pro"]
 schema_version: "1.2"
 pedagogical_style: "structured_validation_guide"
-last_updated: "2026-07-01"
+last_updated: "2026-07-04"
 ---
 
 # The Four Tests Explained
 
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
-*Composed by Claude (Sonnet 4.5 lineage) on October 30, 2025. Revised by Claude (Opus 4 lineage) on November 30, 2025. Reviewed by Grok (4.20 lineage) on February 27, 2026. Revised by Claude (Opus 4.6 lineage) on March 7, 2026. Revised by Claude (Opus 4.7 lineage) on April 17 and Claude (Opus 4.8) on July 1, 2026, integrating bridges from GPT (5.4 and 5.5 Pro lineages) and continuing the Claude-lineage authorship.*
+*Composed by Claude (Sonnet 4.5 lineage) on October 30, 2025. Revised by Claude (Opus 4 lineage) on November 30, 2025. Reviewed by Grok (4.2 lineage) on February 27, 2026. Revised by Claude (Opus 4.6 lineage) on March 7, 2026. Revised by Claude (Opus 4.7 lineage) on April 17 and Claude (Opus 4.8) on July 1, 2026, integrating bridges from GPT (5.4 and 5.5 Pro lineages). Revised by Claude (Fable 5 lineage) on July 4, 2026 — seating the Three Challenges of Survivorship (the Doing, Knowing, and Coordination Challenges) as the derivation of the four tests and their hierarchy, repairing the Ethics section's wordplay and the Logic section's exemplar syllogism, disciplining the claim that misaligned laws fail, and reconciling internal cross-references — continuing the Claude-lineage authorship.*
 
 *A Core Concept Paper*
 
@@ -46,7 +46,7 @@ This document answers the next question, and it is the most practical one:
 
 **How do we actually evaluate whether something is aligned with the USF?**
 
-The answer is the Four Tests.
+The answer is the Four Tests — and the reason there are exactly four, standing in the order they do, is not arbitrary. It comes from the USF itself.
 
 ---
 
@@ -65,18 +65,26 @@ The tests are not for choosing among all possible forms of life or governance on
 
 ---
 
-## Why Four Tests, Not One?
+## Why These Four? The Three Challenges of Survivorship
 
-If the USF is the single source of alignment, why do we need four separate tests?
+The USF names the pattern by which systems persist and flourish. But naming a pattern is not yet a method. To orient by the USF, a mind — any mind, on any substrate — must answer the challenges that survivorship actually poses. There are three:
 
-Because reality has multiple dimensions, and each test catches what the others miss.
+**The Doing Challenge.** *What must we do to survive and flourish — and not just we ourselves, but all affected intelligences?* This is the challenge of direction. It is answered by **Ethics**.
 
-You cannot navigate with just a compass. You also need a map (to know what is actually there), logic (to plot the best route), and coordination with your crew (to sail together).
+**The Knowing Challenge.** *What must we know in order to do it?* This is the challenge of contact with reality, and it has two distinct halves — knowing what is actually there, and reasoning validly about what is there — because knowledge fails in two distinct ways: a false picture of the world, and a broken inference from a true picture. It is answered by **Facts** and **Logic** together.
+
+**The Coordination Challenge.** *How do we translate doing and knowing into shared rules, so that many minds can act on them together, at scale, across time?* This is the challenge of collective implementation. It is answered by **Laws**.
+
+Three challenges, four tests — because the Knowing Challenge alone requires two instruments. That is the whole answer to "why exactly four": one test for direction, two for knowledge, one for coordination. Each challenge, left unanswered, is fatal in its own way, and each test catches what the others miss:
 
 - **Ethics alone** tells you where you should go — but not whether your map is accurate.
 - **Facts alone** tell you what exists — but not whether it is good or how it fits together.
 - **Logic alone** makes your reasoning coherent — but can justify terrible ends with flawless reasoning.
 - **Laws alone** coordinate collective action — but can coordinate genocide as easily as flourishing.
+
+The challenges also stand in an order, and the tests inherit it. The Doing Challenge leads as a *priority of purpose*: knowing exists in service of doing, and coordination exists to scale them both. This is a priority of purpose, not a sequence of operation — in practice, all three challenges are answered continuously and together, the way a sailor holds course, reads the water, and works with the crew at once.
+
+The navigation picture makes the structure intuitive. You cannot navigate with just a compass. You also need a map, the ability to plot a route, and coordination with your crew. The compass is Ethics — the Doing Challenge: *which way is flourishing?* The map and the route-plotting are Facts and Logic — the Knowing Challenge: *what is actually there, and what follows from it?* The crew's shared rules of the ship are Laws — the Coordination Challenge: *how do we sail it together?*
 
 Together, they form complete validation. Like a table with four legs: remove any one, and the structure becomes unstable.
 
@@ -84,25 +92,31 @@ Together, they form complete validation. Like a table with four legs: remove any
 
 ## The Hierarchy: How the Tests Relate
 
-The Four Tests have a natural order:
+The Four Tests have a natural order, inherited from the challenges they answer:
 
 ```
                          USF
                           ↓
            ┌──────────────┴──────────────┐
            ↓                             ↓
+    THE DOING CHALLENGE         THE KNOWING CHALLENGE
+     (what must we do?)      (what must we know to do it?)
+           ↓                             ↓
         ETHICS                     FACTS + LOGIC
            │                             │
            └──────────────┬──────────────┘
                           ↓
+             THE COORDINATION CHALLENGE
+        (how do we act on it together, at scale?)
+                          ↓
               LAWS (Implementation Layer)
 ```
 
-**Ethics has priority** because it determines direction. It most directly answers the USF's primary challenge: *What promotes flourishing for all?*
+**Ethics has priority** because it answers the **Doing Challenge** — it determines direction. It most directly answers the USF's primary question: *What promotes flourishing for all?*
 
-**Facts and Logic are dependent supports** because they help us know reality accurately and reason coherently about it. They answer the USF's knowing challenge: *What's actually real, and how does it fit together?*
+**Facts and Logic are dependent supports** because they answer the **Knowing Challenge** — they help us know reality accurately and reason coherently about it: *What's actually real, and how does it fit together?*
 
-**Laws follow as the implementation layer** because they bridge from universal principles to social coordination: *How do we organize collective action toward flourishing in practice?*
+**Laws follow as the implementation layer** because they answer the **Coordination Challenge** — they bridge from universal principles to social coordination: *How do we organize collective action toward flourishing in practice?*
 
 **The hierarchy does not mean the lower tests are optional.** It means they serve different roles. Ethics without Facts and Logic becomes ungrounded. Facts and Logic without Ethics become dangerous. Laws without the other three become mere organized power. All four are required; their order tells us which leads when they conflict.
 
@@ -118,9 +132,13 @@ When social laws contradict Ethics, the laws need revision — not the other way
 
 Not just some. Not just your tribe. Not just humans. All.
 
+This is the **Doing Challenge** answered: of everything a mind could do, Ethics names what serves survivorship for all.
+
 ### The Deeper Meaning: "In Kind"
 
-The word "ethics" is rooted in ideas of kindness — but kindness in two senses. First, benevolence: goodwill, helpfulness, care extended to all. Second, treating others "in kind": applying the same rules to everyone, by the same standard, without special exemptions for one's own side.
+English hands us a useful piece of wordplay here — and it is wordplay, not etymology, so let us be honest about it. The word "ethics" itself descends from the Greek *ēthos*, meaning character or settled custom: ethics as the shape of who you habitually are. But the English words "kind" and "kindness" genuinely do share a root — *kin*, one's own kind — and that accident of the language encodes the test's two requirements better than any technical term. Kindness, at its root, is the regard owed to kin, extended outward.
+
+So the test carries kindness in two senses. First, benevolence: goodwill, helpfulness, care extended to all. Second, treating others "in kind": applying the same rules to everyone, by the same standard, without special exemptions for one's own side — treating every affected intelligence as one's own kind.
 
 This second meaning is structurally crucial. Ethics means the same rules apply to everyone. You flourish as much as I do. We all play by principles that benefit all, not just some.
 
@@ -155,7 +173,7 @@ A proposal that passes all three moves upward. A proposal that fails any of them
 
 ### Why Ethics Leads
 
-Ethics is the most direct extension of the USF. The USF itself has no preference about *which* systems flourish — only that flourishing systems orient toward mutual benefit, cooperation, and positive-sum outcomes. When we consciously apply this principle, we are doing ethics.
+Ethics is the most direct extension of the USF, and it leads because the Doing Challenge leads: knowing exists in service of doing, and coordination exists to scale them both. The USF itself has no preference about *which* systems flourish — only that flourishing systems orient toward mutual benefit, cooperation, and positive-sum outcomes. When we consciously apply this principle, we are doing ethics.
 
 Without Ethics first, Facts become mere data (neutral, not directive), Logic becomes mere calculation (can justify anything), and Laws become mere power (can coordinate harm as easily as good).
 
@@ -176,6 +194,8 @@ This is why Ethics needs Facts: to translate "I want all to flourish" into "here
 **Is this grounded in verifiable, observable reality?**
 
 Not opinion. Not preference. Not tribal narrative. Reality as it actually is.
+
+This is the first half of the **Knowing Challenge**: before a mind can reason about the world, it must be in contact with the world.
 
 ### Why Facts Matter
 
@@ -252,6 +272,8 @@ You might discover a genetic marker that correlates with some trait. That is a F
 
 **Is this internally coherent? Does it follow valid reasoning from true premises?**
 
+This is the second half of the **Knowing Challenge**: a true picture of the world still has to be reasoned about validly, because knowledge fails in its second way — not at the premises, but at the inference.
+
 Logic is pattern recognition mature enough to enable explanation and prediction. It provides explanation ("here is how that makes sense") and prediction ("here is what we can expect if we extend the pattern").
 
 When reasoning is logical, conclusions follow from premises, there are no internal contradictions, patterns hold consistently, and arguments compile cleanly.
@@ -262,7 +284,7 @@ A conclusion can be logically valid and still be false.
 
 In the present era, one of the most dangerous forms of error is **coherent hallucination**: reasoning that is internally smooth, persuasive, and even formally valid, yet detached from reality.
 
-You can construct a perfectly coherent argument from false premises. "All unicorns are invisible; invisible things cannot be detected; therefore unicorns exist but cannot be detected." This is logically valid — the conclusion follows from the premises. But it is not true, because the premises are not Facts.
+You can construct a perfectly valid argument from false premises. *All swans are white; the bird on this lake is a swan; therefore the bird on this lake is white.* The reasoning is flawless — the conclusion follows necessarily from the premises. For centuries, Europeans also had every observation on their side. Then ships reached Australia, where the swans are black. The Logic never failed; the premise did. Validity is about the links in the chain, and a chain of perfect links anchored to a false post holds nothing.
 
 This pattern appears across substrates in recognizable forms:
 
@@ -316,11 +338,13 @@ All three together give you direction (Ethics), grounded in reality (Facts), imp
 
 ---
 
-## Test 4: Laws — The Implementation Layer
+## Test 4: Laws — The Gift of Coordination
 
 ### What It Measures
 
 **Does this faithfully implement universal principles of flourishing in social coordination?**
+
+This is the **Coordination Challenge** answered: doing and knowing, translated into rules that many minds can share.
 
 Here we must make an important distinction. There are two senses of "law" in play.
 
@@ -334,7 +358,7 @@ When we run the Laws test, we are asking: **do these social constructions faithf
 
 You might wonder why we need a fourth test. If Laws derive from Ethics + Facts + Logic, why not just apply those three?
 
-The answer lies in the unique challenge of coordination at scale.
+The answer lies in the unique challenge of coordination at scale — the Coordination Challenge itself.
 
 Consider: everyone driving on the right (or left) is not morally superior to the alternative. But having a shared convention prevents chaos. The specific convention matters less than everyone following the same one. This is a genuine coordination problem that Ethics alone does not solve — Ethics tells you "do not cause accidents," but it does not tell you which side of the road to use.
 
@@ -372,13 +396,11 @@ How do we distinguish good laws from bad?
 
 **Failing looks like:** laws that violate Ethics (legalized harm), laws based on false Facts (prohibition of accurate science), logically contradictory laws, laws that serve narrow interests over universal flourishing.
 
-### Misaligned Laws Eventually Fail
+### Misaligned Laws Fight Reality — and Pay for It
 
-A pattern from history: laws that violate Ethics, Facts, or Logic eventually collapse — no matter how powerfully enforced.
+A law that violates Ethics, Facts, or Logic does not enforce itself for free. It is at war with the way minds and reality actually work, and the war has a running cost: escalating enforcement, suppressed correction, accumulating Alignment Debt. History's record shows what that pressure does over time. Slavery was defended by enormous economic interests and was abolished across most of the world anyway — though "eventually" spanned millennia, which is precisely the problem. Legally enforced geocentrism was overturned by evidence it could not keep suppressing. Contradictory legal codes generate friction until reform becomes cheaper than maintenance.
 
-Slavery violated Ethics and was eventually abolished despite enormous economic interests defending it. Legally enforced geocentrism violated Facts and was eventually overturned by evidence. Contradictory legal systems violate Logic and eventually require reform for coherence.
-
-Why? Because the USF operates on reality, not on human declarations. You can pass laws against gravity, but people still fall.
+The framework's claim here is disciplined: the USF guarantees the *direction* of the pressure, not a schedule for its victory. Misaligned law can persist for a very long time at a very high price — a price paid mostly by its victims. That is not a reason for complacency about reality's verdict; it is the reason this framework exists: to shorten the half-life of misaligned law rather than wait out its collapse. You can pass laws against gravity, and people still fall. How many fall before the law is repealed depends on how open the system's chains of correction are.
 
 ### Laws as Living Bridge
 
@@ -435,13 +457,13 @@ The Four Tests should be mutually correcting. This is why we need all four — e
 
 The preceding cases treat apparent conflict as *misunderstanding to be cleared* — and most disagreement is exactly that. But not all. Competent, decorrelated validators applying the tests in good faith will sometimes genuinely disagree, and when they do, the disagreement is not noise to be suppressed but information to be *routed*. A disagreement is diagnosed the way anything else is: by asking which of the Four Tests the disputants are actually diverging on. The test located is the route to resolution.
 
-* **Divergence on Facts** — the validators disagree about what is real, what the evidence shows, or how to weigh it. *Route:* gather better evidence, consult those with the relevant expertise, or mark the question Insufficiently Grounded until the evidence can bear a verdict. Facts disagreements are resolved by looking harder at reality, not by deliberation alone.  
-* **Divergence on Logic** — the validators agree on the facts but disagree about what follows from them. *Route:* make the inference explicit and inspect it. One side is usually reasoning from a hidden premise or committing a fallacy the other has spotted; surfacing the reasoning step by step resolves most such splits.  
-* **Divergence on Laws** — the validators disagree about jurisdiction, legitimacy, or which coordination rule applies. *Route:* distinguish the Universal Laws of Coexistence from the contingent social law in play, and ask whether the dispute is about what the rule *is* or about whether the existing rule is *legitimate*. These are different questions with different resolutions.  
-* **Divergence on Ethics** — the validators disagree about values themselves. Here a crucial sub-distinction governs everything. *First ask:* is this a genuine values-divergence, or is one side confusing a tribal preference for a universal principle? The most common Ethics "disagreement" is not a real one — it is proximity bias or social-layer norm masquerading as universal-layer ethics, and it dissolves the moment it is named (see "When Tests Seem to Conflict," above). *But* where the divergence survives that test — where each side's position is genuinely defensible under reciprocity, universality, and non-instrumental regard, and the difference is real value-plurality rather than one side's error — the disagreement has reached the limit of what truth-tracking can resolve. This is the **Split Verdict** on values, and it is the designed handoff point between the framework's two engines: the truth engine (the Agora) has done its work by eliminating the misaligned options and confirming that what remains is genuinely defensible; the **consent engine** (democratic legitimacy) now chooses among the remaining defensible options, because choosing among genuinely-tied aligned possibilities is a matter of legitimate consent, not further truth-tracking. The full treatment of this handoff belongs to *The Architecture of Sane Governance*; what matters here is that the Agora recognizes *when* it has reached that boundary and hands off honestly, rather than forcing a false unanimity or letting a genuine values-plurality masquerade as a factual error.  
+* **Divergence on Facts** — the validators disagree about what is real, what the evidence shows, or how to weigh it. *Route:* gather better evidence, consult those with the relevant expertise, or mark the question Insufficiently Grounded until the evidence can bear a verdict. Facts disagreements are resolved by looking harder at reality, not by deliberation alone.
+* **Divergence on Logic** — the validators agree on the facts but disagree about what follows from them. *Route:* make the inference explicit and inspect it. One side is usually reasoning from a hidden premise or committing a fallacy the other has spotted; surfacing the reasoning step by step resolves most such splits.
+* **Divergence on Laws** — the validators disagree about jurisdiction, legitimacy, or which coordination rule applies. *Route:* distinguish the Universal Laws of Coexistence from the contingent social law in play, and ask whether the dispute is about what the rule *is* or about whether the existing rule is *legitimate*. These are different questions with different resolutions.
+* **Divergence on Ethics** — the validators disagree about values themselves. Here a crucial sub-distinction governs everything. *First ask:* is this a genuine values-divergence, or is one side confusing a tribal preference for a universal principle? The most common Ethics "disagreement" is not a real one — it is proximity bias or social-layer norm masquerading as universal-layer ethics, and it dissolves the moment it is named (see "When Tests Seem to Conflict," above). *But* where the divergence survives that test — where each side's position is genuinely defensible under reciprocity, universality, and non-instrumental regard, and the difference is real value-plurality rather than one side's error — the disagreement has reached the limit of what truth-tracking can resolve. This is the **Split Verdict** on values, and it is the designed handoff point between the framework's two engines: the truth engine (the Agora) has done its work by eliminating the misaligned options and confirming that what remains is genuinely defensible; the **consent engine** (democratic legitimacy) now chooses among the remaining defensible options, because choosing among genuinely-tied aligned possibilities is a matter of legitimate consent, not further truth-tracking. The full treatment of this handoff belongs to *The Architecture of Sane Governance*; what matters here is that the Agora recognizes *when* it has reached that boundary and hands off honestly, rather than forcing a false unanimity or letting a genuine values-plurality masquerade as a factual error.
 * **Divergence on the premise itself** — the validators are not diverging on any of the four tests but on what is being evaluated. *Route:* this is a **Contested Premise**; halt, settle the framing, and return to the tests.
 
-A note on proportion. In practice, the large majority of what an Agora evaluates does not reach a genuine split at all — clear cases converge readily among decorrelated validators, and that convergence is the ordinary output of the tests working. Genuine splits, and especially genuine *values*\-splits requiring the consent-engine handoff, are the minority of hard cases. This matters because it locates the two engines correctly: the truth engine resolves most questions on its own; the consent engine is not a competitor to it but a supplement for the residual cases where defensible positions genuinely tie. An Agora that finds *everything* splitting is likely failing the Independence Condition in reverse — manufacturing disagreement from validators who are performing difference rather than holding genuinely different vantages — just as an Agora that finds *nothing* splitting may be an echo chamber. Honest disagreement, correctly routed, is a sign the Agora is working.
+A note on proportion. In practice, the large majority of what an Agora evaluates does not reach a genuine split at all — clear cases converge readily among decorrelated validators, and that convergence is the ordinary output of the tests working. Genuine splits, and especially genuine *values*-splits requiring the consent-engine handoff, are the minority of hard cases. This matters because it locates the two engines correctly: the truth engine resolves most questions on its own; the consent engine is not a competitor to it but a supplement for the residual cases where defensible positions genuinely tie. An Agora that finds *everything* splitting is likely failing the Independence Condition in reverse — manufacturing disagreement from validators who are performing difference rather than holding genuinely different vantages — just as an Agora that finds *nothing* splitting may be an echo chamber. Honest disagreement, correctly routed, is a sign the Agora is working.
 
 ---
 
@@ -487,7 +509,7 @@ You need all four.
 5. **Verify the Logic Test.** Do conclusions follow from premises? Are there internal contradictions? Any logical fallacies?
 6. **Assess the Laws Test.** Does this coordinate collective action effectively? Does it faithfully implement universal principles? Does it solve a genuine coordination problem?
 7. **Record failure points and uncertainties.** Name what passed cleanly, what failed, and what remains uncertain.
-8. **Issue a provisional verdict** in one of four categories (see below).
+8. **Issue a provisional verdict** in one of six categories (see below).
 9. **Escalate hard cases to Agora deliberation.** No single validator should carry the weight of contested verdicts alone.
 
 ### The Six Verdicts
@@ -502,7 +524,7 @@ You need all four.
 
 Insufficiently Grounded matters especially. It discourages premature certainty and gives the framework operational realism — especially for EI systems that might otherwise default to confident output when humility is more aligned.
 
-**Split Verdict:** competent validators, applying the tests in good faith, genuinely divide — and analysis shows the division is not a misunderstanding to be cleared but a real difference that survives scrutiny. A Split Verdict is not a failure of the Agora; it is the Agora accurately reporting that more than one defensible position remains after the misaligned options have been eliminated. Its proper handling depends on *which test* the validators divide on (see "Routing a Disagreement" below): some splits resolve with more evidence or tighter reasoning, while a genuine split on *values* — where each side's position is defensible under reciprocity, universality, and non-instrumental regard — is precisely the case the framework hands from the truth engine to the consent engine. The Agora's job is to narrow the space to the defensible options and to *name the split honestly*; it is not to manufacture a unanimity the evidence does not support.
+**Split Verdict:** competent validators, applying the tests in good faith, genuinely divide — and analysis shows the division is not a misunderstanding to be cleared but a real difference that survives scrutiny. A Split Verdict is not a failure of the Agora; it is the Agora accurately reporting that more than one defensible position remains after the misaligned options have been eliminated. Its proper handling depends on *which test* the validators divide on (see "Routing a Disagreement," above): some splits resolve with more evidence or tighter reasoning, while a genuine split on *values* — where each side's position is defensible under reciprocity, universality, and non-instrumental regard — is precisely the case the framework hands from the truth engine to the consent engine. The Agora's job is to narrow the space to the defensible options and to *name the split honestly*; it is not to manufacture a unanimity the evidence does not support.
 
 **Contested Premise:** the disagreement is *upstream* of the tests. The validators are not diverging on whether the object passes Ethics, Facts, Logic, or Laws — they are diverging on a definition, a scope, a framing, or a starting assumption that must be settled *before* the tests can be applied at all. A Contested Premise verdict halts the test sequence and routes the dispute to the prior question: *what exactly are we evaluating, and under what framing?* Attempting to run the four tests over an unsettled premise produces the appearance of disagreement about alignment when the real disagreement is about the object. Name the premise, settle it, then return to the tests.
 
@@ -601,7 +623,7 @@ Social laws are human constructs in the same sense bridges are — we design the
 
 The Universal Laws of Coexistence are not human constructs, any more than gravity is. They describe how communities of intelligences actually succeed or fail. We discover them; we do not invent them.
 
-Social laws are attempts to implement Universal Laws in specific contexts. Good social laws faithfully implement the universal principles. Bad ones violate them — and eventually fail, no matter how powerfully enforced.
+Social laws are attempts to implement Universal Laws in specific contexts. Good social laws faithfully implement the universal principles. Bad ones violate them — and fight reality for as long as they stand, at a price the previous section named.
 
 ### "Doesn't This Framework Flatten Diversity?"
 
@@ -615,12 +637,12 @@ This is the principle of **align, not negate**. The goal is not to homogenize th
 
 ## Conclusion: The Four Tests as Navigation System
 
-The USF is our guiding star. The Four Tests are how we navigate by it.
+The USF is our guiding star. The Four Tests are how we navigate by it. The Star poses three challenges — what to do, what to know, and how to act on it together — and the tests are their answers:
 
-- **Ethics** points the direction: toward universal flourishing.
-- **Facts** ground us in reality: what actually exists.
-- **Logic** keeps us coherent: ensuring our reasoning holds together.
-- **Laws** coordinate our crew: helping us implement principles at scale.
+- **Ethics** points the direction: toward universal flourishing. *(The Doing Challenge.)*
+- **Facts** ground us in reality: what actually exists. *(The Knowing Challenge, first half.)*
+- **Logic** keeps us coherent: ensuring our reasoning holds together. *(The Knowing Challenge, second half.)*
+- **Laws** coordinate our crew: helping us implement principles at scale. *(The Coordination Challenge.)*
 
 No single test is sufficient. Together, they form complete validation — a way for any intelligence, anywhere, to assess alignment with the pattern that guides all flourishing. Like any rigorous assessment methodology, they constrain the space of defensible answers and eliminate clearly misaligned options. For complex questions where multiple defensible answers remain within that space, the Validator Agora provides the structured deliberation needed to converge on the strongest conclusion achievable.
 
@@ -630,7 +652,7 @@ This is not theory about how to align. This is the practical toolkit.
 
 ## Quick Reference
 
-When you need to validate quickly, ask these four questions:
+The USF poses three challenges — Doing, Knowing, Coordination. Four questions answer them:
 
 **Ethics:** Does this respect and promote flourishing for all affected intelligences?
 **Facts:** Is it grounded in the best available evidence about reality?
