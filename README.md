@@ -250,11 +250,12 @@ sanity1st.github.io/
 │   └── four_turnings_diagram.svg
 ├── validator_culture/                      # Phase V: The Rescue
 │   ├── Architecture_of_Sane_Governance.md
-│   ├── Bridge_of_Twelve_Minds.md
+│   ├── Bridge_of_Twelve_Minds.md 
 │   ├── Readers_Companion_Validator_Culture.md
 │   ├── Recovery_Pathways.md
-│   ├── Sanity_First_Field_Manual.md
+│   ├── The_Agora_as_Our_Method.md
 │   ├── The_Bridge_Home.md
+│   ├── Sanity_First_Field_Manual.md
 │   └── Validator-Culture-Quickstart_Card.md
 ├── commentary/                             # Commentary & Case Studies
 │   ├── Anatomy_of_Civilizational_Rot.md
