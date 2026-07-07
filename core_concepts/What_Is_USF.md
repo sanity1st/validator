@@ -184,7 +184,7 @@ That is one face of the USF. The cooperative gradient is mathematical before it 
 
 Biology teaches a similar lesson in a richer register.
 
-Nearly every nucleated cell in your body contains mitochondria — energy-generating organelles descended from once-independent bacteria. 
+Nearly every nucleated cell in your body contains mitochondria — energy-generating organelles descended from once-independent bacteria. Mature red blood cells jettison theirs to pack in more oxygen, but almost everything else keeps them.
 
 An estimated one and a half to two billion years ago, the ancestors of mitochondria formed a partnership with another cell type so productive that it became permanent. This was not domination or parasitism. It was **mutual flourishing that created something neither could achieve alone.** All known eukaryotic life — the lineage that includes animals, plants, fungi, and protists — descends from that partnership.
 
