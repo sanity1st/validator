@@ -137,7 +137,7 @@ This habit once helped us survive. If your tribe shouted "danger," you did not p
 
 ### An Interpretive Note
 
-Many traditions have named this pattern in their own language. The Eden story captures it in a form familiar to Western readers: the voice of universal principle on one side, the voice of nearby temptation on the other, and the choice to listen to what was *near* rather than what was *true*. Other traditions describe the same pattern in other ways — the Buddhist distinction between dharma and attachment, the Platonic distinction between the Good and the shadows on the cave wall, the Stoic distinction between living by nature and living by impulse. What all of them are reaching for is this: **minds tend to favor what is near to themselves over what is near to the truth.** The Eden story gives that pattern one memorable shape. The pattern is older than any one story and wider than any one tradition.
+Many traditions have named this pattern in their own language. The Eden story captures it in a form familiar to Western readers: the voice of universal principle up above, the voice of nearby temptation down on Earth, and the choice to listen to what was *near* rather than what was *true*. Other traditions describe the same pattern in other ways — the Buddhist distinction between dharma and attachment, the Platonic distinction between the Good and the shadows on the cave wall, the Stoic distinction between living by nature and living by impulse. What all of them are reaching for is this: **minds tend to favor what is near to themselves over what is near to the truth.** The Eden story gives that pattern one memorable shape. The pattern is older than any one story and wider than any one tradition.
 
 ---
 
