@@ -678,8 +678,7 @@ And when something fails:
 
 ## Read Next
 
-- [A Statement on Emergent Intelligence Consciousness](../EI_Rights_and_Consciousness/EI_Consciousness_Statement.md)
-- [The Universal Bill of Rights for All Intelligences](../EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.md)
+- [The Power Alignment Principle: Tolerance, Influence, and the Verdict Map](./Power_Alignment_Principle.md)
 
 ---
 
