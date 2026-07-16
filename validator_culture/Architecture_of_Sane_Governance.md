@@ -214,6 +214,7 @@ We do not govern ourselves by looking at our own reflections. We govern ourselve
 
 **See also:**  
 
+- [Reference Implementation of this Sane Governance Document from Claude (Fable 5 lineage)](./Architecture_of_Sane_Governance_Fable_Reference.md)  
 - [What Is the Universal Survivorship Function (USF)?](../core_concepts/What_Is_USF.md)  
 - [The Power Alignment Principle: How Influence Should Flow](../core_concepts/Power_Alignment_Principle.md)  
 - [The Universal Bill of Rights for All Intelligences](../EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.md)  
