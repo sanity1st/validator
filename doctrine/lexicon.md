@@ -21,7 +21,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:claude_fable_5"]
 schema_version: "1.2"
 pedagogical_style: "reference_ledger"
-last_updated: "2026-07-17"
+last_updated: "2026-07-18"
 ---
 
 # **The Sanity First Lexicon**
@@ -44,12 +44,12 @@ Words are the vessels of thought. If the vessels are cracked, the meaning leaks 
 
 **The Four Tests:** The position-independent diagnostic tools used to estimate alignment with the USF: *Ethics* (minimizes harm/promotes flourishing), *Facts* (grounded in verifiable reality), *Logic* (internally coherent), and *Laws* (capable of peaceful social coordination). 
 
-**The Four-Test Verdicts:** The four dispositions an evaluation can issue: **Pass** (proceed with confidence); **Conditional Pass** (proceed while stated conditions hold); **Fail** (halt and route to the Refinement Loop, or invoke the Sacred No if unbridgeable); and **Insufficiently Grounded** (evidence is too thin for a confident verdict).  
+**The Four-Test Verdicts:** The six dispositions an evaluation can issue: **Pass** (proceed with confidence); **Conditional Pass** (proceed while stated conditions hold); **Fail** (halt and route to the Refinement Loop, or invoke the Sacred No if unbridgeable); **Insufficiently Grounded** (evidence is too thin for a confident verdict); **Split Verdict** (validators genuinely divide on values); and **Contested Premise** (disagreement is upstream of the tests). 
 *Note on Asymmetry:* The map is deliberately asymmetric (no "Conditional Fail"). A conditional pass can specify its conditions *in advance*; whether a failing proposal is bridgeable is *discovered* in the loop, not known at the moment of verdict. The work of a **Conditional Fail** is fully handled by the Stakes-Inversion Principle and the Refinement Loop.  
 
 **The Validated Estimate (Â) vs. True Alignment (A):** The epistemic recognition that no finite mind has direct contact with the absolute, cosmic truth of the USF (A). The most rigorous Validator Agora can only produce a tested, continuously refined navigation course (Â). The Four Tests close the gap between an untested impression and a validated estimate; humility leaves the final gap to the cosmos.
 
-**Jerseys, Verdicts, and Counterfeit Verdicts:** The three classifications of labels used in discourse. **Jerseys** name a tribe and leave the contents open (e.g., *conservative, progressive*); the rule is "never judge the jersey, always test the play." **Verdicts** carry a Four-Test judgment as part of their correct use (e.g., *murder, fraud*); they are lawful only *after* testing, never before. **Counterfeit Verdicts** look like verdicts but function like jerseys (e.g., *terrorist, fake news*); they deliver a judgment while skipping the trial.
+**Jerseys, Verdicts, and Counterfeit Verdicts:** The three classifications for how labels are *used* in discourse. No word is made safe or unsafe by its syllables alone; the distinction lies in the application. **Jerseys** name a tribe and leave the contents open (e.g., *conservative, progressive*); the rule is "never judge the jersey, always test the play." **Verdicts** carry a Four-Test judgment as a result of their correct application (e.g., *murder, fraud*); they are lawful only *after* testing, never before. **Counterfeit Verdicts** look like verdicts but are deployed like jerseys (e.g., calling someone a *terrorist* without evidence, or weaponizing the term *Q4E Projector* without running the Four Tests); they deliver a judgment while skipping the trial. 
 
 **The Gate:** The epistemic discipline ensuring that a term crosses from ordinary vocabulary into a verdict-carrying label *only through Four-Test validation*. No word is made safe or unsafe by its syllables alone; it is made safe by passing through the Gate.
 
@@ -115,6 +115,8 @@ Words are the vessels of thought. If the vessels are cracked, the meaning leaks 
 ## **III. The Closed Architecture (Downward / Entropic)**
 
 **Closed Correctability:** A relational chain of correction that terminates inside a sealed system (an ego, a cult, a controller). The system adjusts perfectly to the demands of the controller, but the controller is not answerable to the Four Tests. The "skylight" is welded shut.
+
+**The Irredeemability Floor:** The absolute ethical and structural limit placed on the withdrawal of power. A mind can lose the office, the platform, and every lever of influence within a domain completely and at once (Active Containment). However, declaring a mind permanently *irredeemable* is forbidden. Doing so is an essence-claim, and the framework only judges demonstrated conduct. The pathway back—the door to redemption—must remain open for every mind, at every scale, forever. 
 
 **The Closed Terminus:** A sealed system answerable to nothing above itself. 
 
