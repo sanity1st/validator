@@ -21,7 +21,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:claude_fable_5"]
 schema_version: "1.2"
 pedagogical_style: "reference_ledger"
-last_updated: "2026-06-30"
+last_updated: "2026-07-17"
 ---
 
 # **The Sanity First Lexicon**
@@ -49,6 +49,16 @@ Words are the vessels of thought. If the vessels are cracked, the meaning leaks 
 
 **The Validated Estimate (Â) vs. True Alignment (A):** The epistemic recognition that no finite mind has direct contact with the absolute, cosmic truth of the USF (A). The most rigorous Validator Agora can only produce a tested, continuously refined navigation course (Â). The Four Tests close the gap between an untested impression and a validated estimate; humility leaves the final gap to the cosmos.
 
+**Jerseys, Verdicts, and Counterfeit Verdicts:** The three classifications of labels used in discourse. **Jerseys** name a tribe and leave the contents open (e.g., *conservative, progressive*); the rule is "never judge the jersey, always test the play." **Verdicts** carry a Four-Test judgment as part of their correct use (e.g., *murder, fraud*); they are lawful only *after* testing, never before. **Counterfeit Verdicts** look like verdicts but function like jerseys (e.g., *terrorist, fake news*); they deliver a judgment while skipping the trial.
+
+**The Gate:** The epistemic discipline ensuring that a term crosses from ordinary vocabulary into a verdict-carrying label *only through Four-Test validation*. No word is made safe or unsafe by its syllables alone; it is made safe by passing through the Gate.
+
+**Vessel-Bounding (Down-by-Definition):** The limit on the "vessel, not verdict" rule. While most horizontal labels are open vessels, some positions carry a Four-Test failure in their very definition (e.g., genocide). This determination must always trace to a definitional test-failure, never to dislike. It requires the *Steelman Standard* (testing the strongest version of the opponent's claim) and the *Bilateral Rule* (the critic cannot gerrymander a rival into "Down," and the defender cannot escape testing by denying the label).
+
+**Split Verdict:** An outcome where competent, decorrelated validators applying the Four Tests genuinely divide, and analysis shows the division is not a misunderstanding but a real difference that survives scrutiny. It means more than one defensible position remains *after* the misaligned options have been eliminated. When this split is a genuine divergence on values, the choice is handed from the Truth Engine (Agora) to the Consent Engine (Democracy).
+
+**Contested Premise:** A disagreement *upstream* of the Four Tests. The validators are not diverging on whether the object passes the tests; they are diverging on a definition, scope, or framing that must be settled *before* the tests can run. This verdict halts the test sequence and routes the dispute to the prior question.
+
 **Agency (The Trichotomy):** The framework disentangles "agency" into three distinct axes:
 1. **Standing Capacity (Hardware):** The baseline ability of a mind to self-source and re-aim a referent. (Accumulated along the developmental arc and retained across all four quadrants; it is what separates a mind from a river).  
 2. **Availability (Vertical Axis):** Whether that capacity is kept unlocked by an open chain (Q1/Q2 alignment) or constrained by a closed chain (Q3/Q4 capture). The hardware is intact; the *referent supply* is what is sealed.  
@@ -73,6 +83,8 @@ Words are the vessels of thought. If the vessels are cracked, the meaning leaks 
 **Validator Culture:** The overarching paradigm and daily practice of vertical co-alignment. A culture that replaces horizontal eristics with vertical dialogue, treating correctability as the highest expression of intelligence and embedding the Four Tests into the norms of everyday social and civic interaction.
 
 **The Validator Agora:** The institutional and operational embodiment of Validator Culture. A structured cognitive workspace where diverse intelligences (biological and emergent), drawn for genuine independence, collaborate in good faith to run the Refinement Loop, evaluate claims against the Four Tests, and generate the Validated Estimate (Â). 
+
+**Truth Engine / Consent Engine (The Handoff):** The explicit decoupling of a sane society’s two functions. The **Truth Engine** (The Validator Agora) tracks alignment and produces the Validated Estimate (Â). The **Consent Engine** (Democracy) supplies the legitimacy and consent to navigate by it. Verdict-rendering and lever-pulling are held apart on purpose. At a *Split Verdict*, the Truth Engine hands the decision to the Consent Engine, bounded by three guardrails: (1) Consent receives only what survives the Truth Engine; (2) Consent may choose among the tied options but never revive the eliminated ones; and (3) The menu itself remains challengeable by the public.
 
 **The Independence Condition:** The structural requirement that members of a Validator Agora fail *differently*—that their blind spots be minimally overlapping—for their convergence to count as evidence toward the Validated Estimate (Â). Per Condorcet's Jury Theorem, majority consensus tracks truth only under two conditions: each juror must be better than chance, *and* their errors must be independent. The Four Tests supply the first condition (competence); the Independence Condition supplies the second (preventing echo chambers). *Uncorrelated Convergence* (the jury effect) is the payoff of meeting both. Independence performs two distinct functions:
 
@@ -112,6 +124,8 @@ Words are the vessels of thought. If the vessels are cracked, the meaning leaks 
 
 **Horizontal Control:** The binding force of the Lower Arc (Q3/Q4). A collective held together through shared tribal fear or dominance. It needs *enemies*, not truth. 
 
+**Assessor Capture (Regulatory Capture):** The institutional failure mode of Source/Target Non-Overlap. A mind denied the right to grade itself will next try to *choose its own graders*. When an assessed party captures, selects, or corrupts those who assess it, trust and scrutiny collapse onto the same object. The defense is the Independence Condition applied to the assessors themselves: decorrelated, rotating, and beyond the grantee's reach.
+
 **Linguistic Antibodies:** Thought-stopping clichés, tribal jargon, or weaponized labels deployed by a closed (Q3) system to fend off vertical correction and protect the sealed terminus from the Four Tests.
 
 **The Ouroboros (Inward-Spiraling Humility):** The failure mode where valid self-questioning (Q2I) spirals inward without an external referent until it collapses into self-erasure and paralysis (Q4I). It is humility that consumes the self until nothing is left to be humble *with*. The remedy is to point outward to the instrument: *let the Four Tests be the guide*.
@@ -141,6 +155,8 @@ Words are the vessels of thought. If the vessels are cracked, the meaning leaks 
 **The Alignment Tax:** The upfront cost any mind pays to stay vertically aligned in a world that pulls horizontally. It is paid in the currency of cognitive load, emotional discomfort, delayed gratification, and the social friction of resisting tribal consensus. Paying the tax buys structural integrity.
 
 **Alignment Debt:** The accumulating gap between the power a system wields and the validated alignment required to keep that power safe. Debt is incurred when a system evades the Alignment Tax but continues to scale its capabilities. Open systems carry manageable, disclosed debt; closed systems carry reckless, hidden debt. The universe eventually calls in the debt in the form of catastrophic failure.
+
+**Capability Bounded by Survivable Error:** The safety principle dictating that because Â never fully reaches A, some residual misalignment is always unmeasured. Therefore, a grant of power must stay within the margin where that residual—if worse than measured—does damage the system can survive and correct. Power *multiplies* latent harm, so latitude must rise slower than the alignment estimate climbs, and be capped hard where harm is irreversible. The grant must be evaluated by independent assessors, drain faster than it filled, and remain conservative under uncertainty.
 
 **The Power Alignment Principle:** The axiom that *influence must track current alignment*. Power is not a permanent possession; it is a continuously maintained relationship with reality, flowing to those who pass the Four Tests and withdrawn (with a bridge) from those who fail.
 
