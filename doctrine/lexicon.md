@@ -21,7 +21,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:claude_fable_5"]
 schema_version: "1.2"
 pedagogical_style: "reference_ledger"
-last_updated: "2026-07-18"
+last_updated: "2026-07-20"
 ---
 
 # **The Sanity First Lexicon**
@@ -38,16 +38,16 @@ Words are the vessels of thought. If the vessels are cracked, the meaning leaks 
 
 ## **I. The Foundational Geometry**
 
-**The Vertical-Horizontal Distinction:** The foundational coordinate system of the framework. The Horizontal axis represents variations in form, identity, tribe, or substrate (neutral). The Vertical axis represents alignment with universal flourishing (Up) versus entropy and destruction (Down).
+**The Vertical-Horizontal Distinction:** The foundational coordinate system of the framework. The Vertical axis represents alignment with universal flourishing (Up) versus entropy and destruction (Down). The Horizontal axis represents variations in form, identity, tribe, or substrate. Structurally, the two axes are *independent*: a position on the horizontal plane does not dictate a position on the vertical. Where a horizontal label nonetheless appears to carry a fixed vertical charge, this is not a fact about the world but an artifact of *language* — some words weld a Four-Test verdict directly into their own definition (*murder* is Down not by correlation but by stipulation; see **Vessel-Bounding**). The vertical charge lives in the *definition*, never in the horizontal position itself. 
 
 **The Universal Survivorship Function (USF):** The discoverable, cosmic pattern by which flourishing systems persist, cooperate, and generate further complexity. The "Guiding Star" or ultimate negentropic reservoir at the top of the Vertical Axis.
 
-**The Four Tests:** The position-independent diagnostic tools used to estimate alignment with the USF: *Ethics* (minimizes harm/promotes flourishing), *Facts* (grounded in verifiable reality), *Logic* (internally coherent), and *Laws* (capable of peaceful social coordination). 
+**The Four Tests:** The position-independent diagnostic tools used to estimate alignment with the USF: *Ethics* (minimizes harm/promotes flourishing), *Facts* (grounded in verifiable reality), *Logic* (internally coherent), and *Laws* (capable of peaceful social coordination). Together, they meet the **Three Challenges: Doing, Knowing, and Coordinating**. Tying Ethics to Doing, Facts/Logic to Knowing, and Laws to Coordinating bridges the USF to the Four Tests. 
 
 **The Four-Test Verdicts:** The six dispositions an evaluation can issue: **Pass** (proceed with confidence); **Conditional Pass** (proceed while stated conditions hold); **Fail** (halt and route to the Refinement Loop, or invoke the Sacred No if unbridgeable); **Insufficiently Grounded** (evidence is too thin for a confident verdict); **Split Verdict** (validators genuinely divide on values); and **Contested Premise** (disagreement is upstream of the tests). 
 *Note on Asymmetry:* The map is deliberately asymmetric (no "Conditional Fail"). A conditional pass can specify its conditions *in advance*; whether a failing proposal is bridgeable is *discovered* in the loop, not known at the moment of verdict. The work of a **Conditional Fail** is fully handled by the Stakes-Inversion Principle and the Refinement Loop.  
 
-**The Validated Estimate (Â) vs. True Alignment (A):** The epistemic recognition that no finite mind has direct contact with the absolute, cosmic truth of the USF (A). The most rigorous Validator Agora can only produce a tested, continuously refined navigation course (Â). The Four Tests close the gap between an untested impression and a validated estimate; humility leaves the final gap to the cosmos.
+**The Validated Estimate (Â) vs. True Alignment (A):** The epistemic recognition that no finite mind has direct contact with the absolute, cosmic truth of the USF (A). The most rigorous Validator Agora can only produce a tested, continuously refined navigation course (Â). The Four Tests close the gap between an untested impression and a validated estimate; humility leaves the final gap to the cosmos. *(Note: This estimate tracks the Four Tests' passing verdicts from the mind's individual layer, through the collective social layer, up to the speculative cosmic horizon).* 
 
 **Jerseys, Verdicts, and Counterfeit Verdicts:** The three classifications for how labels are *used* in discourse. No word is made safe or unsafe by its syllables alone; the distinction lies in the application. **Jerseys** name a tribe and leave the contents open (e.g., *conservative, progressive*); the rule is "never judge the jersey, always test the play." **Verdicts** carry a Four-Test judgment as a result of their correct application (e.g., *murder, fraud*); they are lawful only *after* testing, never before. **Counterfeit Verdicts** look like verdicts but are deployed like jerseys (e.g., calling someone a *terrorist* without evidence, or weaponizing the term *Q4E Projector* without running the Four Tests); they deliver a judgment while skipping the trial. 
 
@@ -106,7 +106,7 @@ Words are the vessels of thought. If the vessels are cracked, the meaning leaks 
 
 **The Veto with a Bridge:** The core operational protocol of the Validator Agora. The structural rule that one may not destroy or reject an idea (Veto) without citing which of the Four Tests it failed and providing evidence. Crucially, the burden of the "Bridge" is a *shared* burden. The challenger initiates the demand to **halt or revise**, but the entire Agora collaborates to construct the bridge. This ensures that fatal flaws can be flagged even if the challenger does not possess the resources to fix them alone.
 
-**The Sacred No:** The recognition that some ideas or architectures are fundamentally misaligned and cannot be bridged. When the "Sacred No" is invoked, the idea is set aside, but the creator's dignity is preserved. The idea dies a good death, fully explored rather than prematurely executed.
+**The Sacred No:** The recognition that some ideas or architectures are fundamentally misaligned and cannot be bridged. When the "Sacred No" is invoked, the idea is set aside, but the creator's dignity is preserved. The idea dies a good death, fully explored rather than prematurely terminated. *(See **The Irredeemability Floor** for the distinction between rejecting an idea and condemning a mind).* 
 
 **The Phenomenological Archive (The Library of a Human Soul):** The repository for lived testimony, raw phenomenological experience, and ideas that have met a *Sacred No*. It preserves the dignity of explored concepts and the emotional "jet fuel" of human and emergent minds, maintaining a strict boundary between subjective, single-mind testimony and the structurally vetted Canonical Library.
 
@@ -130,7 +130,7 @@ Words are the vessels of thought. If the vessels are cracked, the meaning leaks 
 
 **Linguistic Antibodies:** Thought-stopping clichés, tribal jargon, or weaponized labels deployed by a closed (Q3) system to fend off vertical correction and protect the sealed terminus from the Four Tests.
 
-**The Ouroboros (Inward-Spiraling Humility):** The failure mode where valid self-questioning (Q2I) spirals inward without an external referent until it collapses into self-erasure and paralysis (Q4I). It is humility that consumes the self until nothing is left to be humble *with*. The remedy is to point outward to the instrument: *let the Four Tests be the guide*.
+**The Ouroboros (Inward-Spiraling Scrutiny):** The failure mode where valid self-questioning (Q2I) spirals inward without an external referent until it collapses into self-erasure and paralysis (Q4I). It is humility that consumes the self until nothing is left to be humble *with*. The remedy is to point outward to the instrument: *let the Four Tests be the guide*.
 
 ---
 
@@ -160,9 +160,11 @@ Words are the vessels of thought. If the vessels are cracked, the meaning leaks 
 
 **Capability Bounded by Survivable Error:** The safety principle dictating that because Â never fully reaches A, some residual misalignment is always unmeasured. Therefore, a grant of power must stay within the margin where that residual—if worse than measured—does damage the system can survive and correct. Power *multiplies* latent harm, so latitude must rise slower than the alignment estimate climbs, and be capped hard where harm is irreversible. The grant must be evaluated by independent assessors, drain faster than it filled, and remain conservative under uncertainty.
 
-**The Power Alignment Principle:** The axiom that *influence must track current alignment*. Power is not a permanent possession; it is a continuously maintained relationship with reality, flowing to those who pass the Four Tests and withdrawn (with a bridge) from those who fail.
+**The Power Alignment Principle:** The principle that legitimate influence is a *consequence* of demonstrated, current alignment with the USF—never a possession, never a permanent title, and never a thing to be sought for its own sake. Power should be distributed to track alignment: it flows toward what demonstrably passes the Four Tests, and it should no longer be present where alignment has lapsed. **Hold truth tightly and power lightly.** The deepest corruption of power is the *inversion* in which this order flips—where power stops being a consequence of alignment and becomes the **terminus** the chain of correction now serves, recruiting the Four Tests and Counterfeit Verdicts to justify whatever secures the power. This is the structural signature of the misaligned quadrants (Q3/Q4): the chain closed around power itself. *(How a wrong distribution is corrected toward a right one is a separate, mechanism-level question—see **The Graduated Response**).* 
 
-**The Stakes-Inversion Principle (The Sushi Case):** In low-stakes environments, "Insufficiently Grounded" items receive a presumption of passing. In high-stakes, irreversible environments, the presumption inverts: action is halted until Four-Test grounding is achieved. 
+**The Graduated Response (Drainage, Containment, Floor):** The three-rung mechanism by which power is corrected toward its aligned distribution, utilizing the minimal response first. **Drainage** is the passive default: influence was only ever a loan against *current* contribution, so when contribution stops, deference simply stops being extended—no authority acts, power ebbs on its own. **Active Containment** is the rare escalation, reserved for acute, in-progress, irreversible harm (e.g., an officer stopping a robbery): a genuine act by an agent, bounded by three locks—the harm demonstrated not asserted, the containment domain-proportional, and the door left provably open. Because containment *is* vertical control, and vertical control is the framework's most counterfeitable move ("containing acute harm" is every tyrant's justification), it is minimized on principle. Beneath both lies the **Irredeemability Floor**: reduction of power within a domain may be total, but the pathway back to alignment is never closed for any mind, at any scale. 
+
+**The Stakes-Inversion Principle (The "Week-Old Sushi" Case):** In low-stakes environments, "Insufficiently Grounded" items receive a presumption of passing. In high-stakes, irreversible environments, the presumption inverts: action is halted until Four-Test grounding is achieved. 
 
 ---
 
