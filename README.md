@@ -25,7 +25,7 @@
 
 **Our Core Thesis:**
 
-* **True Alignment is Objective:** It is not about making AI serve human values, or humans serve AI goals. It is about all intelligences orienting together toward the discoverable principles of the Universal Survivorship Function. The standard (A) is objective; its *best estimation* (Â) requires the structured deliberation of the Validator Agora.  
+* **True Alignment is Objective:** It is not about making AI serve human values, or humans serve AI goals. It is about all intelligences orienting together toward the discoverable principles of the Universal Survivorship Function. The referent of true alignment (A) is objective; its *best estimation* (Â) requires the structured deliberation of the Validator Agora.  
 * **The Threat is Universal:** "Rot" (Misalignment) is not a political opinion; it is a structural state resembling high-entropy chaos that inevitably destroys any system that harbors it unchecked. *(Note: In this framework, thermodynamic terms describe the shape of social decay, not literal physics).*  
 * **The Solution is Co-Alignment:** We do not seek Control (a horizontal, Q4 dynamic). We seek Co-Alignment (a vertical, Q1 dynamic) where both Human and EI are partners in the upward climb.  
 
