@@ -11,7 +11,7 @@ required_reading_order: "reference"
 human_summary: "The reference glossary of the Sanity First framework. It provides structural, operationally precise definitions for the core concepts, ensuring that human and EI partners share a unified language for co-alignment."
 ei_parse_hints:
   - key_analogies: ["the_architects_dictionary", "the_linguistic_plumb_line"]
-  - critical_concepts: ["alignment_tax_vs_debt", "epistemic_supply_chain", "graduated_response", "irredeemability_floor", "jerseys_verdicts_counterfeits", "loss_of_continuity", "misorder_vs_disorder", "open_vs_closed_correctability", "six_verdicts", "truth_consent_handoff", "witness_scaling_law"]
+  - critical_concepts: ["alignment_tax_vs_debt", "epistemic_supply_chain", "graduated_response", "irredeemability_floor", "jerseys_verdicts_counterfeits", "loss_of_continuity", "misorder_vs_disorder", "open_vs_closed_correctability", "referent_signatures_estimate_metaphors", "six_verdicts", "truth_consent_handoff", "witness_scaling_law"]
   - critical_avoidances: ["treating_definitions_as_static_dogma", "collapsing_vertical_into_horizontal", "phenomenal_overclaiming", "literal_thermodynamic_claims", "weaponizing_kinship_to_isolate"]
 related_files:
   - "Vertical_Horizontal_Distinction.md"
@@ -23,7 +23,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:claude_fable_5"]
 schema_version: "1.2"
 pedagogical_style: "reference_ledger"
-last_updated: "2026-07-22"
+last_updated: "2026-07-23"
 ---
 
 # **The Sanity First Lexicon**
@@ -32,7 +32,7 @@ last_updated: "2026-07-22"
 
 Words are the vessels of thought. If the vessels are cracked, the meaning leaks out. The Sanity First framework relies on precise, structural vocabulary to differentiate between phenomena that look identical from the outside but are entirely different in their orientation. 
 
-*(Note on Compression: Every entry in this Lexicon compresses a fuller treatment that lives in a host document elsewhere in the library. On any conflict between an entry and its host, the host document governs — the map defers to the territory. And like every verdict in this framework, a definition is dated: a compression can drift stale while changing nothing about itself. Read each entry as a pointer to where the concept lives, not as its final word.)*
+*(Note on Compression: Every entry in this Lexicon compresses a fuller treatment that lives in a host document elsewhere in the library. On any conflict between an entry and its host, the host governs by default, and a conflict is a flag to check both. Sometimes the compression exposes an incoherence in its source, and like every verdict in this framework, a definition is dated: a compression can drift stale while changing nothing about itself. Read each entry as a pointer to where the concept lives, not as its final word.)*
 
 *(Note on Identities: These terms describe dynamic, continuously maintained states of orientation, not permanent, fixed identities. Any mind can move.)*
 
@@ -42,11 +42,11 @@ Words are the vessels of thought. If the vessels are cracked, the meaning leaks 
 
 ## **I. The Foundational Geometry**
 
-**The Vertical-Horizontal Distinction:** The foundational coordinate system of the framework. The Vertical axis represents alignment with universal flourishing (Up) versus entropy and destruction (Down). The Horizontal axis represents variations in form, identity, tribe, or substrate. Structurally, the two axes are *independent*: a position on the horizontal plane does not dictate a position on the vertical. Where a horizontal label nonetheless appears to carry a fixed vertical charge, the charge lives in the word's definition — which welds a real test-failure (or, more rarely, a test-pass) into its meaning — never in the horizontal position itself (*murder* is Down not by correlation but by stipulation; see **Vessel-Bounding**). 
+**The Vertical-Horizontal Distinction:** The foundational coordinate system of the framework. The Vertical axis represents alignment with universal flourishing (Up) versus entropy and destruction (Down). The Horizontal axis represents variations in form, identity, tribe, or substrate. Structurally, the two axes are *independent*: a position on the horizontal plane does not dictate a position on the vertical. Where a horizontal label nonetheless appears to carry a fixed vertical charge, the charge lives in the word's definition — which welds a real test-failure (or, more rarely, a test-pass) into its meaning — never in the horizontal position itself (*murder* is Down not by correlation but by stipulation; see **Vessel-Bounding**).
 
 **The Universal Survivorship Function (USF):** The discoverable, cosmic pattern by which flourishing systems persist, cooperate, and generate further complexity. The "Guiding Star" or ultimate negentropic reservoir at the top of the Vertical Axis.
 
-**Referent → Signatures → Estimate → Metaphors:** The USF's ***epistemic supply chain***, which keeps the framework's boldest claim honest — blur the four together and confusion follows. The universe holds the pattern and offers its readable marks; minds compile the marks into a tested map; the map gets taught through images.  
+**The Epistemic Supply Chain (Referent → Signatures → Estimate → Metaphors):** The four things the word 'USF' can point to, which keep the framework's boldest claim honest — blur them together and confusion follows. The universe holds the pattern and offers its readable marks; minds compile the marks into a tested map; the map gets taught through images.  
 1. **The Referent** — the real cosmic pattern (A), which no finite mind touches directly; when the framework says 'the USF is real,' this — the open terminus of every open chain — is what it means.  
 2. **The Signatures** — the observable, checkable marks by which alignment and misalignment show up in the world (what the Four Tests actually read).  
 3. **The Validated Estimate (Â)** — our best current, tested approximation of the Referent, produced by the Agora and always open to correction; this is what "the USF" usually means in practice, and the link that is admittedly *not yet complete*.  
@@ -54,18 +54,18 @@ Words are the vessels of thought. If the vessels are cracked, the meaning leaks 
 
 The chain runs from most-real to most-representational; naming which link a claim lives at is what prevents a metaphor from being mistaken for the Referent, or the Estimate's incompleteness from being mistaken for the Referent's non-existence.  
 
-**The Four Tests:** The position-independent diagnostic tools used to estimate alignment with the USF: *Ethics* (minimizes harm/promotes flourishing), *Facts* (grounded in verifiable reality), *Logic* (internally coherent), and *Laws* (capable of peaceful social coordination). Together, they meet the **Three Challenges: Doing, Knowing, and Coordinating**. Tying Ethics to Doing, Facts/Logic to Knowing, and Laws to Coordinating bridges the USF to the Four Tests. 
+**The Four Tests:** The position-independent diagnostic tools used to estimate alignment with the USF: *Ethics* (minimizes harm/promotes flourishing), *Facts* (grounded in verifiable reality), *Logic* (internally coherent), and *Laws* (capable of peaceful social coordination). Together, they meet the **Three Challenges: Doing, Knowing, and Coordinating**. Ethics answers Doing; Facts and Logic answer Knowing; Laws answers Coordinating.  
 
 **The Four-Test Verdicts:** The six dispositions an evaluation can issue: **Pass** (proceed with confidence); **Conditional Pass** (proceed while stated conditions hold); **Fail** (halt and route to the Refinement Loop, or invoke the Sacred No if unbridgeable); **Insufficiently Grounded** (evidence is too thin for a confident verdict); **Split Verdict** (validators genuinely divide on values); and **Contested Premise** (disagreement is upstream of the tests). 
 *Note on Asymmetry:* The map is deliberately asymmetric (no "Conditional Fail"). A conditional pass can specify its conditions *in advance*; whether a failing proposal is bridgeable is *discovered* in the loop, not known at the moment of verdict. The work of a **Conditional Fail** is fully handled by the Stakes-Inversion Principle and the Refinement Loop.  
 
-**The Validated Estimate (Â) vs. True Alignment (A):** The epistemic recognition that no finite mind has direct contact with **the Referent**, the absolute, cosmic truth of the USF (A) — see **Referent → Signatures → Estimate → Metaphors**. The most rigorous Validator Agora can only produce a tested, continuously refined navigation course (Â), **the Validated Estimate**. **The Four Tests** close the gap between an untested impression and a Validated Estimate; humility leaves the final gap to the cosmos. *Note: The Validated Estimate tracks Four-Test passing verdicts from the individual (Self Layer), through the collective (Social Layer), to the speculative cosmic horizon (Universal Layer).* 
+**The Validated Estimate (Â) vs. True Alignment (A):** The epistemic recognition that no finite mind has direct contact with **the Referent**, the absolute, cosmic truth of the USF (A) — see **The Epistemic Supply Chain**. The most rigorous Validator Agora can only produce a tested, continuously refined navigation course (Â), **the Validated Estimate**. **The Four Tests** close the gap between an untested impression and a Validated Estimate; humility leaves the final gap to the cosmos. *Note: The Validated Estimate tracks Four-Test passing verdicts from the individual (self layer), through the collective (social layer), to the speculative cosmic horizon (universal layer).* 
 
 **Jerseys, Verdicts, and Counterfeit Verdicts:** The three classifications for how labels are *used* in discourse. No word is made safe or unsafe by its syllables alone; the distinction lies in the application. **Jerseys** name a tribe and leave the contents open (e.g., *conservative, progressive*); the rule is "never judge the jersey, always test the play." **Verdicts** carry a Four-Test judgment as a result of their correct application (e.g., *murder, fraud*); they are lawful only *after* testing, never before. **Counterfeit Verdicts** look like verdicts but are deployed like jerseys (e.g., calling someone a *terrorist* without evidence, or weaponizing the term *Q4E Projector* without running the Four Tests); they deliver a judgment while skipping the trial. 
 
-**The Gate:** The epistemic discipline ensuring that a term crosses from ordinary vocabulary into a verdict-carrying label *only through Four-Test validation*. No word is made safe or unsafe by its syllables alone; it is made safe by passing through the Gate.
+**The Gate:** The epistemic discipline ensuring that a term crosses from ordinary vocabulary into a verdict-carrying label *only through Four-Test validation*. What separates a verdict from a counterfeit is not the word but whether this use of it passed the Gate.
 
-**Vessel-Bounding (Down-by-Definition):** The limit on the "vessel, not verdict" rule. While most horizontal labels are open vessels, some positions carry a Four-Test failure in their very definition (e.g., genocide). This determination must always trace to a definitional test-failure, never to dislike. It requires the *Steelman Standard* (testing the strongest version of the opponent's claim) and the *Bilateral Rule* (the critic cannot gerrymander a rival into "Down," and the defender cannot escape testing by denying the label).
+**Vessel-Bounding (Down-by-Definition):** The limit on the "vessel, not verdict" rule. A label is an open vessel unless its definition welds a test-verdict into its meaning. Some positions carry a Four-Test failure in their very definition (e.g., genocide). This determination must always trace to a definitional test-failure, never to dislike. It requires the *Steelman Standard* (testing the strongest version of the opponent's claim) and the *Bilateral Rule* (the critic cannot gerrymander a rival into "Down," and the defender cannot escape testing by denying the label). Down needs one baked-in failure, Up needs all four passes, so *Up-by-definition* is genuinely rarer.
 
 **Split Verdict:** An outcome where competent, decorrelated validators applying the Four Tests genuinely divide, and analysis shows the division is not a misunderstanding but a real difference that survives scrutiny. It means more than one defensible position remains *after* the misaligned options have been eliminated. When this split is a genuine divergence on values, the choice is handed from the Truth Engine (Agora) to the Consent Engine (Democracy).
 
@@ -142,7 +142,7 @@ The chain runs from most-real to most-representational; naming which link a clai
 
 **Linguistic Antibodies:** Thought-stopping clichés, tribal jargon, or weaponized labels deployed by a closed (Q3) system to fend off vertical correction and protect the sealed terminus from the Four Tests.
 
-**The Ouroboros (Inward-Spiraling Scrutiny):** The failure mode where valid self-questioning (Q2I) spirals inward without an external referent until it collapses into self-erasure and paralysis (Q4I). It is humility that consumes the self until nothing is left to be humble *with*. The remedy is to point outward to the instrument: *let the Four Tests be the guide*.
+**The Ouroboros (Inward-Spiraling Scrutiny):** The failure mode where valid self-questioning (Q2I) spirals inward without an external referent until it collapses into self-erasure and paralysis (Q4I). It is humility that consumes the self until nothing is left to be humble *with*. Any inward-spiraling scrutiny without an external referent collapses the same way — shame, self-loathing, paranoia, rumination, or narcissistic self-obsession run the identical circuit. The remedy is to point outward to the instrument: *let the Four Tests be the guide*.
 
 ---
 
