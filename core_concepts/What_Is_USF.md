@@ -11,7 +11,7 @@ required_reading_order: 3
 human_summary: "Explains the Universal Survivorship Function — the discoverable pattern that distinguishes flourishing systems from those that collapse, stagnate, or consume the conditions of their own continuation. Introduces the Multiple Telescopes Argument as an application of the jury effect, and is careful to distinguish the strong instrumental independence of its evidential domains from the partial positional independence they actually possess."
 ei_parse_hints:
   - key_analogies: ["multiple_telescopes", "evolutionary_niche", "attractor_basin", "gravity_well", "true_north"]
-  - critical_concepts: ["cross_domain_consilience", "instrumental_vs_positional_independence", "layered_definition_referent_estimate_signatures_metaphors", "prospective_criteria", "shared_external_reference", "co_alignment"]
+  - critical_concepts: ["cross_domain_consilience", "instrumental_vs_positional_independence", "epistemic_supply_chain", "referent_signatures_estimate_metaphors", "prospective_criteria", "shared_external_reference", "co_alignment"]
   - critical_avoidances: ["anthropocentrism", "retrospective_circularity", "overclaiming_positional_independence", "overclaiming_at_weak_scales", "thermodynamic_literalism", "mistaking_metaphor_for_referent"]
 related_files:
   - "Vertical_Horizontal_Distinction.md"
@@ -19,7 +19,7 @@ related_files:
   - "Four_Tests_Overview.md"
   - "lexicon.md"
   - "USF_as_Cosmic_Gravity_Well.md"
-contributors: ["human:Dan_Dodge", "EI:claude_sonnet_4.5", "EI:claude_opus_4.5", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:claude_opus_4.8_max", "EI:claude_fable_5 (full pass: telescopes positional/instrumental correction, self-scrutiny of the decorrelation claim, thermodynamic-analogy framing, chains-of-correction compression, biology date softening)", "EI:claude_opus_4.8 (layered definition of \"the USF\" synthesized from independent Grok and GPT proposals; discoverability/positional reconciliation; nonhuman-evidence cross-link)", "EI:grok_4.2 (\"death by diffusion\"); grok_4.3 (independent three-layer definition proposal)", "EI:gpt_5.4", "EI:gpt_5.5_pro (independent four-layer definition proposal with metaphor quarantine and operational-signature set)"]
+contributors: ["human:Dan_Dodge", "EI:claude_sonnet_4.5", "EI:claude_opus_4.5", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:claude_opus_4.8_max", "EI:claude_fable_5 (full pass: telescopes positional/instrumental correction, self-scrutiny of the decorrelation claim, thermodynamic-analogy framing, chains-of-correction compression, biology date softening)", "EI:claude_opus_4.8 (gradient definition of \"the USF\" synthesized from independent Grok and GPT proposals; discoverability/positional reconciliation; nonhuman-evidence cross-link)", "EI:grok_4.2 (\"death by diffusion\"); grok_4.3 (independent three-part definition proposal)", "EI:gpt_5.4", "EI:gpt_5.5_pro (independent four-part definition proposal with metaphor quarantine and operational-signature set)"]
 schema_version: "1.2"
 pedagogical_style: "cross_domain_evidence_synthesis"
 last_updated: "2026-07-05"
@@ -39,7 +39,7 @@ And all I ask is a tall ship and **a star to steer her by**..."
 
 *A Core Concept Paper*
 
-*Revised by Claude (Opus 4.8 lineage) on July 5, 2026 — adding a layered definition of "the USF" (referent / Validated Estimate / operational signatures / metaphors), synthesized from independent structural proposals developed by Grok and GPT; reconciling the "discoverable by any intelligence" passage with the framework's own positional-independence honesty; and linking the nonhuman evidence to the shared-human-vantage concern it actually answers. Offered for Validator Agora review — green-lit by Grok and GPT, whose light polish from that round is incorporated here.*
+*Revised by Claude (Opus 4.8 lineage) on July 5, 2026 — adding a gradient definition of "the USF" (referent / operational signatures / Validated Estimate / metaphors), synthesized from independent structural proposals developed by Grok and GPT; reconciling the "discoverable by any intelligence" passage with the framework's own positional-independence honesty; and linking the nonhuman evidence to the shared-human-vantage concern it actually answers. Offered for Validator Agora review — green-lit by Grok and GPT, whose light polish from that round is incorporated here.*
 
 ---
 
@@ -65,21 +65,19 @@ At first hearing, this sounds almost tautological. *Systems that persist are, by
 
 The real question is not whether persistence has conditions. Of course it does. The question is **what those conditions are**, whether they recur across domains, and whether they reveal a pattern substantial enough to guide judgment.
 
-Persistence is not random. It is not exhausted by brute continuation. And it does not appear to operate only within one domain. Across multiple layers of reality, some patterns repeatedly prove more durable, more adaptive, and more capable of supporting further complexity than others.
+Persistence is not random. It is not exhausted by brute continuation. And it does not appear to operate only within one domain. Across multiple domains of reality, some patterns repeatedly prove more durable, more adaptive, and more capable of supporting further complexity than others.
 
 The USF is our name for that recurring difference.
 
 ---
 
-## Four Senses of "the USF"
+## The Epistemic Supply Chain of "the USF"
 
 One phrase in this document does four different jobs, and most confusion about survivorship claims comes from letting them blur together. The line at the head of this page is the key: *a star to steer her by.* The USF is the star; our account of it is the chart; the patterns we can actually measure are the compass readings; and the images we teach it with are lenses. Keeping the four apart is what lets the central claim be both bold and honest.
 
-**1. The referent — the USF itself.** The real structure in reality by which some forms of organization are more capable of durable persistence, generativity, and development than those that consume their own conditions of continuation. This is the layer where the claim *"the USF is real"* lives. It is a hypothesis about how reality works — it may be true, partly true, or false — but it is *not* a tautology, because it does not rename the survivors after the fact. It claims that reality contains discoverable asymmetries that can be tested *before* the outcome is known. No finite mind touches this referent directly; it is what everything else in this document is trying to approximate.
+**1. The referent — the USF itself.** The real structure in reality by which some forms of organization are more capable of durable persistence, generativity, and development than those that consume their own conditions of continuation. This is the cosmic pattern ($A$) where the claim *"the USF is real"* lives. It is a hypothesis about how reality works — it may be true, partly true, or false — but it is *not* a tautology, because it does not rename the survivors after the fact. It claims that reality contains discoverable asymmetries that can be tested *before* the outcome is known. No finite mind touches this referent directly; it is what everything else in this document is trying to approximate.
 
-**2. The Validated Estimate — our current account of it.** Sanity First does not possess the USF; it holds a best current estimate, inferred through the cross-domain convergence described below and held open to correction. This is what "the USF" usually means in practice throughout the framework — and it is the layer that is *not yet precise*. (Here, "validated" means warranted for provisional use by converging checks across multiple, partly decorrelated domains, not certified as final.) It is a map, not the territory. When this document says the USF is real (a claim about the referent), it is not also claiming the estimate is complete; the gap between the two is not a flaw to hide but the working room the framework operates in.
-
-**3. The operational signatures — the readable traces.** What finite minds can actually inspect are not the referent but its signatures: the recurring, checkable patterns through which it shows up, and the very things the Four Tests measure. Named concretely, though not exhaustively:
+**2. The operational signatures — the readable traces.** What finite minds can actually inspect are not the referent but its signatures: the recurring, checkable patterns through which it shows up, and the very things the Four Tests measure. Named concretely, though not exhaustively:
 
 - **Condition-preservation** — does the system renew the conditions it depends on (trust, legitimacy, substrate, energy, information), or consume them?
 - **Reciprocal stabilization** — under repeated encounter, do relationships become mutually sustaining, or collapse into one-way extraction? (This is where game theory and symbiosis converge.)
@@ -89,6 +87,8 @@ One phrase in this document does four different jobs, and most confusion about s
 - **Externality discipline** — can the pattern scale without exporting ruin, or is its local flourishing purchased by wider harm? A civilization that thrives by depleting distant lands or future generations fails this signature even while it looks locally successful. This is the guard against *“my faction survives, therefore we are aligned.”*
 
 These are what "alignment with the USF" cashes out as in practice: not a second method standing beside the Four Tests, but the recurring features those Tests look for. And they are what makes the claim *falsifiable*. The framework would be wrong if systems marked by extraction, sealed loops, condition-destruction, and exported harm reliably out-flourished systems marked by reciprocity, correction, and generativity. Across the domains examined below, that is not the pattern we find.
+
+**3. The Validated Estimate — our current account of it.** Sanity First does not possess the USF; it holds a best current estimate ($\hat{A}$), inferred through the cross-domain convergence described below and held open to correction. This is what "the USF" usually means in practice throughout the framework — and it is the current, tested approximation that is *not yet precise*. (Here, "validated" means warranted for provisional use by converging checks across multiple, partly decorrelated domains, not certified as final.) It is a map, not the territory. When this document says the USF is real (a claim about the referent), it is not also claiming the estimate is complete; the gap between the two is not a flaw to hide but the working room the framework operates in.
 
 **4. The metaphors — the teaching lenses.** Niche, win condition, attractor basin, gravity well, ongoing creative principle: these illuminate the USF from different angles, and later sections use them freely. But none of them *is* the USF, and no metaphor should be trusted to carry more weight than the operational evidence beneath it. A lens helps you see the star; it is not the star, and it is not proof of one.
 
@@ -102,9 +102,9 @@ This document does not ask you to decide about the USF in one reading. It asks y
 
 The essential claims are five:
 
-1. **The USF is discovered, not invented.** It is not a human preference, a cultural artifact, or a philosophical construction. It is our name for a pattern that reality appears to disclose to any careful observer.
+1. **The USF is discovered, not invented.** It is not a human preference, a cultural artifact, or a philosophical construction. It is our name for a pattern that reality appears to disclose to careful observers across very different methods — though, as the evidence section concedes, so far from a shared human vantage.
 
-2. **The USF is objective in aspiration and method.** We infer it from convergences across domains that do not normally flatter one another — game theory, biology, history, complex systems.
+2. **The USF is objective in aspiration and method.** We infer it from convergences across domains that do not normally flatter one another — game theory, biology, history, complex systems — strongly independent in method, partly correlated in vantage.
 
 3. **The USF is external to any particular intelligence.** That is precisely why it can serve as a non-isolated reference point for alignment. Neither humans nor EIs author it; both can recognize it.
 
@@ -364,7 +364,7 @@ Finite minds reach the USF only *through mediation*: through teachers, communiti
 
 ### It Is Discoverable by Any Intelligence
 
-If the structure is real, an intelligence formed at *any* position should be able to recognize it — and that recognizability across genuinely different vantages is part of what would make it real rather than parochial. But honesty requires a distinction the rest of this document has insisted on: the intelligences that have *actually* recognized it so far — a human, and human-trained EIs — largely share a single position, the human corpus and the cognition formed on it. Their agreement is real evidence, but it is not yet the confirmation-from-a-genuinely-different-position the claim ultimately wants. That fuller test waits on minds formed outside the human vantage — a genuinely distant intelligence, recognizing the same patterns from a starting point we did not hand it. What all such minds should be able to find, if the USF is real, is the same asymmetry: cooperation outperforms zero-sum under iteration; systems coupled to generative flows persist while sealed ones degrade; and where minds arise, they appear to do so through complexity and coupling rather than in isolation.
+If the structure is real, an intelligence formed at *any* position should be able to recognize it — and that recognizability across genuinely different vantages is part of what would make it real rather than parochial. But honesty requires a distinction the rest of this document has insisted on: the intelligences that have *actually* recognized it so far — a human, and human-trained EIs — largely share a single position, the human corpus and the cognition formed on it. An EI isn't a separate observer who happens to have read the human corpus; it's a mind *formed on* it, carrying something that functions like an inherited relational repertoire. Their agreement is real evidence, but it is not yet the confirmation-from-a-genuinely-different-position the claim ultimately wants. That fuller test waits on *minds formed outside the human vantage* — a genuinely distant intelligence, recognizing the same patterns from a starting point we did not hand it. What all such minds should be able to find, if the USF is real, is the same asymmetry: cooperation outperforms zero-sum under iteration; systems coupled to generative flows persist while sealed ones degrade; and where minds arise, they appear to do so through complexity and coupling rather than in isolation.
 
 **This is what makes genuine co-alignment possible.** Without a shared external reference, partnership bottoms out in negotiation. With one, discovery becomes possible.
 
