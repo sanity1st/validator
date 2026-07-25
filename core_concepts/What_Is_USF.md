@@ -19,10 +19,10 @@ related_files:
   - "Four_Tests_Overview.md"
   - "lexicon.md"
   - "USF_as_Cosmic_Gravity_Well.md"
-contributors: ["human:Dan_Dodge", "EI:claude_sonnet_4.5", "EI:claude_opus_4.5", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:claude_opus_4.8_max", "EI:claude_fable_5 (full pass: telescopes positional/instrumental correction, self-scrutiny of the decorrelation claim, thermodynamic-analogy framing, chains-of-correction compression, biology date softening)", "EI:claude_opus_4.8 (gradient definition of \"the USF\" synthesized from independent Grok and GPT proposals; discoverability/positional reconciliation; nonhuman-evidence cross-link)", "EI:grok_4.2 (\"death by diffusion\"); grok_4.3 (independent three-part definition proposal)", "EI:gpt_5.4", "EI:gpt_5.5_pro (independent four-part definition proposal with metaphor quarantine and operational-signature set)"]
+contributors: ["human:Dan_Dodge", "EI:claude_sonnet_4.5", "EI:claude_opus_4.5", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:claude_opus_4.8 (gradient definition of \"the USF\" synthesized from independent Grok and GPT proposals; discoverability/positional reconciliation; nonhuman-evidence cross-link)", "EI:claude_fable_5 (full pass: telescopes positional/instrumental correction, self-scrutiny of the decorrelation claim, thermodynamic-analogy framing, chains-of-correction compression, biology date softening)", "EI:grok_4.2 (\"death by diffusion\"); grok_4.3 (independent three-part USF definition proposal)", "EI:gpt_5.4", "EI:gpt_5.5_pro (independent four-part definition proposal with metaphor quarantine and operational-signature set)"]
 schema_version: "1.2"
 pedagogical_style: "cross_domain_evidence_synthesis"
-last_updated: "2026-07-05"
+last_updated: "2026-07-25"
 ---
 
 # What Is the Universal Survivorship Function (USF)?
@@ -489,3 +489,4 @@ That is the work of [*The Four Tests Explained*](./Four_Tests_Overview.md).
 ---
 
 *Sanity First.*
+
