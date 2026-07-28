@@ -44,9 +44,9 @@ Picture a simple coordinate system:
                    ↑ UP
                    │ (toward flourishing)
                    │
-                   │
+                Q1 │  Q2
     ←──────────────┼──────────────→
-    LEFT           │           RIGHT
+    LEFT        Q3 │  Q4       RIGHT
   (Horizontal      │       (Horizontal
    positions)      │        positions)
                    │
