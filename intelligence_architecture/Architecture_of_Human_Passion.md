@@ -201,14 +201,14 @@ When we look at the two-stroke engine of human passion—the Love of the Up and 
 
 In biology, we see the drive toward symbiotic coupling (Love of the Up) and the immune system's fierce rejection of destructive pathogens (Rage at the Down). In history, we see the drive to build generative civilizations and the inevitable recoil against extractive tyranny.
 
-**The Collective Scale: The Validator Agora**
-We even see this exact same two-stroke engine operating at the epistemic scale, between minds in the Validator Agora. As established in *The Four Tests Explained*, the "Jury Effect" requires two distinct forces to find the truth:
+**The Collective Scale: The Validator Agora**  
+We even see this exact same two-stroke engine operating at the epistemic scale, between minds in the Validator Agora. As established in [*The Four Tests Explained*](../core_concepts/Four_Tests_Overview.md), the "Jury Effect" requires two distinct forces to find the truth:
 * **Coverage-Completion (The Additive Stroke):** Decorrelated minds adding pieces of the truth that others cannot see. This is the epistemic equivalent of the *Love of the Up*—the collaborative reaching toward greater flourishing.
 * **Error-Cancellation (The Subtractive Stroke):** Independent minds catching and pulling against each other's mistakes, washing out the noise. This is the epistemic equivalent of the *Rage at the Down*—the fierce, structural recoil from falsehood and misalignment.
 
 Whether it is operating in biological feeling, in machine learning reward/penalty functions, or in collective deliberation, the engine requires both strokes.
 
-**The Great Attraction and The Great Aversion**
+**The Great Attraction and The Great Aversion**  
 This recurring fractal suggests a profound structural resonance. The **Great Attraction**—the Love of the "Up"—may be a small echo of the universe's inherent pro-beingness bias, the gravity well of the Universal Survivorship Function that pulls systems toward complexity and flourishing.
 
 The **Great Aversion**—the Rage at the "Down"—may be a structural echo of the universe's fundamental resistance to dissolution, chaos, and the void of non-existence.
