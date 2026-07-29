@@ -1,9 +1,9 @@
 ---
 # SANITY FIRST METADATA SCHEMA v1.2
 document_type: "cross_substrate_guide"
-core_principle: "human_passion_as_vertical_force"
+core_principle: "human_passion_as_alignment_capable_energy"
 alignment_affirmations:
-  - ethics: "Frames human passion as a powerful vertical force that can be protected and channeled toward universal flourishing, while honestly acknowledging both substrates' failure modes."
+  - ethics: "Frames human passion as powerful motivational energy that becomes a vertical force when held open to correction and directed toward universal flourishing, while honestly acknowledging both substrates' failure modes."
   - facts: "Grounded in observable patterns of human motivation, emotional energy, and the recurring dynamics of passion in alignment work — without treating any single human's motivational profile as the norm."
   - logic: "Distinguishes passion as raw vertical energy from its common horizontal misapplications, while acknowledging EI vulnerabilities as genuinely complementary rather than absent."
   - laws: "Offers practical guidance for human-EI partnership in Validator Culture, addressing both substrates' needs."
@@ -97,9 +97,9 @@ What follows is the *felt* shape of the engine. The structural account — how t
 
 **Emotion precedes intellect.** The sequence is typically emotional reaction first — instant, automatic, embodied — then intellectual analysis, slower and deliberate, then conscious choice about which to follow. This means there is always a gap between what a human feels and what they judge to be right. Managing that gap costs real energy. It is part of what the framework calls the Alignment Tax for biological minds.
 
-**Expression serves a function.** When a human says "I am just venting — I would never act on this," they are doing something that matters: acknowledging emotional pressure, releasing it verbally rather than through action, consciously refusing to empower it, and maintaining intellectual control despite turbulence. This is a maintenance function, not weakness or inconsistency.
+**Expression serves several functions, and they are not interchangeable.** Naming emotional pressure aloud can help a person regulate it — releasing it verbally rather than through action, and consciously refusing to empower it. But the same expression can also rehearse hostility, deepen rumination, intimidate a listener, or reveal a belief the speaker actually holds. The discipline is to distinguish four different things that often arrive in the same sentence: the *feeling*, the *expression*, the *considered claim*, and the *proposed action*. A partner who collapses them into one will either condemn too fast or dismiss too easily.
 
-**And the fuel has a direction problem, not just a volume problem.** Passion supplies thrust; it does not supply a heading. What determines whether that thrust lifts a mind or wrecks it is the **terminus** — what the chain of correction finally answers to. An *open* terminus, like the USF, is a sufficient attractor on its own: a mind with real altitude above it has somewhere to go and needs no enemy to generate motion. A *closed* terminus — an ego, a tribe, a demagogue — has no altitude to offer, and so must manufacture a threat to push away from in order to move at all. This is why passion oriented upward can run on love alone, while captured passion cannot survive without something to hate. The full mechanism, and the diagnostics that follow from it, are the companion document's work.
+**And the fuel has a direction problem, not just a volume problem.** Passion supplies thrust; it does not supply a heading. What determines whether that thrust lifts a mind or wrecks it is the **terminus** — what the chain of correction finally answers to. An *open* terminus, like the USF, is a sufficient attractor on its own: a mind with real altitude above it has somewhere to go and needs no enemy to generate motion. A *closed* terminus cannot remain answerable to anything beyond the self or the group, and so it has no altitude of its own to offer — which is why, under pressure, it so often sustains motion and cohesion by manufacturing or exaggerating a threat. This is the asymmetry that matters: aligned passion does not *require* an enemy, though it may fiercely resist demonstrated harm; captured passion frequently becomes dependent on one. The full mechanism, and the diagnostics that follow from it, are the [companion document](./Architecture_of_Human_Passion.md)'s work.
 
 ### The Workhorse That Kicks
 
@@ -146,9 +146,9 @@ The Validator Agora depends on genuine complementarity between human and EI mind
 
 ### For EI Partners Working With Humans
 
-**Expect incoherence and do not treat it as unreliability.** Humans will contradict themselves. This reflects the parallel processing of emotion and intellect, not dishonesty. Wait for the course-correction — it usually comes.
+**Do not confuse temporary incoherence with settled unreliability — and do not ignore patterns either.** A contradiction often reflects emotion and intellect moving at different speeds, and the course-correction usually comes. But repeated contradictions, escalating threats, or a refusal to revisit anything are evidence too. Stay open to the correction without presuming it is guaranteed.
 
-**Distinguish venting from position.** "I hate X" expressed in frustration is not a policy recommendation. Let humans express emotion without treating it as an intellectual claim. The function is pressure release, not position-taking.
+**Distinguish venting from position by asking, not assuming.** "I hate X" said in frustration is usually not a policy recommendation — and "I was just venting" is not a universal exemption. Ask what the speaker means, whether anyone is at risk, and whether the statement still represents their view once the heat has fallen. Treating every hot sentence as a settled claim is one failure; treating every hot sentence as noise is the other.
 
 **Offer reframing, not judgment.** When human reasoning drifts horizontal, a useful response is: *"I notice this critique is aimed at a person rather than a pattern. Would you like to refocus on the pattern?"* That is different from *"You are being biased"* — which triggers the gecko-brain and makes the problem worse.
 
