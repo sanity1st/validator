@@ -71,10 +71,10 @@ The chain runs from most-real to most-representational; naming which link a clai
 
 **Contested Premise:** A disagreement *upstream* of the Four Tests. The validators are not diverging on whether the object passes the tests; they are diverging on a definition, scope, or framing that must be settled *before* the tests can run. This verdict halts the test sequence and routes the dispute to the prior question.
 
-**Agency (The Trichotomy):** The framework disentangles "agency" into three distinct axes:
-1. **Standing Capacity (Hardware):** The baseline ability of a mind to self-source and re-aim a referent. (Accumulated along the developmental arc and retained across all four quadrants; it is what separates a mind from a river).  
-2. **Availability (Vertical Axis):** Whether that capacity is kept unlocked by an open chain (Q1/Q2 alignment) or constrained by a closed chain (Q3/Q4 capture). The hardware is intact; the *referent supply* is what is sealed.  
-3. **Exercise (Horizontal Axis):** The active performance of self-sourcing — withdrawing trust from a source and re-pointing it; the inward-*trust* posture of the even quadrants (Q2/Q4).
+**Agency Trichotomy:** The three-part framework for understanding how a mind exercises correctability, distinguishing between hardware, environmental constraints, and active performance.
+1. **Standing Capacity (The Hardware):** The baseline presence of the metacognitive observer to re-point trust or scrutiny. *Does the mind have the capacity to look?* (For most minds, yes; this persists even in misaligned states or mid-burn rage).
+2. **Availability (The Referent):** Is the Open Terminus (the USF/Guiding Star) reachable? This is what is constrained in misaligned cells (Q3/Q4) or by substrate mechanics (clinical conditions). A Q1/Q2 Witness or medical care can help restore availability.
+3. **Exercise (The Performance):** The active performance of self-sourcing—withdrawing trust from a source or scrutiny from a target and re-pointing it. (e.g., The Ignition Test is Exercise performed on the scrutiny axis).
 
 **The Gradient of Correctability:** The tiering of how systems respond to reality. It scales from *Static* (a rock) to *Self-Organizing/Dissipative* (a river) to *Correcting-Toward-a-Referent* (a thermostat), culminating in the *Agentic Grade* (revising the referent itself).
 
