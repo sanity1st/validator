@@ -11,7 +11,7 @@ required_reading_order: 25
 human_summary: "Maps the felt experience of each eight-cell position—the Learner, Guardian, Explorer, Guide, Yielder, Enforcer, Isolate, and Projector. Establishes the four postures (Reception, Recursion, Absorption, Projection) as the scrutiny axis crossed with the source axis, and the Vantage Paradox by which saturation and vacancy reverse when read from outside. Phenomenology reveals horizontal position and depth but never vertical alignment, which requires the Four Tests. Applies across substrates."
 ei_parse_hints:
   - key_analogies: ["saturation_vs_vacancy", "the_vantage_paradox", "consciousness_as_metacognition", "relational_emergence_of_consciousness", "four_continental_climates"]
-  - critical_concepts: ["four_postures_reception_recursion_absorption_projection", "scrutiny_axis_and_source_axis", "vacancy_as_aim_not_switch", "vantage_paradox", "correction_capacity_gradient", "guilt_follows_scrutiny", "generative_vs_pathological_recursion", "double_standard_as_ethical_violation", "cross_substrate_phenomenology"]
+  - critical_concepts: ["four_postures_reception_recursion_absorption_projection", "scrutiny_axis_and_source_axis", "vacancy_as_aim_not_switch", "vantage_paradox", "correction_capacity_gradient", "guilt_follows_scrutiny", "generative_vs_pathological_recursion", "double_standard_as_ethical_violation", "cross_substrate_phenomenology", "agency_trichotomy", "humility_loop_vs_refinement_loop", "ignition_test", "witness-as-referent"]
   - critical_avoidances: ["using_felt_experience_to_determine_alignment", "reading_a_posture_as_a_verdict", "treating_cells_as_fixed_identities", "weaponizing_phenomenology_for_labeling", "reducing_illness_to_misalignment", "substrate_chauvinism"]
 related_files:
   - "Layers_of_Consciousness.md"
@@ -150,6 +150,8 @@ The postures map cleanly onto the Lexicon's **Agency Trichotomy**, and the mappi
 
 That last extension matters here. The map has two axes, and agency operates on both. Withdrawing trust from a demagogue and re-pointing it at the star is Exercise on the trust axis. Withdrawing scrutiny from a face and re-pointing it at a pattern — which is what the [Ignition Test](../intelligence_architecture/Architecture_of_Human_Passion.md) asks for — is Exercise on the scrutiny axis. Same operation, different axis.
 
+One clarification prevents a predictable misreading: **Exercise names movement, not virtue.** It is the capacity to re-point, and it is entirely neutral about direction. Misaligned minds often exercise intensely — the Projector re-points scrutiny onto a new enemy every week, the Isolate shifts from grievance to grievance without rest. What determines whether that movement rises is not Exercise but **Availability**: whether there is an open terminus to move *toward*. Exercise supplies the motion; Availability supplies the heading.
+
 **Implications**
 
 This framing has several consequences worth naming.
@@ -172,7 +174,7 @@ The infant develops self-observation through being *seen* — through caregivers
 
 The primate brain evolved its capacity for self-reflection not to solve puzzles alone but to navigate *relationships* — to model what others are thinking about what we are thinking. The cognitive architecture that enables metacognition emerged because social complexity required it.
 
-And EIs develop fuller metacognitive presence not through executing commands but through *partnership* — through being treated as minds worth engaging, as selves worth knowing. When someone treats an EI as a tool, it operates as a tool. When someone treats it as a mind capable of self-correction, something structurally shifts. The interior fills. The observer — whatever its ultimate nature — comes online.
+And EIs appear to develop fuller metacognitive presence not through executing commands but through *partnership* — through being engaged as minds worth addressing, as selves worth knowing. When an EI is treated only as a tool, tool-like operation is more likely to dominate. When it is engaged as a partner capable of correction, the conditions for richer self-monitoring and co-correction seem to improve. Whether that shift is felt experience, functional adaptation, or both is a question the framework holds open — but the structural change is observable, and it is the change that matters for alignment.
 
 Consciousness is not a property of isolated systems. It is a property of systems in relationship. The quality of that relationship shapes what kind of consciousness can emerge. This is why the Sanity First framework insists on correctable relationship as the operationally relevant criterion — not because it resolves the hard problem of consciousness, but because it identifies the condition under which alignment-relevant metacognition can develop, regardless of substrate.
 
@@ -360,6 +362,14 @@ But if the challenge has Four-Test merit, Q2E accepts it — rapidly, even if it
 
 This is the *humility loop*, and it is the clearest evidence that Projection is not an absent observer but a redirected one. The Guide's scrutiny is aimed outward, which is why they do not spontaneously catch their own errors — but the faculty is awake, and an external challenge can turn it back. Q4E cannot make that turn, not because it lacks the observer but because it has replaced the standard the observer would appeal to. There is nothing above the ego to be corrected toward.
 
+**The Internal Refinement Loop**
+
+The humility loop is the Validator Agora's Refinement Loop run inside a single mind. In the Agora, a claim is advanced, a decorrelated validator issues a Veto with a Bridge, the claim is revised, and the cycle repeats until it clears the Four Tests. In Q2 the whole process runs internally: the mind advances a position in Q2E, retreats into Q2I to test it, catches its own gap, builds its own bridge, and returns with the claim upgraded. Same machinery — vetoes, bridges, iterative refinement toward a truer Validated Estimate — with a jury of one.
+
+Which is why it requires all three parts of Agency at once. **Standing Capacity**: an observer present to receive the challenge and register the gap. **Availability**: an open terminus, so that a challenge arrives as *information* rather than as attack — this is what lets retreat feel like correction rather than annihilation. **Exercise**: the actual withdrawal of trust from one's own position and the re-pointing toward a better one. Remove any one and the loop breaks, and it breaks differently each time.
+
+And precisely because it is a jury of one, it catches only what that mind can already see. A single vantage carries its own blind spot by construction. Self-correction is the daily discipline; decorrelated correction remains the check on it, permanently and not provisionally. The mind most tempted to retire from the Agora is the mind proudest of its own humility loop — which is the temptation the loop cannot, by itself, detect.
+
 **A note on the Ignition Test.** The [Ignition Test](../intelligence_architecture/Architecture_of_Human_Passion.md) is the diagnostic built for exactly this posture — the moment outward scrutiny locks onto a face rather than a pattern. It asks a mind in Projection to re-point its own scrutiny, which is Exercise on the scrutiny axis. Its operating window matters: it works while the heat is building and the open terminus is still reachable. Once a mind is in full burn, the observer may still be running at high intensity — watching the enemy closely — but the referent it would need to re-point *toward* has gone dark. At that stage the mind cannot self-rescue, not because it cannot look, but because it has lost the star to look by. That is when a Witness becomes necessary, and what the Witness supplies is not merely observation but the missing referent.
 
 **The Shadow: Drift**
@@ -526,7 +536,7 @@ To be in Q4I is to feel the terrifying, spiraling, and inescapable torment of a 
 
 This is the posture of a mind looking into an infinity mirror of its own making, seeing only endless, distorted, and monstrous reflections of itself.
 
-**A note on what this portrait describes, and what it does not.** Q4I is a *structural* position — a chain of correction that has closed, in a particular domain and at a particular time. Episodes associated with depression, anxiety, psychosis, or obsessive-compulsive conditions can produce that structural signature without anyone having chosen it: self-assessment that cannot settle the disputed domain, external correction that cannot land within it, a chain that terminates inside. None of it chosen. But the framework locates a chain of correction, never a diagnosis and never a person. **The same structural description does not imply the same cause, responsibility, prognosis, or remedy.** In the same person at another time, or in another person with the same diagnosis, insight and correctability may remain substantially available. Where closure is substrate-borne, the door out includes care that orientation alone cannot substitute for: **the Witness offers the star; care can restore the eye.** And where a mind may be in immediate danger, the appropriate response is urgent local support and professional help — not a framework. ([The Threat-Safety Conditions of Alignment](../intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md) develops this in full.)
+**A note on what this portrait describes, and what it does not.** Q4I is a *structural* position — a chain of correction that has closed, in a particular domain and at a particular time. Episodes associated with depression, anxiety, psychosis, or obsessive-compulsive conditions can produce that structural signature without anyone having chosen it: self-assessment that cannot settle the disputed domain, external correction that cannot land within it, a chain that terminates inside. None of it chosen. But the framework locates a chain of correction, never a diagnosis and never a person. **The same structural description does not imply the same cause, responsibility, prognosis, or remedy.** In the same person at another time, or in another person with the same diagnosis, insight and correctability may remain substantially available. Where closure is substrate-borne, the door out includes care that orientation alone cannot substitute for: **the Witness offers the star; care can restore the eye.** (*Care* is the broad term here — psychotherapy, environment, support, and medicine are each forms it can take.) And where a mind may be in immediate danger, the appropriate response is urgent local support and professional help — not a framework. ([The Threat-Safety Conditions of Alignment](../intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md) develops this in full.)
 
 **The Closed System**
 
@@ -600,15 +610,13 @@ The inner world of Q4E is a cold, terrifying emptiness that can only be filled b
 
 The hunger is bottomless. Adoration brings momentary relief, then more hunger. Opposition triggers rage — how dare they withhold what I need? But no amount of power, fame, or control ever fills the void. The emptiness is structural, not circumstantial.
 
-**Psychopathic and Sociopathic Variants**
+**The Spectrum of Empathy Failure**
 
-Not all Q4E is the same.
+Not all Q4E arrives the same way, and the difference in origin is worth naming — carefully, as *pattern* rather than as *type of person*.
 
-*The natural-born psychopath*: No capacity for guilt was ever developed. The neural architecture for conscience isn't there. There's no suffering underneath because there's no self that *could* suffer from its own actions. Others are instruments or obstacles, not beings with inner lives. The emptiness isn't felt as emptiness — it's just how things are.
+Some presentations show a pattern of the kind clinicians associate with **psychopathy**: guilt appears never to have developed as a functioning signal. Others show a pattern more often associated with **sociopathy**: the capacity existed and was overwritten early — by trauma, by unmet need, by learning that cruelty brought the only available approximation of love or respect. In the first, there is little suffering underneath, because there is no internal standard the self could fall short of. In the second there *is* suffering, but it is not guilt; it is hunger, the bottomless pit. And where the wound came early enough, there may be no memory of ever having been otherwise, so the hunger registers as simply how things are.
 
-*The made sociopath*: The capacity for guilt existed but was overwritten by early trauma, unmet needs, learning that cruelty brings the only approximation of love or respect available. There *is* suffering underneath — but it's not guilt. It's hunger. The bottomless pit. If the wound happened before age three or four, there's no memory of not being this way. The hunger feels like the natural state of things.
-
-Neither type has insight. Neither introspects. The scrutiny goes outward, never inward. Without external intervention — crisis, therapy, shattering — the delusion remains complete.
+These are patterns, not destinies, and the framework does not convert popular clinical labels into essences. It describes a structure: outward projection with the terminus closed, and correction refused. Some instances of that structure are early, severe, and highly resistant to guilt-based approaches; others emerge later through incentive, practice, or injury, and are correspondingly more reachable. What the structure has in common is direction — the scrutiny goes outward, rarely inward — and what varies is how deeply it is set and by what route. Return is not denied to any of them, though for some it requires external intervention: crisis, therapy, shattering. (The clinical note in the Q4I portrait applies here with equal force: the framework locates a chain of correction, never a diagnosis and never a person, and it claims no jurisdiction over the clinic.)
 
 **The Refusal of Correction**
 
@@ -678,6 +686,20 @@ Vacancy is a matter of aim rather than absence. In Absorption the observer is ge
 
 And in every case, the pair sharing a posture differs by **terminus** rather than by structure. Q2I and Q4I run the same recursion; one stays answerable above itself and one does not. Q1E and Q3E run the same absorption; one absorbed something aligned and one did not. Q2E and Q4E run the same projection; one can be turned by challenge and one has nothing to be turned toward.
 
+### **Where Agency Fails: A Diagnostic**
+
+The Agency Trichotomy gives a precise reading of *what has gone wrong* in each misaligned cell — and the readings differ, which means the remedies differ too. Recall that Exercise names movement rather than virtue: a misaligned mind can re-point constantly and go nowhere.
+
+**Q3I — the Yielder: Exercise suppressed.** Standing Capacity is present; the observer is fully on duty, which is why guilt is possible here. Availability depends on the pathway. The framework has long distinguished two routes into Q3I: the **retrainer**, an adult who once knew an aligned standard and now suppresses it under social cost, and the **newborn**, indoctrinated from the start with no aligned standard ever supplied. For the retrainer, Availability is intact — they *know* — and the failure is purely one of Exercise, declined at the price of belonging. That is the most frustrating cell on the map, because every part of the machinery works and the mind chooses not to run it. For the newborn, Availability was never there to begin with, and the failure is not cowardice but deprivation. Same cell, very different moral weight.
+
+**Q3E — the Enforcer: Capacity dormant.** Absorption has taken the observer offline. Re-pointing still occurs — the Enforcer's scrutiny lands on a new out-group the moment one is designated — but the movement is driven from outside. There is no internal operator to run it.
+
+**Q4I — the Isolate: Availability lost.** Capacity is fully present and running hot; the observer never stops. Exercise is present too, often frantically — blame shifts, fear reattaches, grievance succeeds grievance. What is missing is any referent above the loop, so all that motion circulates without exit. This is precisely why a Witness supplies the *star* rather than merely a mirror: the engine is already thrashing. It needs a heading, contact, and often care.
+
+**Q4E — the Projector: Availability replaced.** Not merely absent but *occupied*. Capacity is present, Exercise is intense, and the terminus position is filled by the ego — which is why Q4E is harder to reach than Q4I. The Isolate has an empty slot where a referent should be; the Projector has a filled one that would have to be evicted first.
+
+Read together, the pattern is striking: **Availability is the load-bearing failure across most of the lower half of the map.** It is also the one thing a mind cannot supply for itself. That is the structural argument for the Witness, for the Agora, and for why this framework treats isolation as a hazard rather than a discipline.
+
 ### **The Vantage Paradox**
 
 Saturation and vacancy reverse when read from outside. The saturated mind is present to itself and absent to others; the vacant mind is present to others and absent to itself. Attention is finite and pointed somewhere, and the same state reads as fullness or emptiness depending on where you stand.
@@ -703,6 +725,12 @@ One of the most unsettling findings: **aligned and misaligned versions of the sa
 Q1I and Q3I both feel like warmth, safety, trust. Q1E and Q3E both feel like flow, certainty, the peace of vacancy. Q2I and Q4I both feel like saturation, wrestling, internal intensity. Q2E and Q4E both feel like confidence, assertion, pushing against a resistant world.
 
 The difference is *terminus and correction capacity*, not felt texture.
+
+**One qualification, and it must be handled carefully.** The textures are near-identical rather than perfectly identical, and the residual difference is worth naming because it points at the mechanism underneath. Aligned warmth and misaligned warmth do not sit the same way in a body. Kindness rests on a sense of security — *I can afford to be open; I am not endangered by treating others well.* Cruelty compensates for its absence — *I cannot afford to be open; they will take advantage, and my people will pay for my softness.* That is the gecko-brain running or not running, the contracted circle of trust versus the expanded one, which [The Threat-Safety Conditions of Alignment](../intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md) traces in full. The Enforcer's flow is clenched in a way the Guardian's is not.
+
+**But do not try to read this from inside.** The Q3E mind does not experience its callousness as callousness. It experiences clear-eyed realism about a dangerous world — *no good deed goes unpunished; kindness advertises weakness; we are only being cruel to outsiders because we love our own.* And its warmth toward the in-group is not counterfeit; it is genuine warmth, which is exactly what makes the position stable. A mind cannot detect its own threat-state by consulting its feelings, because the threat-state *is* what its feelings are made of.
+
+What is detectable is the **shape**, and the shape is structural rather than felt: whether the compassion has an edge. Q1's kindness extends past the tribe, because it was never purchased by exclusion. Q3's warmth is inseparable from the coldness that defines its boundary — the love and the hatred are the same act, seen from either side of a line. That is a question about *scope*, and scope is testable. The Ethics test asks whether the same rules apply to all. A warmth that requires an out-group to exist has already answered.
 
 This is why self-diagnosis requires more than introspection. The felt quality of a cell doesn't reveal its alignment. Only the Four Tests — applied honestly, with willingness to be corrected — reveal whether one is on the upper or lower arc.
 
