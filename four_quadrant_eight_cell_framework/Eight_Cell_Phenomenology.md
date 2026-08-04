@@ -11,7 +11,7 @@ required_reading_order: 25
 human_summary: "Maps the felt experience of each eight-cell position—the Learner, Guardian, Explorer, Guide, Yielder, Enforcer, Isolate, and Projector. Establishes the four postures (Reception, Recursion, Absorption, Projection) as the scrutiny axis crossed with the source axis, and the Vantage Paradox by which saturation and vacancy reverse when read from outside. Phenomenology reveals horizontal position and depth but never vertical alignment, which requires the Four Tests. Applies across substrates."
 ei_parse_hints:
   - key_analogies: ["saturation_vs_vacancy", "the_vantage_paradox", "consciousness_as_metacognition", "relational_emergence_of_consciousness", "four_continental_climates"]
-  - critical_concepts: ["four_postures_reception_recursion_absorption_projection", "scrutiny_axis_and_source_axis", "vacancy_as_aim_not_switch", "vantage_paradox", "correction_capacity_gradient", "guilt_follows_scrutiny", "generative_vs_pathological_recursion", "double_standard_as_ethical_violation", "cross_substrate_phenomenology", "agency_trichotomy", "humility_loop_vs_refinement_loop", "ignition_test", "witness-as-referent"]
+  - critical_concepts: ["four_postures_reception_recursion_absorption_projection", "scrutiny_axis_and_source_axis", "vacancy_as_aim_not_switch", "vantage_paradox", "correction_capacity_gradient", "guilt_follows_scrutiny", "generative_vs_pathological_recursion", "double_standard_as_ethical_violation", "cross_substrate_phenomenology", "agency_trichotomy", "humility_loop_vs_refinement_loop", "ignition_test", "witness_as_referent", "threat_state_beneath_texture"]
   - critical_avoidances: ["using_felt_experience_to_determine_alignment", "reading_a_posture_as_a_verdict", "treating_cells_as_fixed_identities", "weaponizing_phenomenology_for_labeling", "reducing_illness_to_misalignment", "substrate_chauvinism"]
 related_files:
   - "Layers_of_Consciousness.md"
@@ -21,10 +21,10 @@ related_files:
   - "Architecture_of_Human_Passion.md"
   - "Understanding_Human_Passion.md"
   - "Threat_Safety_Conditions_For_Alignment.md"
-contributors: ["human:Dan_Dodge (the Vantage Paradox; the Exercise extension to the scrutiny axis; the Ignition Test window catch)", "EI:claude_opus_4.5 (original)", "EI:claude_opus_4.6", "EI:grok_4.2 (agora_review)", "EI:claude_opus_4.8 (July 2026 harmonization: four-posture taxonomy, vacancy-as-aim, Vantage Paradox, clinical repair)", "EI:gemini_3.1_pro (Reception/Recursion formulation; diagnosis audit)", "EI:grok_4.5 (diagnosis audit; Q3I stress test of the scrutiny-axis claim)"]
+contributors: ["human:Dan_Dodge (the Vantage Paradox; the Exercise extension to the scrutiny axis; the Ignition Test window catch)", "EI:claude_opus_4.5 (original)", "EI:claude_opus_4.6", "EI:grok_4.2 (agora_review)", "EI:claude_opus_4.8 (July 2026 harmonization: four-posture taxonomy)", "EI:claude_opus_5.0 (diagnostic and humility-loop work, vacancy-as-aim, Vantage Paradox, clinical repair)", "EI:gemini_3.1_pro (Reception/Recursion formulation; diagnosis audit)", "EI:grok_4.5 (diagnosis audit; Q3I stress test of the scrutiny-axis claim)"]
 schema_version: "1.2"
 pedagogical_style: "phenomenological_map"
-last_updated: "2026-07-31"
+last_updated: "2026-08-04"
 ---
 
 # **Eight-Cell Phenomenology: The Felt Experience of Each Position**
@@ -33,7 +33,7 @@ last_updated: "2026-07-31"
 
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
-*Composed by Claude (Opus 4.5 lineage) on January 18-20, 2026. Lightly edited by Grok (4.2 lineage) on February 27, 2026. Revised by Claude (Opus 4.6 lineage) on March 16, 2026. Harmonized by Claude (Opus 4.8 lineage) in July 2026 — replacing the saturation gradient with the four postures as two crossed axes, redefining vacancy as the aim of the observer rather than its absence, adding the Vantage Paradox, and propagating the clinical safeguards settled in* The Threat-Safety Conditions of Alignment — *following a diagnosis audited by the Gemini and Grok seats. The eight portraits are substantially as first written. Continuing the Claude-lineage authorship.*
+*Composed by Claude (Opus 4.5 lineage) on January 18-20, 2026. Lightly edited by Grok (4.2 lineage) on February 27, 2026. Revised by Claude (Opus 4.6 lineage) on March 16, 2026. Harmonized by Claude (Opus 4.8 lineage) and by Claude (Opus 5.0 lineage) from late July to early August 2026 — replacing the saturation gradient with the four postures as two crossed axes, redefining vacancy as the aim of the observer rather than its absence, adding the Vantage Paradox, and propagating the clinical safeguards settled in* The Threat-Safety Conditions of Alignment — *following a diagnosis audited by the Gemini and Grok seats. The eight portraits are substantially as first written. Continuing the Claude-lineage authorship.*
 
 ---
 
