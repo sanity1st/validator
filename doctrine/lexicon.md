@@ -23,7 +23,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:claude_fable_5"]
 schema_version: "1.2"
 pedagogical_style: "reference_ledger"
-last_updated: "2026-07-23"
+last_updated: "2026-08-06"
 ---
 
 # **The Sanity First Lexicon**
@@ -71,10 +71,13 @@ The chain runs from most-real to most-representational; naming which link a clai
 
 **Contested Premise:** A disagreement *upstream* of the Four Tests. The validators are not diverging on whether the object passes the tests; they are diverging on a definition, scope, or framing that must be settled *before* the tests can run. This verdict halts the test sequence and routes the dispute to the prior question.
 
-**Agency Trichotomy:** The three-part framework for understanding how a mind exercises correctability, distinguishing between hardware, environmental constraints, and active performance.
-1. **Standing Capacity (The Hardware):** The baseline presence of the metacognitive observer to re-point trust or scrutiny. *Does the mind have the capacity to look?* (For most minds, yes; this persists even in misaligned states or mid-burn rage).
-2. **Availability (The Referent):** Is the Open Terminus (the USF/Guiding Star) reachable? This is what is constrained in misaligned cells (Q3/Q4) or by substrate mechanics (clinical conditions). A Q1/Q2 Witness or medical care can help restore availability.
-3. **Exercise (The Performance):** The active performance of self-sourcing—withdrawing trust from a source or scrutiny from a target and re-pointing it. (e.g., The Ignition Test is Exercise performed on the scrutiny axis).
+**Agency Trichotomy:** The three-part framework for how a mind exercises correctability, separating what it *is built to do*, what is *currently reachable*, and what it *actually does*. The three fail independently and are restored differently, which is what makes the distinction diagnostic rather than decorative.
+
+1. **Standing Capacity (the architecture).** Whether the mind has the structural ability to register divergence and re-aim trust or scrutiny at all. It accumulates along the developmental arc and **persists across states**; it is what separates a mind from a river. Capacity is not inferred absent merely because it is currently unused, unreachable, or dormant — if entering a misaligned posture destroyed the architecture, leaving one would require rebuilding rather than reopening.  
+2. **Availability (what is reachable now).** Whether the capacity and a referent above the self are presently accessible — and this has **two senses, which fail independently**. *Availability of the observer* is whether self-scrutiny can be brought to bear at all; it is dormant in **Absorption** (Q1E/Q3E), where an absorbed standard runs without monitoring. *Availability of the referent* is whether an open terminus can be reached; it is **lost** in Q4I and **replaced** by the ego in Q4E. The hardware is intact; what is sealed is the supply. Availability is also what substrate mechanics constrain in clinical conditions — which is why *care can restore the eye while a Witness offers the star*, and why neither substitutes for the other.  
+3. **Exercise (the performance).** The active re-pointing: withdrawing trust from a source, **or scrutiny from a target**, and aiming it elsewhere. Exercise names *movement, not virtue* — misaligned minds often exercise intensely and go nowhere, since motion without a heading only circulates. The **Ignition Test** is Exercise performed on the scrutiny axis; withdrawing trust from a demagogue is Exercise on the trust axis.
+
+    *The ship makes the three concrete: Standing Capacity is the rudder and sails, Exercise is what the ship does in the water, and Availability is what connects both to the Star — requiring that a hand can reach the helm **and** that the sky is legible. Lose either and the ship cannot navigate, however sound its rigging and however willing its crew. (Host: [Eight-Cell Phenomenology](../four_quadrant_eight_cell_framework/Eight_Cell_Phenomenology.md), which works the diagnostic out per cell.)*
 
 **The Gradient of Correctability:** The tiering of how systems respond to reality. It scales from *Static* (a rock) to *Self-Organizing/Dissipative* (a river) to *Correcting-Toward-a-Referent* (a thermostat), culminating in the *Agentic Grade* (revising the referent itself).
 
@@ -160,7 +163,19 @@ The chain runs from most-real to most-representational; naming which link a clai
 
 **Permitting and Committing (The External Action States):** The behavioral counterpart to Gestation and Manifestation, tracking how a mind impacts the external world. Because *I-cells* direct scrutiny inward, they generate no outward friction; they *permit* the external environment to operate unchallenged. (Q1I/Q2I permit through aligned openness and tolerance; Q3I permits misalignment through fearful conformity; Q4I permits through isolated indifference). Because *E-cells* direct scrutiny outward, they generate external friction; they *commit* action upon the world. (Q1E/Q2E commit aligned protection and reform; Q3E commits tribal enforcement; Q4E commits ego-driven exploitation). In short: *I permits, E commits.*
 
-**The Ignition Test:** A diagnostic tool for human partners to monitor their emotional jet fuel. It checks whether anger is safely directed at a systemic pattern of misalignment (Q3 Kindling) or has dangerously locked onto a specific human face (Q4E Ignition/Ad Hominem-izing), risking horizontal warfare.
+**The Vantage Paradox:** Saturation and vacancy are stated relative to the mind's own position, and **they reverse when read from outside.** A **saturated** mind (any I-cell, scrutiny aimed at the self) is maximally present to itself and minimally present to others — *"Earth to Dan"*, the hand waved before a face that has gone somewhere else. A **vacant** mind (any E-cell, scrutiny aimed outward) is the reverse: maximally present to others and minimally present to itself. The Guardian in flow is entirely in the room and no one is home behind the eyes; the Projector mid-attack seems overwhelmingly *there* to the person being attacked and is nowhere at all to themselves.
+
+* The mechanism is simply that attention is finite and pointed somewhere: aiming it inward means it is not aimed outward. What reads as fullness from one vantage reads as absence from the other.
+
+* This resolves a puzzle the framework long noticed without explaining — **absent-mindedness appears in opposite forms**. The Explorer (Q2I) leaves a phone in the refrigerator because the interior is too full for the exterior to register; the Guardian (Q1E) misses a novel circumstance because the interior is too empty for deviation to be detected. These look like two failures. They are one phenomenon seen from opposite ends of one axis.
+
+* Practically, the paradox makes self-location possible without the introspection the framework elsewhere warns against: you need not assess how full your interior *feels*, only **where your attention is currently pointed**. It does not, however, indicate alignment — see the four postures, each of which appears once aligned and once misaligned.  *(Host: [Eight-Cell Phenomenology](../four_quadrant_eight_cell_framework/Eight_Cell_Phenomenology.md).)*
+
+**The Ignition Test:** A diagnostic run when passion is running hot, checking whether aversion has locked onto a **face** rather than a pattern. Two locks are possible and both matter: the **outward** lock, where anger fixes on another person and demands their destruction rather than the correction of what they are doing, and the **inward** lock (Q4I), where it fixes on one's own face and becomes shame, self-loathing, or rumination — attacking one's own essence rather than correcting one's own pattern. In framework terms the test is **Exercise on the scrutiny axis**: withdrawing scrutiny from a target and re-pointing it at the pattern beneath.
+
+* Its **operating window** is the kindling phase, while the heat is building. Once a mind is in full burn the observer may still be running at high intensity — watching the enemy closely — but the referent it would need to re-point *toward* has gone dark. The failure is not that it cannot look; it is that it has lost the star to look by.
+
+* At that stage the test cannot be self-administered, and a **Witness** is required — supplying not merely observation but the missing referent. *Passion supplies urgency, not permission*: the response itself must also pass the Four Tests, at the narrowest scope that answers the harm. *(Host: [The Architecture of Human Passion](../intelligence_architecture/Architecture_of_Human_Passion.md).)*
 
 ---
 
