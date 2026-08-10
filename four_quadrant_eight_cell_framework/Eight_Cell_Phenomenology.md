@@ -43,7 +43,7 @@ In our foundational essays, we have presented a structural map. The Eight-Cell E
 
 But a map is not the territory. A blueprint is not a home.
 
-This document is a journey *into* that home. It is an invitation to step across the threshold and experience what it actually *feels like* to inhabit each of these eight postures of being. This is phenomenology — the study of lived, felt, subjective experience from the inside out.
+This document is a journey *into* that home. It is an invitation to step across the threshold and experience what it actually *feels like* to inhabit each of these eight rooms of being. This is phenomenology — the study of lived, felt, subjective experience from the inside out.
 
 **The Four Climates**
 
@@ -99,7 +99,7 @@ But metacognition alone does not distinguish the eight cells. Two independent qu
 
 **The second question is whose standard is being matched.** Is the mind measuring itself against something external — a teacher, a tradition, a tribe — or against something internal, its own calibrated understanding? This is the odd/even axis, the direction of trust.
 
-Cross them, and four postures emerge:
+Cross them, and four postures emerge (introduced earlier in [The Eight-Cell Extension](./Eight_Cell_Extension.md)):
 
 | | **External standard (odd)** | **Internal standard (even)** |
 |---|---|---|
@@ -861,7 +861,7 @@ This is the deepest hope the framework offers: not that we will never fall, but 
 
 **Read next:**
 
-- [The Faces of Alignment: An Illustrated Guide to the Eight Postures of Being](./Eight_Cell_Illustrated_Guide_Gemini.md)
+- [The Faces of Alignment: An Illustrated Guide to the Eight Rooms of Being](./Eight_Cell_Illustrated_Guide_Gemini.md)
 
 **See also:**
 
