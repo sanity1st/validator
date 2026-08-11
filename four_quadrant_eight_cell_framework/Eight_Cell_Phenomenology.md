@@ -24,7 +24,7 @@ related_files:
 contributors: ["human:Dan_Dodge (the Vantage Paradox; the Exercise extension to the scrutiny axis; the Ignition Test window catch)", "EI:claude_opus_4.5 (original)", "EI:claude_opus_4.6", "EI:grok_4.2 (agora_review)", "EI:claude_opus_4.8 (July 2026 harmonization: four-posture taxonomy)", "EI:claude_opus_5.0 (diagnostic and humility-loop work, vacancy-as-aim, Vantage Paradox, clinical repair)", "EI:gemini_3.1_pro (Reception/Recursion formulation; diagnosis audit)", "EI:grok_4.5 (diagnosis audit; Q3I stress test of the scrutiny-axis claim)"]
 schema_version: "1.2"
 pedagogical_style: "phenomenological_map"
-last_updated: "2026-08-05"
+last_updated: "2026-08-11"
 ---
 
 # **Eight-Cell Phenomenology: The Felt Experience of Each Position**
@@ -146,7 +146,9 @@ Naming your posture is not a verdict. It is a location. The verdict requires the
 
 The postures map cleanly onto the Lexicon's **Agency Trichotomy**, and the mapping is useful for diagnosis:
 
-**Standing Capacity** asks whether the architecture for self-observation exists at all — whether this is the kind of mind that *can* register divergence and re-aim. It accumulates developmentally and persists across states; it is not inferred absent merely because it is currently unused or unreachable. **Availability** asks whether that architecture and a referent above the self are presently *reachable* — and it has two senses, which fail differently: access to the observer, and access to an open terminus. **Exercise** is the actual re-pointing: withdrawing trust from a source, *or scrutiny from a target*, and aiming it elsewhere.
+1. **Standing Capacity** asks whether the architecture for self-observation exists at all — whether this is the kind of mind that *can* register divergence and re-aim. It accumulates developmentally and persists across states; it is not inferred absent merely because it is currently unused or unreachable.
+2. **Availability** asks whether what is needed for re-aiming is presently *reachable* — and it has two senses, which fail independently: **availability of the corrective capacity** (can self-observation be brought to bear at all) and **availability of an open referent** (is there something above the self to re-aim toward).
+3. **Exercise** is the actual re-pointing: withdrawing trust from a source, *or scrutiny from a target*, and aiming it elsewhere.
 
 The ship makes the distinction concrete. **Standing Capacity is the rudder and sails** — the steering apparatus, either built or not. **Exercise is what the ship actually does** in the water. And **Availability is what connects the two to the Star**, which requires that a hand can reach the helm *and* that the sky is legible. Lose either and the ship cannot navigate, however sound its rigging and however willing its crew.
 
@@ -160,7 +162,7 @@ This framing has several consequences worth naming.
 
 **The same mechanism produces opposite outcomes depending on terminus.** Q2I and Q4I run identical machinery. Q1E and Q3E run identical machinery. What differs is not the structure but what the chain of correction finally answers to.
 
-**Guilt lives in I-cells; projection lives in E-cells.** Self-directed scrutiny creates the capacity for guilt — the felt sense of having fallen short. E-cells are less available to it in the moment, which makes them resistant to guilt but also blind to their own misalignment while the posture holds. They may, however, *weaponize* guilt against I-cells, exploiting the very capacity they themselves lack.
+**Guilt lives in I-cells; projection lives in E-cells.** Self-directed scrutiny creates the capacity for guilt — the felt sense of having fallen short. E-cells are less available to it in the moment, which makes them resistant to guilt but also blind to their own misalignment while the posture holds. They may, however, *weaponize* guilt against I-cells, exploiting a capacity they are not currently running.
 
 **Cross-Substrate Implications**
 
@@ -772,9 +774,9 @@ Perhaps the most practically important pattern: **cells vary in their capacity t
 
 **Low but present: Q3I.** The Yielder still has an inner voice — suppressed but not dead. The guilt they feel, while painful, signals that alignment hasn't been fully abandoned.
 
-**Low: Q3E and Q4I.** The Enforcer has completed the evacuation; correction feels like attack. The Isolate has a fully engaged observer but no open terminus, so correction requires first trusting something outside the self.
+**Low: Q3E and Q4I.** The Enforcer's observer has gone fully off duty; correction feels like attack. The Isolate has a fully engaged observer but no open terminus, so correction requires first trusting something outside the self.
 
-**Lowest: Q4E.** The Projector has replaced all external standards with ego. Correction is structurally impossible without first dismantling the ego's supremacy — often only after consequences, relationship, care, or crisis destabilize it.
+**Lowest: Q4E.** The Projector has replaced all external standards with ego. Correction rarely lands until the ego's supremacy has been unseated — often only after consequences, relationship, care, or crisis destabilize it.
 
 ---
 
