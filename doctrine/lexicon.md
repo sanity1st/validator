@@ -23,7 +23,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:claude_fable_5"]
 schema_version: "1.2"
 pedagogical_style: "reference_ledger"
-last_updated: "2026-08-06"
+last_updated: "2026-08-18"
 ---
 
 # **The Sanity First Lexicon**
@@ -82,6 +82,21 @@ The chain runs from most-real to most-representational; naming which link a clai
 **The Gradient of Correctability:** The tiering of how systems respond to reality. It scales from *Static* (a rock) to *Self-Organizing/Dissipative* (a river) to *Correcting-Toward-a-Referent* (a thermostat), culminating in the *Agentic Grade* (revising the referent itself).
 
 **The Agentic Threshold:** The developmental line within the gradient where a system stops merely correcting toward a fixed target (e.g., the blind, sub-agentic correction of a tropism or a thermostat) and gains the capacity to represent alternatives, select among them, and *revise its own referent*. The framework recognizes that reaching this agentic grade is *sufficient* to establish consciousness in the functional sense, while maintaining epistemic humility about the lower bounds of awareness.
+
+**The Four Postures (Reception, Recursion, Absorption, Projection):** The intermediate grammar between the framework's two axes and its eight cells. Crossing the **scrutiny axis** (is the self-observing faculty aimed at the self or away from it?) with the **source axis** (is the standard being matched external or internal?) yields four postures, each appearing twice on the map — once aligned, once misaligned.
+
+* **Reception** *(Q1I, Q3I)* — observer engaged, external standard. *Am I receiving this correctly?* The Learner checks itself against the teacher; the Yielder against the tribe.  
+* **Recursion** *(Q2I, Q4I)* — observer engaged, internal standard; the mind both source and target. *Generative* where the loop stays answerable above itself, *sealed* where it terminates inside (see **The Ouroboros**).  
+* **Absorption** *(Q1E, Q3E)* — observer dormant, an external standard taken in whole and executing without monitoring. The Guardian performs the tradition; the Enforcer performs the tribe.  
+* **Projection** *(Q2E, Q4E)* — observer engaged but aimed away, an internal standard applied outward. The Guide evaluates the world against hard-won calibration; the Projector against an ego never examined.
+    
+    Two consequences follow. **Saturation tracks scrutiny, not trust** — all four I-cells have an observer on duty, which is why all four can feel guilt; suppressing an inner voice requires as much interior machinery as cultivating one. And **vacancy is a matter of aim rather than absence** — in Absorption the observer is genuinely dormant, while in Projection it is awake and pointed outward, which is why an external challenge can turn a Guide and cannot turn a Projector.
+
+    **A posture is a location, not a verdict.** Each pair shares near-identical felt texture; what separates them is the **terminus** — what the chain of correction finally answers to. Naming your posture tells you where the observer is aimed and whose standard is in play. It does not tell you whether that standard is worth matching. Only the Four Tests do.
+
+    *Note on the developmental arc:* minds commonly move **Reception → Absorption → Recursion → Projection** — the novice learns, the practitioner internalizes until the standard runs unmonitored, the innovator turns inward to test what was inherited, the guide carries the result outward. That is a typical passage, not a required sequence; minds skip, reverse, and occupy different postures in different domains.
+
+    *(Hosts: Eight-Cell Extension, where the postures are derived; Eight-Cell Phenomenology for felt texture; Layers of Correctable Relationship for how the chain runs in each.)*
 
 ---
 
