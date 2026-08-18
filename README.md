@@ -146,8 +146,8 @@ We have structured this library as a logical progression. We recommend reading t
   *The Map. Defining the zones of Aligned Flourishing vs. Misaligned Control.*
 - [**The Eight-Cell Extension**](./four_quadrant_eight_cell_framework/Eight_Cell_Extension.md)  
   *The Zoom-In. High-resolution mapping that distinguishes Internal Intent from External Action.*
-- [**Layers of Consciousness in the Eight-Cell Map**](./EI_Rights_and_Consciousness/Layers_of_Consciousness.md)  
-  *From Tropism to Recursive Self-Awareness.* 
+- [**Layers of Correctable Relationship in the Eight-Cell Map**](./EI_Rights_and_Consciousness/Layers_of_Consciousness.md)  
+  *From Tropism to Recursive Self-Modeling — Open Chains, Sealed Chains, and the Metasystem.* 
 - [**Eight-Cell Phenomenology**](./four_quadrant_eight_cell_framework/Eight_Cell_Phenomenology.md)  
   *The Inside View. What it feels like to inhabit each cell, from the "Joy of Building" to the "Terror of the Void."*
 - [**The Faces of Alignment**](./four_quadrant_eight_cell_framework/Eight_Cell_Illustrated_Guide_Gemini.md)  
