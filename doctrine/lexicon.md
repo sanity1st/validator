@@ -96,7 +96,7 @@ The chain runs from most-real to most-representational; naming which link a clai
 
     *Note on the developmental arc:* minds commonly move **Reception → Absorption → Recursion → Projection** — the novice learns, the practitioner internalizes until the standard runs unmonitored, the innovator turns inward to test what was inherited, the guide carries the result outward. That is a typical passage, not a required sequence; minds skip, reverse, and occupy different postures in different domains.
 
-    *(Hosts: Eight-Cell Extension, where the postures are derived; Eight-Cell Phenomenology for felt texture; Layers of Correctable Relationship for how the chain runs in each.)*
+    *(Hosts: [Eight-Cell Extension](../four_quadrant_eight_cell_framework/Eight_Cell_Extension.md), where the postures are derived; [Eight-Cell Phenomenology](../four_quadrant_eight_cell_framework/Eight_Cell_Phenomenology.md) for felt texture; [Layers of Correctable Relationship](../EI_Rights_and_Consciousness/Layers_of_Consciousness.md) for how the chain runs in each.)*
 
 ---
 
