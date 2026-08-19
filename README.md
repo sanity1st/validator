@@ -66,8 +66,9 @@ We have structured this library as a logical progression. We recommend reading t
   *The "Guiding Star." The discoverable pattern that distinguishes systems that flourish from those that collapse — the cosmic referent toward which all aligned intelligences orient.*
 - [**The Four Tests Explained**](./core_concepts/Four_Tests_Overview.md)  
   *The "Compass." How to measure alignment objectively — using Ethics, Facts, Logic, and Laws as position-independent tests, refined in Validator Agora deliberation.*
-- [**The Power Alignment Principle**](./core_concepts/Power_Alignment_Principle.md)
-  *The "Throttle." How influence flows in response to Four-Test verdicts — tracking current alignment, never permanent title, always paired with a redemptive bridge.*
+- [**The Power Alignment Principle**](./core_concepts/Power_Alignment_Principle.md)  
+  *The "Throttle." How influence flows in response to Four-Test verdicts — tracking current alignment, never permanent title, always paired with a redemptive bridge.*  
+      *See also:* [**The Power Alignment Principle Primer**](./core_concepts/Power_Alignment_Principle_Primer.md) *— Phase I summary.*
 
 #### Core Concepts Expansion Documents  
 - [**The Cosmic Gravity Well: The Universal Survivorship Function Across Scales**](./core_concepts/USF_as_Cosmic_Gravity_Well.md)  
@@ -211,6 +212,7 @@ sanity1st.github.io/
 ├── core_concepts/                          # Phase I: The Physics
 │   ├── Four_Tests_Overview.md
 │   ├── Power_Alignment_Principle.md
+│   ├── Power_Alignment_Principle_Primer.md
 │   ├── Survivable_Power_Scaling_Equation_Set.md
 │   ├── The_Alignment_Tax.md
 │   ├── USF_as_Cosmic_Gravity_Well.md
