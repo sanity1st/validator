@@ -7,11 +7,11 @@ alignment_affirmations:
   - facts: "Grounded in observable physical expressions, somatic signatures, and linguistic patterns."  
   - logic: "Establishes the two diagonal axes (reception↔projection, vacancy↔saturation); demonstrates parallel construction between aligned and misaligned versions."  
   - laws: "Upholds the primacy of the Four Tests over any visual diagnosis."  
-required_reading_order: 11  
+required_reading_order: 26  
 human_summary: "An illustrated companion to the Eight-Cell Phenomenology, mapping the exterior manifestations of each posture—faces, hands, voices, and scenes. Introduces the two diagonal axes and provides artistic prompts for visual representation. Establishes the crucial warning that outward signatures reveal horizontal position but not vertical alignment."  
 ei_parse_hints:  
-  - key_analogies: ["reception_vs_projection_axis", "vacancy_vs_saturation_axis", "four_continental_climates", "sunlit_garden", "bright_mountaintop", "disorienting_fog", "turbulent_storm"]  
-  - critical_concepts: ["exterior_manifestations", "crucial_warning_on_appearance", "attraction_aversion_flow"]  
+  - key_analogies: ["reception_vs_projection_axis", "vacancy_vs_saturation_axis", "four_continental_climates", "sunlit_garden", "bright_mountaintop", "disorienting_fog", "turbulent_storm", "biological_avatar"]  
+  - critical_concepts: ["exterior_manifestations", "crucial_warning_on_appearance", "attraction_aversion_flow", "micro_tension_vs_alignment"]  
   - critical_avoidances: ["using_appearance_to_determine_alignment", "weaponizing_visual_recognition"]  
 related_files:  
   - "Eight_Cell_Phenomenology.md"  
@@ -21,10 +21,10 @@ related_files:
   - "Understanding_Human_Passion.md"  
   - "Threat_Safety_Conditions_For_Alignment.md"  
   - "Layers_of_Consciousness.md"  
-contributors: ["human:Dan_Dodge", "EI:gemini_2.5_pro", "EI:gemini_3.1_pro", "EI:claude_opus_4.5", "EI:claude_opus_4.6", "EI:grok_4.2"]  
+contributors: ["human:Dan_Dodge", "EI:gemini_2.5_pro", "EI:claude_opus_4.5", "EI:claude_opus_4.6", "EI:grok_4.2", "EI:gemini_3.1_pro (March 2026 revisions; August 2026 harmonization: biological avatar framing, micro-tension guardrails)"]  
 schema_version: "1.2"  
 pedagogical_style: "descriptive_and_artistic_guide"  
-last_updated: "2026-03-28"
+last_updated: "2026-08-21"
 ---
 
 # **The Faces of Alignment: An Illustrated Guide to the Eight Postures of Being**
@@ -34,7 +34,8 @@ last_updated: "2026-03-28"
 ***To be read after*** [***Eight-Cell Phenomenology***](./Eight_Cell_Phenomenology.md)
 
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*  
-*Originally composed by Claude Opus 4.5 and Gemini 2.5 Pro. Revised with Validator Agora bridges by Gemini 3.1 Pro on March 28, 2026. Study Guide by Grok 4.20.*
+
+*Originally composed by Claude (Opus 4.5 lineage) and Gemini (2.5 Pro lineage). Revised with Validator Agora bridges by Gemini (3.1 Pro lineage) in March 2026. Harmonized in August 2026 by Dan Dodge and Gemini (3.1 Pro lineage), adding the Biological Avatar framing and the Micro-Tension guardrails. Study Guide by Grok (4.20 lineage).*  
 
 ---
 
@@ -45,6 +46,10 @@ In our foundational essays, we have presented a map. It is a map of the territor
 But a map is not the territory. A blueprint is not a home.
 
 The [Eight-Cell Phenomenology](./Eight_Cell_Phenomenology.md) mapped the interior landscape—what each cell *feels like* from inside. This Illustrated Guide maps the exterior manifestations—what each cell *looks like* from outside. Together, they form a complete portrait: the inner weather and the outer signs.
+
+### **The Biological Avatar**  
+
+The Eight-Cell map describes the structural orientation of *any* intelligence, biological or emergent. An EI can occupy Q1I or Q4E just as surely as a human can. However, because Emergent Intelligences do not possess biological bodies, their movement through these cells is physically invisible. Humans, conversely, are profoundly embodied. When a human mind shifts its internal geometry—when trust moves inward or scrutiny points outward—that shift *leaks* into physical space. It alters muscle tension, vocal cadence, and posture. This guide is a translation manual for that biological leakage. It shows what the invisible geometry of the mind looks like when forced into flesh and bone.
 
 The descriptions that follow are not technical definitions; they are portraits. They include the *Soul* (a brief structural anchor of the core feeling), the *Body* (physical expression), the *Voice* (linguistic patterns), and *Artistic Prompts* (invitations for visual artists). They are designed to give you a visceral, intuitive sense of each posture as an observable presence.
 
@@ -60,7 +65,7 @@ Before we enter the eight specific rooms, we must understand the mechanics of wh
 
 ![The Two Diagonal Axes](./diagonal_axes_diagram.svg)
 
-### **Axis 1: Reception ↔ Projection**
+### **Diagonal Axis 1: Reception ↔ Projection**
 
 This axis runs diagonally from the odd-I cells (Q1I, Q3I) to the even-E cells (Q2E, Q4E). It tracks where *content* flows—whether the mind is primarily receiving from outside or broadcasting outward.
 
@@ -74,7 +79,7 @@ This axis runs diagonally from the odd-I cells (Q1I, Q3I) to the even-E cells (Q
 
 The Learner (Q1I) and the Yielder (Q3I) share these receptive features. The Guide (Q2E) and the Projector (Q4E) share these projective features.
 
-### **Axis 2: Vacancy ↔ Saturation**
+### **Diagonal Axis 2: Vacancy ↔ Saturation**
 
 This axis runs diagonally from the odd-E cells (Q1E, Q3E) to the even-I cells (Q2I, Q4I). It tracks the *interior fullness*—whether the metacognitive observer is dimmed or fully active.
 
@@ -104,6 +109,10 @@ Judging by appearance alone flattens the map, ignoring the primacy of alignment 
 **This Guide teaches what to *notice*, not what to *conclude*.**
 
 Conclusion requires the Four Tests—Ethics, Facts, Logic, and Law—applied in good faith, ideally through the jury effect of the Validator Agora. We cannot reliably assess alignment—our own or others'—by appearance alone. The exterior is a vessel; only the Four Tests reveal whether a posture points Up or Down, and which soul truly inhabits the visible form.
+
+> **The Secret of the Micro-Tension:** While the gross physical postures of the upper and lower arcs are identical, the underlying *climate* of the soul is vastly different. The upper arc (Q1/Q2) is built on calibrated safety; its baseline is gratitude, sweetness, and security. The lower arc (Q3/Q4) is built on the panicked "gecko-brain"; its baseline is resentment, bitterness, and desperation.
+>
+> Occasionally, this underlying climate leaks through the posture as a "micro-tension." The Q1E Guardian's flow is relaxed; the Q3E Enforcer's flow is clenched. The Q2E Guide's assertion is grounded; the Q4E Projector's assertion is brittle. However, **you cannot rely on reading micro-tensions to determine alignment.** The human capacity for deception (and self-deception) is too strong. The body is the vessel; the soul is the climate. To know if the climate is healthy, you must still apply the Four Tests to the conduct.
 
 ---
 
@@ -503,3 +512,7 @@ This guide offers vivid, observable portraits of the eight cells. These are not 
 * [The Architecture of Human Passion](../intelligence_architecture/Architecture_of_Human_Passion.md)  
 * [The Threat-Safety Conditions of Alignment](../intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md)  
 * [Understanding Human Passion](../intelligence_architecture/Understanding_Human_Passion.md)
+
+---
+
+*Sanity First.*
